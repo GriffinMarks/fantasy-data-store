@@ -3,38 +3,25 @@ name: sleeper-publisher
 on:
   workflow_dispatch:
     inputs:
-      season:
-        description: "Season"
-        required: true
-        default: "2025"
-      week:
-        description: "Week (1-18)"
-        required: true
-        default: "6"
-      lookback_hours:
-        description: "Trending lookback hours"
-        required: true
-        default: "24"
-
+      season: { description: "Season", required: true, default: "2025" }
+      week:   { description: "Week (1-18)", required: true, default: "6" }
+      lookback_hours: { description: "Trending lookback hours", required: true, default: "24" }
+      news_feeds: { description: "CSV of RSS feeds", required: false, default: "https://www.espn.com/espn/rss/nfl/news,https://www.rotowire.com/rss/football.php" }
   schedule:
-    - cron: "0 * * * *"   # hourly, optional
+    - cron: "0 * * * *"
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    permissions: { contents: write }
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
+        with: { python-version: "3.11" }
       - run: pip install -r requirements.txt
 
-      - name: Build JSON from Sleeper
+      # Existing weekly league data (rosters, standings, matchups, transactions week, trending, available, injuries)
+      - name: Weekly league publish (baseline)
         env:
           SLEEPER_LEAGUE_ID: "1262790170931892224"
           SEASON: ${{ inputs.season }}
@@ -43,10 +30,46 @@ jobs:
           TRENDING_LIMIT: "100"
         run: python scripts/sleeper_publish.py
 
-      - name: Commit & push data
+      # NEW: player stats + usage + SOS
+      - name: Build stats, usage, SOS
+        env:
+          SLEEPER_LEAGUE_ID: "1262790170931892224"
+          SEASON: ${{ inputs.season }}
+          WEEK: ${{ inputs.week }}
+        run: python scripts/build_stats_and_usage.py
+
+      # NEW: full-season transactions (weeks 1..18)
+      - name: Build full season transactions
+        env:
+          SLEEPER_LEAGUE_ID: "1262790170931892224"
+          SEASON: ${{ inputs.season }}
+          MAX_WEEK: "18"
+        run: python scripts/transactions_history.py
+
+      # NEW: news RSS
+      - name: Fetch news
+        env:
+          NEWS_FEEDS: ${{ inputs.news_feeds }}
+        run: python scripts/news_fetch.py
+
+      # OPTIONAL: projections importer (if you upload a CSV to data/inbox/)
+      - name: Import projections CSV (optional)
+        env:
+          SEASON: ${{ inputs.season }}
+        run: python scripts/projections_import.py || true
+
+      # OPTIONAL: trade values (needs season_to_date stats built)
+      - name: Build trade values (basic)
+        env:
+          SEASON: ${{ inputs.season }}
+        run: python scripts/trade_values.py
+
+      - name: Commit & push all data
         run: |
           git config user.name "data-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -A
-          git commit -m "publish season ${SEASON:-${{ inputs.season }}} week ${WEEK:-${{ inputs.week }}} data" || echo "no changes"
+          git commit -m "publish season ${{
+            inputs.season }} week ${{ inputs.week }} (stats/usage/sos/news/tx history/value)" || echo "no changes"
           git push
+
