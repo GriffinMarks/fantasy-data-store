@@ -17,6 +17,8 @@ OUT.mkdir(parents=True, exist_ok=True); CACHE.mkdir(parents=True, exist_ok=True)
 
 def now_utc():
     return dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+def now_iso():
+    return now_utc()
 
 def http_get(url: str, params: Dict[str, Any] = None, default=None):
     try:
