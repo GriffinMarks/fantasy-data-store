@@ -20,6 +20,13 @@ def now_utc():
 def now_iso():
     return now_utc()
 
+def write_json(relpath: str, payload: dict):
+    p = OUT / relpath
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"WROTE {p}")
+
+
 def http_get(url: str, params: Dict[str, Any] = None, default=None):
     try:
         r = requests.get(url, params=params, timeout=60)
