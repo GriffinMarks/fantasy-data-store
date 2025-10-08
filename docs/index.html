@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fantasy Data Viewer</title>
+  <style>
+    :root{
+      --bg:#0f1222; --card:#171a2b; --muted:#9aa3b2; --text:#e8ecf1; --accent:#6ea8fe; --good:#50c878; --bad:#ff6b6b;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; background:var(--bg); color:var(--text)}
+    header{padding:20px; border-bottom:1px solid #22263d; position:sticky; top:0; z-index:20; background:linear-gradient(180deg, rgba(15,18,34,.98), rgba(15,18,34,.92)); backdrop-filter: blur(8px)}
+    h1{margin:0; font-size:22px}
+    .muted{color:var(--muted)}
+    .container{max-width:1200px; margin:0 auto; padding:20px}
+    .controls{display:grid; grid-template-columns: repeat(6, minmax(0,1fr)); gap:12px; margin-top:12px}
+    .card{background:var(--card); border:1px solid #232843; border-radius:16px; padding:16px; box-shadow:0 2px 12px rgba(0,0,0,.25)}
+    .grid{display:grid; gap:16px}
+    .grid.cols-2{grid-template-columns: repeat(2, minmax(0,1fr))}
+    .grid.cols-3{grid-template-columns: repeat(3, minmax(0,1fr))}
+    .grid.cols-4{grid-template-columns: repeat(4, minmax(0,1fr))}
+    label{font-size:12px; color:var(--muted); display:block; margin-bottom:6px}
+    input, select, button{width:100%; padding:10px 12px; border-radius:10px; border:1px solid #2a3157; background:#0d1020; color:var(--text)}
+    button{cursor:pointer; background:linear-gradient(180deg,#3b82f6,#2563eb); border:none; font-weight:600}
+    button.secondary{background:#0d1020; border:1px solid #2a3157}
+    section{margin-top:24px}
+    .section-title{display:flex; align-items:center; justify-content:space-between; margin-bottom:8px}
+    .section-title h2{margin:0; font-size:18px}
+    table{width:100%; border-collapse:collapse}
+    th,td{padding:10px 8px; border-bottom:1px solid #232843; text-align:left; font-size:14px}
+    th{color:#a7b3cb; font-weight:600}
+    tr:hover td{background:#131731}
+    .pill{display:inline-block; padding:3px 8px; border-radius:999px; font-size:12px; background:#10142a; border:1px solid #2a3157}
+    .row{display:flex; gap:12px; align-items:center}
+    .error{color:#ffb4b4}
+    a{color:var(--accent); text-decoration:none}
+    .nowrap{white-space:nowrap}
+    .small{font-size:12px}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="row" style="justify-content:space-between; align-items:center">
+        <h1>Fantasy Data Viewer <span class="muted small">— GitHub JSON</span></h1>
+        <div class="muted small">Tip: set your GitHub username/repo below and click Load</div>
+      </div>
+      <div class="controls">
+        <div>
+          <label>GitHub Username</label>
+          <input id="ghUser" placeholder="your-username" />
+        </div>
+        <div>
+          <label>Repository</label>
+          <input id="ghRepo" placeholder="fantasy-data-store" />
+        </div>
+        <div>
+          <label>Season</label>
+          <input id="season" type="number" step="1" min="2000" max="2100" />
+        </div>
+        <div>
+          <label>Week</label>
+          <input id="week" type="number" step="1" min="1" max="18" />
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <button id="loadBtn">Load data</button>
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <button class="secondary" id="loadLatest">Use latest from meta.json</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <div class="section-title"><h2>Meta</h2><span id="metaStatus" class="muted small"></span></div>
+      <div id="metaOut" class="small"></div>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="card">
+        <div class="section-title"><h2>Standings</h2><span id="standingsStatus" class="muted small"></span></div>
+        <div id="standings"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Rosters (summary)</h2><span id="rostersStatus" class="muted small"></span></div>
+        <div id="rosters"></div>
+      </div>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="card">
+        <div class="section-title"><h2>Matchups — Week <span id="wkA"></span></h2><span id="matchupsStatus" class="muted small"></span></div>
+        <div id="matchups"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Transactions — Week <span id="wkB"></span></h2><span id="txStatus" class="muted small"></span></div>
+        <div id="transactions"></div>
+      </div>
+    </section>
+
+    <section class="grid cols-3">
+      <div class="card">
+        <div class="section-title"><h2>Available — Week <span id="wkC"></span></h2><span id="availStatus" class="muted small"></span></div>
+        <div id="available"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Injuries — Week <span id="wkD"></span></h2><span id="injStatus" class="muted small"></span></div>
+        <div id="injuries"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Trending (adds/drops)</h2><span id="trendStatus" class="muted small"></span></div>
+        <div id="trending"></div>
+      </div>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="card">
+        <div class="section-title"><h2>Player Stats — Season to Date</h2><span id="s2dStatus" class="muted small"></span></div>
+        <div id="s2d"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Usage — Week <span id="wkE"></span></h2><span id="usageStatus" class="muted small"></span></div>
+        <div id="usage"></div>
+      </div>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="card">
+        <div class="section-title"><h2>SOS (Defense vs Position)</h2><span id="sosStatus" class="muted small"></span></div>
+        <div id="sos"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h2>Value Chart</h2><span id="valStatus" class="muted small"></span></div>
+        <div id="values"></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-title"><h2>News</h2><span id="newsStatus" class="muted small"></span></div>
+      <div id="news"></div>
+    </section>
+
+  </main>
+
+  <script>
+  // ---- Configuration (edit in UI) ----
+  const els = id => document.getElementById(id);
+  const ghUserEl = els('ghUser');
+  const ghRepoEl = els('ghRepo');
+  const seasonEl = els('season');
+  const weekEl = els('week');
+
+  // Try to infer from URL hash (?user=..&repo=..)
+  const q = new URLSearchParams(location.search);
+  ghUserEl.value = q.get('user') || '';
+  ghRepoEl.value = q.get('repo') || 'fantasy-data-store';
+  seasonEl.value = q.get('season') || '';
+  weekEl.value = q.get('week') || '';
+
+  function zp(n){ n = parseInt(n,10); return n<10 ? '0'+n : String(n); }
+  function rawUrl(user, repo, path){ return `https://raw.githubusercontent.com/${user}/${repo}/main/data/${path}`; }
+
+  async function getJSON(url){
+    try{
+      const r = await fetch(url, {cache:'no-store'});
+      if(!r.ok) throw new Error(r.status+" "+r.statusText);
+      return await r.json();
+    }catch(e){ return { __error: e.message, __url: url } }
+  }
+
+  function setStatus(id, text){ const el = els(id); if(el) el.textContent = text||''; }
+  function renderTable(id, headers, rows){
+    const root = els(id); if(!root) return;
+    if(!rows || rows.length===0){ root.innerHTML = '<div class="muted">No data.</div>'; return; }
+    let thead = '<thead><tr>'+headers.map(h=>`<th>${h}</th>`).join('')+'</tr></thead>';
+    let tbody = '<tbody>'+rows.map(r=>'<tr>'+r.map(c=>`<td>${c}</td>`).join('')+'</tr>').join('')+'</tbody>';
+    root.innerHTML = `<div style="overflow:auto"><table>${thead}${tbody}</table></div>`;
+  }
+
+  async function loadLatest(){
+    const user = ghUserEl.value.trim();
+    const repo = ghRepoEl.value.trim();
+    if(!user||!repo){ alert('Enter GitHub username and repo'); return; }
+    const meta = await getJSON(rawUrl(user, repo, 'meta.json'));
+    if(meta.__error){ setStatus('metaStatus', 'Error'); els('metaOut').innerHTML = `<div class="error">${meta.__error}</div>`; return; }
+    seasonEl.value = meta.season || new Date().getFullYear();
+    weekEl.value = meta.latest_week || 1;
+    els('metaOut').textContent = JSON.stringify(meta, null, 2);
+    await loadAll();
+  }
+
+  async function loadAll(){
+    const user = ghUserEl.value.trim();
+    const repo = ghRepoEl.value.trim();
+    const season = seasonEl.value.trim();
+    const week = weekEl.value.trim();
+    if(!user||!repo||!season||!week){ alert('Fill user, repo, season, week'); return; }
+
+    els('wkA').textContent = zp(week);
+    els('wkB').textContent = zp(week);
+    els('wkC').textContent = zp(week);
+    els('wkD').textContent = zp(week);
+    els('wkE').textContent = zp(week);
+
+    // Meta
+    const metaP = getJSON(rawUrl(user, repo, 'meta.json')).then(d=>{ els('metaOut').textContent = JSON.stringify(d, null, 2); setStatus('metaStatus', d.__error? 'Error' : 'Loaded'); });
+
+    // Standings
+    const standingsP = getJSON(rawUrl(user, repo, `standings/${season}.json`)).then(d=>{
+      if(d.__error){ setStatus('standingsStatus','Error'); els('standings').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.standings||[]).map(r=>[
+        r.team_name||r.owner||'-',
+        r.owner||'-',
+        r.wins??'-', r.losses??'-', r.ties??'-',
+        (r.win_pct!=null? (r.win_pct*100).toFixed(1)+'%':'-'),
+        r.points_for??'-'
+      ]);
+      renderTable('standings', ['Team','Owner','W','L','T','Win %','PF'], rows);
+      setStatus('standingsStatus', `Teams: ${rows.length}`);
+    });
+
+    // Rosters
+    const rostersP = getJSON(rawUrl(user, repo, `rosters/${season}.json`)).then(d=>{
+      if(d.__error){ setStatus('rostersStatus','Error'); els('rosters').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.rosters||[]).map(r=>[
+        r.team_name||r.owner||'-',
+        `<span class='pill'>Starters: ${r.starters?.length||0}</span>`+
+        ` <span class='pill'>Bench: ${r.bench?.length||0}</span>`
+      ]);
+      renderTable('rosters', ['Team','Counts'], rows);
+      setStatus('rostersStatus', `Rosters: ${rows.length}`);
+    });
+
+    // Matchups
+    const matchupsP = getJSON(rawUrl(user, repo, `matchups/${season}/week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('matchupsStatus','Error'); els('matchups').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.games||[]).flatMap(g=>{
+        const a = g.teams?.[0]; const b = g.teams?.[1];
+        return [[ g.matchup_id ?? '-', a?.owner||'-', a?.points??'-', b?.owner||'-', b?.points??'-' ]];
+      });
+      renderTable('matchups', ['Matchup','Team A','Pts','Team B','Pts'], rows);
+      setStatus('matchupsStatus', `Games: ${rows.length}`);
+    });
+
+    // Transactions
+    const txP = getJSON(rawUrl(user, repo, `transactions/${season}/week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('txStatus','Error'); els('transactions').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.moves||[]).slice(0,100).map(m=>[
+        m.type||'-', new Date((m.created||m.status_updated||0)).toLocaleString()||'-',
+        (m.adds? Object.keys(m.adds).length:0) + ' adds',
+        (m.drops? Object.keys(m.drops).length:0) + ' drops'
+      ]);
+      renderTable('transactions', ['Type','When','Adds','Drops'], rows);
+      setStatus('txStatus', `Moves: ${d.moves?.length||0}`);
+    });
+
+    // Available
+    const availP = getJSON(rawUrl(user, repo, `available/${season}/week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('availStatus','Error'); els('available').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.players||[]).slice(0,50).map(p=>[p.full_name||'-', p.team||'-', p.position||'-']);
+      renderTable('available', ['Player','Team','Pos'], rows);
+      setStatus('availStatus', `Players: ${d.count||rows.length}`);
+    });
+
+    // Injuries
+    const injP = getJSON(rawUrl(user, repo, `injuries/${season}/week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('injStatus','Error'); els('injuries').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.players||[]).map(p=>[p.full_name||'-', p.team||'-', p.position||'-', p.injury_status||'-', p.injury_body_part||'-']);
+      renderTable('injuries', ['Player','Team','Pos','Status','Body Part'], rows);
+      setStatus('injStatus', `Injured: ${rows.length}`);
+    });
+
+    // Trending (date-stamped file: try today then fall back yesterday)
+    const today = new Date();
+    const ymd = today.toISOString().slice(0,10);
+    const yest = new Date(Date.now()-86400000).toISOString().slice(0,10);
+    const trendP = getJSON(rawUrl(user, repo, `trending/${ymd}.json`)).then(d=>{
+      if(d.__error) return getJSON(rawUrl(user, repo, `trending/${yest}.json`));
+      return d;
+    }).then(d=>{
+      if(d.__error){ setStatus('trendStatus','Missing'); els('trending').innerHTML = `<div class='muted'>No trending file for today.</div>`; return; }
+      const adds = (d.adds||[]).slice(0,30).map(x=>[x.player_id||'-', x.count||'-']);
+      const drops= (d.drops||[]).slice(0,30).map(x=>[x.player_id||'-', x.count||'-']);
+      const html = `<div class='grid cols-2'>
+        <div><div class='muted small'>Adds (top 30)</div>${tableHtml(['Player ID','Count'], adds)}</div>
+        <div><div class='muted small'>Drops (top 30)</div>${tableHtml(['Player ID','Count'], drops)}</div>
+      </div>`;
+      els('trending').innerHTML = html;
+      setStatus('trendStatus', `Adds: ${d.adds?.length||0} • Drops: ${d.drops?.length||0}`);
+    });
+
+    // Season-to-date stats
+    const s2dP = getJSON(rawUrl(user, repo, `player_stats/${season}/season_to_date.json`)).then(d=>{
+      if(d.__error){ setStatus('s2dStatus','Error'); els('s2d').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.players||[]).slice(0,50).map(p=>[p.name||'-', p.pos||'-', p.ppg?.toFixed? p.ppg.toFixed(2):p.ppg, p.tgt_pg||'-', p.rush_att_pg||'-']);
+      renderTable('s2d', ['Player','Pos','PPG','Targets/g','Carries/g'], rows);
+      setStatus('s2dStatus', `Players: ${d.players?.length||0}`);
+    });
+
+    // Usage (this week)
+    const usageP = getJSON(rawUrl(user, repo, `usage/${season}/week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('usageStatus','Error'); els('usage').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.players||[])
+        .sort((a,b)=>(b.target_share||0)-(a.target_share||0))
+        .slice(0,50)
+        .map(p=>[p.name||'-', p.team||'-', p.pos||'-', (p.target_share||0)+"%", (p.carry_share||0)+"%" ]);
+      renderTable('usage', ['Player','Team','Pos','Target%','Carry%'], rows);
+      setStatus('usageStatus', `Players: ${d.players?.length||0}`);
+    });
+
+    // SOS
+    const sosP = getJSON(rawUrl(user, repo, `sos/${season}/through_week_${zp(week)}.json`)).then(d=>{
+      if(d.__error){ setStatus('sosStatus','Error'); els('sos').innerHTML = `<div class='error'>${d.__error}</div>`; return; }
+      const rows = (d.defense_vs_pos||[]).filter(x=>x.pos==='WR').slice(0,20).map(x=>[x.def_team, x.pos, x.pts_allowed_pg]);
+      renderTable('sos', ['Defense','Pos','Pts Allowed / g'], rows);
+      setStatus('sosStatus', `Rows: ${d.defense_vs_pos?.length||0}`);
+    });
+
+    // Value chart
+    const valP = getJSON(rawUrl(user, repo, `value/${season}/${ymd}.json`)).then(d=>{
+      if(d.__error) return getJSON(rawUrl(user, repo, `value/${season}/${yest}.json`));
+      return d;
+    }).then(d=>{
+      if(d.__error){ setStatus('valStatus','Missing'); els('values').innerHTML = `<div class='muted'>No value file yet.</div>`; return; }
+      const rows = (d.values||[]).slice(0,50).map(v=>[v.name||'-', v.pos||'-', v.ppg||'-', v.value||'-']);
+      renderTable('values', ['Player','Pos','PPG','Value'], rows);
+      setStatus('valStatus', `Players: ${d.values?.length||0}`);
+    });
+
+    // News
+    const newsP = getJSON(rawUrl(user, repo, `news/${ymd}.json`)).then(d=>{
+      if(d.__error) return getJSON(rawUrl(user, repo, `news/${yest}.json`));
+      return d;
+    }).then(d=>{
+      if(d.__error){ setStatus('newsStatus','Missing'); els('news').innerHTML = `<div class='muted'>No news file yet.</div>`; return; }
+      const items = (d.articles||[]).slice(0,40).map(a=>`<li><a href='${a.link}' target='_blank' rel='noreferrer'>${escapeHtml(a.title||'')}</a> <span class='muted small'>${escapeHtml(a.published||'')}</span></li>`).join('');
+      els('news').innerHTML = `<ul>${items}</ul>`;
+      setStatus('newsStatus', `Articles: ${d.articles?.length||0}`);
+    });
+
+    await Promise.all([metaP, standingsP, rostersP, matchupsP, txP, availP, injP, trendP, s2dP, usageP, sosP, valP, newsP]);
+  }
+
+  function tableHtml(headers, rows){
+    let thead = '<thead><tr>'+headers.map(h=>`<th>${h}</th>`).join('')+'</tr></thead>';
+    let tbody = '<tbody>'+rows.map(r=>'<tr>'+r.map(c=>`<td>${c}</td>`).join('')+'</tr>').join('')+'</tbody>';
+    return `<div style="overflow:auto"><table>${thead}${tbody}</table></div>`
+  }
+  function escapeHtml(s){ return String(s).replace(/[&<>\"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c])); }
+
+  els('loadBtn').addEventListener('click', loadAll);
+  els('loadLatest').addEventListener('click', loadLatest);
+  </script>
+</body>
+</html>
