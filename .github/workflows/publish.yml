@@ -21,14 +21,15 @@ jobs:
       - run: pip install -r requirements.txt
 
       # Existing weekly league data (rosters, standings, matchups, transactions week, trending, available, injuries)
-      - name: Weekly league publish (baseline)
-        env:
-          SLEEPER_LEAGUE_ID: "1262790170931892224"
-          SEASON: ${{ inputs.season }}
-          WEEK: ${{ inputs.week }}
-          TRENDING_LOOKBACK_H: ${{ inputs.lookback_hours }}
-          TRENDING_LIMIT: "100"
-        run: python scripts/sleeper_publish.py
+- name: Weekly league publish (baseline)
+  env:
+    SLEEPER_LEAGUE_ID: "1262790170931892224"
+    SEASON: ${{ inputs.season != '' && inputs.season || '2025' }}
+    WEEK:   ${{ inputs.week   != '' && inputs.week   || '6' }}
+    TRENDING_LOOKBACK_H: ${{ inputs.lookback_hours != '' && inputs.lookback_hours || '24' }}
+    TRENDING_LIMIT: "100"
+  run: python scripts/sleeper_publish.py
+
 
       # NEW: player stats + usage + SOS
       - name: Build stats, usage, SOS
