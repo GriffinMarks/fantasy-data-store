@@ -5,8 +5,16 @@ from typing import Dict, Any, List, Tuple
 from collections import defaultdict
 
 LEAGUE_ID = os.getenv("SLEEPER_LEAGUE_ID", "1262790170931892224")
-SEASON    = int(os.getenv("SEASON", "2025"))
-WEEK      = int(os.getenv("WEEK", "6"))
+def env_int(name: str, default: int) -> int:
+    val = os.getenv(name, "")
+    try:
+        return int(val)
+    except Exception:
+        return default
+
+SEASON = env_int("SEASON", 2025)
+WEEK   = env_int("WEEK", 6)
+
 BASE      = "https://api.sleeper.app/v1"
 
 ROOT  = pathlib.Path(__file__).resolve().parent.parent
