@@ -28,13 +28,14 @@ jobs:
     permissions:
       contents: write
 
-    # Put inputs into env so we can easily fall back for scheduled runs
     env:
-      SLEEPER_LEAGUE_ID: "1262790170931892224"
+      # inputs land here (may be empty on schedules)
       SEASON_INPUT: ${{ inputs.season }}
       WEEK_INPUT: ${{ inputs.week }}
       LOOKBACK_INPUT: ${{ inputs.lookback_hours }}
       NEWS_FEEDS_INPUT: ${{ inputs.news_feeds }}
+      # your league
+      SLEEPER_LEAGUE_ID: "1262790170931892224"
 
     steps:
       - uses: actions/checkout@v4
@@ -43,52 +44,44 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ✅ PRE-FLIGHT: figure out effective season/week, and verify Sleeper endpoints
+      # ---- PRE-FLIGHT (simple & robust) ----
       - name: Preflight (env + Sleeper state)
         env:
           LEAGUE: ${{ env.SLEEPER_LEAGUE_ID }}
-          SEASON_INPUT: ${{ env.SEASON_INPUT }}
-          WEEK_INPUT: ${{ env.WEEK_INPUT }}
         run: |
           set -euo pipefail
+          echo "Inputs: season='${SEASON_INPUT:-}', week='${WEEK_INPUT:-}'"
 
-          echo "== Inputs received =="
-          echo "SEASON_INPUT='${SEASON_INPUT}'"
-          echo "WEEK_INPUT='${WEEK_INPUT}'"
+          echo "Fetching Sleeper state..."
+          curl -fsS https://api.sleeper.app/v1/state/nfl -o state.json
 
-          echo "== Querying Sleeper state =="
-          STATE_JSON="$(curl -fsS https://api.sleeper.app/v1/state/nfl)"
-          echo "STATE: ${STATE_JSON}"
-
-          # Parse season/week with Python (avoids needing jq)
-          read -r LIVE_SEASON LIVE_WEEK <<EOF
-          $(python - <<'PY'
-import json,sys
-d=json.loads(sys.stdin.read())
-print(d.get("season",""), d.get("week",""))
+          python - <<'PY'
+import json, os
+d=json.load(open('state.json'))
+live_season=str(d.get('season',''))
+live_week=str(d.get('week',''))
+season = os.environ.get('SEASON_INPUT') or live_season
+week   = os.environ.get('WEEK_INPUT')   or live_week
+print(f"EFFECTIVE_SEASON={season}")
+print(f"EFFECTIVE_WEEK={week}")
+# export to later steps
+with open(os.environ['GITHUB_ENV'],'a') as f:
+    f.write(f"EFFECTIVE_SEASON={season}\n")
+    f.write(f"EFFECTIVE_WEEK={week}\n")
 PY
-          <<<"$STATE_JSON")
-          EOF
 
-          # Effective values: use inputs if present, else live values
-          EFFECTIVE_SEASON="${SEASON_INPUT:-}"
-          EFFECTIVE_WEEK="${WEEK_INPUT:-}"
-          if [ -z "$EFFECTIVE_SEASON" ]; then EFFECTIVE_SEASON="${LIVE_SEASON}"; fi
-          if [ -z "$EFFECTIVE_WEEK" ]; then EFFECTIVE_WEEK="${LIVE_WEEK}"; fi
-
-          echo "== Effective values =="
-          echo "SEASON=${EFFECTIVE_SEASON}"
-          echo "WEEK=${EFFECTIVE_WEEK}"
-
-          test -n "${EFFECTIVE_SEASON}" && test -n "${EFFECTIVE_WEEK}" && test -n "${LEAGUE}"
-
-          echo "== Checking key Sleeper endpoints =="
-          curl -fsS "https://api.sleeper.app/v1/league/${LEAGUE}" >/dev/null
-          curl -fsS "https://api.sleeper.app/v1/league/${LEAGUE}/rosters" >/dev/null
-          curl -fsS "https://api.sleeper.app/v1/league/${LEAGUE}/users" >/dev/null
-          curl -fsS "https://api.sleeper.app/v1/league/${LEAGUE}/matchups/${EFFECTIVE_WEEK}" >/dev/null
-          curl -fsS "https://api.sleeper.app/v1/league/${LEAGUE}/transactions/${EFFECTIVE_WEEK}" >/dev/null
-          curl -fsS "https://api.sleeper.app/v1/stats/nfl/${EFFECTIVE_SEASON}/${EFFECTIVE_WEEK}?season_type=regular" >/dev/null
+          echo "Checking endpoints for league=${LEAGUE}, week=${EFFECTIVE_WEEK}..."
+          for url in \
+            "https://api.sleeper.app/v1/league/${LEAGUE}" \
+            "https://api.sleeper.app/v1/league/${LEAGUE}/rosters" \
+            "https://api.sleeper.app/v1/league/${LEAGUE}/users" \
+            "https://api.sleeper.app/v1/league/${LEAGUE}/matchups/${EFFECTIVE_WEEK}" \
+            "https://api.sleeper.app/v1/league/${LEAGUE}/transactions/${EFFECTIVE_WEEK}" \
+            "https://api.sleeper.app/v1/stats/nfl/${EFFECTIVE_SEASON}/${EFFECTIVE_WEEK}?season_type=regular"
+          do
+            echo "GET $url"
+            curl -fsS "$url" >/dev/null
+          done
           echo "Preflight OK ✅"
 
       - run: pip install -r requirements.txt
@@ -96,9 +89,9 @@ PY
       - name: Weekly league publish (baseline)
         env:
           SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
-          # For manual runs we use inputs; for scheduled runs, scripts auto-detect via /state/nfl
-          SEASON: ${{ env.SEASON_INPUT || '2025' }}
-          WEEK:   ${{ env.WEEK_INPUT   || '6' }}
+          # For manual runs we honor inputs; on schedules scripts auto-detect via /state/nfl anyway.
+          SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
+          WEEK:   ${{ env.WEEK_INPUT   || env.EFFECTIVE_WEEK   || '6' }}
           TRENDING_LOOKBACK_H: ${{ env.LOOKBACK_INPUT || '24' }}
           TRENDING_LIMIT: "100"
         run: python scripts/sleeper_publish.py
@@ -106,14 +99,14 @@ PY
       - name: Build stats, usage, SOS
         env:
           SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
-          SEASON: ${{ env.SEASON_INPUT || '2025' }}
-          WEEK:   ${{ env.WEEK_INPUT   || '6' }}
+          SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
+          WEEK:   ${{ env.WEEK_INPUT   || env.EFFECTIVE_WEEK   || '6' }}
         run: python scripts/build_stats_and_usage.py
 
       - name: Build full season transactions
         env:
           SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
-          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
           MAX_WEEK: "18"
         run: python scripts/transactions_history.py
 
@@ -124,12 +117,12 @@ PY
 
       - name: Import projections CSV (optional)
         env:
-          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
         run: python scripts/projections_import.py || true
 
       - name: Build trade values (basic)
         env:
-          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
         run: python scripts/trade_values.py
 
       - name: Commit & push all data
@@ -137,7 +130,8 @@ PY
           git config user.name "data-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -A
-          git commit -m "publish season ${{ env.SEASON_INPUT || '2025' }} week ${{ env.WEEK_INPUT || '6' }} (stats/usage/sos/news/tx history/value)" || echo "no changes"
+          git commit -m "publish season ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }} week ${{ env.WEEK_INPUT || env.EFFECTIVE_WEEK || '6' }} (stats/usage/sos/news/tx history/value)" || echo "no changes"
           git push
+
 
 
