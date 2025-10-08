@@ -3,32 +3,91 @@ name: sleeper-publisher
 on:
   workflow_dispatch:
     inputs:
-      season: { description: "Season", required: true, default: "2025" }
-      week:   { description: "Week (1-18)", required: true, default: "6" }
-      lookback_hours: { description: "Trending lookback hours", required: true, default: "24" }
-      news_feeds: { description: "CSV of RSS feeds", required: false, default: "https://www.espn.com/espn/rss/nfl/news,https://www.rotowire.com/rss/football.php" }
+      season:
+        description: "Season"
+        required: false
+        default: "2025"
+      week:
+        description: "Week (1-18)"
+        required: false
+        default: "6"
+      lookback_hours:
+        description: "Trending lookback hours"
+        required: false
+        default: "24"
+      news_feeds:
+        description: "CSV of RSS feeds"
+        required: false
+        default: "https://www.espn.com/espn/rss/nfl/news,https://www.rotowire.com/rss/football.php"
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # hourly
 
 jobs:
-  run:
+  publish:
     runs-on: ubuntu-latest
-    permissions: { contents: write }
+    permissions:
+      contents: write
+
+    # Put inputs into env so we can easily fall back for scheduled runs
+    env:
+      SLEEPER_LEAGUE_ID: "1262790170931892224"
+      SEASON_INPUT: ${{ inputs.season }}
+      WEEK_INPUT: ${{ inputs.week }}
+      LOOKBACK_INPUT: ${{ inputs.lookback_hours }}
+      NEWS_FEEDS_INPUT: ${{ inputs.news_feeds }}
+
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
+        with:
+          python-version: "3.11"
       - run: pip install -r requirements.txt
 
-      # Existing weekly league data (rosters, standings, matchups, transactions week, trending, available, injuries)
-- name: Weekly league publish (baseline)
-  env:
-    SLEEPER_LEAGUE_ID: "1262790170931892224"
-    SEASON: ${{ inputs.season != '' && inputs.season || '2025' }}
-    WEEK:   ${{ inputs.week   != '' && inputs.week   || '6' }}
-    TRENDING_LOOKBACK_H: ${{ inputs.lookback_hours != '' && inputs.lookback_hours || '24' }}
-    TRENDING_LIMIT: "100"
-  run: python scripts/sleeper_publish.py
+      - name: Weekly league publish (baseline)
+        env:
+          SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
+          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          WEEK: ${{ env.WEEK_INPUT || '6' }}
+          TRENDING_LOOKBACK_H: ${{ env.LOOKBACK_INPUT || '24' }}
+          TRENDING_LIMIT: "100"
+        run: python scripts/sleeper_publish.py
+
+      - name: Build stats, usage, SOS
+        env:
+          SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
+          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          WEEK: ${{ env.WEEK_INPUT || '6' }}
+        run: python scripts/build_stats_and_usage.py
+
+      - name: Build full season transactions
+        env:
+          SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
+          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+          MAX_WEEK: "18"
+        run: python scripts/transactions_history.py
+
+      - name: Fetch news
+        env:
+          NEWS_FEEDS: ${{ env.NEWS_FEEDS_INPUT || 'https://www.espn.com/espn/rss/nfl/news,https://www.rotowire.com/rss/football.php' }}
+        run: python scripts/news_fetch.py
+
+      - name: Import projections CSV (optional)
+        env:
+          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+        run: python scripts/projections_import.py || true
+
+      - name: Build trade values (basic)
+        env:
+          SEASON: ${{ env.SEASON_INPUT || '2025' }}
+        run: python scripts/trade_values.py
+
+      - name: Commit & push all data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "publish season ${{ env.SEASON_INPUT || '2025' }} week ${{ env.WEEK_INPUT || '6' }} (stats/usage/sos/news/tx history/value)" || echo "no changes"
+          git push
 
 
       # NEW: player stats + usage + SOS
