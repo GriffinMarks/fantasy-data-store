@@ -1,0 +1,15 @@
+{
+  "season": 2025,
+  "latest_week": 6,
+  "updated_at": "2025-10-08T20:27:39Z",
+  "league_id": "1262790170931892224",
+  "datasets": [
+    "rosters",
+    "standings",
+    "matchups",
+    "transactions",
+    "trending",
+    "available",
+    "injuries"
+  ]
+}
