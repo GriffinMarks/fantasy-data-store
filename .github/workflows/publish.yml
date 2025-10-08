@@ -1,0 +1,52 @@
+name: sleeper-publisher
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Season"
+        required: true
+        default: "2025"
+      week:
+        description: "Week (1-18)"
+        required: true
+        default: "6"
+      lookback_hours:
+        description: "Trending lookback hours"
+        required: true
+        default: "24"
+
+  schedule:
+    - cron: "0 * * * *"   # hourly, optional
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Build JSON from Sleeper
+        env:
+          SLEEPER_LEAGUE_ID: "1262790170931892224"
+          SEASON: ${{ inputs.season }}
+          WEEK: ${{ inputs.week }}
+          TRENDING_LOOKBACK_H: ${{ inputs.lookback_hours }}
+          TRENDING_LIMIT: "100"
+        run: python scripts/sleeper_publish.py
+
+      - name: Commit & push data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "publish season ${SEASON:-${{ inputs.season }}} week ${WEEK:-${{ inputs.week }}} data" || echo "no changes"
+          git push
