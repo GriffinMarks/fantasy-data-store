@@ -49,17 +49,22 @@ jobs:
         env:
           LEAGUE: ${{ env.SLEEPER_LEAGUE_ID }}
         run: |
-          set -euo pipefail
+          # no -u here; we'll source vars after writing them
+          set -eo pipefail
           echo "Inputs: season='${SEASON_INPUT:-}', week='${WEEK_INPUT:-}'"
           echo "Fetching Sleeper state..."
           curl -fsS https://api.sleeper.app/v1/state/nfl -o state.json
 
+          # Compute effective season/week and publish to GITHUB_ENV for later steps
           python -c "import json,os; d=json.load(open('state.json')); \
             live_season=str(d.get('season','')); live_week=str(d.get('week','')); \
             season=os.environ.get('SEASON_INPUT') or live_season; \
             week=os.environ.get('WEEK_INPUT') or live_week; \
             print(f'EFFECTIVE_SEASON={season}'); print(f'EFFECTIVE_WEEK={week}'); \
             open(os.environ['GITHUB_ENV'],'a').write(f'EFFECTIVE_SEASON={season}\\nEFFECTIVE_WEEK={week}\\n')"
+
+          # Load them into THIS shell too
+          source "$GITHUB_ENV"
 
           echo "Checking endpoints for league=${LEAGUE}, week=${EFFECTIVE_WEEK}..."
           for url in \
@@ -74,6 +79,7 @@ jobs:
             curl -fsS "$url" >/dev/null
           done
           echo "Preflight OK ✅"
+
 
       - run: pip install -r requirements.txt
 
