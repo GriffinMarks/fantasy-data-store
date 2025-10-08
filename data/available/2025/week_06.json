@@ -1,20 +1,13 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-08T20:27:39Z",
+  "generated_at": "2025-10-08T21:32:27Z",
   "league_id": "1262790170931892224",
-  "count": 3748,
+  "count": 3749,
   "players": [
     {
       "player_id": "BAL",
       "full_name": null,
       "team": "BAL",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "LV",
-      "full_name": null,
-      "team": "LV",
       "position": "DEF",
       "status": null
     },
@@ -99,6 +92,13 @@
       "player_id": "CIN",
       "full_name": null,
       "team": "CIN",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "KC",
+      "full_name": null,
+      "team": "KC",
       "position": "DEF",
       "status": null
     },
@@ -19855,6 +19855,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "8117",
+      "full_name": "Jalen Tolbert",
+      "team": "DAL",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "5383",
