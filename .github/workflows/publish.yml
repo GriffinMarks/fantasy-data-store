@@ -29,7 +29,7 @@ jobs:
       contents: write
 
     env:
-      # inputs land here (may be empty on schedules)
+      # inputs (may be empty on schedules)
       SEASON_INPUT: ${{ inputs.season }}
       WEEK_INPUT: ${{ inputs.week }}
       LOOKBACK_INPUT: ${{ inputs.lookback_hours }}
@@ -44,31 +44,22 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ---- PRE-FLIGHT (simple & robust) ----
+      # ---- PRE-FLIGHT (simple & robust; no heredoc) ----
       - name: Preflight (env + Sleeper state)
         env:
           LEAGUE: ${{ env.SLEEPER_LEAGUE_ID }}
         run: |
           set -euo pipefail
           echo "Inputs: season='${SEASON_INPUT:-}', week='${WEEK_INPUT:-}'"
-
           echo "Fetching Sleeper state..."
           curl -fsS https://api.sleeper.app/v1/state/nfl -o state.json
 
-          python - <<'PY'
-import json, os
-d=json.load(open('state.json'))
-live_season=str(d.get('season',''))
-live_week=str(d.get('week',''))
-season = os.environ.get('SEASON_INPUT') or live_season
-week   = os.environ.get('WEEK_INPUT')   or live_week
-print(f"EFFECTIVE_SEASON={season}")
-print(f"EFFECTIVE_WEEK={week}")
-# export to later steps
-with open(os.environ['GITHUB_ENV'],'a') as f:
-    f.write(f"EFFECTIVE_SEASON={season}\n")
-    f.write(f"EFFECTIVE_WEEK={week}\n")
-PY
+          python -c "import json,os; d=json.load(open('state.json')); \
+            live_season=str(d.get('season','')); live_week=str(d.get('week','')); \
+            season=os.environ.get('SEASON_INPUT') or live_season; \
+            week=os.environ.get('WEEK_INPUT') or live_week; \
+            print(f'EFFECTIVE_SEASON={season}'); print(f'EFFECTIVE_WEEK={week}'); \
+            open(os.environ['GITHUB_ENV'],'a').write(f'EFFECTIVE_SEASON={season}\\nEFFECTIVE_WEEK={week}\\n')"
 
           echo "Checking endpoints for league=${LEAGUE}, week=${EFFECTIVE_WEEK}..."
           for url in \
@@ -89,7 +80,6 @@ PY
       - name: Weekly league publish (baseline)
         env:
           SLEEPER_LEAGUE_ID: ${{ env.SLEEPER_LEAGUE_ID }}
-          # For manual runs we honor inputs; on schedules scripts auto-detect via /state/nfl anyway.
           SEASON: ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }}
           WEEK:   ${{ env.WEEK_INPUT   || env.EFFECTIVE_WEEK   || '6' }}
           TRENDING_LOOKBACK_H: ${{ env.LOOKBACK_INPUT || '24' }}
@@ -132,6 +122,7 @@ PY
           git add -A
           git commit -m "publish season ${{ env.SEASON_INPUT || env.EFFECTIVE_SEASON || '2025' }} week ${{ env.WEEK_INPUT || env.EFFECTIVE_WEEK || '6' }} (stats/usage/sos/news/tx history/value)" || echo "no changes"
           git push
+
 
 
 
