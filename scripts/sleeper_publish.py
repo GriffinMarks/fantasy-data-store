@@ -51,9 +51,15 @@ def get_players_catalog():
     return data
 
 def get_trending(h, n):
-    adds  = http_get(f"{BASE}/players/trending/nfl", params={"type":"add","lookback_hours":h,"limit":n}, default=[])
-    drops = http_get(f"{BASE}/players/trending/nfl", params={"type":"drop","lookback_hours":h,"limit":n}, default=[])
-    return {"generated_at": now_iso(), "lookback_hours": h, "limit": n, "adds": adds, "drops": drops}
+    # Primary path
+    adds  = http_get(f"{BASE}/players/trending/nfl", params={"type":"add","lookback_hours":h,"limit":n}, default=None)
+    drops = http_get(f"{BASE}/players/trending/nfl", params={"type":"drop","lookback_hours":h,"limit":n}, default=None)
+    # Fallback path (some mirrors expose /players/nfl/trending)
+    if adds is None:
+        adds = http_get(f"{BASE}/players/nfl/trending", params={"type":"add","lookback_hours":h,"limit":n}, default=[])
+    if drops is None:
+        drops = http_get(f"{BASE}/players/nfl/trending", params={"type":"drop","lookback_hours":h,"limit":n}, default=[])
+    return {"generated_at": now_iso(), "lookback_hours": h, "limit": n, "adds": adds or [], "drops": drops or []}
 
 # -------- Builders --------
 def decorate(pid: str, catalog: Dict[str, Any]):
