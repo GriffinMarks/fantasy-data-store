@@ -1,22 +1,11 @@
 #!/usr/bin/env python3
 import os, json, pathlib, datetime as dt, time
 import requests
-from typing import Dict, Any, List, Tuple
+from typing import Dict, Any, List
 from collections import defaultdict
 
 LEAGUE_ID = os.getenv("SLEEPER_LEAGUE_ID", "1262790170931892224")
-def env_int(name: str, default: int) -> int:
-    val = os.getenv(name, "")
-    try:
-        return int(val)
-    except Exception:
-        return default
-
-SEASON = env_int("SEASON", 2025)
-WEEK   = env_int("WEEK", 6)
-
 BASE      = "https://api.sleeper.app/v1"
-
 ROOT  = pathlib.Path(__file__).resolve().parent.parent
 OUT   = ROOT / "data"
 CACHE = OUT / "cache"
@@ -40,7 +29,26 @@ def write_json(relpath:str, payload:Dict[str,Any]):
     p.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     print("WROTE", p)
 
-# ---------- players catalog (for names/pos/team) ----------
+def env_int(name: str, default: int | None) -> int | None:
+    v = (os.getenv(name) or "").strip()
+    try:
+        return int(v) if v != "" else default
+    except Exception:
+        return default
+
+def resolve_season_week(default_season=2025, default_week=6) -> tuple[int,int]:
+    s = env_int("SEASON", None)
+    w = env_int("WEEK",   None)
+    if s is not None and w is not None:
+        return s, w
+    state = get(f"{BASE}/state/nfl", default={}) or {}
+    live_season = int(state.get("season") or default_season)
+    live_week   = int(state.get("week")   or default_week)
+    return (s or live_season), (w or live_week)
+
+SEASON, WEEK = resolve_season_week()
+
+# ---------- catalog & scoring ----------
 def get_players_catalog() -> Dict[str, Any]:
     cache = CACHE / "players_nfl.json"
     if cache.exists() and (dt.datetime.utcnow() - dt.datetime.utcfromtimestamp(cache.stat().st_mtime) < dt.timedelta(hours=12)):
@@ -49,7 +57,6 @@ def get_players_catalog() -> Dict[str, Any]:
     cache.write_text(json.dumps(data), encoding="utf-8")
     return data
 
-# ---------- league scoring (to compute fantasy points) ----------
 def get_league_scoring() -> Dict[str, float]:
     lg = get(f"{BASE}/league/{LEAGUE_ID}", default={}) or {}
     s  = (lg.get("scoring_settings") or {})
@@ -79,12 +86,8 @@ def fantasy_points(stats:Dict[str,Any], sc:Dict[str,float]) -> float:
     )
     return round(pts, 2)
 
-# ---------- weekly stats fetch (normalize dict → list) ----------
+# ---------- weekly stats fetch ----------
 def fetch_week_stats(season:int, week:int) -> List[Dict[str,Any]]:
-    """
-    Sleeper weekly stats endpoint returns a DICT keyed by player_id.
-    Normalize to a list with 'player_id' carried into each row.
-    """
     raw = get(f"{BASE}/stats/nfl/{season}/{week}", params={"season_type":"regular"}, default={}) or {}
     rows: List[Dict[str,Any]] = []
     if isinstance(raw, dict):
@@ -108,24 +111,21 @@ def build_week_stats(season:int, week:int, catalog:Dict[str,Any]) -> List[Dict[s
         team  = r.get("team") or r.get("player_team") or meta.get("team")
         pos   = meta.get("position")
         opp   = r.get("opponent") or r.get("opp")
-        # build normalized row; keep numeric stats too
         row = {"player_id": str(pid), "name": name, "team": team, "pos": pos, "opp": opp}
         for k,v in r.items():
             if isinstance(v,(int,float)) and k not in row:
                 row[k] = v
-        # usage helpers
         row["targets"]  = _num(r.get("tgt") or r.get("targets"))
         row["rush_att"] = _num(r.get("rush_att") or r.get("rushing_att") or r.get("att_rush"))
         row["fantasy_pts"] = fantasy_points(row, sc)
         out.append(row)
     return out
 
-def build_szn_to_date(weeks:List[int], weekly_files:List[List[Dict[str,Any]]]) -> Dict[str,Any]:
+def build_szn_to_date(weekly_files:List[List[Dict[str,Any]]]) -> Dict[str,Any]:
     agg = defaultdict(lambda: {"games":0,"fantasy_pts":0.0,"targets":0.0,"rush_att":0.0,"pos":None,"name":None})
     for rows in weekly_files:
         for r in rows:
-            pid = r["player_id"]
-            a = agg[pid]
+            pid = r["player_id"]; a = agg[pid]
             a["games"] += 1
             a["fantasy_pts"] += _num(r.get("fantasy_pts"))
             a["targets"] += _num(r.get("targets"))
@@ -136,38 +136,29 @@ def build_szn_to_date(weeks:List[int], weekly_files:List[List[Dict[str,Any]]]) -
     for pid, a in agg.items():
         g = max(1, a["games"])
         table.append({
-            "player_id": pid,
-            "name": a["name"],
-            "pos": a["pos"],
-            "games": a["games"],
-            "ppg": round(a["fantasy_pts"]/g,2),
-            "tgt_pg": round(a["targets"]/g,2),
+            "player_id": pid, "name": a["name"], "pos": a["pos"], "games": a["games"],
+            "ppg": round(a["fantasy_pts"]/g,2), "tgt_pg": round(a["targets"]/g,2),
             "rush_att_pg": round(a["rush_att"]/g,2)
         })
     table.sort(key=lambda x: (-x["ppg"], x["name"] or ""))
     return {"season": SEASON, "generated_at": now_iso(), "players": table}
 
 def build_usage_shares(week_rows:List[Dict[str,Any]]) -> Dict[str,Any]:
-    totals_tgt = defaultdict(float)
-    totals_car = defaultdict(float)
+    totals_tgt = defaultdict(float); totals_car = defaultdict(float)
     for r in week_rows:
-        team = r.get("team")
+        team = r.get("team"); 
         if not team: continue
         totals_tgt[team] += _num(r.get("targets"))
         totals_car[team] += _num(r.get("rush_att"))
     shares = []
     for r in week_rows:
-        team = r.get("team")
+        team = r.get("team"); 
         if not team: continue
         tgt_tot = totals_tgt[team] or 0.0
         car_tot = totals_car[team] or 0.0
         shares.append({
-            "player_id": r["player_id"],
-            "name": r.get("name"),
-            "team": team,
-            "pos": r.get("pos"),
-            "targets": _num(r.get("targets")),
-            "rush_att": _num(r.get("rush_att")),
+            "player_id": r["player_id"], "name": r.get("name"), "team": team, "pos": r.get("pos"),
+            "targets": _num(r.get("targets")), "rush_att": _num(r.get("rush_att")),
             "target_share": round((_num(r.get("targets"))/tgt_tot)*100.0,1) if tgt_tot>0 else 0.0,
             "carry_share": round((_num(r.get("rush_att"))/car_tot)*100.0,1) if car_tot>0 else 0.0
         })
@@ -191,12 +182,10 @@ def build_sos_defense_vs_pos(history:List[List[Dict[str,Any]]]) -> Dict[str,Any]
 def main():
     catalog = get_players_catalog()
 
-    # this week
     this_week = build_week_stats(SEASON, WEEK, catalog)
     write_json(f"player_stats/{SEASON}/week_{WEEK:02}.json",
                {"season":SEASON,"week":WEEK,"generated_at":now_iso(),"players":this_week})
 
-    # prior weeks (for season-to-date & SOS)
     weekly_rows = [this_week]
     for w in range(1, WEEK):
         rows = build_week_stats(SEASON, w, catalog)
@@ -204,20 +193,10 @@ def main():
         write_json(f"player_stats/{SEASON}/week_{w:02}.json",
                    {"season":SEASON,"week":w,"generated_at":now_iso(),"players":rows})
 
-    # season to date
-    szn = build_szn_to_date(list(range(1, WEEK+1)), weekly_rows)
-    write_json(f"player_stats/{SEASON}/season_to_date.json", szn)
-
-    # usage shares (this week)
-    usage = build_usage_shares(this_week)
-    write_json(f"usage/{SEASON}/week_{WEEK:02}.json", usage)
-
-    # strength of schedule (def vs position)
-    sos = build_sos_defense_vs_pos(weekly_rows)
-    write_json(f"sos/{SEASON}/through_week_{WEEK:02}.json", sos)
+    write_json(f"player_stats/{SEASON}/season_to_date.json", build_szn_to_date(weekly_rows))
+    write_json(f"usage/{SEASON}/week_{WEEK:02}.json",       build_usage_shares(this_week))
+    write_json(f"sos/{SEASON}/through_week_{WEEK:02}.json", build_sos_defense_vs_pos(weekly_rows))
 
 if __name__ == "__main__":
     main()
 
-if __name__ == "__main__":
-    main()
