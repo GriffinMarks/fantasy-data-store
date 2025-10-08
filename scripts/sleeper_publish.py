@@ -4,36 +4,19 @@ import requests
 from typing import Any, Dict, List, Set
 
 # -------- CONFIG --------
+import os, json, pathlib, datetime as dt, time
+import requests
+from typing import Any, Dict, List, Set
+
 LEAGUE_ID = os.getenv("SLEEPER_LEAGUE_ID", "1262790170931892224")
-def env_int(name: str, default: int) -> int:
-    val = os.getenv(name, "")
-    try:
-        return int(val)
-    except Exception:
-        return default
-
-SEASON = env_int("SEASON", 2025)
-WEEK   = env_int("WEEK", 6)
-
-TREND_H   = int(os.getenv("TRENDING_LOOKBACK_H", "24"))
-TREND_N   = int(os.getenv("TRENDING_LIMIT", "100"))
-
 BASE = "https://api.sleeper.app/v1"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT  = ROOT / "data"
-CACHE= OUT / "cache"
-OUT.mkdir(parents=True, exist_ok=True)
-CACHE.mkdir(parents=True, exist_ok=True)
+CACHE = OUT / "cache"
+OUT.mkdir(parents=True, exist_ok=True); CACHE.mkdir(parents=True, exist_ok=True)
 
-def now_iso():
+def now_utc():
     return dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
-
-def write_json(relpath: str, payload: Dict[str, Any]):
-    p = OUT / relpath
-    p.parent.mkdir(parents=True, exist_ok=True)
-    with open(p, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-    print(f"WROTE {p}")
 
 def http_get(url: str, params: Dict[str, Any] = None, default=None):
     try:
@@ -43,6 +26,29 @@ def http_get(url: str, params: Dict[str, Any] = None, default=None):
     except Exception as e:
         print(f"[WARN] GET {url} failed: {e}")
         return default
+
+def env_int(name: str, default: int | None) -> int | None:
+    v = (os.getenv(name) or "").strip()
+    try:
+        return int(v) if v != "" else default
+    except Exception:
+        return default
+
+def resolve_season_week(default_season=2025, default_week=6) -> tuple[int,int]:
+    """Use env if provided, otherwise ask Sleeper for the live season/week."""
+    s = env_int("SEASON", None)
+    w = env_int("WEEK",   None)
+    if s is not None and w is not None:
+        return s, w
+    state = http_get(f"{BASE}/state/nfl", default={}) or {}
+    live_season = int(state.get("season") or default_season)
+    live_week   = int(state.get("week")   or default_week)
+    return (s or live_season), (w or live_week)
+
+SEASON, WEEK = resolve_season_week()
+LOOKBACK_H  = env_int("TRENDING_LOOKBACK_H", 24) or 24
+TREND_LIMIT = env_int("TRENDING_LIMIT", 100) or 100
+
 
 # -------- Sleeper fetchers --------
 def get_league():    return http_get(f"{BASE}/league/{LEAGUE_ID}", default={})
