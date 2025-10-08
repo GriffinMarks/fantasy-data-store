@@ -5,8 +5,16 @@ from typing import Any, Dict, List, Set
 
 # -------- CONFIG --------
 LEAGUE_ID = os.getenv("SLEEPER_LEAGUE_ID", "1262790170931892224")
-SEASON    = int(os.getenv("SEASON", "2025"))
-WEEK      = int(os.getenv("WEEK", "6"))  # default Week 6
+def env_int(name: str, default: int) -> int:
+    val = os.getenv(name, "")
+    try:
+        return int(val)
+    except Exception:
+        return default
+
+SEASON = env_int("SEASON", 2025)
+WEEK   = env_int("WEEK", 6)
+
 TREND_H   = int(os.getenv("TRENDING_LOOKBACK_H", "24"))
 TREND_N   = int(os.getenv("TRENDING_LIMIT", "100"))
 
