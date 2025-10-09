@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-09T01:47:51Z",
+  "generated_at": "2025-10-09T03:03:09Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1811,17 +1811,17 @@
           "news_updated": 1759730758724
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
-          "first_name": "Jordan",
-          "last_name": "Mason",
-          "team": "MIN",
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
+          "first_name": "Tyler",
+          "last_name": "Allgeier",
+          "team": "ATL",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860319
+          "news_updated": 1759103150592
         },
         {
           "player_id": "9488",
@@ -1969,17 +1969,17 @@
           "news_updated": 1759866049397
         },
         {
-          "player_id": "9508",
-          "full_name": "Tyjae Spears",
-          "first_name": "Tyjae",
-          "last_name": "Spears",
-          "team": "TEN",
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "team": "MIN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759799743285
+          "news_updated": 1759738860319
         },
         {
           "player_id": "9758",
