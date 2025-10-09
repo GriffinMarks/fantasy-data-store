@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-09T19:19:21Z",
+  "generated_at": "2025-10-09T20:26:18Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -628,6 +628,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "6528",
+      "full_name": "Joey Slye",
+      "team": "TEN",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "6621",
       "full_name": "John Baron",
       "team": null,
@@ -848,13 +855,6 @@
       "player_id": "6268",
       "full_name": "Matthew Wright",
       "team": "TEN",
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "5230",
-      "full_name": "Michael Badgley",
-      "team": "IND",
       "position": "K",
       "status": "Active"
     },
