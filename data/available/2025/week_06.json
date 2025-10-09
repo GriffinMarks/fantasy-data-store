@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-09T21:20:48Z",
+  "generated_at": "2025-10-09T22:20:47Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -2311,6 +2311,13 @@
       "player_id": "12149",
       "full_name": "Gavin Hardison",
       "team": null,
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "1373",
+      "full_name": "Geno Smith",
+      "team": "LV",
       "position": "QB",
       "status": "Active"
     },
@@ -21953,13 +21960,6 @@
       "player_id": "11344",
       "full_name": "Keytaon Thompson",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "5773",
-      "full_name": "KhaDarel Hodge",
-      "team": "ATL",
       "position": "WR",
       "status": "Active"
     },
