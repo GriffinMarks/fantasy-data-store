@@ -1,26 +1,26 @@
 {
-  "generated_at": "2025-10-09T11:19:48Z",
-  "count": 22,
+  "generated_at": "2025-10-09T12:50:52Z",
+  "count": 26,
   "articles": [
     {
       "title": "The latest buzz: Insiders on Geno Smith, Daniel Jones and extensions on the horizon",
       "link": "https://www.espn.com/nfl/story/_/id/46518794/nfl-week-6-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Wed, 8 Oct 2025 19:02:58 EST",
+      "published": "Thu, 9 Oct 2025 08:10:13 EST",
       "summary": "Are the Raiders worried about Smith? And which coordinators might get head coaching interest?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Reevaluating bold predictions for all 32 teams: What has been right, wrong?",
       "link": "https://www.espn.com/nfl/story/_/id/46512815/2025-nfl-season-evaluating-preseason-predictions-all-32-teams-updates",
-      "published": "Wed, 8 Oct 2025 19:02:57 EST",
+      "published": "Thu, 9 Oct 2025 08:10:13 EST",
       "summary": "We made 32 bold predictions before the season, one for every team. What has changed, and which need to be changed entirely?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Sources: Jags get Newsome, Campbell to Browns",
+      "title": "Jaguars get Newsome, Campbell goes to Browns",
       "link": "https://www.espn.com/nfl/story/_/id/46537402/sources-jaguars-acquire-newsome-ship-campbell-browns",
       "published": "Wed, 8 Oct 2025 22:33:25 EST",
-      "summary": "The Jaguars and Browns agreed to a trade of cornerbacks Wednesday night, with Greg Newsome heading to Jacksonville and Tyson Campbell going to Cleveland, sources told ESPN's Adam Schefter.",
+      "summary": "The Jaguars and Browns agreed to a trade of cornerbacks Wednesday night, with Greg Newsome heading to Jacksonville and Tyson Campbell going to Cleveland.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -80,6 +80,69 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Let's rank the best NFL divisions this season: Could all four NFC North teams go to the playoffs?",
+      "link": "https://www.espn.com/nfl/story/_/id/46521147/2025-nfl-season-ranking-eight-nfl-divisions-best-worst-afc-nfc",
+      "published": "Thu, 9 Oct 2025 08:09:18 EST",
+      "summary": "Can any division match the NFC North? How do QB injuries impact the AFC North's standing? And which division lands at the bottom of our list?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Barnwell sizes up five rookie RBs: Could Croskey-Merritt see more work?",
+      "link": "https://www.espn.com/nfl/story/_/id/46519192/2025-nfl-rookie-running-backs-barnwell-jeanty-judkins-hampton-croskey-merritt-skattebo",
+      "published": "Thu, 9 Oct 2025 08:09:17 EST",
+      "summary": "Let's look closer at Ashton Jeanty, Quinshon Judkins, Omarion Hampton, and Jacory Croskey-Merritt.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Stories of Skattebo: 'What you want me to do, tell him to be quiet?'",
+      "link": "https://www.espn.com/nfl/story/_/id/46531343/new-york-giants-eccentric-rookie-cam-skattebo-stories",
+      "published": "Thu, 9 Oct 2025 07:45:20 EST",
+      "summary": "The energetic Skattebo has added a new element to the Giants, who need every bit of change ahead of Thursday night's matchup with the Philadelphia Eagles.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Saquon gets realistic: 'Every year is not going to be like how I had it last year'",
+      "link": "https://www.espn.com/nfl/story/_/id/46531746/philadelphia-eagles-saquon-barkley-realistic-production-2025",
+      "published": "Thu, 9 Oct 2025 07:45:20 EST",
+      "summary": "Barkley is working against the odds on multiple fronts when it comes to running back production.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "The Playbook: Lineup locks, Shadow Reports for Week 6",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46508088/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-6-shadow-reports-mike-clay",
+      "published": "Thu, 9 Oct 2025 08:07:16 EST",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Should you move on from Jameson Williams, A.J. Brown or other disappointing picks?",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46530008/fantasy-football-week-6-start-sit-trade-candidates",
+      "published": "Thu, 9 Oct 2025 08:07:16 EST",
+      "summary": "Matt Bowen discusses eight players who have fallen short of expectations early on, and how to value them.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "'Dak loves him, trusts him': Jake Ferguson is off to a historic start, and it's no fluke",
+      "link": "https://www.espn.com/nfl/story/_/id/46530288/nfl-dallas-cowboys-jake-ferguson",
+      "published": "Thu, 9 Oct 2025 07:54:36 EST",
+      "summary": "The Cowboys tight end has 41 catches and three touchdowns, as Dallas leans on him with CeeDee Lamb sidelined.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Why the return of DeShon Elliott means so much to Pittsburgh's defense",
+      "link": "https://www.espn.com/nfl/story/_/id/46535453/pittsburgh-steelers-defense-deshon-elliott-return-2025",
+      "published": "Thu, 9 Oct 2025 07:54:36 EST",
+      "summary": "The safety announced his return with an INT against the Vikings after missing two games with a knee injury.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Why Kellen Moore sees more involvement ahead for Taysom Hill, Foster Moreau",
+      "link": "https://www.espn.com/nfl/story/_/id/46535631/new-orleans-saints-offense-taysom-hill-foster-moreau-2025",
+      "published": "Thu, 9 Oct 2025 07:54:36 EST",
+      "summary": "The pair made their season debuts in the Saints' victory over the Giants, and there's momentum for more.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "He could go all the ... what?!? 7 times an NFL player dropped the ball short of the end zone",
       "link": "https://www.espn.com/nfl/story/_/id/46523401/nfl-drop-ball-td-emari-demercado-adonai-mitchell-jonathan-taylor",
       "published": "Wed, 8 Oct 2025 10:20:49 EST",
@@ -98,41 +161,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/46521428/joe-flacco-trade-quarterback-bengals-browns-fantasy-shedeur-sanders-dillon-gabriel",
       "published": "Wed, 8 Oct 2025 16:39:04 EST",
       "summary": "What Cincinnati's move for a 40-year-old QB means for its playoff hopes; how does Cleveland's QB chart change?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "'We're 0-5 and we own that': Just how bad have things gotten for the NFL's lone winless team?",
-      "link": "https://www.espn.com/nfl/story/_/id/46510084/new-york-jets-0-5-start-winless-aaron-glenn",
-      "published": "Wed, 8 Oct 2025 19:44:01 EST",
-      "summary": "New York's Aaron Glenn is off to a rocky start to his head coaching career, but here's a look at what history says about being 0-5.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Facts vs. Feelings: Patience is a virtue. Until it isn't.",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46524778/fantasy-football-start-sit-add-drop-week-6",
-      "published": "Wed, 8 Oct 2025 18:44:17 EST",
-      "summary": "If your team isn't winning, shake things up. These seven players might offer sneaky start or trade value.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Matchup rankings: Matthew Stafford, Jacory Croskey-Merritt stand out",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46524427/fantasy-football-rankings-tips-nfl-week-6-matchups-qb-rb-wr-te",
-      "published": "Wed, 8 Oct 2025 18:44:17 EST",
-      "summary": "Here are the most and least favorable for Week 6 at QB, RB, WR and TE.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Is it better to have an early or late bye week? The answer may surprise you",
-      "link": "https://www.espn.com/nfl/story/_/id/46509162/nfl-bye-weeks-2025-advantage-question-steelers-packers-falcons-bears-vikings-texans",
-      "published": "Tue, 7 Oct 2025 19:14:19 EST",
-      "summary": "The Eagles and Chargers revamped their offenses during a Week 5 bye last year. Will this year's early bye group (Steelers, Packers, Bears, Falcons) be as aggressive?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "How the John Elway-led Broncos of the mid-2010s grew an NFL general manager tree",
-      "link": "https://www.espn.com/nfl/story/_/id/46510540/denver-broncos-nfl-general-manager-tree-elway-lynch-spytek-peters-mougey",
-      "published": "Tue, 7 Oct 2025 13:54:39 EST",
-      "summary": "The Broncos turned into a GM factory under Elway, as four current and two former GMs were in Denver under his Super Bowl-winning regime.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
