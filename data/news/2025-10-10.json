@@ -1,7 +1,77 @@
 {
-  "generated_at": "2025-10-10T22:20:21Z",
-  "count": 24,
+  "generated_at": "2025-10-10T23:19:52Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Pain, rehab and unlikely inspiration: Inside Aidan Hutchinson's return to dominance",
+      "link": "https://www.espn.com/nfl/story/_/id/46512801/detroit-lions-aidan-hutchinson-motivation-injury-hutch-heroes",
+      "published": "Fri, 10 Oct 2025 06:00:21 EST",
+      "summary": "Hutchinson's long journey back from a broken leg found inspiration from children whom he has inspired, too.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Lamar ruled out; Ravens to roll with Rush again",
+      "link": "https://www.espn.com/nfl/story/_/id/46554698/ravens-rule-qb-lamar-jackson-second-straight-week",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "The Ravens have ruled quarterback Lamar Jackson out for Sunday's game against the Rams, marking the second straight week he has missed.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "49ers set to start QB Jones again; Pearsall out",
+      "link": "https://www.espn.com/nfl/story/_/id/46555406/niners-jones-start-again-purdy-place-pearsall-out",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "Mac Jones is slated to start in place of the injured Brock Purdy on Sunday against the Bucs, while receiver Ricky Pearsall will miss his second straight game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "QB Sanders to back up Gabriel against Steelers",
+      "link": "https://www.espn.com/nfl/story/_/id/46553513/browns-shedeur-sanders-back-dillon-gabriel-vs-steelers",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "Shedeur Sanders will be the backup quarterback to starter Dillon Gabriel on Sunday in the Browns' divisional road game against the Steelers, coach Kevin Stefanski announced Friday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Raiders' Bowers misses 2nd game with knee injury",
+      "link": "https://www.espn.com/nfl/story/_/id/46554737/raiders-tight-end-brock-bowers-miss-second-straight-game",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "Raiders tight end Brock Bowers (knee) will miss his second-straight game, as he has been ruled out of Sunday's matchup against the Tennessee Titans.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Seahawks likely down 3 DBs on Sunday vs. Jags",
+      "link": "https://www.espn.com/nfl/story/_/id/46555152/seahawks-devon-witherspoon-riq-woolen-julian-love-likely-vs-jags",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "The Seattle Seahawks' secondary hasn't been whole since the first drive of the season opener, and it will once again be undermanned when the Seahawks play the Jaguars in Jacksonville on Sunday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Saints' Young to debut, Kamara questionable",
+      "link": "https://www.espn.com/nfl/story/_/id/46554321/saints-de-young-set-make-season-debut-rb-kamara-questionable",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "New Orleans Saints' DE Chase Young is set to make his season debut on Sunday versus the New England Patriots after a calf injury, whereas RB Alvin Kamara's ankle status remains questionable with no injury designation.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Concussion protocol for Giants' Dart under review",
+      "link": "https://www.espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Cowboys' Sanders to have season-ending surgery",
+      "link": "https://www.espn.com/nfl/story/_/id/46554845/cowboys-rb-miles-sanders-season-ending-surgery-knee",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "Cowboys running back Miles Sanders needs season-ending surgery on his left knee, executive vice president Stephen Jones said on 105.3 The Fan in Dallas on Friday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83c\udfc8 32 NFL players who could be two-way threats",
+      "link": "https://www.espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
+      "published": "Fri, 10 Oct 2025 19:00:36 EST",
+      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "What you absolutely need to know for every NFL game in Week 6 -- including final score predictions",
       "link": "https://www.espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
@@ -14,69 +84,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/46518794/nfl-week-6-buzz-news-updates-fantasy-intel-questions-predictions",
       "published": "Fri, 10 Oct 2025 16:08:27 EST",
       "summary": "Are the Raiders worried about Smith? And which coordinators might get head coaching interest?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Lamar ruled out; Ravens to roll with Rush again",
-      "link": "https://www.espn.com/nfl/story/_/id/46554698/ravens-rule-qb-lamar-jackson-second-straight-week",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "The Ravens have ruled quarterback Lamar Jackson out for Sunday's game against the Rams, marking the second straight week he has missed.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "QB Sanders to back up Gabriel against Steelers",
-      "link": "https://www.espn.com/nfl/story/_/id/46553513/browns-shedeur-sanders-back-dillon-gabriel-vs-steelers",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "Shedeur Sanders will be the backup quarterback to starter Dillon Gabriel on Sunday in the Browns' divisional road game against the Steelers, coach Kevin Stefanski announced Friday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Raiders' Bowers misses 2nd game with knee injury",
-      "link": "https://www.espn.com/nfl/story/_/id/46554737/raiders-tight-end-brock-bowers-miss-second-straight-game",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "Raiders tight end Brock Bowers (knee) will miss his second-straight game, as he has been ruled out of Sunday's matchup against the Tennessee Titans.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Cowboys' Jones won't appeal $250K fine",
-      "link": "https://www.espn.com/nfl/story/_/id/46553516/cowboys-jerry-jones-appeal-250k-fine-nfl",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "Cowboys owner Jerry Jones won't appeal the $250,000 fine he received this week from the NFL for an obscene gesture made during the win against the Jets at MetLife Stadium.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Seahawks likely down 3 DBs on Sunday vs. Jags",
-      "link": "https://www.espn.com/nfl/story/_/id/46555152/seahawks-devon-witherspoon-riq-woolen-julian-love-likely-vs-jags",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "The Seattle Seahawks' secondary hasn't been whole since the first drive of the season opener, and it will once again be undermanned when they play the Jaguars in Jacksonville Sunday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Saints' Young to debut, Kamara questionable",
-      "link": "https://www.espn.com/nfl/story/_/id/46554321/saints-de-young-set-make-season-debut-rb-kamara-questionable",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "New Orleans Saints' DE Chase Young is set to make his season debut on Sunday versus the New England Patriots after a calf injury, whereas RB Alvin Kamara's ankle status remains questionable with no injury designation.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Concussion protocol for Giants' Dart under review",
-      "link": "https://www.espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cowboys' Sanders to have season-ending surgery",
-      "link": "https://www.espn.com/nfl/story/_/id/46554845/cowboys-rb-miles-sanders-season-ending-surgery-knee",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "Cowboys running back Miles Sanders needs season-ending surgery on his left knee, executive vice president Stephen Jones said on 105.3 The Fan in Dallas on Friday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83c\udfc8 32 NFL players who could be two-way threats",
-      "link": "https://www.espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
-      "published": "Fri, 10 Oct 2025 18:08:46 EST",
-      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
