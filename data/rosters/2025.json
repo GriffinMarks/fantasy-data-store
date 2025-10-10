@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T11:19:50Z",
+  "generated_at": "2025-10-10T12:49:03Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -736,17 +736,17 @@
           "news_updated": 1759698356565
         },
         {
-          "player_id": "9506",
-          "full_name": "Sean Tucker",
-          "first_name": "Sean",
-          "last_name": "Tucker",
-          "team": "TB",
+          "player_id": "8123",
+          "full_name": "Hassan Haskins",
+          "first_name": "Hassan",
+          "last_name": "Haskins",
+          "team": "LAC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849755
+          "news_updated": 1759871157393
         },
         {
           "player_id": "4037",
@@ -788,17 +788,17 @@
           "news_updated": 1759868756868
         },
         {
-          "player_id": "8123",
-          "full_name": "Hassan Haskins",
-          "first_name": "Hassan",
-          "last_name": "Haskins",
-          "team": "LAC",
-          "position": "RB",
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "first_name": "Rashod",
+          "last_name": "Bateman",
+          "team": "BAL",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759871157393
+          "news_updated": 1759850448658
         },
         {
           "player_id": "6083",
@@ -894,17 +894,17 @@
           "news_updated": 1759880157721
         },
         {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
-          "position": "WR",
+          "player_id": "9506",
+          "full_name": "Sean Tucker",
+          "first_name": "Sean",
+          "last_name": "Tucker",
+          "team": "TB",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850448658
+          "news_updated": 1759843849755
         }
       ],
       "taxi": [],
