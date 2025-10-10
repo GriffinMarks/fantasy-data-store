@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-10T13:31:49Z",
-  "count": 27,
+  "generated_at": "2025-10-10T14:23:00Z",
+  "count": 29,
   "articles": [
     {
       "title": "Giants turn tables on Eagles with complete home victory",
       "link": "https://www.espn.com/nfl/story/_/id/46541992/new-york-giants-defeat-philadelphia-eagles-week-6-jaxson-dart-cam-skattebo",
-      "published": "Fri, 10 Oct 2025 09:10:49 EST",
+      "published": "Fri, 10 Oct 2025 10:03:16 EST",
       "summary": "The Giants started fast, fell behind, then dominated the second half to take down their hated division rivals.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -73,6 +73,20 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "The AFC North QB landscape is not what it was to start the season: What's going on?",
+      "link": "https://www.espn.com/nfl/story/_/id/46532308/quarterbacks-afc-north-aaron-rodgers-joe-flacco-dillon-gabriel-cooper-rush-lamar-jackson",
+      "published": "Fri, 10 Oct 2025 09:45:54 EST",
+      "summary": "It's a bizarre time in the division with Aaron Rodgers the only starting QB who began 2025 in that capacity for the same team.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Reid's debut NFL draft QB Hot Board: Strengths and weaknesses for the top 14 passers",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
+      "published": "Fri, 10 Oct 2025 09:52:21 EST",
+      "summary": "Who are the best quarterbacks in the 2026 class? We ranked the top 14 who could get picked -- including a few playing against each other this week.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Has the rookie RB class lived up to its predraft hype? Barnwell breaks down five standouts",
       "link": "https://www.espn.com/nfl/story/_/id/46519192/2025-nfl-rookie-running-backs-barnwell-jeanty-judkins-hampton-croskey-merritt-skattebo",
       "published": "Thu, 9 Oct 2025 15:36:19 EST",
@@ -87,31 +101,38 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Our guide to every Week 6 NFL game: Matchup previews, predictions, picks and nuggets",
+      "link": "https://www.espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "published": "Fri, 10 Oct 2025 09:50:49 EST",
+      "summary": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "The latest buzz: Insiders on Geno Smith, Daniel Jones and extensions on the horizon",
       "link": "https://www.espn.com/nfl/story/_/id/46518794/nfl-week-6-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Thu, 9 Oct 2025 15:47:24 EST",
+      "published": "Fri, 10 Oct 2025 09:50:49 EST",
       "summary": "Are the Raiders worried about Smith? And which coordinators might get head coaching interest?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Reevaluating bold predictions for all 32 teams: What has been right, wrong?",
-      "link": "https://www.espn.com/nfl/story/_/id/46512815/2025-nfl-season-evaluating-preseason-predictions-all-32-teams-updates",
-      "published": "Thu, 9 Oct 2025 15:47:24 EST",
-      "summary": "We made 32 bold predictions before the season; what has changed, and which need to be changed entirely?",
+      "title": "Watching game tape with Jessie Bates III: How the Falcons' star safety gains an advantage on opponents",
+      "link": "https://www.espn.com/nfl/story/_/id/46438573/nfl-atlanta-falcons-safety-jessie-bates-iii-film-breakdown-notetaking-2025",
+      "published": "Fri, 10 Oct 2025 09:55:46 EST",
+      "summary": "Bates is an elite talent in the Falcons' defense, but his real edge on the field might come from two tablets and five years of detailed notes.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "The Playbook: Lineup locks, Shadow Reports for Week 6",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46508088/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-6-shadow-reports-mike-clay",
-      "published": "Thu, 9 Oct 2025 23:31:18 EST",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+      "title": "Don't be surprised if... McMillan finds end zone, Judkins finishes top 3 in rushing",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46465115/nfl-fantasy-football-rankings-predictions-surprises-week-6",
+      "published": "Fri, 10 Oct 2025 09:34:31 EST",
+      "summary": "Week 6 storylines include a pair of impressive rookies, and is the Mayfield/Egbuka connection sustainable?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Should you move on from Jameson Williams, A.J. Brown or other disappointing picks?",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46530008/fantasy-football-week-6-start-sit-trade-candidates",
-      "published": "Thu, 9 Oct 2025 23:31:18 EST",
-      "summary": "Matt Bowen discusses eight players who have fallen short of expectations early on, and how to value them.",
+      "title": "Last-minute pickups: Keep an eye on Mac Jones, don't overlook Romeo Doubs",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46540856/fantasy-football-streaming-last-minute-pickups-week-6-free-agents",
+      "published": "Fri, 10 Oct 2025 09:34:31 EST",
+      "summary": "If bye weeks or injuries have you seeking lineup help, we have available options for you to consider.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -129,24 +150,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "'Dak loves him, trusts him': Jake Ferguson is off to a historic start, and it's no fluke",
-      "link": "https://www.espn.com/nfl/story/_/id/46530288/nfl-dallas-cowboys-jake-ferguson",
-      "published": "Thu, 9 Oct 2025 07:54:36 EST",
-      "summary": "The Cowboys tight end has 41 catches and three touchdowns, as Dallas leans on him with CeeDee Lamb sidelined.",
+      "title": "After improbable comeback, Cam Ward's 'poise' is why Titans are confident about his future",
+      "link": "https://www.espn.com/nfl/story/_/id/46542367/tennessee-titans-cam-ward-respect-veterans-jeffery-simmons",
+      "published": "Fri, 10 Oct 2025 09:41:42 EST",
+      "summary": "After Ward's performance, defensive tackle Jeffery Simmons told him that's why they started him No. 1.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Why the return of DeShon Elliott means so much to Pittsburgh's defense",
-      "link": "https://www.espn.com/nfl/story/_/id/46535453/pittsburgh-steelers-defense-deshon-elliott-return-2025",
-      "published": "Thu, 9 Oct 2025 07:54:36 EST",
-      "summary": "The safety announced his return with an INT against the Vikings after missing two games with a knee injury.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Why Kellen Moore sees more involvement ahead for Taysom Hill, Foster Moreau",
-      "link": "https://www.espn.com/nfl/story/_/id/46535631/new-orleans-saints-offense-taysom-hill-foster-moreau-2025",
-      "published": "Thu, 9 Oct 2025 07:54:36 EST",
-      "summary": "The pair made their season debuts in the Saints' victory over the Giants, and there's momentum for more.",
+      "title": "After several missed kicks, the pressure is on Rams kicking unit",
+      "link": "https://www.espn.com/nfl/story/_/id/46542454/los-angeles-rams-joshua-karty-missed-kicks-pressure-on",
+      "published": "Fri, 10 Oct 2025 09:41:42 EST",
+      "summary": "This season, Karty has missed five kicks. Four of the kicks by Karty have been blocked, the most for any kicker in the league.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
