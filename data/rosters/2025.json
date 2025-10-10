@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T20:25:13Z",
+  "generated_at": "2025-10-10T21:19:21Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1227,17 +1227,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "5927",
-          "full_name": "Terry McLaurin",
-          "first_name": "Terry",
-          "last_name": "McLaurin",
-          "team": "WAS",
+          "player_id": "8134",
+          "full_name": "Khalil Shakir",
+          "first_name": "Khalil",
+          "last_name": "Shakir",
+          "team": "BUF",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Quadriceps",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759944640410
+          "news_updated": 1759843849896
         },
         {
           "player_id": "2747",
@@ -1281,6 +1281,19 @@
           "news_updated": 1759944040385
         },
         {
+          "player_id": "3200",
+          "full_name": "Sterling Shepard",
+          "first_name": "Sterling",
+          "last_name": "Shepard",
+          "team": "TB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849726
+        },
+        {
           "player_id": "4950",
           "full_name": "Christian Kirk",
           "first_name": "Christian",
@@ -1294,17 +1307,17 @@
           "news_updated": 1759716057736
         },
         {
-          "player_id": "5773",
-          "full_name": "KhaDarel Hodge",
-          "first_name": "KhaDarel",
-          "last_name": "Hodge",
-          "team": "ATL",
+          "player_id": "5927",
+          "full_name": "Terry McLaurin",
+          "first_name": "Terry",
+          "last_name": "McLaurin",
+          "team": "WAS",
           "position": "WR",
           "status": "Active",
           "injury_status": "Questionable",
-          "injury_body_part": "Groin",
+          "injury_body_part": "Quadriceps",
           "injury_start_date": null,
-          "news_updated": 1758910528408
+          "news_updated": 1759944640410
         },
         {
           "player_id": "7553",
@@ -1318,19 +1331,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759103750383
-        },
-        {
-          "player_id": "8134",
-          "full_name": "Khalil Shakir",
-          "first_name": "Khalil",
-          "last_name": "Shakir",
-          "team": "BUF",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849896
         },
         {
           "player_id": "8917",
@@ -2493,17 +2493,17 @@
           "news_updated": 1759725357396
         },
         {
-          "player_id": "6794",
-          "full_name": "Justin Jefferson",
-          "first_name": "Justin",
-          "last_name": "Jefferson",
-          "team": "MIN",
+          "player_id": "4981",
+          "full_name": "Calvin Ridley",
+          "first_name": "Calvin",
+          "last_name": "Ridley",
+          "team": "TEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759860949033
+          "news_updated": 1759793142870
         },
         {
           "player_id": "5955",
@@ -2638,19 +2638,6 @@
           "news_updated": 1759946140513
         },
         {
-          "player_id": "4981",
-          "full_name": "Calvin Ridley",
-          "first_name": "Calvin",
-          "last_name": "Ridley",
-          "team": "TEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759793142870
-        },
-        {
           "player_id": "5848",
           "full_name": "Hollywood Brown",
           "first_name": "Hollywood",
@@ -2662,6 +2649,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848349260
+        },
+        {
+          "player_id": "6794",
+          "full_name": "Justin Jefferson",
+          "first_name": "Justin",
+          "last_name": "Jefferson",
+          "team": "MIN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759860949033
         }
       ],
       "taxi": [],

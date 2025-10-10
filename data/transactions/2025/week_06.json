@@ -1,9 +1,34 @@
 {
   "season": 2025,
   "week": 6,
-  "generated_at": "2025-10-10T20:25:19Z",
+  "generated_at": "2025-10-10T21:19:24Z",
   "league_id": "1262790170931892224",
   "moves": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1760128668451,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1121955973880532992",
+      "transaction_id": "1282476224383311872",
+      "adds": {
+        "3200": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": {
+        "5773": 6
+      },
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1760128668451,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -11,8 +36,8 @@
       "created": 1760121257131,
       "settings": null,
       "leg": 6,
-      "creator": "1151413424695001088",
       "draft_picks": [],
+      "creator": "1151413424695001088",
       "transaction_id": "1282445139058380800",
       "adds": {
         "12524": 4
@@ -36,8 +61,8 @@
       "created": 1760045911878,
       "settings": null,
       "leg": 6,
-      "creator": "1121955973880532992",
       "draft_picks": [],
+      "creator": "1121955973880532992",
       "transaction_id": "1282129118162333696",
       "adds": {
         "5773": 6
@@ -61,8 +86,8 @@
       "created": 1760040306906,
       "settings": null,
       "leg": 6,
-      "creator": "1124100247921254400",
       "draft_picks": [],
+      "creator": "1124100247921254400",
       "transaction_id": "1282105609205866496",
       "adds": {
         "5230": 8
@@ -86,8 +111,8 @@
       "created": 1759975714274,
       "settings": null,
       "leg": 6,
-      "creator": "1266130243710619648",
       "draft_picks": [],
+      "creator": "1266130243710619648",
       "transaction_id": "1281834688066887682",
       "adds": {
         "8132": 9
@@ -111,8 +136,8 @@
       "created": 1759957911838,
       "settings": null,
       "leg": 6,
-      "creator": "604792816572366848",
       "draft_picks": [],
+      "creator": "604792816572366848",
       "transaction_id": "1281760019242569728",
       "adds": {
         "LV": 2
@@ -136,8 +161,8 @@
       "created": 1759957372639,
       "settings": null,
       "leg": 6,
-      "creator": "1266150695719948288",
       "draft_picks": [],
+      "creator": "1266150695719948288",
       "transaction_id": "1281757757678026752",
       "adds": null,
       "consenter_ids": [
@@ -159,8 +184,8 @@
       "created": 1759940518742,
       "settings": null,
       "leg": 6,
-      "creator": "1124100247921254400",
       "draft_picks": [],
+      "creator": "1124100247921254400",
       "transaction_id": "1281687067310448640",
       "adds": {
         "JAX": 8
@@ -184,8 +209,8 @@
       "created": 1759940473296,
       "settings": null,
       "leg": 6,
-      "creator": "1124100247921254400",
       "draft_picks": [],
+      "creator": "1124100247921254400",
       "transaction_id": "1281686876691890176",
       "adds": {
         "6528": 8
@@ -209,8 +234,8 @@
       "created": 1759924782806,
       "settings": null,
       "leg": 6,
-      "creator": "1266150695719948288",
       "draft_picks": [],
+      "creator": "1266150695719948288",
       "transaction_id": "1281621066011140096",
       "adds": {
         "96": 10
@@ -234,8 +259,8 @@
       "created": 1759924760325,
       "settings": null,
       "leg": 6,
-      "creator": "1266150695719948288",
       "draft_picks": [],
+      "creator": "1266150695719948288",
       "transaction_id": "1281620971718995968",
       "adds": {
         "7090": 10
@@ -257,8 +282,8 @@
       "created": 1759921987852,
       "settings": null,
       "leg": 6,
-      "creator": "604792816572366848",
       "draft_picks": [],
+      "creator": "604792816572366848",
       "transaction_id": "1281609343120187392",
       "adds": null,
       "consenter_ids": [

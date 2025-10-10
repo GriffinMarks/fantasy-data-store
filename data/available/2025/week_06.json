@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T20:25:14Z",
+  "generated_at": "2025-10-10T21:19:22Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -21964,6 +21964,13 @@
       "status": "Active"
     },
     {
+      "player_id": "5773",
+      "full_name": "KhaDarel Hodge",
+      "team": "ATL",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "7580",
       "full_name": "Khalil McClain",
       "team": null,
@@ -24914,13 +24921,6 @@
       "player_id": "8633",
       "full_name": "Stephon Robinson",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "3200",
-      "full_name": "Sterling Shepard",
-      "team": "TB",
       "position": "WR",
       "status": "Active"
     },
