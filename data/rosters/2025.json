@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T18:32:56Z",
+  "generated_at": "2025-10-10T19:18:21Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -855,6 +855,19 @@
           "news_updated": 1759790742367
         },
         {
+          "player_id": "12524",
+          "full_name": "Shedeur Sanders",
+          "first_name": "Shedeur",
+          "last_name": "Sanders",
+          "team": "CLE",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759941040004
+        },
+        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -892,19 +905,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759880157721
-        },
-        {
-          "player_id": "9506",
-          "full_name": "Sean Tucker",
-          "first_name": "Sean",
-          "last_name": "Tucker",
-          "team": "TB",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849755
         }
       ],
       "taxi": [],

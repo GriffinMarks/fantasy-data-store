@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T18:32:57Z",
+  "generated_at": "2025-10-10T19:18:22Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -3774,13 +3774,6 @@
       "player_id": "7063",
       "full_name": "Shea Patterson",
       "team": null,
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "12524",
-      "full_name": "Shedeur Sanders",
-      "team": "CLE",
       "position": "QB",
       "status": "Active"
     },
@@ -8891,6 +8884,13 @@
       "player_id": "7005",
       "full_name": "Scottie Phillips",
       "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "9506",
+      "full_name": "Sean Tucker",
+      "team": "TB",
       "position": "RB",
       "status": "Active"
     },
