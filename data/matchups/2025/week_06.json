@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 6,
-  "generated_at": "2025-10-10T01:48:12Z",
+  "generated_at": "2025-10-10T03:03:43Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -60,7 +60,7 @@
             "17",
             "PHI"
           ],
-          "points": 23.4,
+          "points": 41.6,
           "projected_points": null
         },
         {
@@ -72,8 +72,8 @@
             "5850",
             "7547",
             "11628",
-            "2505",
-            "4039",
+            "4066",
+            "7607",
             "10955",
             "CLE"
           ],
@@ -138,7 +138,7 @@
             "8259",
             "NE"
           ],
-          "points": 21.4,
+          "points": 34.9,
           "projected_points": null
         },
         {
@@ -233,7 +233,7 @@
             "0",
             "JAX"
           ],
-          "points": 23.16,
+          "points": 30.32,
           "projected_points": null
         }
       ]

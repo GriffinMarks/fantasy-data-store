@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-10T01:48:12Z",
+  "generated_at": "2025-10-10T03:03:43Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2721,17 +2721,17 @@
           "news_updated": 1759847447787
         },
         {
-          "player_id": "7607",
-          "full_name": "Michael Carter",
-          "first_name": "Michael",
-          "last_name": "Carter",
-          "team": "ARI",
+          "player_id": "5850",
+          "full_name": "Josh Jacobs",
+          "first_name": "Josh",
+          "last_name": "Jacobs",
+          "team": "GB",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759873857105
+          "news_updated": 1759930502403
         },
         {
           "player_id": "7547",
@@ -2760,30 +2760,30 @@
           "news_updated": 1759870256947
         },
         {
-          "player_id": "2505",
-          "full_name": "Darren Waller",
-          "first_name": "Darren",
-          "last_name": "Waller",
-          "team": "MIA",
+          "player_id": "4066",
+          "full_name": "Evan Engram",
+          "first_name": "Evan",
+          "last_name": "Engram",
+          "team": "DEN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848348136
+          "news_updated": 1759935303295
         },
         {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
-          "position": "WR",
+          "player_id": "7607",
+          "full_name": "Michael Carter",
+          "first_name": "Michael",
+          "last_name": "Carter",
+          "team": "ARI",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849559
+          "news_updated": 1759873857105
         },
         {
           "player_id": "10955",
@@ -2853,6 +2853,32 @@
           "news_updated": 1759896661007
         },
         {
+          "player_id": "2505",
+          "full_name": "Darren Waller",
+          "first_name": "Darren",
+          "last_name": "Waller",
+          "team": "MIA",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759848348136
+        },
+        {
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849559
+        },
+        {
           "player_id": "4040",
           "full_name": "JuJu Smith-Schuster",
           "first_name": "JuJu",
@@ -2864,32 +2890,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759931703814
-        },
-        {
-          "player_id": "4066",
-          "full_name": "Evan Engram",
-          "first_name": "Evan",
-          "last_name": "Engram",
-          "team": "DEN",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759935303295
-        },
-        {
-          "player_id": "5850",
-          "full_name": "Josh Jacobs",
-          "first_name": "Josh",
-          "last_name": "Jacobs",
-          "team": "GB",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759930502403
         },
         {
           "player_id": "7594",
