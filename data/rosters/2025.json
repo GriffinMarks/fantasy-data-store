@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-11T16:25:18Z",
+  "generated_at": "2025-10-11T17:17:36Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2747,17 +2747,17 @@
           "news_updated": 1759870256947
         },
         {
-          "player_id": "4066",
-          "full_name": "Evan Engram",
-          "first_name": "Evan",
-          "last_name": "Engram",
-          "team": "DEN",
+          "player_id": "2505",
+          "full_name": "Darren Waller",
+          "first_name": "Darren",
+          "last_name": "Waller",
+          "team": "MIA",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759935303295
+          "news_updated": 1759848348136
         },
         {
           "player_id": "7607",
@@ -2786,11 +2786,11 @@
           "news_updated": 1759738860331
         },
         {
-          "player_id": "CLE",
+          "player_id": "TB",
           "full_name": null,
-          "first_name": "Cleveland",
-          "last_name": "Browns",
-          "team": "CLE",
+          "first_name": "Tampa Bay",
+          "last_name": "Buccaneers",
+          "team": "TB",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -2840,19 +2840,6 @@
           "news_updated": 1759896661007
         },
         {
-          "player_id": "2505",
-          "full_name": "Darren Waller",
-          "first_name": "Darren",
-          "last_name": "Waller",
-          "team": "MIA",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759848348136
-        },
-        {
           "player_id": "4039",
           "full_name": "Cooper Kupp",
           "first_name": "Cooper",
@@ -2877,6 +2864,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759931703814
+        },
+        {
+          "player_id": "4066",
+          "full_name": "Evan Engram",
+          "first_name": "Evan",
+          "last_name": "Engram",
+          "team": "DEN",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759935303295
         },
         {
           "player_id": "7594",
