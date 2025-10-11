@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-11T18:27:55Z",
+  "generated_at": "2025-10-11T19:15:44Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -974,30 +974,30 @@
           "news_updated": 1759727757412
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
+          "player_id": "5846",
+          "full_name": "DK Metcalf",
+          "first_name": "DK",
+          "last_name": "Metcalf",
+          "team": "PIT",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
+          "news_updated": 1759877457388
         },
         {
-          "player_id": "12518",
-          "full_name": "Tyler Warren",
-          "first_name": "Tyler",
-          "last_name": "Warren",
-          "team": "IND",
+          "player_id": "8110",
+          "full_name": "Jake Ferguson",
+          "first_name": "Jake",
+          "last_name": "Ferguson",
+          "team": "DAL",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759881358279
+          "news_updated": 1759716356294
         },
         {
           "player_id": "12514",
@@ -1054,6 +1054,19 @@
           "news_updated": 1759767361308
         },
         {
+          "player_id": "12518",
+          "full_name": "Tyler Warren",
+          "first_name": "Tyler",
+          "last_name": "Warren",
+          "team": "IND",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759881358279
+        },
+        {
           "player_id": "4199",
           "full_name": "Aaron Jones",
           "first_name": "Aaron",
@@ -1067,19 +1080,6 @@
           "news_updated": 1759272653071
         },
         {
-          "player_id": "5846",
-          "full_name": "DK Metcalf",
-          "first_name": "DK",
-          "last_name": "Metcalf",
-          "team": "PIT",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759877457388
-        },
-        {
           "player_id": "5995",
           "full_name": "Justice Hill",
           "first_name": "Justice",
@@ -1091,19 +1091,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848348696
-        },
-        {
-          "player_id": "8110",
-          "full_name": "Jake Ferguson",
-          "first_name": "Jake",
-          "last_name": "Ferguson",
-          "team": "DAL",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759716356294
         },
         {
           "player_id": "8125",
@@ -1130,6 +1117,19 @@
           "injury_body_part": "Toe",
           "injury_start_date": null,
           "news_updated": 1759954242048
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
