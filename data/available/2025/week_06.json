@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-12T18:29:28Z",
+  "generated_at": "2025-10-12T19:16:40Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -271,6 +271,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "1433",
+      "full_name": "Brandon McManus",
+      "team": "GB",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "11949",
       "full_name": "Brayden Narveson",
       "team": null,
@@ -465,13 +472,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "5095",
-      "full_name": "Daniel Carlson",
-      "team": "LV",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "5247",

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-12T18:29:27Z",
+  "generated_at": "2025-10-12T19:16:40Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -347,17 +347,17 @@
           "news_updated": 1759866649603
         },
         {
-          "player_id": "1433",
-          "full_name": "Brandon McManus",
-          "first_name": "Brandon",
-          "last_name": "McManus",
-          "team": "GB",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759164056704
+          "news_updated": null
         },
         {
           "player_id": "LV",
@@ -425,6 +425,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878658190
+        },
+        {
+          "player_id": "5095",
+          "full_name": "Daniel Carlson",
+          "first_name": "Daniel",
+          "last_name": "Carlson",
+          "team": "LV",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759735859442
         },
         {
           "player_id": "6803",
