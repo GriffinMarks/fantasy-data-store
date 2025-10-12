@@ -1,67 +1,74 @@
 {
-  "generated_at": "2025-10-12T21:19:09Z",
-  "count": 18,
+  "generated_at": "2025-10-12T22:20:26Z",
+  "count": 19,
   "articles": [
+    {
+      "title": "Follow live: Bucs, 49ers facing off in matchup of NFC division leaders",
+      "link": "https://www.espn.com/nfl/game/_/gameId/401772749/49ers-buccaneers",
+      "published": "Sun, 12 Oct 2025 18:10:56 EST",
+      "summary": "null",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tua calls out some Fins for meeting attendance",
+      "link": "https://www.espn.com/nfl/story/_/id/46575310/tagovailoa-calls-some-dolphins-player-meeting-attendance",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "summary": "Dolphins quarterback Tua Tagovailoa said Sunday that some of his teammates are showing up late or not at all to player-led meetings.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Banged-up 49ers lose top LB Warner to injury",
       "link": "https://www.espn.com/nfl/story/_/id/46574756/banged-49ers-lose-top-lb-fred-warner-ankle-injury",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "The San Francisco 49ers took another significant injury hit Sunday when linebacker Fred Warner departed in the first quarter with a right ankle injury.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Nacua limited by ankle injury; Week 7 status TBD",
+      "link": "https://www.espn.com/nfl/story/_/id/46575058/rams-puka-nacua-limited-ankle-injury-week-7-status-tbd",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "summary": "Rams star WR Puka Nacua's status for Week 7 against the Jaguars is in question following an ankle injury that limited him in Sunday's win.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Glenn defends Fields despite Jets' -10 pass yards",
       "link": "https://www.espn.com/nfl/story/_/id/46573305/glenn-defends-justin-fields-jets-10-net-pass-yards",
-      "published": "Sun, 12 Oct 2025 17:16:40 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "Quarterback Justin Fields received a strong vote of confidence from coach Aaron Glenn despite the worst passing performance in Jets history.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Colts' Richardson has orbital fracture from mishap",
       "link": "https://www.espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "Colts quarterback Anthony Richardson Sr. sustained an orbital fracture during pregame warmups and was inactive for his team's 31-27 victory over game the Cardinals.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Bengals TE Gesicki (pec) exits against Packers",
+      "link": "https://www.espn.com/nfl/story/_/id/46575406/bengals-mike-gesicki-exits-vs-packers-pectoral-injury",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "summary": "Bengals tight end Mike Gesicki was ruled out of Sunday's game against the Packers with a pectoral injury.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sanchez booked in jail, says focus on recovery",
       "link": "https://www.espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Cards WR Harrison suffers concussion, ruled out",
       "link": "https://www.espn.com/nfl/story/_/id/46573394/cardinals-wr-marvin-harrison-jr-suffers-concussion-vs-colts",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "Cardinals wide receiver Marvin Harrison Jr. was ruled out against the Colts with a concussion.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources eye bevy of NFL trades before deadline",
-      "link": "https://www.espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
-      "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Commanders rule out receivers McLaurin, Brown",
-      "link": "https://www.espn.com/nfl/story/_/id/46562230/commanders-rule-receivers-mclaurin-brown-vs-bears",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
-      "summary": "Commanders coach Dan Quinn has ruled out wide receivers Terry McLaurin (quad) and Noah Brown (groin/knee) for Monday's game against the Bears, while Deebo Samuel (heel) is uncertain to play.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Bills' Hamlin, Sanders to IR; Milano out for MNF",
-      "link": "https://www.espn.com/nfl/story/_/id/46562241/bills-place-hamlin-sanders-ir-rule-milano-mnf",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
-      "summary": "The Bills placed S Damar Hamlin and DT T.J. Sanders on injured reserve and ruled LB Matt Milano out for Monday night's matchup against the Falcons, coach Sean McDermott announced Saturday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc8 Reid's 2026 draft QB rankings: Who's No. 1?",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-      "published": "Sun, 12 Oct 2025 17:15:12 EST",
+      "published": "Sun, 12 Oct 2025 18:10:25 EST",
       "summary": "Who are the best quarterbacks in the 2026 class? We ranked the top 14 who could get picked -- including a few playing against each other this week.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -101,10 +108,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "The unique way Patriots coach Mike Vrabel selects weekly game captains: 'It's a dope thing'",
-      "link": "https://www.espn.com/nfl/story/_/id/46557762/how-new-england-patriots-coach-mike-vrabel-selects-weekly-game-captains",
-      "published": "Sun, 12 Oct 2025 13:17:31 EST",
-      "summary": "This week, Mike Reiss highlights stats to know, rookie returners and where the lineman had dinner this week.",
+      "title": "The Broncos are a defensive-based team, and that's what they need to be right now",
+      "link": "https://www.espn.com/nfl/story/_/id/46573384/denver-broncos-defense-team-sean-payton-2025-nfl-week-6",
+      "published": "Sun, 12 Oct 2025 18:05:13 EST",
+      "summary": "Sean Payton is known for his great offenses. But after another big day on the other side of the ball, he knows Denver has a defensive personality.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
