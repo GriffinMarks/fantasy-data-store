@@ -1,88 +1,95 @@
 {
-  "generated_at": "2025-10-12T22:20:26Z",
+  "generated_at": "2025-10-12T23:19:58Z",
   "count": 19,
   "articles": [
     {
       "title": "Follow live: Bucs, 49ers facing off in matchup of NFC division leaders",
       "link": "https://www.espn.com/nfl/game/_/gameId/401772749/49ers-buccaneers",
-      "published": "Sun, 12 Oct 2025 18:10:56 EST",
+      "published": "Sun, 12 Oct 2025 18:58:43 EST",
       "summary": "null",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Tua calls out some Fins for meeting attendance",
       "link": "https://www.espn.com/nfl/story/_/id/46575310/tagovailoa-calls-some-dolphins-player-meeting-attendance",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
       "summary": "Dolphins quarterback Tua Tagovailoa said Sunday that some of his teammates are showing up late or not at all to player-led meetings.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Unbuckled: Dowdle backs up talk, rolls Cowboys",
+      "link": "https://www.espn.com/nfl/story/_/id/46575559/rico-dowdle-backs-talk-steamrolls-cowboys-239-yards",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
+      "summary": "Ex-Cowboys RB Rico Dowdle backed up his trash talk against his former team, racking up a Panthers-record 239 scrimmage yards in a 30-27 victory.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Banged-up 49ers lose top LB Warner to injury",
       "link": "https://www.espn.com/nfl/story/_/id/46574756/banged-49ers-lose-top-lb-fred-warner-ankle-injury",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
       "summary": "The San Francisco 49ers took another significant injury hit Sunday when linebacker Fred Warner departed in the first quarter with a right ankle injury.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Nacua limited by ankle injury; Week 7 status TBD",
-      "link": "https://www.espn.com/nfl/story/_/id/46575058/rams-puka-nacua-limited-ankle-injury-week-7-status-tbd",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
-      "summary": "Rams star WR Puka Nacua's status for Week 7 against the Jaguars is in question following an ankle injury that limited him in Sunday's win.",
+      "title": "Depleted Bucs lose Egbuka to hamstring injury",
+      "link": "https://www.espn.com/nfl/story/_/id/46575963/depleted-bucs-lose-wr-emeka-egbuka-hamstring-injury",
+      "published": "Sun, 12 Oct 2025 19:10:42 EST",
+      "summary": "A depleted Buccaneers offense suffered another blow after rookie WR Emeka Egbuka exited Sunday's game against the 49ers with a hamstring injury.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Glenn defends Fields despite Jets' -10 pass yards",
       "link": "https://www.espn.com/nfl/story/_/id/46573305/glenn-defends-justin-fields-jets-10-net-pass-yards",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
       "summary": "Quarterback Justin Fields received a strong vote of confidence from coach Aaron Glenn despite the worst passing performance in Jets history.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Ravens lose again but eye Lamar return after bye",
+      "link": "https://www.espn.com/nfl/story/_/id/46576070/ravens-lose-again-hope-lamar-jackson-return-bye",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
+      "summary": "Ravens coach John Harbaugh says \"the hope\" is to have injured quarterback Lamar Jackson return after the bye and start the Oct. 26 game against the Chicago Bears.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Colts' Richardson has orbital fracture from mishap",
       "link": "https://www.espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
       "summary": "Colts quarterback Anthony Richardson Sr. sustained an orbital fracture during pregame warmups and was inactive for his team's 31-27 victory over game the Cardinals.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Bengals TE Gesicki (pec) exits against Packers",
-      "link": "https://www.espn.com/nfl/story/_/id/46575406/bengals-mike-gesicki-exits-vs-packers-pectoral-injury",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
-      "summary": "Bengals tight end Mike Gesicki was ruled out of Sunday's game against the Packers with a pectoral injury.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sanchez booked in jail, says focus on recovery",
-      "link": "https://www.espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
-      "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cards WR Harrison suffers concussion, ruled out",
-      "link": "https://www.espn.com/nfl/story/_/id/46573394/cardinals-wr-marvin-harrison-jr-suffers-concussion-vs-colts",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
-      "summary": "Cardinals wide receiver Marvin Harrison Jr. was ruled out against the Colts with a concussion.",
+      "title": "Nacua limited by ankle injury; Week 7 status TBD",
+      "link": "https://www.espn.com/nfl/story/_/id/46575058/rams-puka-nacua-limited-ankle-injury-week-7-status-tbd",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
+      "summary": "Rams star WR Puka Nacua's status for Week 7 against the Jaguars is in question following an ankle injury that limited him in Sunday's win.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc8 Reid's 2026 draft QB rankings: Who's No. 1?",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-      "published": "Sun, 12 Oct 2025 18:10:25 EST",
+      "published": "Sun, 12 Oct 2025 19:10:43 EST",
       "summary": "Who are the best quarterbacks in the 2026 class? We ranked the top 14 who could get picked -- including a few playing against each other this week.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Questions, takeaways from NFL Week 6: Panthers squeak by against Cowboys, Jets remain winless",
+      "title": "Questions, takeaways from NFL Week 6: ; Panthers and Chargers win thrillers",
       "link": "https://www.espn.com/nfl/story/_/id/46531418/nfl-week-6-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "published": "Sun, 12 Oct 2025 16:19:45 EST",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 6.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Week 6 winners and losers: Dowdle makes case to keep starting; time to sack Fields?",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-46574955/nfl-week-6-fantasy-football-winners-losers-injuries-rankings-more",
+      "published": "Sun, 12 Oct 2025 18:55:32 EST",
+      "summary": "Rico Dowdle, Jaxon Smith-Njigba and De'Von Achane dazzled with big Week 6 performances, but several of fantasy's most reliable stars early this season had a down week.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Buzz: Dowdle stars again with 239 yards; Is Hubbard's starting job in jeopardy?",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "published": "Sun, 12 Oct 2025 16:59:54 EST",
+      "published": "Sun, 12 Oct 2025 18:55:32 EST",
       "summary": "A closer look at what stood out from Sunday's first set of games, including Rico Dowdle combining for 239 yards and potentially shaking up Carolina's RB depth chart.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -101,7 +108,7 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Best of NFL Week 6's arrivals, featuring Daniel Jones' Colts guitar",
+      "title": "Best of NFL Week 6's arrivals, featuring Travis Kelce's Louis Vuitton flannel",
       "link": "https://www.espn.com/nfl/story/_/id/46543569/week-6-nfl-fashionable-arrivals-2025",
       "published": "Sun, 12 Oct 2025 12:56:16 EST",
       "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style.",
@@ -126,13 +133,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/46554443/historic-nfl-comebacks-week-5-buccaneers",
       "published": "Sun, 12 Oct 2025 07:29:34 EST",
       "summary": "The 17 games that featured a go-ahead score in the final minute of regulation are the most through five weeks of a season since the merger.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "The AFC North QB landscape is not what it was to start the season: What's going on?",
-      "link": "https://www.espn.com/nfl/story/_/id/46532308/quarterbacks-afc-north-aaron-rodgers-joe-flacco-dillon-gabriel-cooper-rush-lamar-jackson",
-      "published": "Sat, 11 Oct 2025 07:18:39 EST",
-      "summary": "It's a bizarre time in the division with Aaron Rodgers the only starting QB who began 2025 in that capacity for the same team.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
   ]
