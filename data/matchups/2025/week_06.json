@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 6,
-  "generated_at": "2025-10-12T15:20:12Z",
+  "generated_at": "2025-10-12T16:26:12Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "11533",
             "DEN"
           ],
-          "points": 11.3,
+          "points": 16.5,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "10955",
             "TB"
           ],
-          "points": 11.6,
+          "points": 13.56,
           "projected_points": null
         }
       ]
@@ -194,7 +194,7 @@
             "11789",
             "LAR"
           ],
-          "points": 1.5,
+          "points": 4.0,
           "projected_points": null
         }
       ]
@@ -216,7 +216,7 @@
             "4195",
             "BUF"
           ],
-          "points": 7.2,
+          "points": 8.6,
           "projected_points": null
         },
         {
