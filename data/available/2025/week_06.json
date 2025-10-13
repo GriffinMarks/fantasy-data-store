@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-13T22:21:08Z",
+  "generated_at": "2025-10-13T23:20:06Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3750,
   "players": [
     {
       "player_id": "BAL",
@@ -11005,13 +11005,6 @@
       "player_id": "5231",
       "full_name": "Cole Hunt",
       "team": null,
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "6826",
-      "full_name": "Cole Kmet",
-      "team": "CHI",
       "position": "TE",
       "status": "Active"
     },
