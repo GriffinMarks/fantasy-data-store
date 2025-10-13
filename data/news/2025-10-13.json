@@ -1,82 +1,75 @@
 {
-  "generated_at": "2025-10-13T19:18:16Z",
-  "count": 24,
+  "generated_at": "2025-10-13T20:26:15Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Checking the temperature of the NFL's hottest seats: Barnwell on Mike McDaniel, Justin Fields",
+      "link": "https://www.espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan",
+      "published": "Mon, 13 Oct 2025 15:51:29 EST",
+      "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Titans fire coach Callahan after 1-5 start in 2025",
       "link": "https://www.espn.com/nfl/story/_/id/46583863/titans-fire-coach-brian-callahan-1-5-start-2025",
-      "published": "Mon, 13 Oct 2025 14:24:15 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "The Titans have fired Brian Callahan just six games into his second season as the team's head coach. He finishes with a 4-19 record as the team's coach.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Dolphins' McDaniel: Tua's comments 'misguided'",
+      "link": "https://www.espn.com/nfl/story/_/id/46585082/dolphins-mcdaniel-tagovailoa-picked-wrong-forum-comments",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
+      "summary": "Tua Tagovailoa's comments after Sunday's game were \"misguided,\" and his postgame news conference was not \"not the forum\" to air his concerns, coach Mike McDaniel said Monday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Eagles' pass rush depth takes hit as Smith retires",
       "link": "https://www.espn.com/nfl/story/_/id/46583307/eagles-pass-rush-depth-takes-hit-zadarius-smith-retires",
-      "published": "Mon, 13 Oct 2025 15:03:26 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Eagles veteran edge rusher Za'Darius Smith announced his retirement on social media Monday, marking a sudden departure for a productive player at a position of need for Philadelphia.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Tomlin questions Browns' trade of Flacco to Cincy",
       "link": "https://www.espn.com/nfl/story/_/id/46583801/tomlin-browns-trading-flacco-bengals-make-sense",
-      "published": "Mon, 13 Oct 2025 15:03:25 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Steelers coach Mike Tomlin on Monday openly questioned the Browns and general manager Andrew Berry for the decision to execute a midseason trade sending quarterback Joe Flacco to the Bengals, saying, \"It doesn't make sense.\"",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "A day later, Glenn admits Fields took 'step back'",
       "link": "https://www.espn.com/nfl/story/_/id/46582633/jets-glenn-admits-fields-took-step-back-play-better",
-      "published": "Mon, 13 Oct 2025 15:03:26 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Jets coach Aaron Glenn said Monday that Justin Fields \"took a step back\" with his performance against the Broncos, a day after he bristled at a question on his quarterback's play in the 13-11 loss.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Vikes' McCarthy practices; status for Week 7 TBD",
-      "link": "https://www.espn.com/nfl/story/_/id/46584318/vikings-jj-mccarthy-practices-status-week-7-tbd",
-      "published": "Mon, 13 Oct 2025 15:03:26 EST",
-      "summary": "J.J. McCarthy practice for the first time since suffering a high ankle sprain but Kevin O'Connell was not ready to commit to him being ready to start next week.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Vrabel focused on wins, not return to Tennessee",
       "link": "https://www.espn.com/nfl/story/_/id/46583766/vrabel-facing-titans-first-firing-unfazed",
-      "published": "Mon, 13 Oct 2025 15:03:25 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Mike Vrabel downplayed his upcoming return to Tennessee, when the New England Patriots visit his former team, the Titans, on Sunday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Godwin, Irving out for banged-up Bucs in Week 7",
       "link": "https://www.espn.com/nfl/story/_/id/46583808/chris-godwin-jr-bucky-irving-buccaneers-mnf-game",
-      "published": "Mon, 13 Oct 2025 15:03:25 EST",
+      "published": "Mon, 13 Oct 2025 16:10:23 EST",
       "summary": "The Buccaneers will be without Chris Godwin and Bucky Irving when they face the Lions next week in a \"Monday Night Football\" clash.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sources: Richardson likely out multiple games",
       "link": "https://www.espn.com/nfl/story/_/id/46582987/sources-colts-anthony-richardson-likely-multiple-games",
-      "published": "Mon, 13 Oct 2025 15:03:26 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Colts QB Anthony Richardson Sr. is likely to miss multiple games after suffering an orbital fracture in a freak pregame incident Sunday, sources told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Rams say Nacua (ankle) dodged long-term injury",
-      "link": "https://www.espn.com/nfl/story/_/id/46583157/rams-say-puka-nacua-dodged-long-term-injury-ankle-sprain",
-      "published": "Mon, 13 Oct 2025 15:03:25 EST",
-      "summary": "Rams receiver Puka Nacua will be day-to-day with a sprained ankle, which he sustained in the second quarter of Sunday's win over the Baltimore Ravens. The team believes, based on the scans of the ankle, that Nacua avoided long-term injury.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc8 Reid's 2026 draft QB rankings: Who's No. 1?",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-      "published": "Mon, 13 Oct 2025 15:03:26 EST",
+      "published": "Mon, 13 Oct 2025 16:10:22 EST",
       "summary": "Who are the best quarterbacks in the 2026 class? We ranked the top 14 who could get picked -- including a few playing against each other this week.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Checking the temperature of the NFL's hottest seats: Barnwell on Mike McDaniel, Justin Fields",
-      "link": "https://www.espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan",
-      "published": "Mon, 13 Oct 2025 14:05:21 EST",
-      "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
