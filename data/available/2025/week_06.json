@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-13T20:26:06Z",
+  "generated_at": "2025-10-13T21:20:29Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3751,
   "players": [
     {
       "player_id": "BAL",
@@ -8104,6 +8104,13 @@
       "status": "Active"
     },
     {
+      "player_id": "7528",
+      "full_name": "Najee Harris",
+      "team": "LAC",
+      "position": "RB",
+      "status": "Inactive"
+    },
+    {
       "player_id": "7475",
       "full_name": "Napoleon Maxwell",
       "team": null,
@@ -11317,13 +11324,6 @@
       "status": "Active"
     },
     {
-      "player_id": "5906",
-      "full_name": "Dawson Knox",
-      "team": "BUF",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "6016",
       "full_name": "Dax Raymond",
       "team": "PIT",
@@ -12727,6 +12727,13 @@
       "player_id": "4314",
       "full_name": "Johnny Mundt",
       "team": "JAX",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "4144",
+      "full_name": "Jonnu Smith",
+      "team": "PIT",
       "position": "TE",
       "status": "Active"
     },
@@ -17587,6 +17594,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "7090",
+      "full_name": "Darnell Mooney",
+      "team": "ATL",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "7056",

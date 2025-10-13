@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-13T20:26:06Z",
+  "generated_at": "2025-10-13T21:20:28Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2157,19 +2157,6 @@
           "news_updated": 1759851048902
         },
         {
-          "player_id": "4144",
-          "full_name": "Jonnu Smith",
-          "first_name": "Jonnu",
-          "last_name": "Smith",
-          "team": "PIT",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759878957465
-        },
-        {
           "player_id": "5849",
           "full_name": "Kyler Murray",
           "first_name": "Kyler",
@@ -2183,6 +2170,19 @@
           "news_updated": 1759944940498
         },
         {
+          "player_id": "5906",
+          "full_name": "Dawson Knox",
+          "first_name": "Dawson",
+          "last_name": "Knox",
+          "team": "BUF",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849431
+        },
+        {
           "player_id": "7042",
           "full_name": "Tyler Bass",
           "first_name": "Tyler",
@@ -2194,32 +2194,6 @@
           "injury_body_part": "Hip",
           "injury_start_date": null,
           "news_updated": 1759952742555
-        },
-        {
-          "player_id": "7090",
-          "full_name": "Darnell Mooney",
-          "first_name": "Darnell",
-          "last_name": "Mooney",
-          "team": "ATL",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hamstring",
-          "injury_start_date": null,
-          "news_updated": 1759154753922
-        },
-        {
-          "player_id": "7528",
-          "full_name": "Najee Harris",
-          "first_name": "Najee",
-          "last_name": "Harris",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Achilles",
-          "injury_start_date": null,
-          "news_updated": 1758744610620
         },
         {
           "player_id": "8180",
@@ -2237,8 +2211,7 @@
       ],
       "taxi": [],
       "ir": [
-        "7042",
-        "7528"
+        "7042"
       ]
     },
     {
