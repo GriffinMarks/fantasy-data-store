@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T13:33:41Z",
+  "generated_at": "2025-10-14T14:25:18Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -334,30 +334,30 @@
           "news_updated": 1759738860345
         },
         {
-          "player_id": "12501",
-          "full_name": "Matthew Golden",
-          "first_name": "Matthew",
-          "last_name": "Golden",
-          "team": "GB",
-          "position": "WR",
+          "player_id": "8228",
+          "full_name": "Jaylen Warren",
+          "first_name": "Jaylen",
+          "last_name": "Warren",
+          "team": "PIT",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759866649603
+          "news_updated": 1759953642088
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "5095",
+          "full_name": "Daniel Carlson",
+          "first_name": "Daniel",
+          "last_name": "Carlson",
+          "team": "LV",
+          "position": "K",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759735859442
         },
         {
           "player_id": "LV",
@@ -401,6 +401,19 @@
           "news_updated": 1759950341754
         },
         {
+          "player_id": "12501",
+          "full_name": "Matthew Golden",
+          "first_name": "Matthew",
+          "last_name": "Golden",
+          "team": "GB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759866649603
+        },
+        {
           "player_id": "12530",
           "full_name": "Travis Hunter",
           "first_name": "Travis",
@@ -427,19 +440,6 @@
           "news_updated": 1759878658190
         },
         {
-          "player_id": "5095",
-          "full_name": "Daniel Carlson",
-          "first_name": "Daniel",
-          "last_name": "Carlson",
-          "team": "LV",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759735859442
-        },
-        {
           "player_id": "6803",
           "full_name": "Brandon Aiyuk",
           "first_name": "Brandon",
@@ -464,19 +464,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759795543169
-        },
-        {
-          "player_id": "8228",
-          "full_name": "Jaylen Warren",
-          "first_name": "Jaylen",
-          "last_name": "Warren",
-          "team": "PIT",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759953642088
         }
       ],
       "taxi": [],
