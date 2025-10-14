@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T04:27:41Z",
+  "generated_at": "2025-10-14T05:22:07Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -9,10 +9,10 @@
       "owner": "Mooner13",
       "team_name": "Jonathan Taylor’s Version",
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "points_for": 595,
-      "points_against": 521,
+      "points_for": 677,
+      "points_against": 619,
       "starters": [
         {
           "player_id": "11560",
@@ -249,11 +249,11 @@
       "owner_id": "604792816572366848",
       "owner": "burnsinator96",
       "team_name": "Waiver Wire Warrior ",
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0,
-      "points_for": 596,
-      "points_against": 511,
+      "points_for": 791,
+      "points_against": 626,
       "starters": [
         {
           "player_id": "5870",
@@ -489,11 +489,11 @@
       "owner_id": "871931147217768448",
       "owner": "jrussss",
       "team_name": "Many Men",
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0,
-      "points_for": 519,
-      "points_against": 617,
+      "points_for": 650,
+      "points_against": 734,
       "starters": [
         {
           "player_id": "4943",
@@ -716,11 +716,11 @@
       "owner_id": "1151413424695001088",
       "owner": "ryanquigg",
       "team_name": "KenBucky Fried Chicken",
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "ties": 0,
-      "points_for": 500,
-      "points_against": 588,
+      "points_for": 580,
+      "points_against": 664,
       "starters": [
         {
           "player_id": "4892",
@@ -929,10 +929,10 @@
       "owner": "DanielRuettiger",
       "team_name": "Robert Boucher Jr.",
       "wins": 5,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "points_for": 663,
-      "points_against": 508,
+      "points_for": 766,
+      "points_against": 637,
       "starters": [
         {
           "player_id": "4984",
@@ -1156,10 +1156,10 @@
       "owner": "OJWhitt2K",
       "team_name": "They hit the second Bower",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points_for": 475,
-      "points_against": 592,
+      "points_for": 592,
+      "points_against": 722,
       "starters": [
         {
           "player_id": "11566",
@@ -1368,10 +1368,10 @@
       "owner": "JefftheBartender",
       "team_name": null,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 564,
-      "points_against": 582,
+      "points_for": 641,
+      "points_against": 663,
       "starters": [
         {
           "player_id": "6804",
@@ -1594,11 +1594,11 @@
       "owner_id": "1124100247921254400",
       "owner": "Bcarrabau",
       "team_name": "My Chubb Hurts",
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0,
-      "points_for": 565,
-      "points_against": 561,
+      "points_for": 695,
+      "points_against": 664,
       "starters": [
         {
           "player_id": "6904",
@@ -1806,11 +1806,11 @@
       "owner_id": "1266130243710619648",
       "owner": "BronnyJr91",
       "team_name": "Easy as A-B-CeeDee",
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0,
-      "points_for": 562,
-      "points_against": 569,
+      "points_for": 660,
+      "points_against": 651,
       "starters": [
         {
           "player_id": "7523",
@@ -2034,10 +2034,10 @@
       "owner": "CruzCarvalho",
       "team_name": "Brown Syndrome ",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points_for": 534,
-      "points_against": 615,
+      "points_for": 623,
+      "points_against": 726,
       "starters": [
         {
           "player_id": "96",
@@ -2234,11 +2234,11 @@
       "owner_id": "1128160904866136064",
       "owner": "tdchamberlain",
       "team_name": "Jerking goff my dicker",
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0,
-      "points_for": 551,
-      "points_against": 579,
+      "points_for": 674,
+      "points_against": 656,
       "starters": [
         {
           "player_id": "3294",
@@ -2450,10 +2450,10 @@
       "owner": "Shmigly67",
       "team_name": "Lights, Camera, Jackson",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points_for": 531,
-      "points_against": 596,
+      "points_for": 608,
+      "points_against": 718,
       "starters": [
         {
           "player_id": "19",
@@ -2677,11 +2677,11 @@
       "owner_id": "467584951626231808",
       "owner": "dellio",
       "team_name": "Morgan Morgan & Morgan",
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0,
-      "points_for": 603,
-      "points_against": 562,
+      "points_for": 714,
+      "points_against": 651,
       "starters": [
         {
           "player_id": "11563",
@@ -2905,10 +2905,10 @@
       "owner": "Delio123",
       "team_name": null,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "points_for": 681,
-      "points_against": 541,
+      "points_for": 796,
+      "points_against": 735,
       "starters": [
         {
           "player_id": "4046",

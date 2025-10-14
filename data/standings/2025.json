@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T04:27:41Z",
+  "generated_at": "2025-10-14T05:22:07Z",
   "league_id": "1262790170931892224",
   "standings": [
     {
@@ -8,140 +8,140 @@
       "owner": "DanielRuettiger",
       "team_name": "Robert Boucher Jr.",
       "wins": 5,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "win_pct": 1.0,
-      "points_for": 663
+      "win_pct": 0.8333333333333334,
+      "points_for": 766
     },
     {
       "roster_id": 14,
       "owner": "Delio123",
       "team_name": null,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "win_pct": 0.8,
-      "points_for": 681
+      "win_pct": 0.6666666666666666,
+      "points_for": 796
+    },
+    {
+      "roster_id": 2,
+      "owner": "burnsinator96",
+      "team_name": "Waiver Wire Warrior ",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "win_pct": 0.6666666666666666,
+      "points_for": 791
+    },
+    {
+      "roster_id": 13,
+      "owner": "dellio",
+      "team_name": "Morgan Morgan & Morgan",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "win_pct": 0.6666666666666666,
+      "points_for": 714
     },
     {
       "roster_id": 1,
       "owner": "Mooner13",
       "team_name": "Jonathan Taylor’s Version",
       "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "win_pct": 0.8,
-      "points_for": 595
-    },
-    {
-      "roster_id": 13,
-      "owner": "dellio",
-      "team_name": "Morgan Morgan & Morgan",
-      "wins": 3,
       "losses": 2,
       "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 603
+      "win_pct": 0.6666666666666666,
+      "points_for": 677
     },
     {
-      "roster_id": 2,
-      "owner": "burnsinator96",
-      "team_name": "Waiver Wire Warrior ",
-      "wins": 3,
+      "roster_id": 11,
+      "owner": "tdchamberlain",
+      "team_name": "Jerking goff my dicker",
+      "wins": 4,
       "losses": 2,
       "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 596
+      "win_pct": 0.6666666666666666,
+      "points_for": 674
+    },
+    {
+      "roster_id": 8,
+      "owner": "Bcarrabau",
+      "team_name": "My Chubb Hurts",
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "win_pct": 0.5,
+      "points_for": 695
+    },
+    {
+      "roster_id": 9,
+      "owner": "BronnyJr91",
+      "team_name": "Easy as A-B-CeeDee",
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "win_pct": 0.5,
+      "points_for": 660
+    },
+    {
+      "roster_id": 3,
+      "owner": "jrussss",
+      "team_name": "Many Men",
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "win_pct": 0.5,
+      "points_for": 650
     },
     {
       "roster_id": 7,
       "owner": "JefftheBartender",
       "team_name": null,
       "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 564
-    },
-    {
-      "roster_id": 11,
-      "owner": "tdchamberlain",
-      "team_name": "Jerking goff my dicker",
-      "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 551
-    },
-    {
-      "roster_id": 8,
-      "owner": "Bcarrabau",
-      "team_name": "My Chubb Hurts",
-      "wins": 2,
       "losses": 3,
       "ties": 0,
-      "win_pct": 0.4,
-      "points_for": 565
+      "win_pct": 0.5,
+      "points_for": 641
     },
     {
-      "roster_id": 9,
-      "owner": "BronnyJr91",
-      "team_name": "Easy as A-B-CeeDee",
+      "roster_id": 4,
+      "owner": "ryanquigg",
+      "team_name": "KenBucky Fried Chicken",
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "win_pct": 0.4,
-      "points_for": 562
-    },
-    {
-      "roster_id": 3,
-      "owner": "jrussss",
-      "team_name": "Many Men",
-      "wins": 2,
-      "losses": 3,
-      "ties": 0,
-      "win_pct": 0.4,
-      "points_for": 519
+      "win_pct": 0.3333333333333333,
+      "points_for": 580
     },
     {
       "roster_id": 10,
       "owner": "CruzCarvalho",
       "team_name": "Brown Syndrome ",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "win_pct": 0.2,
-      "points_for": 534
+      "win_pct": 0.16666666666666666,
+      "points_for": 623
     },
     {
       "roster_id": 12,
       "owner": "Shmigly67",
       "team_name": "Lights, Camera, Jackson",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "win_pct": 0.2,
-      "points_for": 531
-    },
-    {
-      "roster_id": 4,
-      "owner": "ryanquigg",
-      "team_name": "KenBucky Fried Chicken",
-      "wins": 1,
-      "losses": 4,
-      "ties": 0,
-      "win_pct": 0.2,
-      "points_for": 500
+      "win_pct": 0.16666666666666666,
+      "points_for": 608
     },
     {
       "roster_id": 6,
       "owner": "OJWhitt2K",
       "team_name": "They hit the second Bower",
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "win_pct": 0.2,
-      "points_for": 475
+      "win_pct": 0.16666666666666666,
+      "points_for": 592
     }
   ]
 }
