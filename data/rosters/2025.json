@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T15:26:37Z",
+  "generated_at": "2025-10-14T16:29:57Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -41,17 +41,17 @@
           "news_updated": 1759736459758
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
-          "first_name": "Tony",
-          "last_name": "Pollard",
-          "team": "TEN",
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "first_name": "Rhamondre",
+          "last_name": "Stevenson",
+          "team": "NE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759737060024
+          "news_updated": 1759933202508
         },
         {
           "player_id": "11620",
@@ -80,17 +80,17 @@
           "news_updated": 1759905359635
         },
         {
-          "player_id": "12498",
-          "full_name": "Mason Taylor",
-          "first_name": "Mason",
-          "last_name": "Taylor",
-          "team": "NYJ",
+          "player_id": "12506",
+          "full_name": "Harold Fannin",
+          "first_name": "Harold",
+          "last_name": "Fannin",
+          "team": "CLE",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848647940
+          "news_updated": 1759879557579
         },
         {
           "player_id": "12529",
@@ -173,17 +173,17 @@
           "news_updated": 1759953941554
         },
         {
-          "player_id": "12506",
-          "full_name": "Harold Fannin",
-          "first_name": "Harold",
-          "last_name": "Fannin",
-          "team": "CLE",
+          "player_id": "12498",
+          "full_name": "Mason Taylor",
+          "first_name": "Mason",
+          "last_name": "Taylor",
+          "team": "NYJ",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759879557579
+          "news_updated": 1759848647940
         },
         {
           "player_id": "12508",
@@ -212,17 +212,17 @@
           "news_updated": 1759267253156
         },
         {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "first_name": "Rhamondre",
-          "last_name": "Stevenson",
-          "team": "NE",
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "first_name": "Tony",
+          "last_name": "Pollard",
+          "team": "TEN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759933202508
+          "news_updated": 1759737060024
         },
         {
           "player_id": "HOU",
@@ -1826,17 +1826,17 @@
           "news_updated": 1759730758724
         },
         {
-          "player_id": "8132",
-          "full_name": "Tyler Allgeier",
-          "first_name": "Tyler",
-          "last_name": "Allgeier",
-          "team": "ATL",
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "team": "MIN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759103150592
+          "news_updated": 1759738860319
         },
         {
           "player_id": "9488",
@@ -1865,17 +1865,17 @@
           "news_updated": 1759843849968
         },
         {
-          "player_id": "8111",
-          "full_name": "Cade Otton",
-          "first_name": "Cade",
-          "last_name": "Otton",
-          "team": "TB",
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "first_name": "T.J.",
+          "last_name": "Hockenson",
+          "team": "MIN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849714
+          "news_updated": 1759740060361
         },
         {
           "player_id": "2449",
@@ -1945,19 +1945,6 @@
           "news_updated": 1758659461447
         },
         {
-          "player_id": "5844",
-          "full_name": "T.J. Hockenson",
-          "first_name": "T.J.",
-          "last_name": "Hockenson",
-          "team": "MIN",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759740060361
-        },
-        {
           "player_id": "6786",
           "full_name": "CeeDee Lamb",
           "first_name": "CeeDee",
@@ -1969,6 +1956,19 @@
           "injury_body_part": "Ankle",
           "injury_start_date": null,
           "news_updated": 1759843849166
+        },
+        {
+          "player_id": "8111",
+          "full_name": "Cade Otton",
+          "first_name": "Cade",
+          "last_name": "Otton",
+          "team": "TB",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849714
         },
         {
           "player_id": "8121",
@@ -1984,17 +1984,17 @@
           "news_updated": 1759866049397
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
-          "first_name": "Jordan",
-          "last_name": "Mason",
-          "team": "MIN",
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
+          "first_name": "Tyler",
+          "last_name": "Allgeier",
+          "team": "ATL",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860319
+          "news_updated": 1759103150592
         },
         {
           "player_id": "9758",
@@ -2939,17 +2939,17 @@
           "news_updated": 1759937102995
         },
         {
-          "player_id": "9493",
-          "full_name": "Puka Nacua",
-          "first_name": "Puka",
-          "last_name": "Nacua",
-          "team": "LAR",
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson",
+          "first_name": "Wan'Dale",
+          "last_name": "Robinson",
+          "team": "NYG",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759905359635
+          "news_updated": 1759895158740
         },
         {
           "player_id": "5872",
@@ -3045,19 +3045,6 @@
           "news_updated": 1759713957288
         },
         {
-          "player_id": "8126",
-          "full_name": "Wan'Dale Robinson",
-          "first_name": "Wan'Dale",
-          "last_name": "Robinson",
-          "team": "NYG",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759895158740
-        },
-        {
           "player_id": "8151",
           "full_name": "Kenneth Walker",
           "first_name": "Kenneth",
@@ -3095,6 +3082,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759719058625
+        },
+        {
+          "player_id": "9493",
+          "full_name": "Puka Nacua",
+          "first_name": "Puka",
+          "last_name": "Nacua",
+          "team": "LAR",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759905359635
         }
       ],
       "taxi": [],
