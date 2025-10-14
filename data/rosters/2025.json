@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T14:25:18Z",
+  "generated_at": "2025-10-14T15:26:37Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -535,17 +535,17 @@
           "news_updated": 1759103150560
         },
         {
-          "player_id": "12499",
-          "full_name": "Elic Ayomanor",
-          "first_name": "Elic",
-          "last_name": "Ayomanor",
-          "team": "TEN",
+          "player_id": "7569",
+          "full_name": "Nico Collins",
+          "first_name": "Nico",
+          "last_name": "Collins",
+          "team": "HOU",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759883459077
+          "news_updated": 1759698955852
         },
         {
           "player_id": "1339",
@@ -628,6 +628,19 @@
           "news_updated": 1759708556770
         },
         {
+          "player_id": "12499",
+          "full_name": "Elic Ayomanor",
+          "first_name": "Elic",
+          "last_name": "Ayomanor",
+          "team": "TEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759883459077
+        },
+        {
           "player_id": "4381",
           "full_name": "Taysom Hill",
           "first_name": "Taysom",
@@ -665,19 +678,6 @@
           "injury_body_part": "Toe",
           "injury_start_date": null,
           "news_updated": 1758475540771
-        },
-        {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
-          "team": "HOU",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759698955852
         },
         {
           "player_id": "IND",
@@ -2213,6 +2213,7 @@
       ],
       "taxi": [],
       "ir": [
+        "5849",
         "7042"
       ]
     },
