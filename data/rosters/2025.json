@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-14T16:29:57Z",
+  "generated_at": "2025-10-14T17:19:26Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2939,17 +2939,17 @@
           "news_updated": 1759937102995
         },
         {
-          "player_id": "8126",
-          "full_name": "Wan'Dale Robinson",
-          "first_name": "Wan'Dale",
-          "last_name": "Robinson",
-          "team": "NYG",
+          "player_id": "9493",
+          "full_name": "Puka Nacua",
+          "first_name": "Puka",
+          "last_name": "Nacua",
+          "team": "LAR",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759895158740
+          "news_updated": 1759905359635
         },
         {
           "player_id": "5872",
@@ -3045,6 +3045,19 @@
           "news_updated": 1759713957288
         },
         {
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson",
+          "first_name": "Wan'Dale",
+          "last_name": "Robinson",
+          "team": "NYG",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759895158740
+        },
+        {
           "player_id": "8151",
           "full_name": "Kenneth Walker",
           "first_name": "Kenneth",
@@ -3082,19 +3095,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759719058625
-        },
-        {
-          "player_id": "9493",
-          "full_name": "Puka Nacua",
-          "first_name": "Puka",
-          "last_name": "Nacua",
-          "team": "LAR",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759905359635
         }
       ],
       "taxi": [],
