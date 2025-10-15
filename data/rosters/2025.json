@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T22:20:03Z",
+  "generated_at": "2025-10-15T23:20:17Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2105,17 +2105,17 @@
           "news_updated": 1759952141952
         },
         {
-          "player_id": "4033",
-          "full_name": "David Njoku",
-          "first_name": "David",
-          "last_name": "Njoku",
-          "team": "CLE",
+          "player_id": "4144",
+          "full_name": "Jonnu Smith",
+          "first_name": "Jonnu",
+          "last_name": "Smith",
+          "team": "PIT",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759741860293
+          "news_updated": 1759878957465
         },
         {
           "player_id": "10937",
@@ -2159,17 +2159,17 @@
           "news_updated": 1759843849840
         },
         {
-          "player_id": "4144",
-          "full_name": "Jonnu Smith",
-          "first_name": "Jonnu",
-          "last_name": "Smith",
-          "team": "PIT",
+          "player_id": "4033",
+          "full_name": "David Njoku",
+          "first_name": "David",
+          "last_name": "Njoku",
+          "team": "CLE",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759878957465
+          "news_updated": 1759741860293
         },
         {
           "player_id": "5849",
