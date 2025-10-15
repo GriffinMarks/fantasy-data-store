@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T11:20:05Z",
+  "generated_at": "2025-10-15T12:51:51Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -122,16 +122,6 @@
       "injury_body_part": "Knee - PCL",
       "injury_start_date": null,
       "news_updated": 1759843849125
-    },
-    {
-      "player_id": "12517",
-      "full_name": "Colston Loveland",
-      "team": "CHI",
-      "position": "TE",
-      "injury_status": "Questionable",
-      "injury_body_part": "Hip",
-      "injury_start_date": null,
-      "news_updated": 1759267253156
     },
     {
       "player_id": "4217",

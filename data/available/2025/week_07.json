@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T11:20:05Z",
+  "generated_at": "2025-10-15T12:51:51Z",
   "league_id": "1262790170931892224",
   "count": 3747,
   "players": [
@@ -8,6 +8,13 @@
       "player_id": "BAL",
       "full_name": null,
       "team": "BAL",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "LV",
+      "full_name": null,
+      "team": "LV",
       "position": "DEF",
       "status": null
     },
@@ -36,13 +43,6 @@
       "player_id": "TB",
       "full_name": null,
       "team": "TB",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "CLE",
-      "full_name": null,
-      "team": "CLE",
       "position": "DEF",
       "status": null
     },
@@ -309,13 +309,6 @@
       "player_id": "13149",
       "full_name": "Caden Davis",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "2020",
-      "full_name": "Cairo Santos",
-      "team": "CHI",
       "position": "K",
       "status": "Active"
     },
@@ -11026,6 +11019,13 @@
       "player_id": "11942",
       "full_name": "Colson Yankoff",
       "team": "WAS",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "12517",
+      "full_name": "Colston Loveland",
+      "team": "CHI",
       "position": "TE",
       "status": "Active"
     },
@@ -24421,6 +24421,13 @@
       "status": "Active"
     },
     {
+      "player_id": "11783",
+      "full_name": "Ryan Flournoy",
+      "team": "DAL",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "2093",
       "full_name": "Ryan Grant",
       "team": null,
@@ -25280,13 +25287,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "12485",
-      "full_name": "Tez Johnson",
-      "team": "TB",
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "11073",
