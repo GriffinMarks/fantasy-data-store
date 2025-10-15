@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T06:35:16Z",
+  "generated_at": "2025-10-15T07:23:58Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -106,17 +106,17 @@
           "news_updated": 1759904459748
         },
         {
-          "player_id": "12711",
-          "full_name": "Tyler Loop",
-          "first_name": "Tyler",
-          "last_name": "Loop",
-          "team": "BAL",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759719057829
+          "news_updated": null
         },
         {
           "player_id": "PIT",
@@ -210,6 +210,19 @@
           "injury_body_part": "Hip",
           "injury_start_date": null,
           "news_updated": 1759267253156
+        },
+        {
+          "player_id": "1945",
+          "full_name": "Chris Boswell",
+          "first_name": "Chris",
+          "last_name": "Boswell",
+          "team": "PIT",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759090252861
         },
         {
           "player_id": "5967",
@@ -641,19 +654,6 @@
           "news_updated": 1759883459077
         },
         {
-          "player_id": "4381",
-          "full_name": "Taysom Hill",
-          "first_name": "Taysom",
-          "last_name": "Hill",
-          "team": "NO",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849307
-        },
-        {
           "player_id": "5012",
           "full_name": "Mark Andrews",
           "first_name": "Mark",
@@ -678,6 +678,19 @@
           "injury_body_part": "Toe",
           "injury_start_date": null,
           "news_updated": 1758475540771
+        },
+        {
+          "player_id": "9508",
+          "full_name": "Tyjae Spears",
+          "first_name": "Tyjae",
+          "last_name": "Spears",
+          "team": "TEN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759799743285
         },
         {
           "player_id": "IND",
@@ -1026,12 +1039,12 @@
           "news_updated": 1759717857723
         },
         {
-          "player_id": "BUF",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Buffalo",
-          "last_name": "Bills",
-          "team": "BUF",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -1040,6 +1053,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11559",
+          "full_name": "Michael Penix",
+          "first_name": "Michael",
+          "last_name": "Penix",
+          "team": "ATL",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759102550035
+        },
         {
           "player_id": "11571",
           "full_name": "Isaiah Davis",
@@ -1119,19 +1145,6 @@
           "news_updated": 1759953344577
         },
         {
-          "player_id": "8183",
-          "full_name": "Brock Purdy",
-          "first_name": "Brock",
-          "last_name": "Purdy",
-          "team": "SF",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Toe",
-          "injury_start_date": null,
-          "news_updated": 1759954242048
-        },
-        {
           "player_id": "9754",
           "full_name": "Quentin Johnston",
           "first_name": "Quentin",
@@ -1143,6 +1156,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849981
+        },
+        {
+          "player_id": "CHI",
+          "full_name": null,
+          "first_name": "Chicago",
+          "last_name": "Bears",
+          "team": "CHI",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -2160,17 +2186,17 @@
       ],
       "bench": [
         {
-          "player_id": "1426",
-          "full_name": "DeAndre Hopkins",
-          "first_name": "DeAndre",
-          "last_name": "Hopkins",
-          "team": "BAL",
+          "player_id": "11783",
+          "full_name": "Ryan Flournoy",
+          "first_name": "Ryan",
+          "last_name": "Flournoy",
+          "team": "DAL",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759851048902
+          "news_updated": 1759847147716
         },
         {
           "player_id": "5849",
@@ -2212,17 +2238,30 @@
           "news_updated": 1759952742555
         },
         {
-          "player_id": "8180",
-          "full_name": "Jalen Nailor",
-          "first_name": "Jalen",
-          "last_name": "Nailor",
-          "team": "MIN",
-          "position": "WR",
+          "player_id": "9228",
+          "full_name": "Bryce Young",
+          "first_name": "Bryce",
+          "last_name": "Young",
+          "team": "CAR",
+          "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759784742906
+          "news_updated": 1759843850146
+        },
+        {
+          "player_id": "9482",
+          "full_name": "Michael Mayer",
+          "first_name": "Michael",
+          "last_name": "Mayer",
+          "team": "LV",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759952141952
         }
       ],
       "taxi": [],
@@ -2425,6 +2464,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759718457565
+        },
+        {
+          "player_id": "8122",
+          "full_name": "Bam Knight",
+          "first_name": "Bam",
+          "last_name": "Knight",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759780842339
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte",
+          "first_name": "Kayshon",
+          "last_name": "Boutte",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849350
         },
         {
           "player_id": "9757",
@@ -2831,6 +2896,19 @@
           "news_updated": 1759870256947
         },
         {
+          "player_id": "11994",
+          "full_name": "Kameron Johnson",
+          "first_name": "Kameron",
+          "last_name": "Johnson",
+          "team": "TB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759387803244
+        },
+        {
           "player_id": "12495",
           "full_name": "Ollie Gordon",
           "first_name": "Ollie",
@@ -2857,19 +2935,6 @@
           "news_updated": 1759896661007
         },
         {
-          "player_id": "4040",
-          "full_name": "JuJu Smith-Schuster",
-          "first_name": "JuJu",
-          "last_name": "Smith-Schuster",
-          "team": "KC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759931703814
-        },
-        {
           "player_id": "4066",
           "full_name": "Evan Engram",
           "first_name": "Evan",
@@ -2894,6 +2959,19 @@
           "injury_body_part": "Calf",
           "injury_start_date": null,
           "news_updated": 1759952743342
+        },
+        {
+          "player_id": "KC",
+          "full_name": null,
+          "first_name": "Kansas City",
+          "last_name": "Chiefs",
+          "team": "KC",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -3005,17 +3083,17 @@
           "news_updated": 1759745760623
         },
         {
-          "player_id": "11789",
-          "full_name": "Joshua Karty",
-          "first_name": "Joshua",
-          "last_name": "Karty",
-          "team": "LAR",
+          "player_id": "5189",
+          "full_name": "Eddy Pineiro",
+          "first_name": "Eddy",
+          "last_name": "Pineiro",
+          "team": "SF",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759518641693
+          "news_updated": 1759517441799
         },
         {
           "player_id": "LAR",

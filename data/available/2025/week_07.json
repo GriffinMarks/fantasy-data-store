@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T06:35:17Z",
+  "generated_at": "2025-10-15T07:23:59Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3746,
   "players": [
     {
       "player_id": "BAL",
@@ -68,6 +68,13 @@
       "status": null
     },
     {
+      "player_id": "BUF",
+      "full_name": null,
+      "team": "BUF",
+      "position": "DEF",
+      "status": null
+    },
+    {
       "player_id": "NYG",
       "full_name": null,
       "team": "NYG",
@@ -82,23 +89,9 @@
       "status": null
     },
     {
-      "player_id": "CHI",
-      "full_name": null,
-      "team": "CHI",
-      "position": "DEF",
-      "status": null
-    },
-    {
       "player_id": "CIN",
       "full_name": null,
       "team": "CIN",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "KC",
-      "full_name": null,
-      "team": "KC",
       "position": "DEF",
       "status": null
     },
@@ -383,13 +376,6 @@
       "status": "Active"
     },
     {
-      "player_id": "1945",
-      "full_name": "Chris Boswell",
-      "team": "PIT",
-      "position": "K",
-      "status": "Active"
-    },
-    {
       "player_id": "8042",
       "full_name": "Chris Naggar",
       "team": null,
@@ -498,13 +484,6 @@
       "player_id": "1348",
       "full_name": "Dustin Hopkins",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "5189",
-      "full_name": "Eddy Pineiro",
-      "team": "SF",
       "position": "K",
       "status": "Active"
     },
@@ -710,6 +689,13 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
+    },
+    {
+      "player_id": "11789",
+      "full_name": "Joshua Karty",
+      "team": "LAR",
+      "position": "K",
+      "status": "Active"
     },
     {
       "player_id": "12385",
@@ -1209,6 +1195,13 @@
       "status": "Active"
     },
     {
+      "player_id": "12711",
+      "full_name": "Tyler Loop",
+      "team": "BAL",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "12403",
       "full_name": "Valentino Ambrosio",
       "team": null,
@@ -1608,6 +1601,13 @@
       "status": "Injured Reserve"
     },
     {
+      "player_id": "8183",
+      "full_name": "Brock Purdy",
+      "team": "SF",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
       "player_id": "5597",
       "full_name": "Brogan Roback",
       "team": null,
@@ -1641,13 +1641,6 @@
       "team": null,
       "position": "QB",
       "status": "Injured Reserve"
-    },
-    {
-      "player_id": "9228",
-      "full_name": "Bryce Young",
-      "team": "CAR",
-      "position": "QB",
-      "status": "Active"
     },
     {
       "player_id": "2007",
@@ -3253,13 +3246,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11559",
-      "full_name": "Michael Penix",
-      "team": "ATL",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
       "player_id": "11561",
       "full_name": "Michael Pratt",
       "team": null,
@@ -4551,13 +4537,6 @@
       "player_id": "8240",
       "full_name": "BJ Baylor",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "8122",
-      "full_name": "Bam Knight",
-      "team": "ARI",
       "position": "RB",
       "status": "Active"
     },
@@ -9595,13 +9574,6 @@
       "status": "Active"
     },
     {
-      "player_id": "9508",
-      "full_name": "Tyjae Spears",
-      "team": "TEN",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "8208",
       "full_name": "Tyler Badie",
       "team": "DEN",
@@ -13550,13 +13522,6 @@
       "status": "Active"
     },
     {
-      "player_id": "9482",
-      "full_name": "Michael Mayer",
-      "team": "LV",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "3588",
       "full_name": "Michael Miller",
       "team": null,
@@ -14626,6 +14591,13 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
+    },
+    {
+      "player_id": "4381",
+      "full_name": "Taysom Hill",
+      "team": "NO",
+      "position": "TE",
+      "status": "Active"
     },
     {
       "player_id": "8227",
@@ -17806,6 +17778,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "1426",
+      "full_name": "DeAndre Hopkins",
+      "team": "BAL",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "3542",
       "full_name": "DeAndre Reaves",
       "team": null,
@@ -19843,6 +19822,13 @@
       "status": "Active"
     },
     {
+      "player_id": "8180",
+      "full_name": "Jalen Nailor",
+      "team": "MIN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "6798",
       "full_name": "Jalen Reagor",
       "team": "LAC",
@@ -21173,6 +21159,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "4040",
+      "full_name": "JuJu Smith-Schuster",
+      "team": "KC",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "344",
       "full_name": "Julian Edelman",
       "team": null,
@@ -21502,13 +21495,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11994",
-      "full_name": "Kameron Johnson",
-      "team": "TB",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
       "player_id": "4364",
       "full_name": "Karel Hamilton",
       "team": null,
@@ -21568,13 +21554,6 @@
       "player_id": "12296",
       "full_name": "Kaylon Horton",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "9504",
-      "full_name": "Kayshon Boutte",
-      "team": "NE",
       "position": "WR",
       "status": "Active"
     },
@@ -24431,13 +24410,6 @@
       "player_id": "6036",
       "full_name": "Ryan Davis",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "11783",
-      "full_name": "Ryan Flournoy",
-      "team": "DAL",
       "position": "WR",
       "status": "Active"
     },
