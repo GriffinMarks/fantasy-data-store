@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T15:23:15Z",
+  "generated_at": "2025-10-15T16:27:06Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -61,13 +61,6 @@
       "status": null
     },
     {
-      "player_id": "CAR",
-      "full_name": null,
-      "team": "CAR",
-      "position": "DEF",
-      "status": null
-    },
-    {
       "player_id": "NO",
       "full_name": null,
       "team": "NO",
@@ -85,6 +78,13 @@
       "player_id": "BUF",
       "full_name": null,
       "team": "BUF",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "SF",
+      "full_name": null,
+      "team": "SF",
       "position": "DEF",
       "status": null
     },

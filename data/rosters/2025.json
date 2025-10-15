@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T15:23:14Z",
+  "generated_at": "2025-10-15T16:27:06Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1892,17 +1892,17 @@
           "news_updated": 1759843849605
         },
         {
-          "player_id": "1479",
-          "full_name": "Keenan Allen",
-          "first_name": "Keenan",
-          "last_name": "Allen",
-          "team": "LAC",
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
           "injury_start_date": null,
-          "news_updated": 1759843849968
+          "news_updated": 1759593346002
         },
         {
           "player_id": "5844",
@@ -1944,12 +1944,12 @@
           "news_updated": 1759843849687
         },
         {
-          "player_id": "SF",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "San Francisco",
-          "last_name": "49ers",
-          "team": "SF",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -1959,17 +1959,17 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
+          "player_id": "1479",
+          "full_name": "Keenan Allen",
+          "first_name": "Keenan",
+          "last_name": "Allen",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759593346002
+          "news_updated": 1759843849968
         },
         {
           "player_id": "4137",
@@ -2048,6 +2048,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759701655990
+        },
+        {
+          "player_id": "CAR",
+          "full_name": null,
+          "first_name": "Carolina",
+          "last_name": "Panthers",
+          "team": "CAR",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -2067,17 +2080,17 @@
       "points_against": 726,
       "starters": [
         {
-          "player_id": "9228",
-          "full_name": "Bryce Young",
-          "first_name": "Bryce",
-          "last_name": "Young",
-          "team": "CAR",
+          "player_id": "96",
+          "full_name": "Aaron Rodgers",
+          "first_name": "Aaron",
+          "last_name": "Rodgers",
+          "team": "PIT",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843850146
+          "news_updated": 1759876257357
         },
         {
           "player_id": "9221",
@@ -2225,17 +2238,17 @@
           "news_updated": 1759952742555
         },
         {
-          "player_id": "96",
-          "full_name": "Aaron Rodgers",
-          "first_name": "Aaron",
-          "last_name": "Rodgers",
-          "team": "PIT",
+          "player_id": "9228",
+          "full_name": "Bryce Young",
+          "first_name": "Bryce",
+          "last_name": "Young",
+          "team": "CAR",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759876257357
+          "news_updated": 1759843850146
         },
         {
           "player_id": "9997",
@@ -2548,17 +2561,17 @@
           "news_updated": 1759725357396
         },
         {
-          "player_id": "4981",
-          "full_name": "Calvin Ridley",
-          "first_name": "Calvin",
-          "last_name": "Ridley",
-          "team": "TEN",
+          "player_id": "6794",
+          "full_name": "Justin Jefferson",
+          "first_name": "Justin",
+          "last_name": "Jefferson",
+          "team": "MIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759793142870
+          "news_updated": 1759860949033
         },
         {
           "player_id": "5955",
@@ -2693,6 +2706,19 @@
           "news_updated": 1759946140513
         },
         {
+          "player_id": "4981",
+          "full_name": "Calvin Ridley",
+          "first_name": "Calvin",
+          "last_name": "Ridley",
+          "team": "TEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759793142870
+        },
+        {
           "player_id": "5848",
           "full_name": "Hollywood Brown",
           "first_name": "Hollywood",
@@ -2704,19 +2730,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848349260
-        },
-        {
-          "player_id": "6794",
-          "full_name": "Justin Jefferson",
-          "first_name": "Justin",
-          "last_name": "Jefferson",
-          "team": "MIN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759860949033
         }
       ],
       "taxi": [],
