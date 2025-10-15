@@ -1,13 +1,20 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T19:18:58Z",
+  "generated_at": "2025-10-15T20:27:06Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3748,
   "players": [
     {
       "player_id": "BAL",
       "full_name": null,
       "team": "BAL",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "IND",
+      "full_name": null,
+      "team": "IND",
       "position": "DEF",
       "status": null
     },
@@ -12717,13 +12724,6 @@
       "status": "Active"
     },
     {
-      "player_id": "4144",
-      "full_name": "Jonnu Smith",
-      "team": "PIT",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "5032",
       "full_name": "Jordan Akins",
       "team": null,
@@ -22394,13 +22394,6 @@
       "player_id": "11650",
       "full_name": "Luke McCaffrey",
       "team": "WAS",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "12519",
-      "full_name": "Luther Burden",
-      "team": "CHI",
       "position": "WR",
       "status": "Active"
     },

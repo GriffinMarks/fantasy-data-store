@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 7,
-  "generated_at": "2025-10-15T19:18:57Z",
+  "generated_at": "2025-10-15T20:27:05Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -262,7 +262,7 @@
           "roster_id": 7,
           "owner": "JefftheBartender",
           "starters": [
-            "6804",
+            "6797",
             "8205",
             "12512",
             "7564",
