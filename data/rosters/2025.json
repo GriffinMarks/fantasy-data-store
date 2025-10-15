@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T14:25:16Z",
+  "generated_at": "2025-10-15T15:23:14Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -360,12 +360,12 @@
           "news_updated": 1759735859442
         },
         {
-          "player_id": "0",
+          "player_id": "CLE",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Cleveland",
+          "last_name": "Browns",
+          "team": "CLE",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -464,19 +464,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759795543169
-        },
-        {
-          "player_id": "CLE",
-          "full_name": null,
-          "first_name": "Cleveland",
-          "last_name": "Browns",
-          "team": "CLE",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
@@ -736,17 +723,17 @@
           "news_updated": 1759843849827
         },
         {
-          "player_id": "3198",
-          "full_name": "Derrick Henry",
-          "first_name": "Derrick",
-          "last_name": "Henry",
-          "team": "BAL",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759698356565
+          "news_updated": null
         },
         {
           "player_id": "8123",
@@ -801,17 +788,17 @@
           "news_updated": 1759868756868
         },
         {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
+          "player_id": "2216",
+          "full_name": "Mike Evans",
+          "first_name": "Mike",
+          "last_name": "Evans",
+          "team": "TB",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Out",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759850448658
+          "news_updated": 1759947940772
         },
         {
           "player_id": "6083",
@@ -881,17 +868,17 @@
           "news_updated": 1759941040004
         },
         {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "first_name": "Mike",
-          "last_name": "Evans",
-          "team": "TB",
-          "position": "WR",
+          "player_id": "3198",
+          "full_name": "Derrick Henry",
+          "first_name": "Derrick",
+          "last_name": "Henry",
+          "team": "BAL",
+          "position": "RB",
           "status": "Active",
-          "injury_status": "Out",
-          "injury_body_part": "Hamstring",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759947940772
+          "news_updated": 1759698356565
         },
         {
           "player_id": "4037",
@@ -918,6 +905,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848948010
+        },
+        {
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "first_name": "Rashod",
+          "last_name": "Bateman",
+          "team": "BAL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759850448658
         }
       ],
       "taxi": [],
@@ -1414,17 +1414,17 @@
           "news_updated": 1759866949700
         },
         {
-          "player_id": "8138",
-          "full_name": "James Cook",
-          "first_name": "James",
-          "last_name": "Cook",
-          "team": "BUF",
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco",
+          "first_name": "Isiah",
+          "last_name": "Pacheco",
+          "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849866
+          "news_updated": 1759847749499
         },
         {
           "player_id": "12512",
@@ -1466,17 +1466,17 @@
           "news_updated": 1759881058009
         },
         {
-          "player_id": "6826",
-          "full_name": "Cole Kmet",
-          "first_name": "Cole",
-          "last_name": "Kmet",
-          "team": "CHI",
-          "position": "TE",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759161356305
+          "news_updated": null
         },
         {
           "player_id": "6801",
@@ -1559,6 +1559,19 @@
           "news_updated": 1759716657368
         },
         {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz",
+          "first_name": "Dalton",
+          "last_name": "Schultz",
+          "team": "HOU",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759715457469
+        },
+        {
           "player_id": "6797",
           "full_name": "Justin Herbert",
           "first_name": "Justin",
@@ -1585,30 +1598,17 @@
           "news_updated": 1759903261405
         },
         {
-          "player_id": "8205",
-          "full_name": "Isiah Pacheco",
-          "first_name": "Isiah",
-          "last_name": "Pacheco",
-          "team": "KC",
+          "player_id": "8138",
+          "full_name": "James Cook",
+          "first_name": "James",
+          "last_name": "Cook",
+          "team": "BUF",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847749499
-        },
-        {
-          "player_id": "ARI",
-          "full_name": null,
-          "first_name": "Arizona",
-          "last_name": "Cardinals",
-          "team": "ARI",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759843849866
         }
       ],
       "taxi": [],
@@ -2158,17 +2158,17 @@
           "news_updated": 1759741860293
         },
         {
-          "player_id": "2020",
-          "full_name": "Cairo Santos",
-          "first_name": "Cairo",
-          "last_name": "Santos",
+          "player_id": "10937",
+          "full_name": "Jake Moody",
+          "first_name": "Jake",
+          "last_name": "Moody",
           "team": "CHI",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759161656270
+          "news_updated": 1757698505885
         },
         {
           "player_id": "PHI",
@@ -2210,19 +2210,6 @@
           "injury_body_part": "Foot",
           "injury_start_date": null,
           "news_updated": 1759944940498
-        },
-        {
-          "player_id": "5906",
-          "full_name": "Dawson Knox",
-          "first_name": "Dawson",
-          "last_name": "Knox",
-          "team": "BUF",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849431
         },
         {
           "player_id": "7042",

@@ -1,13 +1,20 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T14:25:17Z",
+  "generated_at": "2025-10-15T15:23:15Z",
   "league_id": "1262790170931892224",
-  "count": 3747,
+  "count": 3749,
   "players": [
     {
       "player_id": "BAL",
       "full_name": null,
       "team": "BAL",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "ARI",
+      "full_name": null,
+      "team": "ARI",
       "position": "DEF",
       "status": null
     },
@@ -313,6 +320,13 @@
       "status": "Active"
     },
     {
+      "player_id": "2020",
+      "full_name": "Cairo Santos",
+      "team": "CHI",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "8536",
       "full_name": "Caleb Shudak",
       "team": null,
@@ -561,13 +575,6 @@
       "player_id": "11077",
       "full_name": "Jack Podlesny",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "10937",
-      "full_name": "Jake Moody",
-      "team": "CHI",
       "position": "K",
       "status": "Active"
     },
@@ -10981,6 +10988,13 @@
       "status": "Active"
     },
     {
+      "player_id": "6826",
+      "full_name": "Cole Kmet",
+      "team": "CHI",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "8214",
       "full_name": "Cole Turner",
       "team": null,
@@ -11119,13 +11133,6 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
-    },
-    {
-      "player_id": "5001",
-      "full_name": "Dalton Schultz",
-      "team": "HOU",
-      "position": "TE",
-      "status": "Active"
     },
     {
       "player_id": "11262",
@@ -11292,6 +11299,13 @@
       "player_id": "6469",
       "full_name": "Davis Koppenhaver",
       "team": null,
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "5906",
+      "full_name": "Dawson Knox",
+      "team": "BUF",
       "position": "TE",
       "status": "Active"
     },
