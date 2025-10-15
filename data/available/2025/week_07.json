@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T10:27:06Z",
+  "generated_at": "2025-10-15T11:20:05Z",
   "league_id": "1262790170931892224",
-  "count": 3746,
+  "count": 3747,
   "players": [
     {
       "player_id": "BAL",
@@ -29,6 +29,13 @@
       "player_id": "LAC",
       "full_name": null,
       "team": "LAC",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "TB",
+      "full_name": null,
+      "team": "TB",
       "position": "DEF",
       "status": null
     },
