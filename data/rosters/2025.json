@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T16:27:06Z",
+  "generated_at": "2025-10-15T17:21:10Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -282,17 +282,17 @@
           "news_updated": 1759102850446
         },
         {
-          "player_id": "7021",
-          "full_name": "Rico Dowdle",
-          "first_name": "Rico",
-          "last_name": "Dowdle",
-          "team": "CAR",
+          "player_id": "8228",
+          "full_name": "Jaylen Warren",
+          "first_name": "Jaylen",
+          "last_name": "Warren",
+          "team": "PIT",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759849547926
+          "news_updated": 1759953642088
         },
         {
           "player_id": "8137",
@@ -334,17 +334,17 @@
           "news_updated": 1759738860345
         },
         {
-          "player_id": "8228",
-          "full_name": "Jaylen Warren",
-          "first_name": "Jaylen",
-          "last_name": "Warren",
-          "team": "PIT",
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "first_name": "Kimani",
+          "last_name": "Vidal",
+          "team": "LAC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759953642088
+          "news_updated": 1759950341754
         },
         {
           "player_id": "5095",
@@ -386,19 +386,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759852248997
-        },
-        {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "first_name": "Kimani",
-          "last_name": "Vidal",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759950341754
         },
         {
           "player_id": "12501",
@@ -451,6 +438,19 @@
           "injury_body_part": "Knee - ACL + MCL",
           "injury_start_date": null,
           "news_updated": 1759499738590
+        },
+        {
+          "player_id": "7021",
+          "full_name": "Rico Dowdle",
+          "first_name": "Rico",
+          "last_name": "Dowdle",
+          "team": "CAR",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759849547926
         },
         {
           "player_id": "8148",
@@ -935,17 +935,17 @@
       "points_against": 637,
       "starters": [
         {
-          "player_id": "4984",
-          "full_name": "Josh Allen",
-          "first_name": "Josh",
-          "last_name": "Allen",
-          "team": "BUF",
+          "player_id": "11559",
+          "full_name": "Michael Penix",
+          "first_name": "Michael",
+          "last_name": "Penix",
+          "team": "ATL",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849852
+          "news_updated": 1759102550035
         },
         {
           "player_id": "9226",
@@ -974,17 +974,17 @@
           "news_updated": 1759847749759
         },
         {
-          "player_id": "8146",
-          "full_name": "Garrett Wilson",
-          "first_name": "Garrett",
-          "last_name": "Wilson",
-          "team": "NYJ",
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759727757412
+          "news_updated": 1759843849981
         },
         {
           "player_id": "5846",
@@ -1013,17 +1013,17 @@
           "news_updated": 1759716356294
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "12518",
+          "full_name": "Tyler Warren",
+          "first_name": "Tyler",
+          "last_name": "Warren",
+          "team": "IND",
+          "position": "TE",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759881358279
         },
         {
           "player_id": "4195",
@@ -1039,12 +1039,12 @@
           "news_updated": 1759717857723
         },
         {
-          "player_id": "0",
+          "player_id": "CHI",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Chicago",
+          "last_name": "Bears",
+          "team": "CHI",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -1053,19 +1053,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11559",
-          "full_name": "Michael Penix",
-          "first_name": "Michael",
-          "last_name": "Penix",
-          "team": "ATL",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759102550035
-        },
         {
           "player_id": "11571",
           "full_name": "Isaiah Davis",
@@ -1093,19 +1080,6 @@
           "news_updated": 1759843849797
         },
         {
-          "player_id": "12518",
-          "full_name": "Tyler Warren",
-          "first_name": "Tyler",
-          "last_name": "Warren",
-          "team": "IND",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759881358279
-        },
-        {
           "player_id": "4199",
           "full_name": "Aaron Jones",
           "first_name": "Aaron",
@@ -1117,6 +1091,19 @@
           "injury_body_part": "Hamstring",
           "injury_start_date": null,
           "news_updated": 1759272653071
+        },
+        {
+          "player_id": "4984",
+          "full_name": "Josh Allen",
+          "first_name": "Josh",
+          "last_name": "Allen",
+          "team": "BUF",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849852
         },
         {
           "player_id": "5995",
@@ -1145,35 +1132,21 @@
           "news_updated": 1759953344577
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
+          "player_id": "8146",
+          "full_name": "Garrett Wilson",
+          "first_name": "Garrett",
+          "last_name": "Wilson",
+          "team": "NYJ",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
-        },
-        {
-          "player_id": "CHI",
-          "full_name": null,
-          "first_name": "Chicago",
-          "last_name": "Bears",
-          "team": "CHI",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759727757412
         }
       ],
       "taxi": [],
       "ir": [
-        "12514",
         "4199"
       ]
     },
@@ -1892,17 +1865,17 @@
           "news_updated": 1759843849605
         },
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb",
+          "first_name": "CeeDee",
+          "last_name": "Lamb",
+          "team": "DAL",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759593346002
+          "news_updated": 1759843849166
         },
         {
           "player_id": "5844",
@@ -1944,12 +1917,12 @@
           "news_updated": 1759843849687
         },
         {
-          "player_id": "0",
+          "player_id": "CAR",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Carolina",
+          "last_name": "Panthers",
+          "team": "CAR",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -1958,6 +1931,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
+          "injury_start_date": null,
+          "news_updated": 1759593346002
+        },
         {
           "player_id": "1479",
           "full_name": "Keenan Allen",
@@ -1983,19 +1969,6 @@
           "injury_body_part": "Foot",
           "injury_start_date": null,
           "news_updated": 1758659461447
-        },
-        {
-          "player_id": "6786",
-          "full_name": "CeeDee Lamb",
-          "first_name": "CeeDee",
-          "last_name": "Lamb",
-          "team": "DAL",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
-          "injury_start_date": null,
-          "news_updated": 1759843849166
         },
         {
           "player_id": "8111",
@@ -2048,19 +2021,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759701655990
-        },
-        {
-          "player_id": "CAR",
-          "full_name": null,
-          "first_name": "Carolina",
-          "last_name": "Panthers",
-          "team": "CAR",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
