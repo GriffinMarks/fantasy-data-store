@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-16T03:06:32Z",
+  "generated_at": "2025-10-16T04:27:23Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1054,17 +1054,17 @@
       ],
       "bench": [
         {
-          "player_id": "11571",
-          "full_name": "Isaiah Davis",
-          "first_name": "Isaiah",
-          "last_name": "Davis",
-          "team": "NYJ",
-          "position": "RB",
+          "player_id": "11623",
+          "full_name": "Jordan Whittington",
+          "first_name": "Jordan",
+          "last_name": "Whittington",
+          "team": "LAR",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759767361308
+          "news_updated": 1759518041968
         },
         {
           "player_id": "12514",
