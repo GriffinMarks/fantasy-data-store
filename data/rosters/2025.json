@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T23:20:17Z",
+  "generated_at": "2025-10-16T01:50:12Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2079,17 +2079,17 @@
           "news_updated": 1759706156589
         },
         {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
-          "team": "SF",
+          "player_id": "7090",
+          "full_name": "Darnell Mooney",
+          "first_name": "Darnell",
+          "last_name": "Mooney",
+          "team": "ATL",
           "position": "WR",
           "status": "Active",
           "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759154753922
         },
         {
           "player_id": "9482",
@@ -2196,6 +2196,19 @@
           "injury_body_part": "Hip",
           "injury_start_date": null,
           "news_updated": 1759952742555
+        },
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
+          "injury_start_date": null,
+          "news_updated": 1759954242925
         },
         {
           "player_id": "9228",

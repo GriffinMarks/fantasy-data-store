@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-15T23:20:18Z",
+  "generated_at": "2025-10-16T01:50:14Z",
   "league_id": "1262790170931892224",
-  "count": 3748,
+  "count": 3747,
   "players": [
     {
       "player_id": "BAL",
@@ -17580,13 +17580,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "7090",
-      "full_name": "Darnell Mooney",
-      "team": "ATL",
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "7056",
