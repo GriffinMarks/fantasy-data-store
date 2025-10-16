@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-16T20:26:14Z",
+  "generated_at": "2025-10-16T21:19:40Z",
   "league_id": "1262790170931892224",
-  "count": 3747,
+  "count": 3748,
   "players": [
     {
       "player_id": "BAL",
@@ -19321,6 +19321,13 @@
       "player_id": "6626",
       "full_name": "Isaac Zico",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "12503",
+      "full_name": "Isaiah Bond",
+      "team": "CLE",
       "position": "WR",
       "status": "Active"
     },

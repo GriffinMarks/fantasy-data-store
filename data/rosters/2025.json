@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-16T20:26:14Z",
+  "generated_at": "2025-10-16T21:19:39Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2399,19 +2399,6 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "12503",
-          "full_name": "Isaiah Bond",
-          "first_name": "Isaiah",
-          "last_name": "Bond",
-          "team": "CLE",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759879857430
-        },
-        {
           "player_id": "12507",
           "full_name": "Omarion Hampton",
           "first_name": "Omarion",
@@ -2479,7 +2466,6 @@
       ],
       "taxi": [],
       "ir": [
-        "11604",
         "12507"
       ]
     },
