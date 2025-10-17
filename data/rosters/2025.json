@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T19:18:28Z",
+  "generated_at": "2025-10-17T20:26:07Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -855,19 +855,6 @@
           "news_updated": 1759790742367
         },
         {
-          "player_id": "12524",
-          "full_name": "Shedeur Sanders",
-          "first_name": "Shedeur",
-          "last_name": "Sanders",
-          "team": "CLE",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759941040004
-        },
-        {
           "player_id": "3198",
           "full_name": "Derrick Henry",
           "first_name": "Derrick",
@@ -905,6 +892,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848948010
+        },
+        {
+          "player_id": "7562",
+          "full_name": "Tutu Atwell",
+          "first_name": "Tutu",
+          "last_name": "Atwell",
+          "team": "LAR",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759518042000
         },
         {
           "player_id": "7571",
