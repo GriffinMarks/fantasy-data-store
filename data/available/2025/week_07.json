@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T05:22:19Z",
+  "generated_at": "2025-10-17T06:34:29Z",
   "league_id": "1262790170931892224",
   "count": 3748,
   "players": [
@@ -1615,13 +1615,6 @@
       "status": "Injured Reserve"
     },
     {
-      "player_id": "8183",
-      "full_name": "Brock Purdy",
-      "team": "SF",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
       "player_id": "5597",
       "full_name": "Brogan Roback",
       "team": null,
@@ -2698,6 +2691,13 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "19",
+      "full_name": "Joe Flacco",
+      "team": "CIN",
+      "position": "QB",
+      "status": "Active"
     },
     {
       "player_id": "3863",

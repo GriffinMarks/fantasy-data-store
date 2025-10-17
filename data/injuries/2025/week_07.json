@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T05:22:19Z",
+  "generated_at": "2025-10-17T06:34:29Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -12,6 +12,16 @@
       "injury_body_part": "Hip",
       "injury_start_date": null,
       "news_updated": 1759952742555
+    },
+    {
+      "player_id": "8183",
+      "full_name": "Brock Purdy",
+      "team": "SF",
+      "position": "QB",
+      "injury_status": "Questionable",
+      "injury_body_part": "Toe",
+      "injury_start_date": null,
+      "news_updated": 1759954242048
     },
     {
       "player_id": "6770",

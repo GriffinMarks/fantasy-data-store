@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T05:22:19Z",
+  "generated_at": "2025-10-17T06:34:28Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1826,17 +1826,17 @@
           "news_updated": 1759730758724
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
-          "first_name": "Jordan",
-          "last_name": "Mason",
-          "team": "MIN",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860319
+          "news_updated": null
         },
         {
           "player_id": "9488",
@@ -1878,17 +1878,17 @@
           "news_updated": 1759740060361
         },
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759593346002
+          "news_updated": null
         },
         {
           "player_id": "6650",
@@ -1997,6 +1997,19 @@
           "news_updated": 1759103150592
         },
         {
+          "player_id": "9221",
+          "full_name": "Jahmyr Gibbs",
+          "first_name": "Jahmyr",
+          "last_name": "Gibbs",
+          "team": "DET",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759728357581
+        },
+        {
           "player_id": "9758",
           "full_name": "C.J. Stroud",
           "first_name": "C.J.",
@@ -2040,17 +2053,17 @@
           "news_updated": 1759876257357
         },
         {
-          "player_id": "9221",
-          "full_name": "Jahmyr Gibbs",
-          "first_name": "Jahmyr",
-          "last_name": "Gibbs",
-          "team": "DET",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759728357581
+          "news_updated": null
         },
         {
           "player_id": "12481",
@@ -2146,6 +2159,19 @@
       ],
       "bench": [
         {
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
+          "injury_start_date": null,
+          "news_updated": 1759593346002
+        },
+        {
           "player_id": "17",
           "full_name": "Matt Prater",
           "first_name": "Matt",
@@ -2209,6 +2235,19 @@
           "injury_body_part": "Ankle",
           "injury_start_date": null,
           "news_updated": 1759954242925
+        },
+        {
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "team": "MIN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759738860319
         },
         {
           "player_id": "9228",
@@ -2481,17 +2520,17 @@
       "points_against": 718,
       "starters": [
         {
-          "player_id": "19",
-          "full_name": "Joe Flacco",
-          "first_name": "Joe",
-          "last_name": "Flacco",
-          "team": "CIN",
-          "position": "QB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759945240522
+          "news_updated": null
         },
         {
           "player_id": "7588",
@@ -2689,6 +2728,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848349260
+        },
+        {
+          "player_id": "8183",
+          "full_name": "Brock Purdy",
+          "first_name": "Brock",
+          "last_name": "Purdy",
+          "team": "SF",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Toe",
+          "injury_start_date": null,
+          "news_updated": 1759954242048
         }
       ],
       "taxi": [],

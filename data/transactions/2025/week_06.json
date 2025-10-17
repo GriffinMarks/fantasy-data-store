@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 6,
-  "generated_at": "2025-10-17T05:22:23Z",
+  "generated_at": "2025-10-17T06:34:34Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -203,6 +203,39 @@
         14
       ],
       "status_updated": 1760512015378,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "trade",
+      "metadata": {
+        "notes": "Your trade was processed successfully!"
+      },
+      "created": 1760457421630,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1266150695719948288",
+      "transaction_id": "1283855115161198592",
+      "adds": {
+        "10229": 10,
+        "8408": 10,
+        "9221": 9
+      },
+      "consenter_ids": [
+        9,
+        10
+      ],
+      "drops": {
+        "10229": 9,
+        "8408": 9,
+        "9221": 10
+      },
+      "roster_ids": [
+        9,
+        10
+      ],
+      "status_updated": 1760681645161,
       "waiver_budget": []
     },
     {
