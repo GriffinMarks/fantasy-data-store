@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T12:50:35Z",
+  "generated_at": "2025-10-17T13:31:31Z",
   "league_id": "1262790170931892224",
-  "count": 3748,
+  "count": 3750,
   "players": [
     {
       "player_id": "BAL",
@@ -845,6 +845,13 @@
       "status": "Active"
     },
     {
+      "player_id": "17",
+      "full_name": "Matt Prater",
+      "team": "BUF",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "11532",
       "full_name": "Matthew Trickett",
       "team": null,
@@ -1648,6 +1655,13 @@
       "team": null,
       "position": "QB",
       "status": "Injured Reserve"
+    },
+    {
+      "player_id": "9228",
+      "full_name": "Bryce Young",
+      "team": "CAR",
+      "position": "QB",
+      "status": "Active"
     },
     {
       "player_id": "2007",

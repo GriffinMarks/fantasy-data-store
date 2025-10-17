@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T12:50:34Z",
+  "generated_at": "2025-10-17T13:31:30Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2053,17 +2053,17 @@
           "news_updated": 1759876257357
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "team": "MIN",
+          "position": "RB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759738860319
         },
         {
           "player_id": "12481",
@@ -2092,17 +2092,17 @@
           "news_updated": 1759706156589
         },
         {
-          "player_id": "7090",
-          "full_name": "Darnell Mooney",
-          "first_name": "Darnell",
-          "last_name": "Mooney",
-          "team": "ATL",
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hamstring",
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
           "injury_start_date": null,
-          "news_updated": 1759154753922
+          "news_updated": 1759593346002
         },
         {
           "player_id": "9482",
@@ -2159,32 +2159,6 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
-          "injury_start_date": null,
-          "news_updated": 1759593346002
-        },
-        {
-          "player_id": "17",
-          "full_name": "Matt Prater",
-          "first_name": "Matt",
-          "last_name": "Prater",
-          "team": "BUF",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849840
-        },
-        {
           "player_id": "4033",
           "full_name": "David Njoku",
           "first_name": "David",
@@ -2237,30 +2211,17 @@
           "news_updated": 1759954242925
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
-          "first_name": "Jordan",
-          "last_name": "Mason",
-          "team": "MIN",
-          "position": "RB",
+          "player_id": "7090",
+          "full_name": "Darnell Mooney",
+          "first_name": "Darnell",
+          "last_name": "Mooney",
+          "team": "ATL",
+          "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759738860319
-        },
-        {
-          "player_id": "9228",
-          "full_name": "Bryce Young",
-          "first_name": "Bryce",
-          "last_name": "Young",
-          "team": "CAR",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850146
+          "news_updated": 1759154753922
         },
         {
           "player_id": "9997",
