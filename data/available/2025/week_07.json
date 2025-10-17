@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T22:21:08Z",
+  "generated_at": "2025-10-17T23:20:00Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3747,
   "players": [
     {
       "player_id": "BAL",
@@ -4805,13 +4805,6 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "8154",
-      "full_name": "Brian Robinson",
-      "team": "SF",
-      "position": "RB",
-      "status": "Active"
     },
     {
       "player_id": "12171",
@@ -16943,13 +16936,6 @@
       "team": null,
       "position": "WR",
       "status": "Active"
-    },
-    {
-      "player_id": "8167",
-      "full_name": "Christian Watson",
-      "team": "GB",
-      "position": "WR",
-      "status": "Inactive"
     },
     {
       "player_id": "2682",

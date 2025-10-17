@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T22:21:08Z",
+  "generated_at": "2025-10-17T23:20:00Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -182,6 +182,16 @@
       "injury_body_part": "Ankle",
       "injury_start_date": null,
       "news_updated": 1759843849166
+    },
+    {
+      "player_id": "8167",
+      "full_name": "Christian Watson",
+      "team": "GB",
+      "position": "WR",
+      "injury_status": "PUP",
+      "injury_body_part": "Knee - ACL",
+      "injury_start_date": null,
+      "news_updated": 1759843849484
     },
     {
       "player_id": "7090",
