@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-16T23:19:12Z",
+  "generated_at": "2025-10-17T01:49:22Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1878,17 +1878,17 @@
           "news_updated": 1759740060361
         },
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
           "injury_start_date": null,
-          "news_updated": 1759904759647
+          "news_updated": 1759593346002
         },
         {
           "player_id": "6650",
@@ -1919,19 +1919,6 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
-          "injury_start_date": null,
-          "news_updated": 1759593346002
-        },
-        {
           "player_id": "1479",
           "full_name": "Keenan Allen",
           "first_name": "Keenan",
@@ -1943,6 +1930,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849968
+        },
+        {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759904759647
         },
         {
           "player_id": "4137",
