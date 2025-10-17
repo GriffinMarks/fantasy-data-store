@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T09:26:04Z",
+  "generated_at": "2025-10-17T10:25:31Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1240,17 +1240,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "8134",
-          "full_name": "Khalil Shakir",
-          "first_name": "Khalil",
-          "last_name": "Shakir",
-          "team": "BUF",
+          "player_id": "5927",
+          "full_name": "Terry McLaurin",
+          "first_name": "Terry",
+          "last_name": "McLaurin",
+          "team": "WAS",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Quadriceps",
           "injury_start_date": null,
-          "news_updated": 1759843849896
+          "news_updated": 1759944640410
         },
         {
           "player_id": "2747",
@@ -1320,19 +1320,6 @@
           "news_updated": 1759716057736
         },
         {
-          "player_id": "5927",
-          "full_name": "Terry McLaurin",
-          "first_name": "Terry",
-          "last_name": "McLaurin",
-          "team": "WAS",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Quadriceps",
-          "injury_start_date": null,
-          "news_updated": 1759944640410
-        },
-        {
           "player_id": "7553",
           "full_name": "Kyle Pitts",
           "first_name": "Kyle",
@@ -1344,6 +1331,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759103750383
+        },
+        {
+          "player_id": "8134",
+          "full_name": "Khalil Shakir",
+          "first_name": "Khalil",
+          "last_name": "Shakir",
+          "team": "BUF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849896
         },
         {
           "player_id": "8917",
