@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T20:26:07Z",
+  "generated_at": "2025-10-17T21:20:51Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1839,19 +1839,6 @@
           "news_updated": 1759728357581
         },
         {
-          "player_id": "9488",
-          "full_name": "Jaxon Smith-Njigba",
-          "first_name": "Jaxon",
-          "last_name": "Smith-Njigba",
-          "team": "SEA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849605
-        },
-        {
           "player_id": "6786",
           "full_name": "CeeDee Lamb",
           "first_name": "CeeDee",
@@ -1863,6 +1850,19 @@
           "injury_body_part": "Ankle",
           "injury_start_date": null,
           "news_updated": 1759843849166
+        },
+        {
+          "player_id": "9488",
+          "full_name": "Jaxon Smith-Njigba",
+          "first_name": "Jaxon",
+          "last_name": "Smith-Njigba",
+          "team": "SEA",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849605
         },
         {
           "player_id": "5844",
