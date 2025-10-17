@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T13:31:31Z",
+  "generated_at": "2025-10-17T14:23:22Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3749,
   "players": [
     {
       "player_id": "BAL",
@@ -1030,13 +1030,6 @@
       "player_id": "12791",
       "full_name": "Ryan Coe",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "12961",
-      "full_name": "Ryan Fitzgerald",
-      "team": "CAR",
       "position": "K",
       "status": "Active"
     },
