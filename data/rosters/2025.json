@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-17T16:28:58Z",
+  "generated_at": "2025-10-17T17:19:48Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1201,17 +1201,17 @@
           "news_updated": 1759846249614
         },
         {
-          "player_id": "9500",
-          "full_name": "Josh Downs",
-          "first_name": "Josh",
-          "last_name": "Downs",
-          "team": "IND",
+          "player_id": "3200",
+          "full_name": "Sterling Shepard",
+          "first_name": "Sterling",
+          "last_name": "Shepard",
+          "team": "TB",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759881058001
+          "news_updated": 1759843849726
         },
         {
           "player_id": "11631",
@@ -1294,19 +1294,6 @@
           "news_updated": 1759944040385
         },
         {
-          "player_id": "3200",
-          "full_name": "Sterling Shepard",
-          "first_name": "Sterling",
-          "last_name": "Shepard",
-          "team": "TB",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849726
-        },
-        {
           "player_id": "4950",
           "full_name": "Christian Kirk",
           "first_name": "Christian",
@@ -1357,6 +1344,19 @@
           "injury_body_part": "Foot",
           "injury_start_date": null,
           "news_updated": 1759855248925
+        },
+        {
+          "player_id": "9500",
+          "full_name": "Josh Downs",
+          "first_name": "Josh",
+          "last_name": "Downs",
+          "team": "IND",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759881058001
         }
       ],
       "taxi": [],
