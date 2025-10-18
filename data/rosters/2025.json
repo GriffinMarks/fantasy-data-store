@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-18T18:30:01Z",
+  "generated_at": "2025-10-18T19:16:31Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2347,17 +2347,17 @@
           "news_updated": 1759713057019
         },
         {
-          "player_id": "7525",
-          "full_name": "DeVonta Smith",
-          "first_name": "DeVonta",
-          "last_name": "Smith",
-          "team": "PHI",
+          "player_id": "10213",
+          "full_name": "Tre Tucker",
+          "first_name": "Tre",
+          "last_name": "Tucker",
+          "team": "LV",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759727457354
+          "news_updated": 1759887658303
         },
         {
           "player_id": "8259",
@@ -2387,19 +2387,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10213",
-          "full_name": "Tre Tucker",
-          "first_name": "Tre",
-          "last_name": "Tucker",
-          "team": "LV",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759887658303
-        },
         {
           "player_id": "11604",
           "full_name": "Brock Bowers",
@@ -2438,6 +2425,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759718457565
+        },
+        {
+          "player_id": "7525",
+          "full_name": "DeVonta Smith",
+          "first_name": "DeVonta",
+          "last_name": "Smith",
+          "team": "PHI",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759727457354
         },
         {
           "player_id": "8122",
@@ -3016,17 +3016,17 @@
           "news_updated": 1759895158740
         },
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel",
-          "first_name": "Deebo",
-          "last_name": "Samuel",
-          "team": "WAS",
+          "player_id": "8676",
+          "full_name": "Rashid Shaheed",
+          "first_name": "Rashid",
+          "last_name": "Shaheed",
+          "team": "NO",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759721458513
+          "news_updated": 1759719058625
         },
         {
           "player_id": "1466",
@@ -3096,6 +3096,19 @@
           "news_updated": 1759870859628
         },
         {
+          "player_id": "5872",
+          "full_name": "Deebo Samuel",
+          "first_name": "Deebo",
+          "last_name": "Samuel",
+          "team": "WAS",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759721458513
+        },
+        {
           "player_id": "7591",
           "full_name": "Justin Fields",
           "first_name": "Justin",
@@ -3133,19 +3146,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759890360254
-        },
-        {
-          "player_id": "8676",
-          "full_name": "Rashid Shaheed",
-          "first_name": "Rashid",
-          "last_name": "Shaheed",
-          "team": "NO",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759719058625
         },
         {
           "player_id": "9493",
