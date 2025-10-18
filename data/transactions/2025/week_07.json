@@ -1,9 +1,32 @@
 {
   "season": 2025,
   "week": 7,
-  "generated_at": "2025-10-18T04:26:06Z",
+  "generated_at": "2025-10-18T05:21:17Z",
   "league_id": "1262790170931892224",
   "moves": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1760764840398,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "1264076872199716864",
+      "transaction_id": "1285144522925289472",
+      "adds": null,
+      "drops": {
+        "8698": 12
+      },
+      "consenter_ids": [
+        12
+      ],
+      "roster_ids": [
+        12
+      ],
+      "status_updated": 1760764840398,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
