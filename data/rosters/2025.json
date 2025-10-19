@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-19T14:19:25Z",
+  "generated_at": "2025-10-19T15:20:44Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -147,19 +147,6 @@
           "news_updated": 1759599946577
         },
         {
-          "player_id": "11626",
-          "full_name": "Xavier Legette",
-          "first_name": "Xavier",
-          "last_name": "Legette",
-          "team": "CAR",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850104
-        },
-        {
           "player_id": "11646",
           "full_name": "Jalen Coker",
           "first_name": "Jalen",
@@ -240,8 +227,7 @@
       ],
       "taxi": [],
       "ir": [
-        "11618",
-        "11646"
+        "11618"
       ]
     },
     {
@@ -723,17 +709,17 @@
           "news_updated": 1759843849827
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "11435",
+          "full_name": "Emanuel Wilson",
+          "first_name": "Emanuel",
+          "last_name": "Wilson",
+          "team": "GB",
+          "position": "RB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759259752432
         },
         {
           "player_id": "8123",
@@ -840,19 +826,6 @@
           "injury_body_part": "Shoulder",
           "injury_start_date": null,
           "news_updated": 1759947640663
-        },
-        {
-          "player_id": "11627",
-          "full_name": "Troy Franklin",
-          "first_name": "Troy",
-          "last_name": "Franklin",
-          "team": "DEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759790742367
         },
         {
           "player_id": "3198",

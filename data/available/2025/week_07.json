@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-19T14:19:26Z",
+  "generated_at": "2025-10-19T15:20:45Z",
   "league_id": "1262790170931892224",
-  "count": 3748,
+  "count": 3749,
   "players": [
     {
       "player_id": "BAL",
@@ -6035,13 +6035,6 @@
       "player_id": "11998",
       "full_name": "Emani Bailey",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "11435",
-      "full_name": "Emanuel Wilson",
-      "team": "GB",
       "position": "RB",
       "status": "Active"
     },
@@ -25730,6 +25723,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "11627",
+      "full_name": "Troy Franklin",
+      "team": "DEN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "13003",
       "full_name": "Tru Edwards",
       "team": "LAR",
@@ -26134,6 +26134,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "11626",
+      "full_name": "Xavier Legette",
+      "team": "CAR",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "12520",
