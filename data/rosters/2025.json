@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-19T15:20:44Z",
+  "generated_at": "2025-10-19T16:26:43Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1639,17 +1639,17 @@
           "news_updated": 1759726257256
         },
         {
-          "player_id": "5947",
-          "full_name": "Jakobi Meyers",
-          "first_name": "Jakobi",
-          "last_name": "Meyers",
-          "team": "LV",
+          "player_id": "9756",
+          "full_name": "Jordan Addison",
+          "first_name": "Jordan",
+          "last_name": "Addison",
+          "team": "MIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759735859473
+          "news_updated": 1759739460716
         },
         {
           "player_id": "5230",
@@ -1732,17 +1732,17 @@
           "news_updated": 1759770661065
         },
         {
-          "player_id": "9756",
-          "full_name": "Jordan Addison",
-          "first_name": "Jordan",
-          "last_name": "Addison",
-          "team": "MIN",
+          "player_id": "5947",
+          "full_name": "Jakobi Meyers",
+          "first_name": "Jakobi",
+          "last_name": "Meyers",
+          "team": "LV",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759739460716
+          "news_updated": 1759735859473
         },
         {
           "player_id": "MIN",
