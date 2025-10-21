@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-21T14:22:34Z",
+  "generated_at": "2025-10-21T15:24:23Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -908,17 +908,17 @@
       "points_against": 821,
       "starters": [
         {
-          "player_id": "11559",
-          "full_name": "Michael Penix",
-          "first_name": "Michael",
-          "last_name": "Penix",
-          "team": "ATL",
+          "player_id": "4984",
+          "full_name": "Josh Allen",
+          "first_name": "Josh",
+          "last_name": "Allen",
+          "team": "BUF",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759102550035
+          "news_updated": 1759843849852
         },
         {
           "player_id": "9226",
@@ -947,17 +947,17 @@
           "news_updated": 1759847749759
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
+          "player_id": "12514",
+          "full_name": "Emeka Egbuka",
+          "first_name": "Emeka",
+          "last_name": "Egbuka",
+          "team": "TB",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
+          "news_updated": 1759843849797
         },
         {
           "player_id": "5846",
@@ -1027,6 +1027,19 @@
       ],
       "bench": [
         {
+          "player_id": "11559",
+          "full_name": "Michael Penix",
+          "first_name": "Michael",
+          "last_name": "Penix",
+          "team": "ATL",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759102550035
+        },
+        {
           "player_id": "11623",
           "full_name": "Jordan Whittington",
           "first_name": "Jordan",
@@ -1040,19 +1053,6 @@
           "news_updated": 1759518041968
         },
         {
-          "player_id": "12514",
-          "full_name": "Emeka Egbuka",
-          "first_name": "Emeka",
-          "last_name": "Egbuka",
-          "team": "TB",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849797
-        },
-        {
           "player_id": "4199",
           "full_name": "Aaron Jones",
           "first_name": "Aaron",
@@ -1064,19 +1064,6 @@
           "injury_body_part": "Hamstring",
           "injury_start_date": null,
           "news_updated": 1759272653071
-        },
-        {
-          "player_id": "4984",
-          "full_name": "Josh Allen",
-          "first_name": "Josh",
-          "last_name": "Allen",
-          "team": "BUF",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849852
         },
         {
           "player_id": "5995",
@@ -1116,6 +1103,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727757412
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
