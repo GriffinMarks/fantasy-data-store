@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-21T01:52:29Z",
+  "generated_at": "2025-10-21T03:09:21Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2437,19 +2437,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849350
-        },
-        {
-          "player_id": "9757",
-          "full_name": "Kendre Miller",
-          "first_name": "Kendre",
-          "last_name": "Miller",
-          "team": "NO",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759863949468
         }
       ],
       "taxi": [],
