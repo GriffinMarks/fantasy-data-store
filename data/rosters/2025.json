@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T21:18:13Z",
+  "generated_at": "2025-10-22T22:18:43Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1226,17 +1226,17 @@
           "news_updated": 1757345450720
         },
         {
-          "player_id": "7757",
-          "full_name": "Ben Skowronek",
-          "first_name": "Ben",
-          "last_name": "Skowronek",
-          "team": "PIT",
+          "player_id": "4401",
+          "full_name": "Damore'ea Stringfellow",
+          "first_name": "Damore'ea",
+          "last_name": "Stringfellow",
+          "team": null,
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Illness",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759953042961
+          "news_updated": 1536282602776
         },
         {
           "player_id": "2747",

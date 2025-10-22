@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T21:18:14Z",
+  "generated_at": "2025-10-22T22:18:44Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -15986,6 +15986,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "7757",
+      "full_name": "Ben Skowronek",
+      "team": "PIT",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "2003",
       "full_name": "Bennie Fowler",
       "team": null,
@@ -17409,13 +17416,6 @@
     {
       "player_id": "2937",
       "full_name": "Damond Powell",
-      "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "4401",
-      "full_name": "Damore'ea Stringfellow",
       "team": null,
       "position": "WR",
       "status": "Active"
