@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T07:23:37Z",
+  "generated_at": "2025-10-22T08:34:40Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -307,17 +307,17 @@
           "news_updated": 1759843850118
         },
         {
-          "player_id": "8130",
-          "full_name": "Trey McBride",
-          "first_name": "Trey",
-          "last_name": "McBride",
-          "team": "ARI",
+          "player_id": "12493",
+          "full_name": "Oronde Gadsden",
+          "first_name": "Oronde",
+          "last_name": "Gadsden",
+          "team": "LAC",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860345
+          "news_updated": 1759843849209
         },
         {
           "player_id": "4035",
@@ -346,12 +346,12 @@
           "news_updated": null
         },
         {
-          "player_id": "CLE",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Cleveland",
-          "last_name": "Browns",
-          "team": "CLE",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -385,19 +385,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759950341754
-        },
-        {
-          "player_id": "12493",
-          "full_name": "Oronde Gadsden",
-          "first_name": "Oronde",
-          "last_name": "Gadsden",
-          "team": "LAC",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849209
         },
         {
           "player_id": "12501",
@@ -452,6 +439,19 @@
           "news_updated": 1759849547926
         },
         {
+          "player_id": "8130",
+          "full_name": "Trey McBride",
+          "first_name": "Trey",
+          "last_name": "McBride",
+          "team": "ARI",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759738860345
+        },
+        {
           "player_id": "8148",
           "full_name": "Jameson Williams",
           "first_name": "Jameson",
@@ -463,6 +463,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759795543169
+        },
+        {
+          "player_id": "BUF",
+          "full_name": null,
+          "first_name": "Buffalo",
+          "last_name": "Bills",
+          "team": "BUF",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],

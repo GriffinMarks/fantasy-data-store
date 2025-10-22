@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T07:23:37Z",
+  "generated_at": "2025-10-22T08:34:40Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -61,6 +61,13 @@
       "status": null
     },
     {
+      "player_id": "CLE",
+      "full_name": null,
+      "team": "CLE",
+      "position": "DEF",
+      "status": null
+    },
+    {
       "player_id": "ATL",
       "full_name": null,
       "team": "ATL",
@@ -92,13 +99,6 @@
       "player_id": "MIA",
       "full_name": null,
       "team": "MIA",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "BUF",
-      "full_name": null,
-      "team": "BUF",
       "position": "DEF",
       "status": null
     },
