@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T16:32:14Z",
+  "generated_at": "2025-10-22T17:21:12Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -482,17 +482,17 @@
       "points_against": 880,
       "starters": [
         {
-          "player_id": "4943",
-          "full_name": "Sam Darnold",
-          "first_name": "Sam",
-          "last_name": "Darnold",
-          "team": "SEA",
+          "player_id": "6768",
+          "full_name": "Tua Tagovailoa",
+          "first_name": "Tua",
+          "last_name": "Tagovailoa",
+          "team": "MIA",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849645
+          "news_updated": 1759745460489
         },
         {
           "player_id": "8155",
@@ -534,17 +534,17 @@
           "news_updated": 1759103150560
         },
         {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
-          "team": "HOU",
+          "player_id": "12499",
+          "full_name": "Elic Ayomanor",
+          "first_name": "Elic",
+          "last_name": "Ayomanor",
+          "team": "TEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759698955852
+          "news_updated": 1759883459077
         },
         {
           "player_id": "1339",
@@ -560,17 +560,17 @@
           "news_updated": 1759769461597
         },
         {
-          "player_id": "4454",
-          "full_name": "Kendrick Bourne",
-          "first_name": "Kendrick",
-          "last_name": "Bourne",
-          "team": "SF",
-          "position": "WR",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
+          "team": "HOU",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759852548357
+          "news_updated": 1759708556770
         },
         {
           "player_id": "11533",
@@ -614,43 +614,30 @@
           "news_updated": 1759954542431
         },
         {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "team": "HOU",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759708556770
-        },
-        {
-          "player_id": "12499",
-          "full_name": "Elic Ayomanor",
-          "first_name": "Elic",
-          "last_name": "Ayomanor",
-          "team": "TEN",
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne",
+          "first_name": "Kendrick",
+          "last_name": "Bourne",
+          "team": "SF",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759883459077
+          "news_updated": 1759852548357
         },
         {
-          "player_id": "12519",
-          "full_name": "Luther Burden",
-          "first_name": "Luther",
-          "last_name": "Burden",
-          "team": "CHI",
-          "position": "WR",
+          "player_id": "4943",
+          "full_name": "Sam Darnold",
+          "first_name": "Sam",
+          "last_name": "Darnold",
+          "team": "SEA",
+          "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759161356298
+          "news_updated": 1759843849645
         },
         {
           "player_id": "5012",
@@ -677,6 +664,19 @@
           "injury_body_part": "Toe",
           "injury_start_date": null,
           "news_updated": 1758475540771
+        },
+        {
+          "player_id": "7569",
+          "full_name": "Nico Collins",
+          "first_name": "Nico",
+          "last_name": "Collins",
+          "team": "HOU",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759698955852
         },
         {
           "player_id": "9508",
