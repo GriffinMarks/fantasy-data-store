@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 8,
-  "generated_at": "2025-10-22T15:25:41Z",
+  "generated_at": "2025-10-22T16:32:20Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -17,12 +17,12 @@
       "adds": {
         "8142": 13
       },
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "12495": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -40,12 +40,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1286696295456600064",
       "adds": null,
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "12961": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -63,12 +63,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1286696243346550784",
       "adds": null,
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "9482": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -88,10 +88,10 @@
       "adds": {
         "12540": 13
       },
+      "drops": null,
       "consenter_ids": [
         13
       ],
-      "drops": null,
       "roster_ids": [
         13
       ],
@@ -109,12 +109,12 @@
       "creator": "467584951626231808",
       "transaction_id": "1286696113348296704",
       "adds": null,
-      "consenter_ids": [
-        13
-      ],
       "drops": {
         "11994": 13
       },
+      "consenter_ids": [
+        13
+      ],
       "roster_ids": [
         13
       ],
@@ -132,12 +132,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1286694994345750528",
       "adds": null,
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "5849": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -157,12 +157,12 @@
       "adds": {
         "BUF": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "CLE": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
