@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T19:17:53Z",
+  "generated_at": "2025-10-22T20:27:58Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3751,
   "players": [
     {
       "player_id": "HOU",
@@ -1317,6 +1317,13 @@
       "player_id": "11065",
       "full_name": "Adrian Martinez",
       "team": "SF",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "12361",
+      "full_name": "Aeneas Dennis",
+      "team": null,
       "position": "QB",
       "status": "Active"
     },
@@ -2691,13 +2698,6 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "2557",
-      "full_name": "Jerry Lovelocke",
-      "team": null,
-      "position": "QB",
-      "status": "Active"
     },
     {
       "player_id": "611",
@@ -4630,6 +4630,13 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "12490",
+      "full_name": "Bhayshul Tuten",
+      "team": "JAX",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "818",
@@ -6716,13 +6723,6 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "4219",
-      "full_name": "Jeremy McNichols",
-      "team": "WAS",
-      "position": "RB",
-      "status": "Active"
     },
     {
       "player_id": "1293",
@@ -8905,13 +8905,6 @@
       "player_id": "7005",
       "full_name": "Scottie Phillips",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "9506",
-      "full_name": "Sean Tucker",
-      "team": "TB",
       "position": "RB",
       "status": "Active"
     },
@@ -15993,13 +15986,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "7757",
-      "full_name": "Ben Skowronek",
-      "team": "PIT",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
       "player_id": "2003",
       "full_name": "Bennie Fowler",
       "team": null,
@@ -21435,6 +21421,13 @@
       "player_id": "5283",
       "full_name": "Ka'Raun White",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "8917",
+      "full_name": "KaVontae Turpin",
+      "team": "DAL",
       "position": "WR",
       "status": "Active"
     },

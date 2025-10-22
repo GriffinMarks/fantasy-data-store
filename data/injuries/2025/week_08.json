@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T19:17:53Z",
+  "generated_at": "2025-10-22T20:27:58Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -154,6 +154,16 @@
       "news_updated": 1759953344560
     },
     {
+      "player_id": "7757",
+      "full_name": "Ben Skowronek",
+      "team": "PIT",
+      "position": "WR",
+      "injury_status": "Questionable",
+      "injury_body_part": "Illness",
+      "injury_start_date": null,
+      "news_updated": 1759953042961
+    },
+    {
       "player_id": "6803",
       "full_name": "Brandon Aiyuk",
       "team": "SF",
@@ -242,16 +252,6 @@
       "injury_body_part": "Collarbone",
       "injury_start_date": null,
       "news_updated": 1758394236423
-    },
-    {
-      "player_id": "8917",
-      "full_name": "KaVontae Turpin",
-      "team": "DAL",
-      "position": "WR",
-      "injury_status": "Questionable",
-      "injury_body_part": "Foot",
-      "injury_start_date": null,
-      "news_updated": 1759855248925
     },
     {
       "player_id": "2216",

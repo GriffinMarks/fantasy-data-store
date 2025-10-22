@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T19:17:52Z",
+  "generated_at": "2025-10-22T20:27:57Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -735,17 +735,17 @@
           "news_updated": 1759259752432
         },
         {
-          "player_id": "8123",
-          "full_name": "Hassan Haskins",
-          "first_name": "Hassan",
-          "last_name": "Haskins",
-          "team": "LAC",
+          "player_id": "3198",
+          "full_name": "Derrick Henry",
+          "first_name": "Derrick",
+          "last_name": "Henry",
+          "team": "BAL",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759871157393
+          "news_updated": 1759698356565
         },
         {
           "player_id": "6783",
@@ -787,17 +787,17 @@
           "news_updated": 1759868756868
         },
         {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "first_name": "Mike",
-          "last_name": "Evans",
-          "team": "TB",
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "first_name": "Rashod",
+          "last_name": "Bateman",
+          "team": "BAL",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Out",
-          "injury_body_part": "Hamstring",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759947940772
+          "news_updated": 1759850448658
         },
         {
           "player_id": "6083",
@@ -841,17 +841,17 @@
           "news_updated": 1759947640663
         },
         {
-          "player_id": "3198",
-          "full_name": "Derrick Henry",
-          "first_name": "Derrick",
-          "last_name": "Henry",
-          "team": "BAL",
-          "position": "RB",
+          "player_id": "2216",
+          "full_name": "Mike Evans",
+          "first_name": "Mike",
+          "last_name": "Evans",
+          "team": "TB",
+          "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Out",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759698356565
+          "news_updated": 1759947940772
         },
         {
           "player_id": "4037",
@@ -893,17 +893,17 @@
           "news_updated": 1759518042000
         },
         {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
-          "position": "WR",
+          "player_id": "8123",
+          "full_name": "Hassan Haskins",
+          "first_name": "Hassan",
+          "last_name": "Haskins",
+          "team": "LAC",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850448658
+          "news_updated": 1759871157393
         }
       ],
       "taxi": [],
@@ -1148,10 +1148,10 @@
       "points_against": 843,
       "starters": [
         {
-          "player_id": "12361",
-          "full_name": "Aeneas Dennis",
-          "first_name": "Aeneas",
-          "last_name": "Dennis",
+          "player_id": "2557",
+          "full_name": "Jerry Lovelocke",
+          "first_name": "Jerry",
+          "last_name": "Lovelocke",
           "team": null,
           "position": "QB",
           "status": "Active",
@@ -1226,17 +1226,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "8917",
-          "full_name": "KaVontae Turpin",
-          "first_name": "KaVontae",
-          "last_name": "Turpin",
-          "team": "DAL",
+          "player_id": "7757",
+          "full_name": "Ben Skowronek",
+          "first_name": "Ben",
+          "last_name": "Skowronek",
+          "team": "PIT",
           "position": "WR",
           "status": "Active",
           "injury_status": "Questionable",
-          "injury_body_part": "Foot",
+          "injury_body_part": "Illness",
           "injury_start_date": null,
-          "news_updated": 1759855248925
+          "news_updated": 1759953042961
         },
         {
           "player_id": "2747",
@@ -2254,17 +2254,17 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "9506",
+          "full_name": "Sean Tucker",
+          "first_name": "Sean",
+          "last_name": "Tucker",
+          "team": "TB",
+          "position": "RB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759843849755
         },
         {
           "player_id": "5045",
@@ -2440,6 +2440,7 @@
       ],
       "taxi": [],
       "ir": [
+        "11604",
         "12507"
       ]
     },
@@ -2936,17 +2937,17 @@
           "news_updated": 1759847749521
         },
         {
-          "player_id": "8150",
-          "full_name": "Kyren Williams",
-          "first_name": "Kyren",
-          "last_name": "Williams",
-          "team": "LAR",
+          "player_id": "4219",
+          "full_name": "Jeremy McNichols",
+          "first_name": "Jeremy",
+          "last_name": "McNichols",
+          "team": "WAS",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759517441769
+          "news_updated": 1759843849418
         },
         {
           "player_id": "6806",
@@ -3042,19 +3043,6 @@
       ],
       "bench": [
         {
-          "player_id": "12490",
-          "full_name": "Bhayshul Tuten",
-          "first_name": "Bhayshul",
-          "last_name": "Tuten",
-          "team": "JAX",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759870859628
-        },
-        {
           "player_id": "5872",
           "full_name": "Deebo Samuel",
           "first_name": "Deebo",
@@ -3079,6 +3067,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759713957288
+        },
+        {
+          "player_id": "8150",
+          "full_name": "Kyren Williams",
+          "first_name": "Kyren",
+          "last_name": "Williams",
+          "team": "LAR",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759517441769
         },
         {
           "player_id": "8151",
