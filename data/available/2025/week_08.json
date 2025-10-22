@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T11:21:01Z",
+  "generated_at": "2025-10-22T12:53:12Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3752,
   "players": [
     {
       "player_id": "HOU",
@@ -1051,6 +1051,13 @@
       "player_id": "12791",
       "full_name": "Ryan Coe",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "12961",
+      "full_name": "Ryan Fitzgerald",
+      "team": "CAR",
       "position": "K",
       "status": "Active"
     },
@@ -3039,6 +3046,13 @@
       "player_id": "7605",
       "full_name": "Kyle Trask",
       "team": null,
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "5849",
+      "full_name": "Kyler Murray",
+      "team": "ARI",
       "position": "QB",
       "status": "Active"
     },
@@ -8198,6 +8212,13 @@
       "player_id": "5347",
       "full_name": "Nyheim Hines",
       "team": "LAC",
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "12495",
+      "full_name": "Ollie Gordon",
+      "team": "MIA",
       "position": "RB",
       "status": "Active"
     },
@@ -13571,6 +13592,13 @@
       "status": "Active"
     },
     {
+      "player_id": "9482",
+      "full_name": "Michael Mayer",
+      "team": "LV",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "3588",
       "full_name": "Michael Miller",
       "team": null,
@@ -15335,13 +15363,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "8142",
-      "full_name": "Alec Pierce",
-      "team": "IND",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
       "player_id": "7235",
       "full_name": "Aleva Hifo",
       "team": null,
@@ -16787,13 +16808,6 @@
       "player_id": "3582",
       "full_name": "Chester Rogers",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "12540",
-      "full_name": "Chimere Dike",
-      "team": "TEN",
       "position": "WR",
       "status": "Active"
     },
@@ -21533,6 +21547,13 @@
       "player_id": "8888",
       "full_name": "Kameron Brown",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "11994",
+      "full_name": "Kameron Johnson",
+      "team": "TB",
       "position": "WR",
       "status": "Active"
     },

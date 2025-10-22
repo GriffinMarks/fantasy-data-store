@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T11:21:01Z",
+  "generated_at": "2025-10-22T12:53:12Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -32,16 +32,6 @@
       "injury_body_part": "Toe",
       "injury_start_date": null,
       "news_updated": 1758475540771
-    },
-    {
-      "player_id": "5849",
-      "full_name": "Kyler Murray",
-      "team": "ARI",
-      "position": "QB",
-      "injury_status": "Questionable",
-      "injury_body_part": "Foot",
-      "injury_start_date": null,
-      "news_updated": 1759944940498
     },
     {
       "player_id": "4881",
@@ -142,6 +132,16 @@
       "injury_body_part": "Hamstring",
       "injury_start_date": null,
       "news_updated": 1759954543402
+    },
+    {
+      "player_id": "8142",
+      "full_name": "Alec Pierce",
+      "team": "IND",
+      "position": "WR",
+      "injury_status": "Questionable",
+      "injury_body_part": "Concussion",
+      "injury_start_date": null,
+      "news_updated": 1759954242047
     },
     {
       "player_id": "7547",

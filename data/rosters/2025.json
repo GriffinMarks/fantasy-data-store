@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T11:21:01Z",
+  "generated_at": "2025-10-22T12:53:11Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -67,17 +67,17 @@
           "news_updated": 1759153855449
         },
         {
-          "player_id": "12485",
-          "full_name": "Tez Johnson",
-          "first_name": "Tez",
-          "last_name": "Johnson",
-          "team": "TB",
+          "player_id": "11627",
+          "full_name": "Troy Franklin",
+          "first_name": "Troy",
+          "last_name": "Franklin",
+          "team": "DEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759899359041
+          "news_updated": 1759790742367
         },
         {
           "player_id": "12506",
@@ -93,17 +93,17 @@
           "news_updated": 1759879557579
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
-          "first_name": "Tony",
-          "last_name": "Pollard",
-          "team": "TEN",
-          "position": "RB",
+          "player_id": "12485",
+          "full_name": "Tez Johnson",
+          "first_name": "Tez",
+          "last_name": "Johnson",
+          "team": "TB",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759737060024
+          "news_updated": 1759899359041
         },
         {
           "player_id": "1945",
@@ -145,19 +145,6 @@
           "injury_body_part": "Neck",
           "injury_start_date": null,
           "news_updated": 1759599946577
-        },
-        {
-          "player_id": "11627",
-          "full_name": "Troy Franklin",
-          "first_name": "Troy",
-          "last_name": "Franklin",
-          "team": "DEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759790742367
         },
         {
           "player_id": "11646",
@@ -223,6 +210,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759905359635
+        },
+        {
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "first_name": "Tony",
+          "last_name": "Pollard",
+          "team": "TEN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759737060024
         }
       ],
       "taxi": [],
@@ -2027,17 +2027,17 @@
       "points_against": 800,
       "starters": [
         {
-          "player_id": "96",
-          "full_name": "Aaron Rodgers",
-          "first_name": "Aaron",
-          "last_name": "Rodgers",
-          "team": "PIT",
+          "player_id": "19",
+          "full_name": "Joe Flacco",
+          "first_name": "Joe",
+          "last_name": "Flacco",
+          "team": "CIN",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759876257357
+          "news_updated": 1759945240522
         },
         {
           "player_id": "8408",
@@ -2092,19 +2092,6 @@
           "news_updated": 1759593346002
         },
         {
-          "player_id": "9482",
-          "full_name": "Michael Mayer",
-          "first_name": "Michael",
-          "last_name": "Mayer",
-          "team": "LV",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759952141952
-        },
-        {
           "player_id": "4144",
           "full_name": "Jonnu Smith",
           "first_name": "Jonnu",
@@ -2116,6 +2103,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878957465
+        },
+        {
+          "player_id": "9997",
+          "full_name": "Zay Flowers",
+          "first_name": "Zay",
+          "last_name": "Flowers",
+          "team": "BAL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759707956772
         },
         {
           "player_id": "10937",
@@ -2146,32 +2146,6 @@
       ],
       "bench": [
         {
-          "player_id": "12961",
-          "full_name": "Ryan Fitzgerald",
-          "first_name": "Ryan",
-          "last_name": "Fitzgerald",
-          "team": "CAR",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850049
-        },
-        {
-          "player_id": "19",
-          "full_name": "Joe Flacco",
-          "first_name": "Joe",
-          "last_name": "Flacco",
-          "team": "CIN",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759945240522
-        },
-        {
           "player_id": "4033",
           "full_name": "David Njoku",
           "first_name": "David",
@@ -2183,19 +2157,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759741860293
-        },
-        {
-          "player_id": "5849",
-          "full_name": "Kyler Murray",
-          "first_name": "Kyler",
-          "last_name": "Murray",
-          "team": "ARI",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Foot",
-          "injury_start_date": null,
-          "news_updated": 1759944940498
         },
         {
           "player_id": "7042",
@@ -2237,22 +2198,21 @@
           "news_updated": 1759154753922
         },
         {
-          "player_id": "9997",
-          "full_name": "Zay Flowers",
-          "first_name": "Zay",
-          "last_name": "Flowers",
-          "team": "BAL",
-          "position": "WR",
+          "player_id": "96",
+          "full_name": "Aaron Rodgers",
+          "first_name": "Aaron",
+          "last_name": "Rodgers",
+          "team": "PIT",
+          "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759707956772
+          "news_updated": 1759876257357
         }
       ],
       "taxi": [],
       "ir": [
-        "4033",
         "7042"
       ]
     },
@@ -2775,30 +2735,30 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "7547",
-          "full_name": "Amon-Ra St. Brown",
-          "first_name": "Amon-Ra",
-          "last_name": "St. Brown",
-          "team": "DET",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Wrist",
-          "injury_start_date": null,
-          "news_updated": 1759953344560
-        },
-        {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
+          "first_name": "Chimere",
+          "last_name": "Dike",
+          "team": "TEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849559
+          "news_updated": 1759889460417
+        },
+        {
+          "player_id": "11610",
+          "full_name": "Malik Washington",
+          "first_name": "Malik",
+          "last_name": "Washington",
+          "team": "MIA",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759746360603
         },
         {
           "player_id": "4066",
@@ -2827,17 +2787,17 @@
           "news_updated": 1759952743342
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "7839",
+          "full_name": "Evan McPherson",
+          "first_name": "Evan",
+          "last_name": "McPherson",
+          "team": "CIN",
+          "position": "K",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759722058343
         },
         {
           "player_id": "KC",
@@ -2868,19 +2828,6 @@
           "news_updated": 1759341902592
         },
         {
-          "player_id": "11610",
-          "full_name": "Malik Washington",
-          "first_name": "Malik",
-          "last_name": "Washington",
-          "team": "MIA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759746360603
-        },
-        {
           "player_id": "11628",
           "full_name": "Marvin Harrison",
           "first_name": "Marvin",
@@ -2892,32 +2839,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870256947
-        },
-        {
-          "player_id": "11994",
-          "full_name": "Kameron Johnson",
-          "first_name": "Kameron",
-          "last_name": "Johnson",
-          "team": "TB",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759387803244
-        },
-        {
-          "player_id": "12495",
-          "full_name": "Ollie Gordon",
-          "first_name": "Ollie",
-          "last_name": "Gordon",
-          "team": "MIA",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759775102077
         },
         {
           "player_id": "2505",
@@ -2933,17 +2854,43 @@
           "news_updated": 1759848348136
         },
         {
-          "player_id": "7839",
-          "full_name": "Evan McPherson",
-          "first_name": "Evan",
-          "last_name": "McPherson",
-          "team": "CIN",
-          "position": "K",
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759722058343
+          "news_updated": 1759843849559
+        },
+        {
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown",
+          "first_name": "Amon-Ra",
+          "last_name": "St. Brown",
+          "team": "DET",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Wrist",
+          "injury_start_date": null,
+          "news_updated": 1759953344560
+        },
+        {
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "first_name": "Alec",
+          "last_name": "Pierce",
+          "team": "IND",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Concussion",
+          "injury_start_date": null,
+          "news_updated": 1759954242047
         },
         {
           "player_id": "9494",
@@ -2961,8 +2908,7 @@
       ],
       "taxi": [],
       "ir": [
-        "11589",
-        "2505"
+        "11589"
       ]
     },
     {
