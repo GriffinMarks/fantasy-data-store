@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-22T23:20:14Z",
+  "generated_at": "2025-10-23T01:51:01Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -841,6 +841,19 @@
           "news_updated": 1759947640663
         },
         {
+          "player_id": "167",
+          "full_name": "Tom Brady",
+          "first_name": "Tom",
+          "last_name": "Brady",
+          "team": null,
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1736815542351
+        },
+        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -880,30 +893,17 @@
           "news_updated": 1759848948010
         },
         {
-          "player_id": "7562",
-          "full_name": "Tutu Atwell",
-          "first_name": "Tutu",
-          "last_name": "Atwell",
-          "team": "LAR",
-          "position": "WR",
+          "player_id": "515",
+          "full_name": "Rob Gronkowski",
+          "first_name": "Rob",
+          "last_name": "Gronkowski",
+          "team": null,
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759518042000
-        },
-        {
-          "player_id": "8123",
-          "full_name": "Hassan Haskins",
-          "first_name": "Hassan",
-          "last_name": "Haskins",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759871157393
+          "news_updated": 1740582920801
         },
         {
           "player_id": "TB",
@@ -1163,13 +1163,13 @@
       "points_against": 843,
       "starters": [
         {
-          "player_id": "2557",
-          "full_name": "Jerry Lovelocke",
-          "first_name": "Jerry",
-          "last_name": "Lovelocke",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
           "team": null,
-          "position": "QB",
-          "status": "Active",
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
@@ -1281,6 +1281,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11374",
+          "full_name": "James Blackman",
+          "first_name": "James",
+          "last_name": "Blackman",
+          "team": null,
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1693255850055
+        },
         {
           "player_id": "11566",
           "full_name": "Jayden Daniels",
@@ -2269,17 +2282,17 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "9506",
-          "full_name": "Sean Tucker",
-          "first_name": "Sean",
-          "last_name": "Tucker",
-          "team": "TB",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849755
+          "news_updated": null
         },
         {
           "player_id": "5045",
@@ -2373,6 +2386,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759887658303
+        },
+        {
+          "player_id": "11571",
+          "full_name": "Isaiah Davis",
+          "first_name": "Isaiah",
+          "last_name": "Davis",
+          "team": "NYJ",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759767361308
         },
         {
           "player_id": "11604",
