@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-23T14:25:24Z",
+  "generated_at": "2025-10-23T15:25:34Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1401,17 +1401,17 @@
           "news_updated": 1759843850007
         },
         {
-          "player_id": "8205",
-          "full_name": "Isiah Pacheco",
-          "first_name": "Isiah",
-          "last_name": "Pacheco",
-          "team": "KC",
+          "player_id": "8138",
+          "full_name": "James Cook",
+          "first_name": "James",
+          "last_name": "Cook",
+          "team": "BUF",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847749499
+          "news_updated": 1759843849866
         },
         {
           "player_id": "12512",
@@ -1572,23 +1572,21 @@
           "news_updated": 1759903261405
         },
         {
-          "player_id": "8138",
-          "full_name": "James Cook",
-          "first_name": "James",
-          "last_name": "Cook",
-          "team": "BUF",
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco",
+          "first_name": "Isiah",
+          "last_name": "Pacheco",
+          "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849866
+          "news_updated": 1759847749499
         }
       ],
       "taxi": [],
-      "ir": [
-        "10236"
-      ]
+      "ir": []
     },
     {
       "roster_id": 8,
