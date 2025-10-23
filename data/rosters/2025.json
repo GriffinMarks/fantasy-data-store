@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-23T20:25:48Z",
+  "generated_at": "2025-10-23T21:19:48Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -3015,17 +3015,17 @@
           "news_updated": 1759895158740
         },
         {
-          "player_id": "8676",
-          "full_name": "Rashid Shaheed",
-          "first_name": "Rashid",
-          "last_name": "Shaheed",
-          "team": "NO",
+          "player_id": "5872",
+          "full_name": "Deebo Samuel",
+          "first_name": "Deebo",
+          "last_name": "Samuel",
+          "team": "WAS",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759719058625
+          "news_updated": 1759721458513
         },
         {
           "player_id": "1466",
@@ -3082,19 +3082,6 @@
       ],
       "bench": [
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel",
-          "first_name": "Deebo",
-          "last_name": "Samuel",
-          "team": "WAS",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759721458513
-        },
-        {
           "player_id": "7591",
           "full_name": "Justin Fields",
           "first_name": "Justin",
@@ -3145,6 +3132,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759890360254
+        },
+        {
+          "player_id": "8676",
+          "full_name": "Rashid Shaheed",
+          "first_name": "Rashid",
+          "last_name": "Shaheed",
+          "team": "NO",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759719058625
         },
         {
           "player_id": "9493",
