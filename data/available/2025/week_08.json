@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-23T23:20:38Z",
+  "generated_at": "2025-10-24T01:46:56Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3749,
   "players": [
     {
       "player_id": "HOU",
@@ -862,13 +862,6 @@
       "player_id": "5386",
       "full_name": "Matt McCrane",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "17",
-      "full_name": "Matt Prater",
-      "team": "BUF",
       "position": "K",
       "status": "Active"
     },
@@ -26148,13 +26141,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "11626",
-      "full_name": "Xavier Legette",
-      "team": "CAR",
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "12520",

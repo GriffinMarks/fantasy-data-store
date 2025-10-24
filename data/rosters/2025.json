@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-23T23:20:37Z",
+  "generated_at": "2025-10-24T01:46:56Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -547,17 +547,17 @@
           "news_updated": 1759883459077
         },
         {
-          "player_id": "1339",
-          "full_name": "Zach Ertz",
-          "first_name": "Zach",
-          "last_name": "Ertz",
-          "team": "WAS",
+          "player_id": "5012",
+          "full_name": "Mark Andrews",
+          "first_name": "Mark",
+          "last_name": "Andrews",
+          "team": "BAL",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759769461597
+          "news_updated": 1759867858147
         },
         {
           "player_id": "12474",
@@ -614,6 +614,19 @@
           "news_updated": 1759954542431
         },
         {
+          "player_id": "1339",
+          "full_name": "Zach Ertz",
+          "first_name": "Zach",
+          "last_name": "Ertz",
+          "team": "WAS",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759769461597
+        },
+        {
           "player_id": "4454",
           "full_name": "Kendrick Bourne",
           "first_name": "Kendrick",
@@ -638,19 +651,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849645
-        },
-        {
-          "player_id": "5012",
-          "full_name": "Mark Andrews",
-          "first_name": "Mark",
-          "last_name": "Andrews",
-          "team": "BAL",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759867858147
         },
         {
           "player_id": "6770",
@@ -2144,17 +2144,17 @@
           "news_updated": 1759707956772
         },
         {
-          "player_id": "10937",
-          "full_name": "Jake Moody",
-          "first_name": "Jake",
-          "last_name": "Moody",
-          "team": "CHI",
+          "player_id": "17",
+          "full_name": "Matt Prater",
+          "first_name": "Matt",
+          "last_name": "Prater",
+          "team": "BUF",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1757698505885
+          "news_updated": 1759843849840
         },
         {
           "player_id": "PHI",
@@ -2171,6 +2171,32 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10937",
+          "full_name": "Jake Moody",
+          "first_name": "Jake",
+          "last_name": "Moody",
+          "team": "CHI",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1757698505885
+        },
+        {
+          "player_id": "11626",
+          "full_name": "Xavier Legette",
+          "first_name": "Xavier",
+          "last_name": "Legette",
+          "team": "CAR",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843850104
+        },
         {
           "player_id": "4033",
           "full_name": "David Njoku",
