@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-24T16:30:22Z",
+  "generated_at": "2025-10-24T17:21:09Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1163,17 +1163,17 @@
       "points_against": 843,
       "starters": [
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
+          "player_id": "11374",
+          "full_name": "James Blackman",
+          "first_name": "James",
+          "last_name": "Blackman",
           "team": null,
-          "position": null,
-          "status": null,
+          "position": "QB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1693255850055
         },
         {
           "player_id": "12527",
@@ -1281,19 +1281,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11374",
-          "full_name": "James Blackman",
-          "first_name": "James",
-          "last_name": "Blackman",
-          "team": null,
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1693255850055
-        },
         {
           "player_id": "11566",
           "full_name": "Jayden Daniels",

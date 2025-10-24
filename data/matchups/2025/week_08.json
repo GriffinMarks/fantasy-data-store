@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 8,
-  "generated_at": "2025-10-24T16:30:22Z",
+  "generated_at": "2025-10-24T17:21:09Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -89,7 +89,7 @@
           "roster_id": 6,
           "owner": "They hit the second Bower",
           "starters": [
-            "0",
+            "11374",
             "12527",
             "7543",
             "6699",
