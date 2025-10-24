@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-24T06:34:30Z",
+  "generated_at": "2025-10-24T07:22:44Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -3080,12 +3080,12 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "0",
+          "player_id": "HOU",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Houston",
+          "last_name": "Texans",
+          "team": "HOU",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -3171,19 +3171,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759905359635
-        },
-        {
-          "player_id": "HOU",
-          "full_name": null,
-          "first_name": "Houston",
-          "last_name": "Texans",
-          "team": "HOU",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
