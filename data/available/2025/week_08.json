@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-26T04:27:12Z",
+  "generated_at": "2025-10-26T05:22:23Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3748,
   "players": [
     {
       "player_id": "BAL",
@@ -57,13 +57,6 @@
       "player_id": "CLE",
       "full_name": null,
       "team": "CLE",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "ATL",
-      "full_name": null,
-      "team": "ATL",
       "position": "DEF",
       "status": null
     },
@@ -2966,13 +2959,6 @@
       "status": "Active"
     },
     {
-      "player_id": "1166",
-      "full_name": "Kirk Cousins",
-      "team": "ATL",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
       "player_id": "5142",
       "full_name": "Kurt Benkert",
       "team": null,
@@ -4063,6 +4049,13 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "6768",
+      "full_name": "Tua Tagovailoa",
+      "team": "MIA",
+      "position": "QB",
+      "status": "Active"
     },
     {
       "player_id": "1612",
@@ -11061,13 +11054,6 @@
       "player_id": "11942",
       "full_name": "Colson Yankoff",
       "team": "WAS",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "12517",
-      "full_name": "Colston Loveland",
-      "team": "CHI",
       "position": "TE",
       "status": "Active"
     },
@@ -21757,6 +21743,13 @@
       "player_id": "8783",
       "full_name": "Kendric Pryor",
       "team": "CIN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "4454",
+      "full_name": "Kendrick Bourne",
+      "team": "SF",
       "position": "WR",
       "status": "Active"
     },

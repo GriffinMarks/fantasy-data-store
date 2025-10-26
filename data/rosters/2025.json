@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-26T04:27:11Z",
+  "generated_at": "2025-10-26T05:22:23Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -482,17 +482,17 @@
       "points_against": 880,
       "starters": [
         {
-          "player_id": "6768",
-          "full_name": "Tua Tagovailoa",
-          "first_name": "Tua",
-          "last_name": "Tagovailoa",
-          "team": "MIA",
+          "player_id": "1166",
+          "full_name": "Kirk Cousins",
+          "first_name": "Kirk",
+          "last_name": "Cousins",
+          "team": "ATL",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759745460489
+          "news_updated": 1759017039215
         },
         {
           "player_id": "8155",
@@ -508,17 +508,17 @@
           "news_updated": 1759728657548
         },
         {
-          "player_id": "7567",
-          "full_name": "Kenneth Gainwell",
-          "first_name": "Kenneth",
-          "last_name": "Gainwell",
-          "team": "PIT",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
+          "team": "HOU",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850148208
+          "news_updated": 1759708556770
         },
         {
           "player_id": "8112",
@@ -547,30 +547,30 @@
           "news_updated": 1759883459077
         },
         {
-          "player_id": "5012",
-          "full_name": "Mark Andrews",
-          "first_name": "Mark",
-          "last_name": "Andrews",
-          "team": "BAL",
+          "player_id": "12517",
+          "full_name": "Colston Loveland",
+          "first_name": "Colston",
+          "last_name": "Loveland",
+          "team": "CHI",
           "position": "TE",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Hip",
           "injury_start_date": null,
-          "news_updated": 1759867858147
+          "news_updated": 1759267253156
         },
         {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "team": "HOU",
+          "player_id": "9508",
+          "full_name": "Tyjae Spears",
+          "first_name": "Tyjae",
+          "last_name": "Spears",
+          "team": "TEN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759708556770
+          "news_updated": 1759799743285
         },
         {
           "player_id": "11533",
@@ -586,11 +586,11 @@
           "news_updated": 1759715457484
         },
         {
-          "player_id": "DEN",
+          "player_id": "ATL",
           "full_name": null,
-          "first_name": "Denver",
-          "last_name": "Broncos",
-          "team": "DEN",
+          "first_name": "Atlanta",
+          "last_name": "Falcons",
+          "team": "ATL",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -627,19 +627,6 @@
           "news_updated": 1759769461597
         },
         {
-          "player_id": "4454",
-          "full_name": "Kendrick Bourne",
-          "first_name": "Kendrick",
-          "last_name": "Bourne",
-          "team": "SF",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759852548357
-        },
-        {
           "player_id": "4943",
           "full_name": "Sam Darnold",
           "first_name": "Sam",
@@ -651,6 +638,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849645
+        },
+        {
+          "player_id": "5012",
+          "full_name": "Mark Andrews",
+          "first_name": "Mark",
+          "last_name": "Andrews",
+          "team": "BAL",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759867858147
         },
         {
           "player_id": "6770",
@@ -666,6 +666,19 @@
           "news_updated": 1758475540771
         },
         {
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell",
+          "first_name": "Kenneth",
+          "last_name": "Gainwell",
+          "team": "PIT",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759850148208
+        },
+        {
           "player_id": "7569",
           "full_name": "Nico Collins",
           "first_name": "Nico",
@@ -679,22 +692,23 @@
           "news_updated": 1759698955852
         },
         {
-          "player_id": "9508",
-          "full_name": "Tyjae Spears",
-          "first_name": "Tyjae",
-          "last_name": "Spears",
-          "team": "TEN",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "DEN",
+          "full_name": null,
+          "first_name": "Denver",
+          "last_name": "Broncos",
+          "team": "DEN",
+          "position": "DEF",
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759799743285
+          "news_updated": null
         }
       ],
       "taxi": [],
       "ir": [
-        "6770"
+        "6770",
+        "7569"
       ]
     },
     {
