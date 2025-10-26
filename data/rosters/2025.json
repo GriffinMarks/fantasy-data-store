@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-26T17:19:01Z",
+  "generated_at": "2025-10-26T18:31:54Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -963,17 +963,17 @@
           "news_updated": 1759745460478
         },
         {
-          "player_id": "4098",
-          "full_name": "Kareem Hunt",
-          "first_name": "Kareem",
-          "last_name": "Hunt",
+          "player_id": "12455",
+          "full_name": "Brashard Smith",
+          "first_name": "Brashard",
+          "last_name": "Smith",
           "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847749759
+          "news_updated": 1759931402832
         },
         {
           "player_id": "12514",
@@ -1056,30 +1056,17 @@
       ],
       "bench": [
         {
-          "player_id": "11559",
-          "full_name": "Michael Penix",
-          "first_name": "Michael",
-          "last_name": "Penix",
-          "team": "ATL",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759102550035
-        },
-        {
-          "player_id": "12455",
-          "full_name": "Brashard Smith",
-          "first_name": "Brashard",
-          "last_name": "Smith",
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "first_name": "Kareem",
+          "last_name": "Hunt",
           "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759931402832
+          "news_updated": 1759847749759
         },
         {
           "player_id": "4199",
@@ -1148,9 +1135,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "4199"
-      ]
+      "ir": []
     },
     {
       "roster_id": 6,
