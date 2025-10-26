@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-26T15:21:38Z",
+  "generated_at": "2025-10-26T16:27:19Z",
   "league_id": "1262790170931892224",
   "count": 3748,
   "players": [
@@ -7290,6 +7290,13 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "7567",
+      "full_name": "Kenneth Gainwell",
+      "team": "PIT",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "2730",
@@ -20259,13 +20266,6 @@
       "player_id": "12641",
       "full_name": "Jaylin Lane",
       "team": "WAS",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "12536",
-      "full_name": "Jaylin Noel",
-      "team": "HOU",
       "position": "WR",
       "status": "Active"
     },

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-26T15:21:37Z",
+  "generated_at": "2025-10-26T16:27:19Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -521,17 +521,17 @@
           "news_updated": 1759708556770
         },
         {
-          "player_id": "8112",
-          "full_name": "Drake London",
-          "first_name": "Drake",
-          "last_name": "London",
-          "team": "ATL",
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "first_name": "Jaylin",
+          "last_name": "Noel",
+          "team": "HOU",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759103150560
+          "news_updated": 1759935902822
         },
         {
           "player_id": "12499",
@@ -666,19 +666,6 @@
           "news_updated": 1758475540771
         },
         {
-          "player_id": "7567",
-          "full_name": "Kenneth Gainwell",
-          "first_name": "Kenneth",
-          "last_name": "Gainwell",
-          "team": "PIT",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759850148208
-        },
-        {
           "player_id": "7569",
           "full_name": "Nico Collins",
           "first_name": "Nico",
@@ -690,6 +677,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759698955852
+        },
+        {
+          "player_id": "8112",
+          "full_name": "Drake London",
+          "first_name": "Drake",
+          "last_name": "London",
+          "team": "ATL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759103150560
         },
         {
           "player_id": "DEN",
