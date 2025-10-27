@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-27T22:21:52Z",
+  "generated_at": "2025-10-27T23:20:59Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -596,6 +596,13 @@
       "player_id": "11077",
       "full_name": "Jack Podlesny",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "10937",
+      "full_name": "Jake Moody",
+      "team": "CHI",
       "position": "K",
       "status": "Active"
     },
@@ -9742,20 +9749,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11537",
-      "full_name": "Wayne Taulapapa",
-      "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "3309",
-      "full_name": "Wendell Smallwood",
-      "team": "WAS",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "6115",
       "full_name": "Wes Hills",
       "team": null,
@@ -16945,6 +16938,13 @@
       "status": "Active"
     },
     {
+      "player_id": "4950",
+      "full_name": "Christian Kirk",
+      "team": "HOU",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "2682",
       "full_name": "Christion Jones",
       "team": null,
@@ -17416,6 +17416,13 @@
     {
       "player_id": "2937",
       "full_name": "Damond Powell",
+      "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "4401",
+      "full_name": "Damore'ea Stringfellow",
       "team": null,
       "position": "WR",
       "status": "Active"
@@ -24066,13 +24073,6 @@
     {
       "player_id": "13136",
       "full_name": "Redd Douglas",
-      "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "3893",
-      "full_name": "Reece Horn",
       "team": null,
       "position": "WR",
       "status": "Active"

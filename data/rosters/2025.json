@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-27T22:21:51Z",
+  "generated_at": "2025-10-27T23:20:59Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -881,6 +881,19 @@
           "news_updated": 1759947940772
         },
         {
+          "player_id": "3309",
+          "full_name": "Wendell Smallwood",
+          "first_name": "Wendell",
+          "last_name": "Smallwood",
+          "team": "WAS",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1641276961310
+        },
+        {
           "player_id": "4037",
           "full_name": "Chris Godwin",
           "first_name": "Chris",
@@ -1227,17 +1240,17 @@
           "news_updated": 1757345450720
         },
         {
-          "player_id": "4401",
-          "full_name": "Damore'ea Stringfellow",
-          "first_name": "Damore'ea",
-          "last_name": "Stringfellow",
+          "player_id": "11537",
+          "full_name": "Wayne Taulapapa",
+          "first_name": "Wayne",
+          "last_name": "Taulapapa",
           "team": null,
-          "position": "WR",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1536282602776
+          "news_updated": 1693179642055
         },
         {
           "player_id": "2747",
@@ -1281,17 +1294,17 @@
           "news_updated": 1759720858276
         },
         {
-          "player_id": "4950",
-          "full_name": "Christian Kirk",
-          "first_name": "Christian",
-          "last_name": "Kirk",
-          "team": "HOU",
+          "player_id": "3893",
+          "full_name": "Reece Horn",
+          "first_name": "Reece",
+          "last_name": "Horn",
+          "team": null,
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759716057736
+          "news_updated": 1629217845461
         },
         {
           "player_id": "5927",
@@ -2130,19 +2143,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10937",
-          "full_name": "Jake Moody",
-          "first_name": "Jake",
-          "last_name": "Moody",
-          "team": "CHI",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1757698505885
-        },
         {
           "player_id": "4144",
           "full_name": "Jonnu Smith",
