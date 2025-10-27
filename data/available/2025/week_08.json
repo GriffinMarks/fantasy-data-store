@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-27T20:24:48Z",
+  "generated_at": "2025-10-27T21:20:47Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3752,
   "players": [
     {
       "player_id": "BAL",
@@ -866,13 +866,6 @@
       "status": "Active"
     },
     {
-      "player_id": "6268",
-      "full_name": "Matthew Wright",
-      "team": "TEN",
-      "position": "K",
-      "status": "Active"
-    },
-    {
       "player_id": "2819",
       "full_name": "Mike Meyer",
       "team": null,
@@ -1214,6 +1207,13 @@
       "team": null,
       "position": "K",
       "status": "Active"
+    },
+    {
+      "player_id": "7042",
+      "full_name": "Tyler Bass",
+      "team": "BUF",
+      "position": "K",
+      "status": "Inactive"
     },
     {
       "player_id": "5251",
@@ -4037,6 +4037,13 @@
       "status": "Active"
     },
     {
+      "player_id": "7523",
+      "full_name": "Trevor Lawrence",
+      "team": "JAX",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
       "player_id": "2549",
       "full_name": "Trevor Siemian",
       "team": "TEN",
@@ -4805,6 +4812,13 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "8154",
+      "full_name": "Brian Robinson",
+      "team": "SF",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "12171",
@@ -26141,6 +26155,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "11626",
+      "full_name": "Xavier Legette",
+      "team": "CAR",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "12520",

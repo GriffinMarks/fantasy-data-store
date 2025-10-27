@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-27T20:24:48Z",
+  "generated_at": "2025-10-27T21:20:47Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1917,17 +1917,17 @@
           "news_updated": 1758659461447
         },
         {
-          "player_id": "7523",
-          "full_name": "Trevor Lawrence",
-          "first_name": "Trevor",
-          "last_name": "Lawrence",
-          "team": "JAX",
-          "position": "QB",
+          "player_id": "6268",
+          "full_name": "Matthew Wright",
+          "first_name": "Matthew",
+          "last_name": "Wright",
+          "team": "TEN",
+          "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759846249625
+          "news_updated": 1756182606918
         },
         {
           "player_id": "8111",
@@ -1954,19 +1954,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759866049397
-        },
-        {
-          "player_id": "8154",
-          "full_name": "Brian Robinson",
-          "first_name": "Brian",
-          "last_name": "Robinson",
-          "team": "SF",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759516841470
         },
         {
           "player_id": "8167",
@@ -2157,19 +2144,6 @@
           "news_updated": 1757698505885
         },
         {
-          "player_id": "11626",
-          "full_name": "Xavier Legette",
-          "first_name": "Xavier",
-          "last_name": "Legette",
-          "team": "CAR",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850104
-        },
-        {
           "player_id": "4144",
           "full_name": "Jonnu Smith",
           "first_name": "Jonnu",
@@ -2194,19 +2168,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759706156589
-        },
-        {
-          "player_id": "7042",
-          "full_name": "Tyler Bass",
-          "first_name": "Tyler",
-          "last_name": "Bass",
-          "team": "BUF",
-          "position": "K",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Hip",
-          "injury_start_date": null,
-          "news_updated": 1759952742555
         },
         {
           "player_id": "7090",
@@ -2237,8 +2198,7 @@
       ],
       "taxi": [],
       "ir": [
-        "5859",
-        "7042"
+        "5859"
       ]
     },
     {
