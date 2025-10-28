@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-28T19:19:30Z",
+  "generated_at": "2025-10-28T20:28:04Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1426,17 +1426,17 @@
           "news_updated": 1759843849866
         },
         {
-          "player_id": "12512",
-          "full_name": "Quinshon Judkins",
-          "first_name": "Quinshon",
-          "last_name": "Judkins",
-          "team": "CLE",
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco",
+          "first_name": "Isiah",
+          "last_name": "Pacheco",
+          "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759741260292
+          "news_updated": 1759847749499
         },
         {
           "player_id": "7564",
@@ -1465,17 +1465,17 @@
           "news_updated": 1759881058009
         },
         {
-          "player_id": "5001",
-          "full_name": "Dalton Schultz",
+          "player_id": "10236",
+          "full_name": "Dalton Kincaid",
           "first_name": "Dalton",
-          "last_name": "Schultz",
-          "team": "HOU",
+          "last_name": "Kincaid",
+          "team": "BUF",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759715457469
+          "news_updated": 1759888558257
         },
         {
           "player_id": "6801",
@@ -1519,19 +1519,6 @@
       ],
       "bench": [
         {
-          "player_id": "10236",
-          "full_name": "Dalton Kincaid",
-          "first_name": "Dalton",
-          "last_name": "Kincaid",
-          "team": "BUF",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759888558257
-        },
-        {
           "player_id": "12484",
           "full_name": "Jayden Higgins",
           "first_name": "Jayden",
@@ -1558,6 +1545,32 @@
           "news_updated": 1759716657368
         },
         {
+          "player_id": "12512",
+          "full_name": "Quinshon Judkins",
+          "first_name": "Quinshon",
+          "last_name": "Judkins",
+          "team": "CLE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759741260292
+        },
+        {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz",
+          "first_name": "Dalton",
+          "last_name": "Schultz",
+          "team": "HOU",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759715457469
+        },
+        {
           "player_id": "6804",
           "full_name": "Jordan Love",
           "first_name": "Jordan",
@@ -1582,19 +1595,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759903261405
-        },
-        {
-          "player_id": "8205",
-          "full_name": "Isiah Pacheco",
-          "first_name": "Isiah",
-          "last_name": "Pacheco",
-          "team": "KC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759847749499
         }
       ],
       "taxi": [],
