@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-28T16:33:11Z",
+  "generated_at": "2025-10-28T17:23:00Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -976,30 +976,30 @@
           "news_updated": 1759745460478
         },
         {
-          "player_id": "12455",
-          "full_name": "Brashard Smith",
-          "first_name": "Brashard",
-          "last_name": "Smith",
-          "team": "KC",
+          "player_id": "4199",
+          "full_name": "Aaron Jones",
+          "first_name": "Aaron",
+          "last_name": "Jones",
+          "team": "MIN",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759931402832
+          "news_updated": 1759272653071
         },
         {
-          "player_id": "12514",
-          "full_name": "Emeka Egbuka",
-          "first_name": "Emeka",
-          "last_name": "Egbuka",
-          "team": "TB",
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849797
+          "news_updated": 1759843849981
         },
         {
           "player_id": "5846",
@@ -1069,6 +1069,32 @@
       ],
       "bench": [
         {
+          "player_id": "12455",
+          "full_name": "Brashard Smith",
+          "first_name": "Brashard",
+          "last_name": "Smith",
+          "team": "KC",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759931402832
+        },
+        {
+          "player_id": "12514",
+          "full_name": "Emeka Egbuka",
+          "first_name": "Emeka",
+          "last_name": "Egbuka",
+          "team": "TB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849797
+        },
+        {
           "player_id": "4098",
           "full_name": "Kareem Hunt",
           "first_name": "Kareem",
@@ -1080,19 +1106,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759847749759
-        },
-        {
-          "player_id": "4199",
-          "full_name": "Aaron Jones",
-          "first_name": "Aaron",
-          "last_name": "Jones",
-          "team": "MIN",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Hamstring",
-          "injury_start_date": null,
-          "news_updated": 1759272653071
         },
         {
           "player_id": "5995",
@@ -1132,19 +1145,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727757412
-        },
-        {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
