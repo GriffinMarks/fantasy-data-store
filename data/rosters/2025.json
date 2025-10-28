@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-28T04:28:21Z",
+  "generated_at": "2025-10-28T05:24:38Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -8,11 +8,11 @@
       "owner_id": "1121958347281915904",
       "owner": "Mooner13",
       "team_name": "Jonathan Taylor’s Version",
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0,
-      "points_for": 798,
-      "points_against": 692,
+      "points_for": 944,
+      "points_against": 797,
       "starters": [
         {
           "player_id": "11560",
@@ -235,11 +235,11 @@
       "owner_id": "604792816572366848",
       "owner": "burnsinator96",
       "team_name": "Waiver Wire Warrior ",
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0,
-      "points_for": 935,
-      "points_against": 673,
+      "points_for": 1049,
+      "points_against": 759,
       "starters": [
         {
           "player_id": "5870",
@@ -476,10 +476,10 @@
       "owner": "jrussss",
       "team_name": "Many Men",
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points_for": 724,
-      "points_against": 880,
+      "points_for": 829,
+      "points_against": 1026,
       "starters": [
         {
           "player_id": "1166",
@@ -717,10 +717,10 @@
       "owner": "ryanquigg",
       "team_name": "KenBucky Fried Chicken",
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
-      "points_for": 627,
-      "points_against": 809,
+      "points_for": 742,
+      "points_against": 929,
       "starters": [
         {
           "player_id": "4892",
@@ -944,10 +944,10 @@
       "owner": "DanielRuettiger",
       "team_name": "Robert Boucher Jr.",
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 868,
-      "points_against": 821,
+      "points_for": 955,
+      "points_against": 935,
       "starters": [
         {
           "player_id": "4984",
@@ -1156,10 +1156,10 @@
       "owner": "OJWhitt2K",
       "team_name": "They hit the second Bower",
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
       "points_for": 665,
-      "points_against": 843,
+      "points_against": 955,
       "starters": [
         {
           "player_id": "0",
@@ -1393,11 +1393,11 @@
       "owner_id": "1121955960655863808",
       "owner": "JefftheBartender",
       "team_name": null,
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 825,
-      "points_against": 764,
+      "points_for": 960,
+      "points_against": 805,
       "starters": [
         {
           "player_id": "6797",
@@ -1605,11 +1605,11 @@
       "owner_id": "1124100247921254400",
       "owner": "Bcarrabau",
       "team_name": "My Chubb Hurts",
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 814,
-      "points_against": 757,
+      "points_for": 951,
+      "points_against": 864,
       "starters": [
         {
           "player_id": "6904",
@@ -1817,11 +1817,11 @@
       "owner_id": "1266130243710619648",
       "owner": "BronnyJr91",
       "team_name": "Easy as A-B-CeeDee",
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 821,
-      "points_against": 752,
+      "points_for": 940,
+      "points_against": 867,
       "starters": [
         {
           "player_id": "9758",
@@ -1837,6 +1837,19 @@
           "news_updated": 1759701655990
         },
         {
+          "player_id": "9221",
+          "full_name": "Jahmyr Gibbs",
+          "first_name": "Jahmyr",
+          "last_name": "Gibbs",
+          "team": "DET",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759728357581
+        },
+        {
           "player_id": "9224",
           "full_name": "Chase Brown",
           "first_name": "Chase",
@@ -1848,19 +1861,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759730758724
-        },
-        {
-          "player_id": "8132",
-          "full_name": "Tyler Allgeier",
-          "first_name": "Tyler",
-          "last_name": "Allgeier",
-          "team": "ATL",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759103150592
         },
         {
           "player_id": "6786",
@@ -1876,17 +1876,17 @@
           "news_updated": 1759843849166
         },
         {
-          "player_id": "1479",
-          "full_name": "Keenan Allen",
-          "first_name": "Keenan",
-          "last_name": "Allen",
-          "team": "LAC",
+          "player_id": "9488",
+          "full_name": "Jaxon Smith-Njigba",
+          "first_name": "Jaxon",
+          "last_name": "Smith-Njigba",
+          "team": "SEA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849968
+          "news_updated": 1759843849605
         },
         {
           "player_id": "5844",
@@ -1902,17 +1902,17 @@
           "news_updated": 1759740060361
         },
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
+          "player_id": "1479",
+          "full_name": "Keenan Allen",
+          "first_name": "Keenan",
+          "last_name": "Allen",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759904759647
+          "news_updated": 1759843849968
         },
         {
           "player_id": "6650",
@@ -1942,6 +1942,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759904759647
+        },
         {
           "player_id": "4137",
           "full_name": "James Conner",
@@ -1995,6 +2008,19 @@
           "news_updated": 1759866049397
         },
         {
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
+          "first_name": "Tyler",
+          "last_name": "Allgeier",
+          "team": "ATL",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759103150592
+        },
+        {
           "player_id": "8167",
           "full_name": "Christian Watson",
           "first_name": "Christian",
@@ -2006,32 +2032,6 @@
           "injury_body_part": "Knee - ACL",
           "injury_start_date": null,
           "news_updated": 1759843849484
-        },
-        {
-          "player_id": "9221",
-          "full_name": "Jahmyr Gibbs",
-          "first_name": "Jahmyr",
-          "last_name": "Gibbs",
-          "team": "DET",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759728357581
-        },
-        {
-          "player_id": "9488",
-          "full_name": "Jaxon Smith-Njigba",
-          "first_name": "Jaxon",
-          "last_name": "Smith-Njigba",
-          "team": "SEA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849605
         }
       ],
       "taxi": [],
@@ -2044,11 +2044,11 @@
       "owner_id": "1266150695719948288",
       "owner": "CruzCarvalho",
       "team_name": "Brown Syndrome ",
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0,
-      "points_for": 768,
-      "points_against": 800,
+      "points_for": 883,
+      "points_against": 915,
       "starters": [
         {
           "player_id": "19",
@@ -2233,10 +2233,10 @@
       "owner": "tdchamberlain",
       "team_name": "Jerking goff my dicker",
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 819,
-      "points_against": 775,
+      "points_for": 934,
+      "points_against": 890,
       "starters": [
         {
           "player_id": "3294",
@@ -2460,10 +2460,10 @@
       "owner": "Shmigly67",
       "team_name": "Lights, Camera, Jackson",
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "points_for": 701,
-      "points_against": 838,
+      "points_for": 742,
+      "points_against": 973,
       "starters": [
         {
           "player_id": "0",
@@ -2701,10 +2701,10 @@
       "owner": "dellio",
       "team_name": "Morgan Morgan & Morgan",
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "points_for": 834,
-      "points_against": 797,
+      "points_for": 940,
+      "points_against": 934,
       "starters": [
         {
           "player_id": "11563",
@@ -2927,10 +2927,10 @@
       "owner_id": "1121957026898329600",
       "owner": "Delio123",
       "team_name": null,
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 898,
+      "points_for": 1009,
       "points_against": 896,
       "starters": [
         {
