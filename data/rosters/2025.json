@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-27T23:20:59Z",
+  "generated_at": "2025-10-28T01:51:11Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -842,6 +842,32 @@
       ],
       "bench": [
         {
+          "player_id": "11374",
+          "full_name": "James Blackman",
+          "first_name": "James",
+          "last_name": "Blackman",
+          "team": null,
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1693255850055
+        },
+        {
+          "player_id": "11537",
+          "full_name": "Wayne Taulapapa",
+          "first_name": "Wayne",
+          "last_name": "Taulapapa",
+          "team": null,
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1693179642055
+        },
+        {
           "player_id": "11584",
           "full_name": "Bucky Irving",
           "first_name": "Bucky",
@@ -855,19 +881,6 @@
           "news_updated": 1759947640663
         },
         {
-          "player_id": "167",
-          "full_name": "Tom Brady",
-          "first_name": "Tom",
-          "last_name": "Brady",
-          "team": null,
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1736815542351
-        },
-        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -879,19 +892,6 @@
           "injury_body_part": "Hamstring",
           "injury_start_date": null,
           "news_updated": 1759947940772
-        },
-        {
-          "player_id": "3309",
-          "full_name": "Wendell Smallwood",
-          "first_name": "Wendell",
-          "last_name": "Smallwood",
-          "team": "WAS",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1641276961310
         },
         {
           "player_id": "4037",
@@ -1162,17 +1162,17 @@
       "points_against": 843,
       "starters": [
         {
-          "player_id": "11374",
-          "full_name": "James Blackman",
-          "first_name": "James",
-          "last_name": "Blackman",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
           "team": null,
-          "position": "QB",
-          "status": "Active",
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1693255850055
+          "news_updated": null
         },
         {
           "player_id": "12527",
@@ -1240,17 +1240,17 @@
           "news_updated": 1757345450720
         },
         {
-          "player_id": "11537",
-          "full_name": "Wayne Taulapapa",
-          "first_name": "Wayne",
-          "last_name": "Taulapapa",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
           "team": null,
-          "position": "RB",
-          "status": "Active",
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1693179642055
+          "news_updated": null
         },
         {
           "player_id": "2747",
@@ -1292,6 +1292,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759720858276
+        },
+        {
+          "player_id": "167",
+          "full_name": "Tom Brady",
+          "first_name": "Tom",
+          "last_name": "Brady",
+          "team": null,
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1736815542351
+        },
+        {
+          "player_id": "3309",
+          "full_name": "Wendell Smallwood",
+          "first_name": "Wendell",
+          "last_name": "Smallwood",
+          "team": "WAS",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1641276961310
         },
         {
           "player_id": "3893",

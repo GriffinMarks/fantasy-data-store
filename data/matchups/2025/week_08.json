@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 8,
-  "generated_at": "2025-10-27T23:20:59Z",
+  "generated_at": "2025-10-28T01:51:11Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -60,7 +60,7 @@
             "17",
             "PHI"
           ],
-          "points": 89.22,
+          "points": 94.02,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 104.22,
+          "points": 107.92,
           "projected_points": null
         }
       ]
@@ -89,13 +89,13 @@
           "roster_id": 6,
           "owner": "They hit the second Bower",
           "starters": [
-            "11374",
+            "0",
             "12527",
             "7543",
             "6699",
             "11631",
             "4054",
-            "11537",
+            "0",
             "2747",
             "SEA"
           ],
@@ -116,7 +116,7 @@
             "5189",
             "HOU"
           ],
-          "points": 48.8,
+          "points": 81.7,
           "projected_points": null
         }
       ]
@@ -155,7 +155,7 @@
             "7839",
             "KC"
           ],
-          "points": 93.28,
+          "points": 102.08,
           "projected_points": null
         }
       ]
@@ -216,7 +216,7 @@
             "4227",
             "GB"
           ],
-          "points": 130.98,
+          "points": 131.98,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "4195",
             "CHI"
           ],
-          "points": 85.62,
+          "points": 86.02,
           "projected_points": null
         }
       ]
