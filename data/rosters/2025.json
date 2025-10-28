@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-28T15:27:42Z",
+  "generated_at": "2025-10-28T16:33:11Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -307,30 +307,30 @@
           "news_updated": 1759843850118
         },
         {
-          "player_id": "12493",
-          "full_name": "Oronde Gadsden",
-          "first_name": "Oronde",
-          "last_name": "Gadsden",
-          "team": "LAC",
+          "player_id": "8130",
+          "full_name": "Trey McBride",
+          "first_name": "Trey",
+          "last_name": "McBride",
+          "team": "ARI",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849209
+          "news_updated": 1759738860345
         },
         {
-          "player_id": "4035",
-          "full_name": "Alvin Kamara",
-          "first_name": "Alvin",
-          "last_name": "Kamara",
-          "team": "NO",
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "first_name": "Kimani",
+          "last_name": "Vidal",
+          "team": "LAC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759878658190
+          "news_updated": 1759950341754
         },
         {
           "player_id": "0",
@@ -374,17 +374,17 @@
           "news_updated": 1759852248997
         },
         {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "first_name": "Kimani",
-          "last_name": "Vidal",
+          "player_id": "12493",
+          "full_name": "Oronde Gadsden",
+          "first_name": "Oronde",
+          "last_name": "Gadsden",
           "team": "LAC",
-          "position": "RB",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759950341754
+          "news_updated": 1759843849209
         },
         {
           "player_id": "12501",
@@ -413,6 +413,19 @@
           "news_updated": 1759932903358
         },
         {
+          "player_id": "4035",
+          "full_name": "Alvin Kamara",
+          "first_name": "Alvin",
+          "last_name": "Kamara",
+          "team": "NO",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759878658190
+        },
+        {
           "player_id": "6803",
           "full_name": "Brandon Aiyuk",
           "first_name": "Brandon",
@@ -437,19 +450,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759849547926
-        },
-        {
-          "player_id": "8130",
-          "full_name": "Trey McBride",
-          "first_name": "Trey",
-          "last_name": "McBride",
-          "team": "ARI",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759738860345
         },
         {
           "player_id": "8148",
