@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-28T23:21:57Z",
+  "generated_at": "2025-10-29T01:58:29Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2733,30 +2733,30 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "12540",
-          "full_name": "Chimere Dike",
-          "first_name": "Chimere",
-          "last_name": "Dike",
-          "team": "TEN",
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown",
+          "first_name": "Amon-Ra",
+          "last_name": "St. Brown",
+          "team": "DET",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Wrist",
           "injury_start_date": null,
-          "news_updated": 1759889460417
+          "news_updated": 1759953344560
         },
         {
-          "player_id": "11610",
-          "full_name": "Malik Washington",
-          "first_name": "Malik",
-          "last_name": "Washington",
-          "team": "MIA",
+          "player_id": "11628",
+          "full_name": "Marvin Harrison",
+          "first_name": "Marvin",
+          "last_name": "Harrison",
+          "team": "ARI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759746360603
+          "news_updated": 1759870256947
         },
         {
           "player_id": "4066",
@@ -2772,17 +2772,17 @@
           "news_updated": 1759935303295
         },
         {
-          "player_id": "7594",
-          "full_name": "Chuba Hubbard",
-          "first_name": "Chuba",
-          "last_name": "Hubbard",
-          "team": "CAR",
-          "position": "RB",
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
+          "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Calf",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759952743342
+          "news_updated": 1759843849559
         },
         {
           "player_id": "7839",
@@ -2826,17 +2826,30 @@
           "news_updated": 1759341902592
         },
         {
-          "player_id": "11628",
-          "full_name": "Marvin Harrison",
-          "first_name": "Marvin",
-          "last_name": "Harrison",
-          "team": "ARI",
+          "player_id": "11610",
+          "full_name": "Malik Washington",
+          "first_name": "Malik",
+          "last_name": "Washington",
+          "team": "MIA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759870256947
+          "news_updated": 1759746360603
+        },
+        {
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
+          "first_name": "Chimere",
+          "last_name": "Dike",
+          "team": "TEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759889460417
         },
         {
           "player_id": "2505",
@@ -2852,30 +2865,17 @@
           "news_updated": 1759848348136
         },
         {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849559
-        },
-        {
-          "player_id": "7547",
-          "full_name": "Amon-Ra St. Brown",
-          "first_name": "Amon-Ra",
-          "last_name": "St. Brown",
-          "team": "DET",
-          "position": "WR",
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard",
+          "first_name": "Chuba",
+          "last_name": "Hubbard",
+          "team": "CAR",
+          "position": "RB",
           "status": "Active",
           "injury_status": "Questionable",
-          "injury_body_part": "Wrist",
+          "injury_body_part": "Calf",
           "injury_start_date": null,
-          "news_updated": 1759953344560
+          "news_updated": 1759952743342
         },
         {
           "player_id": "8142",
