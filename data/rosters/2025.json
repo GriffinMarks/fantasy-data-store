@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T13:36:33Z",
+  "generated_at": "2025-10-29T14:25:50Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -482,82 +482,17 @@
       "points_against": 1026,
       "starters": [
         {
-          "player_id": "1166",
-          "full_name": "Kirk Cousins",
-          "first_name": "Kirk",
-          "last_name": "Cousins",
-          "team": "ATL",
+          "player_id": "4943",
+          "full_name": "Sam Darnold",
+          "first_name": "Sam",
+          "last_name": "Darnold",
+          "team": "SEA",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759017039215
-        },
-        {
-          "player_id": "8155",
-          "full_name": "Breece Hall",
-          "first_name": "Breece",
-          "last_name": "Hall",
-          "team": "NYJ",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759728657548
-        },
-        {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "team": "HOU",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759708556770
-        },
-        {
-          "player_id": "12536",
-          "full_name": "Jaylin Noel",
-          "first_name": "Jaylin",
-          "last_name": "Noel",
-          "team": "HOU",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759935902822
-        },
-        {
-          "player_id": "12499",
-          "full_name": "Elic Ayomanor",
-          "first_name": "Elic",
-          "last_name": "Ayomanor",
-          "team": "TEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759883459077
-        },
-        {
-          "player_id": "12517",
-          "full_name": "Colston Loveland",
-          "first_name": "Colston",
-          "last_name": "Loveland",
-          "team": "CHI",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hip",
-          "injury_start_date": null,
-          "news_updated": 1759267253156
+          "news_updated": 1759843849645
         },
         {
           "player_id": "9508",
@@ -573,97 +508,17 @@
           "news_updated": 1759799743285
         },
         {
-          "player_id": "11533",
-          "full_name": "Brandon Aubrey",
-          "first_name": "Brandon",
-          "last_name": "Aubrey",
-          "team": "DAL",
-          "position": "K",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
+          "team": "HOU",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759715457484
-        },
-        {
-          "player_id": "ATL",
-          "full_name": null,
-          "first_name": "Atlanta",
-          "last_name": "Falcons",
-          "team": "ATL",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "11638",
-          "full_name": "Ricky Pearsall",
-          "first_name": "Ricky",
-          "last_name": "Pearsall",
-          "team": "SF",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Knee - PCL",
-          "injury_start_date": null,
-          "news_updated": 1759954542431
-        },
-        {
-          "player_id": "1339",
-          "full_name": "Zach Ertz",
-          "first_name": "Zach",
-          "last_name": "Ertz",
-          "team": "WAS",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759769461597
-        },
-        {
-          "player_id": "4943",
-          "full_name": "Sam Darnold",
-          "first_name": "Sam",
-          "last_name": "Darnold",
-          "team": "SEA",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849645
-        },
-        {
-          "player_id": "5012",
-          "full_name": "Mark Andrews",
-          "first_name": "Mark",
-          "last_name": "Andrews",
-          "team": "BAL",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759867858147
-        },
-        {
-          "player_id": "6770",
-          "full_name": "Joe Burrow",
-          "first_name": "Joe",
-          "last_name": "Burrow",
-          "team": "CIN",
-          "position": "QB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Toe",
-          "injury_start_date": null,
-          "news_updated": 1758475540771
+          "news_updated": 1759708556770
         },
         {
           "player_id": "7569",
@@ -692,6 +547,45 @@
           "news_updated": 1759103150560
         },
         {
+          "player_id": "5012",
+          "full_name": "Mark Andrews",
+          "first_name": "Mark",
+          "last_name": "Andrews",
+          "team": "BAL",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759867858147
+        },
+        {
+          "player_id": "11638",
+          "full_name": "Ricky Pearsall",
+          "first_name": "Ricky",
+          "last_name": "Pearsall",
+          "team": "SF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Knee - PCL",
+          "injury_start_date": null,
+          "news_updated": 1759954542431
+        },
+        {
+          "player_id": "11533",
+          "full_name": "Brandon Aubrey",
+          "first_name": "Brandon",
+          "last_name": "Aubrey",
+          "team": "DAL",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759715457484
+        },
+        {
           "player_id": "DEN",
           "full_name": null,
           "first_name": "Denver",
@@ -705,10 +599,89 @@
           "news_updated": null
         }
       ],
+      "bench": [
+        {
+          "player_id": "12499",
+          "full_name": "Elic Ayomanor",
+          "first_name": "Elic",
+          "last_name": "Ayomanor",
+          "team": "TEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759883459077
+        },
+        {
+          "player_id": "12517",
+          "full_name": "Colston Loveland",
+          "first_name": "Colston",
+          "last_name": "Loveland",
+          "team": "CHI",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Hip",
+          "injury_start_date": null,
+          "news_updated": 1759267253156
+        },
+        {
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "first_name": "Jaylin",
+          "last_name": "Noel",
+          "team": "HOU",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759935902822
+        },
+        {
+          "player_id": "1339",
+          "full_name": "Zach Ertz",
+          "first_name": "Zach",
+          "last_name": "Ertz",
+          "team": "WAS",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759769461597
+        },
+        {
+          "player_id": "6770",
+          "full_name": "Joe Burrow",
+          "first_name": "Joe",
+          "last_name": "Burrow",
+          "team": "CIN",
+          "position": "QB",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Toe",
+          "injury_start_date": null,
+          "news_updated": 1758475540771
+        },
+        {
+          "player_id": "8155",
+          "full_name": "Breece Hall",
+          "first_name": "Breece",
+          "last_name": "Hall",
+          "team": "NYJ",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759728657548
+        }
+      ],
       "taxi": [],
       "ir": [
-        "6770",
-        "7569"
+        "6770"
       ]
     },
     {

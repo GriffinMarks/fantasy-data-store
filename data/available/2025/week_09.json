@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T13:36:33Z",
+  "generated_at": "2025-10-29T14:25:51Z",
   "league_id": "1262790170931892224",
-  "count": 3748,
+  "count": 3750,
   "players": [
     {
       "player_id": "HOU",
@@ -50,6 +50,13 @@
       "player_id": "CLE",
       "full_name": null,
       "team": "CLE",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "ATL",
+      "full_name": null,
+      "team": "ATL",
       "position": "DEF",
       "status": null
     },
@@ -2955,6 +2962,13 @@
       "player_id": "13175",
       "full_name": "Kinkead Dent",
       "team": null,
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "1166",
+      "full_name": "Kirk Cousins",
+      "team": "ATL",
       "position": "QB",
       "status": "Active"
     },
