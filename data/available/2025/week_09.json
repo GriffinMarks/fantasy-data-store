@@ -1,20 +1,13 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T12:53:05Z",
+  "generated_at": "2025-10-29T13:36:33Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3748,
   "players": [
     {
       "player_id": "HOU",
       "full_name": null,
       "team": "HOU",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "BAL",
-      "full_name": null,
-      "team": "BAL",
       "position": "DEF",
       "status": null
     },
@@ -9873,13 +9866,6 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
-    },
-    {
-      "player_id": "11603",
-      "full_name": "AJ Barner",
-      "team": "SEA",
-      "position": "TE",
-      "status": "Active"
     },
     {
       "player_id": "516",

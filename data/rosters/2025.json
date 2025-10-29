@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T12:53:04Z",
+  "generated_at": "2025-10-29T13:36:33Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1175,17 +1175,17 @@
       "points_against": 955,
       "starters": [
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "11566",
+          "full_name": "Jayden Daniels",
+          "first_name": "Jayden",
+          "last_name": "Daniels",
+          "team": "WAS",
+          "position": "QB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759720858276
         },
         {
           "player_id": "12527",
@@ -1253,17 +1253,17 @@
           "news_updated": 1757345450720
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
+          "player_id": "3893",
+          "full_name": "Reece Horn",
+          "first_name": "Reece",
+          "last_name": "Horn",
           "team": null,
-          "position": null,
-          "status": null,
+          "position": "WR",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1629217845461
         },
         {
           "player_id": "2747",
@@ -1294,19 +1294,6 @@
       ],
       "bench": [
         {
-          "player_id": "11566",
-          "full_name": "Jayden Daniels",
-          "first_name": "Jayden",
-          "last_name": "Daniels",
-          "team": "WAS",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759720858276
-        },
-        {
           "player_id": "167",
           "full_name": "Tom Brady",
           "first_name": "Tom",
@@ -1331,19 +1318,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1641276961310
-        },
-        {
-          "player_id": "3893",
-          "full_name": "Reece Horn",
-          "first_name": "Reece",
-          "last_name": "Horn",
-          "team": null,
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1629217845461
         },
         {
           "player_id": "5927",
@@ -2103,17 +2077,17 @@
           "news_updated": 1759874158487
         },
         {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
-          "team": "SF",
+          "player_id": "9997",
+          "full_name": "Zay Flowers",
+          "first_name": "Zay",
+          "last_name": "Flowers",
+          "team": "BAL",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759707956772
         },
         {
           "player_id": "10229",
@@ -2129,30 +2103,30 @@
           "news_updated": 1759593346002
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
-        },
-        {
-          "player_id": "9997",
-          "full_name": "Zay Flowers",
-          "first_name": "Zay",
-          "last_name": "Flowers",
-          "team": "BAL",
-          "position": "WR",
+          "player_id": "11603",
+          "full_name": "AJ Barner",
+          "first_name": "AJ",
+          "last_name": "Barner",
+          "team": "SEA",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759707956772
+          "news_updated": 1759848047703
+        },
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
+          "injury_start_date": null,
+          "news_updated": 1759954242925
         },
         {
           "player_id": "17",
@@ -2168,12 +2142,12 @@
           "news_updated": 1759843849840
         },
         {
-          "player_id": "0",
+          "player_id": "BAL",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Baltimore",
+          "last_name": "Ravens",
+          "team": "BAL",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
