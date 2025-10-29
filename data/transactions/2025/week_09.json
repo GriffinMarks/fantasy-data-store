@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 9,
-  "generated_at": "2025-10-29T22:23:15Z",
+  "generated_at": "2025-10-29T23:22:26Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -15,12 +15,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1289371357498322944",
       "adds": null,
-      "drops": {
-        "BAL": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "BAL": 10
+      },
       "roster_ids": [
         10
       ],
@@ -40,12 +40,12 @@
       "adds": {
         "11597": 10
       },
-      "drops": {
-        "4144": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "4144": 10
+      },
       "roster_ids": [
         10
       ],
@@ -65,12 +65,12 @@
       "adds": {
         "5849": 9
       },
-      "drops": {
-        "9758": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "9758": 9
+      },
       "roster_ids": [
         9
       ],
@@ -90,12 +90,12 @@
       "adds": {
         "2020": 5
       },
-      "drops": {
-        "5995": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "5995": 5
+      },
       "roster_ids": [
         5
       ],
@@ -113,12 +113,12 @@
       "creator": "871931147217768448",
       "transaction_id": "1289261608798801920",
       "adds": null,
-      "drops": {
-        "1166": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "1166": 3
+      },
       "roster_ids": [
         3
       ],
@@ -136,12 +136,12 @@
       "creator": "871931147217768448",
       "transaction_id": "1289261521553096704",
       "adds": null,
-      "drops": {
-        "ATL": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "ATL": 3
+      },
       "roster_ids": [
         3
       ],
@@ -161,10 +161,10 @@
       "adds": {
         "BAL": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -184,10 +184,10 @@
       "adds": {
         "11603": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -207,10 +207,10 @@
       "adds": {
         "4454": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -230,12 +230,12 @@
       "adds": {
         "JAX": 4
       },
-      "drops": {
-        "11374": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "11374": 4
+      },
       "roster_ids": [
         4
       ],
@@ -255,12 +255,12 @@
       "adds": {
         "1433": 4
       },
-      "drops": {
-        "6083": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "6083": 4
+      },
       "roster_ids": [
         4
       ],
