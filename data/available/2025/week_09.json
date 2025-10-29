@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T11:20:57Z",
+  "generated_at": "2025-10-29T12:53:05Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3750,
   "players": [
     {
       "player_id": "HOU",
@@ -64,13 +64,6 @@
       "player_id": "CAR",
       "full_name": null,
       "team": "CAR",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "JAX",
-      "full_name": null,
-      "team": "JAX",
       "position": "DEF",
       "status": null
     },
@@ -290,13 +283,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "1433",
-      "full_name": "Brandon McManus",
-      "team": "GB",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "11949",
@@ -855,6 +841,13 @@
       "player_id": "127",
       "full_name": "Matt Bryant",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "6083",
+      "full_name": "Matt Gay",
+      "team": "WAS",
       "position": "K",
       "status": "Active"
     },
@@ -2577,6 +2570,13 @@
       "player_id": "2306",
       "full_name": "Jameis Winston",
       "team": "NYG",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "11374",
+      "full_name": "James Blackman",
+      "team": null,
       "position": "QB",
       "status": "Active"
     },
@@ -21764,13 +21764,6 @@
       "player_id": "8783",
       "full_name": "Kendric Pryor",
       "team": "CIN",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "4454",
-      "full_name": "Kendrick Bourne",
-      "team": "SF",
       "position": "WR",
       "status": "Active"
     },

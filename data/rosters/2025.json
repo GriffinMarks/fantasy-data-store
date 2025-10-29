@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T11:20:57Z",
+  "generated_at": "2025-10-29T12:53:04Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -723,30 +723,30 @@
       "points_against": 929,
       "starters": [
         {
-          "player_id": "4892",
-          "full_name": "Baker Mayfield",
-          "first_name": "Baker",
-          "last_name": "Mayfield",
-          "team": "TB",
+          "player_id": "421",
+          "full_name": "Matthew Stafford",
+          "first_name": "Matthew",
+          "last_name": "Stafford",
+          "team": "LAR",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849827
+          "news_updated": 1759848948010
         },
         {
-          "player_id": "11435",
-          "full_name": "Emanuel Wilson",
-          "first_name": "Emanuel",
-          "last_name": "Wilson",
-          "team": "GB",
+          "player_id": "11655",
+          "full_name": "Tyrone Tracy",
+          "first_name": "Tyrone",
+          "last_name": "Tracy",
+          "team": "NYG",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759259752432
+          "news_updated": 1759944040385
         },
         {
           "player_id": "3198",
@@ -762,17 +762,17 @@
           "news_updated": 1759698356565
         },
         {
-          "player_id": "6783",
-          "full_name": "Jerry Jeudy",
-          "first_name": "Jerry",
-          "last_name": "Jeudy",
-          "team": "CLE",
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "first_name": "Rashod",
+          "last_name": "Bateman",
+          "team": "BAL",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759880157721
+          "news_updated": 1759850448658
         },
         {
           "player_id": "4983",
@@ -801,37 +801,37 @@
           "news_updated": 1759868756868
         },
         {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
-          "position": "WR",
+          "player_id": "7002",
+          "full_name": "Juwan Johnson",
+          "first_name": "Juwan",
+          "last_name": "Johnson",
+          "team": "NO",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850448658
+          "news_updated": 1759878658205
         },
         {
-          "player_id": "6083",
-          "full_name": "Matt Gay",
-          "first_name": "Matt",
-          "last_name": "Gay",
-          "team": "WAS",
+          "player_id": "1433",
+          "full_name": "Brandon McManus",
+          "first_name": "Brandon",
+          "last_name": "McManus",
+          "team": "GB",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849265
+          "news_updated": 1759164056704
         },
         {
-          "player_id": "TB",
+          "player_id": "JAX",
           "full_name": null,
-          "first_name": "Tampa Bay",
-          "last_name": "Buccaneers",
-          "team": "TB",
+          "first_name": "Jacksonville",
+          "last_name": "Jaguars",
+          "team": "JAX",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -842,17 +842,17 @@
       ],
       "bench": [
         {
-          "player_id": "11374",
-          "full_name": "James Blackman",
-          "first_name": "James",
-          "last_name": "Blackman",
-          "team": null,
-          "position": "QB",
+          "player_id": "11435",
+          "full_name": "Emanuel Wilson",
+          "first_name": "Emanuel",
+          "last_name": "Wilson",
+          "team": "GB",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1693255850055
+          "news_updated": 1759259752432
         },
         {
           "player_id": "11584",
@@ -866,19 +866,6 @@
           "injury_body_part": "Shoulder",
           "injury_start_date": null,
           "news_updated": 1759947640663
-        },
-        {
-          "player_id": "11655",
-          "full_name": "Tyrone Tracy",
-          "first_name": "Tyrone",
-          "last_name": "Tracy",
-          "team": "NYG",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759944040385
         },
         {
           "player_id": "2216",
@@ -907,30 +894,43 @@
           "news_updated": 1759843849770
         },
         {
-          "player_id": "421",
-          "full_name": "Matthew Stafford",
-          "first_name": "Matthew",
-          "last_name": "Stafford",
-          "team": "LAR",
+          "player_id": "4892",
+          "full_name": "Baker Mayfield",
+          "first_name": "Baker",
+          "last_name": "Mayfield",
+          "team": "TB",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848948010
+          "news_updated": 1759843849827
         },
         {
-          "player_id": "7002",
-          "full_name": "Juwan Johnson",
-          "first_name": "Juwan",
-          "last_name": "Johnson",
-          "team": "NO",
-          "position": "TE",
+          "player_id": "6783",
+          "full_name": "Jerry Jeudy",
+          "first_name": "Jerry",
+          "last_name": "Jeudy",
+          "team": "CLE",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759878658205
+          "news_updated": 1759880157721
+        },
+        {
+          "player_id": "TB",
+          "full_name": null,
+          "first_name": "Tampa Bay",
+          "last_name": "Buccaneers",
+          "team": "TB",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -2090,17 +2090,17 @@
           "news_updated": 1759738860319
         },
         {
-          "player_id": "12481",
-          "full_name": "Cam Skattebo",
-          "first_name": "Cam",
-          "last_name": "Skattebo",
-          "team": "NYG",
+          "player_id": "4147",
+          "full_name": "Samaje Perine",
+          "first_name": "Samaje",
+          "last_name": "Perine",
+          "team": "CIN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759888858146
+          "news_updated": 1759874158487
         },
         {
           "player_id": "7049",
@@ -2129,17 +2129,17 @@
           "news_updated": 1759593346002
         },
         {
-          "player_id": "4033",
-          "full_name": "David Njoku",
-          "first_name": "David",
-          "last_name": "Njoku",
-          "team": "CLE",
-          "position": "TE",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759741860293
+          "news_updated": null
         },
         {
           "player_id": "9997",
@@ -2168,12 +2168,12 @@
           "news_updated": 1759843849840
         },
         {
-          "player_id": "PHI",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Philadelphia",
-          "last_name": "Eagles",
-          "team": "PHI",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -2182,6 +2182,32 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12481",
+          "full_name": "Cam Skattebo",
+          "first_name": "Cam",
+          "last_name": "Skattebo",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759888858146
+        },
+        {
+          "player_id": "4033",
+          "full_name": "David Njoku",
+          "first_name": "David",
+          "last_name": "Njoku",
+          "team": "CLE",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759741860293
+        },
         {
           "player_id": "4144",
           "full_name": "Jonnu Smith",
@@ -2196,17 +2222,17 @@
           "news_updated": 1759878957465
         },
         {
-          "player_id": "4147",
-          "full_name": "Samaje Perine",
-          "first_name": "Samaje",
-          "last_name": "Perine",
-          "team": "CIN",
-          "position": "RB",
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne",
+          "first_name": "Kendrick",
+          "last_name": "Bourne",
+          "team": "SF",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759874158487
+          "news_updated": 1759852548357
         },
         {
           "player_id": "5859",
@@ -2246,10 +2272,24 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759876257357
+        },
+        {
+          "player_id": "PHI",
+          "full_name": null,
+          "first_name": "Philadelphia",
+          "last_name": "Eagles",
+          "team": "PHI",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
       "ir": [
+        "12481",
         "5859"
       ]
     },
