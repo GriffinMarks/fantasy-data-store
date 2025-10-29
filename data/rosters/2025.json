@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T06:37:29Z",
+  "generated_at": "2025-10-29T07:23:54Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -147,19 +147,6 @@
           "news_updated": 1759599946577
         },
         {
-          "player_id": "11646",
-          "full_name": "Jalen Coker",
-          "first_name": "Jalen",
-          "last_name": "Coker",
-          "team": "CAR",
-          "position": "WR",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Quadriceps",
-          "injury_start_date": null,
-          "news_updated": 1759953941554
-        },
-        {
           "player_id": "12498",
           "full_name": "Mason Taylor",
           "first_name": "Mason",
@@ -223,6 +210,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759737060024
+        },
+        {
+          "player_id": "6130",
+          "full_name": "Devin Singletary",
+          "first_name": "Devin",
+          "last_name": "Singletary",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849282
         }
       ],
       "taxi": [],
@@ -855,19 +855,6 @@
           "news_updated": 1693255850055
         },
         {
-          "player_id": "11537",
-          "full_name": "Wayne Taulapapa",
-          "first_name": "Wayne",
-          "last_name": "Taulapapa",
-          "team": null,
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1693179642055
-        },
-        {
           "player_id": "11584",
           "full_name": "Bucky Irving",
           "first_name": "Bucky",
@@ -879,6 +866,19 @@
           "injury_body_part": "Shoulder",
           "injury_start_date": null,
           "news_updated": 1759947640663
+        },
+        {
+          "player_id": "11655",
+          "full_name": "Tyrone Tracy",
+          "first_name": "Tyrone",
+          "last_name": "Tracy",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759944040385
         },
         {
           "player_id": "2216",
@@ -920,17 +920,17 @@
           "news_updated": 1759848948010
         },
         {
-          "player_id": "515",
-          "full_name": "Rob Gronkowski",
-          "first_name": "Rob",
-          "last_name": "Gronkowski",
-          "team": null,
+          "player_id": "7002",
+          "full_name": "Juwan Johnson",
+          "first_name": "Juwan",
+          "last_name": "Johnson",
+          "team": "NO",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1740582920801
+          "news_updated": 1759878658205
         }
       ],
       "taxi": [],
@@ -1054,12 +1054,12 @@
           "news_updated": 1759717857723
         },
         {
-          "player_id": "CHI",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Chicago",
-          "last_name": "Bears",
-          "team": "CHI",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -1145,6 +1145,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727757412
+        },
+        {
+          "player_id": "LAR",
+          "full_name": null,
+          "first_name": "Los Angeles",
+          "last_name": "Rams",
+          "team": "LAR",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -1943,6 +1956,19 @@
       ],
       "bench": [
         {
+          "player_id": "12711",
+          "full_name": "Tyler Loop",
+          "first_name": "Tyler",
+          "last_name": "Loop",
+          "team": "BAL",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759719057829
+        },
+        {
           "player_id": "2449",
           "full_name": "Stefon Diggs",
           "first_name": "Stefon",
@@ -2168,6 +2194,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878957465
+        },
+        {
+          "player_id": "4147",
+          "full_name": "Samaje Perine",
+          "first_name": "Samaje",
+          "last_name": "Perine",
+          "team": "CIN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759874158487
         },
         {
           "player_id": "5859",
@@ -2934,17 +2973,17 @@
           "news_updated": 1759847749521
         },
         {
-          "player_id": "4219",
-          "full_name": "Jeremy McNichols",
-          "first_name": "Jeremy",
-          "last_name": "McNichols",
-          "team": "WAS",
+          "player_id": "8150",
+          "full_name": "Kyren Williams",
+          "first_name": "Kyren",
+          "last_name": "Williams",
+          "team": "LAR",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849418
+          "news_updated": 1759517441769
         },
         {
           "player_id": "6806",
@@ -2973,17 +3012,17 @@
           "news_updated": 1759895158740
         },
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel",
-          "first_name": "Deebo",
-          "last_name": "Samuel",
-          "team": "WAS",
+          "player_id": "9493",
+          "full_name": "Puka Nacua",
+          "first_name": "Puka",
+          "last_name": "Nacua",
+          "team": "LAR",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759721458513
+          "news_updated": 1759905359635
         },
         {
           "player_id": "1466",
@@ -3025,11 +3064,11 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "HOU",
+          "player_id": "LAC",
           "full_name": null,
-          "first_name": "Houston",
-          "last_name": "Texans",
-          "team": "HOU",
+          "first_name": "Los Angeles",
+          "last_name": "Chargers",
+          "team": "LAC",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -3039,6 +3078,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "5872",
+          "full_name": "Deebo Samuel",
+          "first_name": "Deebo",
+          "last_name": "Samuel",
+          "team": "WAS",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759721458513
+        },
         {
           "player_id": "7591",
           "full_name": "Justin Fields",
@@ -3051,19 +3103,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759713957288
-        },
-        {
-          "player_id": "8150",
-          "full_name": "Kyren Williams",
-          "first_name": "Kyren",
-          "last_name": "Williams",
-          "team": "LAR",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759517441769
         },
         {
           "player_id": "8151",
@@ -3105,17 +3144,17 @@
           "news_updated": 1759719058625
         },
         {
-          "player_id": "9493",
-          "full_name": "Puka Nacua",
-          "first_name": "Puka",
-          "last_name": "Nacua",
-          "team": "LAR",
-          "position": "WR",
+          "player_id": "9225",
+          "full_name": "Tank Bigsby",
+          "first_name": "Tank",
+          "last_name": "Bigsby",
+          "team": "PHI",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759905359635
+          "news_updated": 1759870257999
         }
       ],
       "taxi": [],

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T06:37:29Z",
+  "generated_at": "2025-10-29T07:23:54Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -202,16 +202,6 @@
       "injury_body_part": "Hamstring",
       "injury_start_date": null,
       "news_updated": 1759154753922
-    },
-    {
-      "player_id": "11646",
-      "full_name": "Jalen Coker",
-      "team": "CAR",
-      "position": "WR",
-      "injury_status": "IR",
-      "injury_body_part": "Quadriceps",
-      "injury_start_date": null,
-      "news_updated": 1759953941554
     },
     {
       "player_id": "11618",

@@ -1,9 +1,16 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T06:37:29Z",
+  "generated_at": "2025-10-29T07:23:54Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3751,
   "players": [
+    {
+      "player_id": "HOU",
+      "full_name": null,
+      "team": "HOU",
+      "position": "DEF",
+      "status": null
+    },
     {
       "player_id": "BAL",
       "full_name": null,
@@ -47,13 +54,6 @@
       "status": null
     },
     {
-      "player_id": "LAC",
-      "full_name": null,
-      "team": "LAC",
-      "position": "DEF",
-      "status": null
-    },
-    {
       "player_id": "CLE",
       "full_name": null,
       "team": "CLE",
@@ -71,13 +71,6 @@
       "player_id": "JAX",
       "full_name": null,
       "team": "JAX",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "LAR",
-      "full_name": null,
-      "team": "LAR",
       "position": "DEF",
       "status": null
     },
@@ -113,6 +106,13 @@
       "player_id": "TEN",
       "full_name": null,
       "team": "TEN",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "CHI",
+      "full_name": null,
+      "team": "CHI",
       "position": "DEF",
       "status": null
     },
@@ -1233,13 +1233,6 @@
       "player_id": "5251",
       "full_name": "Tyler Davis",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "12711",
-      "full_name": "Tyler Loop",
-      "team": "BAL",
       "position": "K",
       "status": "Active"
     },
@@ -5773,13 +5766,6 @@
       "status": "Active"
     },
     {
-      "player_id": "6130",
-      "full_name": "Devin Singletary",
-      "team": "NYG",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "6068",
       "full_name": "Devine Ozigbo",
       "team": null,
@@ -6737,6 +6723,13 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "4219",
+      "full_name": "Jeremy McNichols",
+      "team": "WAS",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "1293",
@@ -8902,13 +8895,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "4147",
-      "full_name": "Samaje Perine",
-      "team": "CIN",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "12308",
       "full_name": "Samson Evans",
       "team": null,
@@ -9213,13 +9199,6 @@
       "player_id": "6705",
       "full_name": "Taj McGowan",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "9225",
-      "full_name": "Tank Bigsby",
-      "team": "PHI",
       "position": "RB",
       "status": "Active"
     },
@@ -9714,13 +9693,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11655",
-      "full_name": "Tyrone Tracy",
-      "team": "NYG",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "12826",
       "full_name": "Ulysses Bentley",
       "team": "IND",
@@ -9751,6 +9723,13 @@
     {
       "player_id": "4150",
       "full_name": "Wayne Gallman",
+      "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "11537",
+      "full_name": "Wayne Taulapapa",
       "team": null,
       "position": "RB",
       "status": "Active"
@@ -12976,13 +12955,6 @@
       "status": "Active"
     },
     {
-      "player_id": "7002",
-      "full_name": "Juwan Johnson",
-      "team": "NO",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "6146",
       "full_name": "Kaden Smith",
       "team": null,
@@ -14248,6 +14220,13 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
+    },
+    {
+      "player_id": "515",
+      "full_name": "Rob Gronkowski",
+      "team": null,
+      "position": "TE",
+      "status": "Active"
     },
     {
       "player_id": "971",
@@ -19827,6 +19806,13 @@
       "team": null,
       "position": "WR",
       "status": "Active"
+    },
+    {
+      "player_id": "11646",
+      "full_name": "Jalen Coker",
+      "team": "CAR",
+      "position": "WR",
+      "status": "Inactive"
     },
     {
       "player_id": "11506",
