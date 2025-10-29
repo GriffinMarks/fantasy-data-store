@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T15:28:14Z",
+  "generated_at": "2025-10-29T16:33:05Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -316,13 +316,6 @@
       "player_id": "13149",
       "full_name": "Caden Davis",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "2020",
-      "full_name": "Cairo Santos",
-      "team": "CHI",
       "position": "K",
       "status": "Active"
     },
@@ -7078,6 +7071,13 @@
       "player_id": "8254",
       "full_name": "Julius Chestnut",
       "team": "TEN",
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "5995",
+      "full_name": "Justice Hill",
+      "team": "BAL",
       "position": "RB",
       "status": "Active"
     },
