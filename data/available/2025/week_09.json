@@ -1,13 +1,20 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T20:27:34Z",
+  "generated_at": "2025-10-29T21:22:12Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3751,
   "players": [
     {
       "player_id": "HOU",
       "full_name": null,
       "team": "HOU",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "BAL",
+      "full_name": null,
+      "team": "BAL",
       "position": "DEF",
       "status": null
     },
@@ -12745,6 +12752,13 @@
       "status": "Active"
     },
     {
+      "player_id": "4144",
+      "full_name": "Jonnu Smith",
+      "team": "PIT",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "5032",
       "full_name": "Jordan Akins",
       "team": null,
@@ -14673,13 +14687,6 @@
       "player_id": "6919",
       "full_name": "Thaddeus Moss",
       "team": null,
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "11597",
-      "full_name": "Theo Johnson",
-      "team": "NYG",
       "position": "TE",
       "status": "Active"
     },
