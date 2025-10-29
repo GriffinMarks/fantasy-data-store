@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-29T16:33:05Z",
+  "generated_at": "2025-10-29T17:22:44Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -1685,6 +1685,13 @@
       "status": "Active"
     },
     {
+      "player_id": "9758",
+      "full_name": "C.J. Stroud",
+      "team": "HOU",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
       "player_id": "12285",
       "full_name": "Cade Peterson",
       "team": null,
@@ -3032,13 +3039,6 @@
       "player_id": "7605",
       "full_name": "Kyle Trask",
       "team": null,
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "5849",
-      "full_name": "Kyler Murray",
-      "team": "ARI",
       "position": "QB",
       "status": "Active"
     },
