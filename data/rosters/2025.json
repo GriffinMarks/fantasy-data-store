@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T14:25:19Z",
+  "generated_at": "2025-10-30T15:28:23Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2076,17 +2076,17 @@
           "news_updated": 1759890958174
         },
         {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne",
+          "first_name": "Kendrick",
+          "last_name": "Bourne",
           "team": "SF",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759852548357
         },
         {
           "player_id": "17",
@@ -2156,19 +2156,6 @@
           "news_updated": 1759741860293
         },
         {
-          "player_id": "4454",
-          "full_name": "Kendrick Bourne",
-          "first_name": "Kendrick",
-          "last_name": "Bourne",
-          "team": "SF",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759852548357
-        },
-        {
           "player_id": "5859",
           "full_name": "A.J. Brown",
           "first_name": "A.J.",
@@ -2180,6 +2167,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759706156589
+        },
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
+          "injury_start_date": null,
+          "news_updated": 1759954242925
         },
         {
           "player_id": "7090",
