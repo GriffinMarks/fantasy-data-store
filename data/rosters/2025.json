@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T22:22:47Z",
+  "generated_at": "2025-10-30T23:21:35Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -41,69 +41,69 @@
           "news_updated": 1759736459758
         },
         {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "first_name": "Rhamondre",
-          "last_name": "Stevenson",
-          "team": "NE",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
+          "team": "HOU",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759933202508
+          "news_updated": 1759708556770
         },
         {
-          "player_id": "11620",
-          "full_name": "Rome Odunze",
-          "first_name": "Rome",
-          "last_name": "Odunze",
+          "player_id": "7569",
+          "full_name": "Nico Collins",
+          "first_name": "Nico",
+          "last_name": "Collins",
+          "team": "HOU",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759698955852
+        },
+        {
+          "player_id": "2133",
+          "full_name": "Davante Adams",
+          "first_name": "Davante",
+          "last_name": "Adams",
+          "team": "LAR",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759905359635
+        },
+        {
+          "player_id": "12517",
+          "full_name": "Colston Loveland",
+          "first_name": "Colston",
+          "last_name": "Loveland",
           "team": "CHI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759153855449
-        },
-        {
-          "player_id": "11627",
-          "full_name": "Troy Franklin",
-          "first_name": "Troy",
-          "last_name": "Franklin",
-          "team": "DEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759790742367
-        },
-        {
-          "player_id": "12506",
-          "full_name": "Harold Fannin",
-          "first_name": "Harold",
-          "last_name": "Fannin",
-          "team": "CLE",
           "position": "TE",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Hip",
           "injury_start_date": null,
-          "news_updated": 1759879557579
+          "news_updated": 1759267253156
         },
         {
-          "player_id": "12485",
-          "full_name": "Tez Johnson",
-          "first_name": "Tez",
-          "last_name": "Johnson",
-          "team": "TB",
-          "position": "WR",
+          "player_id": "6130",
+          "full_name": "Devin Singletary",
+          "first_name": "Devin",
+          "last_name": "Singletary",
+          "team": "NYG",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759899359041
+          "news_updated": 1759843849282
         },
         {
           "player_id": "1945",
@@ -134,6 +134,19 @@
       ],
       "bench": [
         {
+          "player_id": "11584",
+          "full_name": "Bucky Irving",
+          "first_name": "Bucky",
+          "last_name": "Irving",
+          "team": "TB",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Shoulder",
+          "injury_start_date": null,
+          "news_updated": 1759947640663
+        },
+        {
           "player_id": "11618",
           "full_name": "Jalen McMillan",
           "first_name": "Jalen",
@@ -147,17 +160,30 @@
           "news_updated": 1759599946577
         },
         {
-          "player_id": "12498",
-          "full_name": "Mason Taylor",
-          "first_name": "Mason",
-          "last_name": "Taylor",
-          "team": "NYJ",
+          "player_id": "12485",
+          "full_name": "Tez Johnson",
+          "first_name": "Tez",
+          "last_name": "Johnson",
+          "team": "TB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759899359041
+        },
+        {
+          "player_id": "12506",
+          "full_name": "Harold Fannin",
+          "first_name": "Harold",
+          "last_name": "Fannin",
+          "team": "CLE",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848647940
+          "news_updated": 1759879557579
         },
         {
           "player_id": "12508",
@@ -173,56 +199,30 @@
           "news_updated": 1759943140215
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "first_name": "TreVeyon",
-          "last_name": "Henderson",
-          "team": "NE",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904459748
-        },
-        {
-          "player_id": "2133",
-          "full_name": "Davante Adams",
-          "first_name": "Davante",
-          "last_name": "Adams",
-          "team": "LAR",
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "first_name": "Jaylin",
+          "last_name": "Noel",
+          "team": "HOU",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759905359635
+          "news_updated": 1759935902822
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
-          "first_name": "Tony",
-          "last_name": "Pollard",
-          "team": "TEN",
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell",
+          "first_name": "Kenneth",
+          "last_name": "Gainwell",
+          "team": "PIT",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759737060024
-        },
-        {
-          "player_id": "6130",
-          "full_name": "Devin Singletary",
-          "first_name": "Devin",
-          "last_name": "Singletary",
-          "team": "NYG",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849282
+          "news_updated": 1759850148208
         }
       ],
       "taxi": [],
@@ -508,30 +508,30 @@
           "news_updated": 1759799743285
         },
         {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "team": "HOU",
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "first_name": "Rhamondre",
+          "last_name": "Stevenson",
+          "team": "NE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759708556770
+          "news_updated": 1759933202508
         },
         {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
-          "team": "HOU",
+          "player_id": "11627",
+          "full_name": "Troy Franklin",
+          "first_name": "Troy",
+          "last_name": "Franklin",
+          "team": "DEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759698955852
+          "news_updated": 1759790742367
         },
         {
           "player_id": "8112",
@@ -614,30 +614,17 @@
           "news_updated": 1759883459077
         },
         {
-          "player_id": "12517",
-          "full_name": "Colston Loveland",
-          "first_name": "Colston",
-          "last_name": "Loveland",
-          "team": "CHI",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hip",
-          "injury_start_date": null,
-          "news_updated": 1759267253156
-        },
-        {
-          "player_id": "12536",
-          "full_name": "Jaylin Noel",
-          "first_name": "Jaylin",
-          "last_name": "Noel",
-          "team": "HOU",
-          "position": "WR",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
+          "first_name": "TreVeyon",
+          "last_name": "Henderson",
+          "team": "NE",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759935902822
+          "news_updated": 1759904459748
         },
         {
           "player_id": "1339",
@@ -651,6 +638,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759769461597
+        },
+        {
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "first_name": "Tony",
+          "last_name": "Pollard",
+          "team": "TEN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759737060024
         },
         {
           "player_id": "6770",
@@ -688,7 +688,7 @@
       "roster_id": 4,
       "owner_id": "1151413424695001088",
       "owner": "ryanquigg",
-      "team_name": "KenBucky Fried Chicken",
+      "team_name": "Rome aint built in a day",
       "wins": 2,
       "losses": 6,
       "ties": 0,
@@ -774,17 +774,17 @@
           "news_updated": 1759868756868
         },
         {
-          "player_id": "7002",
-          "full_name": "Juwan Johnson",
-          "first_name": "Juwan",
-          "last_name": "Johnson",
-          "team": "NO",
-          "position": "TE",
+          "player_id": "11620",
+          "full_name": "Rome Odunze",
+          "first_name": "Rome",
+          "last_name": "Odunze",
+          "team": "CHI",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759878658205
+          "news_updated": 1759153855449
         },
         {
           "player_id": "1433",
@@ -826,19 +826,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759259752432
-        },
-        {
-          "player_id": "11584",
-          "full_name": "Bucky Irving",
-          "first_name": "Bucky",
-          "last_name": "Irving",
-          "team": "TB",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Shoulder",
-          "injury_start_date": null,
-          "news_updated": 1759947640663
         },
         {
           "player_id": "2216",
@@ -891,6 +878,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759880157721
+        },
+        {
+          "player_id": "7002",
+          "full_name": "Juwan Johnson",
+          "first_name": "Juwan",
+          "last_name": "Johnson",
+          "team": "NO",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759878658205
         },
         {
           "player_id": "TB",
@@ -1127,7 +1127,7 @@
       "roster_id": 6,
       "owner_id": "1121955973880532992",
       "owner": "OJWhitt2K",
-      "team_name": "They hit the second Bower",
+      "team_name": "Im not paying",
       "wins": 1,
       "losses": 7,
       "ties": 0,

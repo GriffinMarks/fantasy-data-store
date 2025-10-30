@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T22:22:47Z",
+  "generated_at": "2025-10-30T23:21:36Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -7327,13 +7327,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "7567",
-      "full_name": "Kenneth Gainwell",
-      "team": "PIT",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "2730",
       "full_name": "Kenneth Harper",
       "team": null,
@@ -13434,6 +13427,13 @@
       "player_id": "4229",
       "full_name": "Mason Schreck",
       "team": null,
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "12498",
+      "full_name": "Mason Taylor",
+      "team": "NYJ",
       "position": "TE",
       "status": "Active"
     },
