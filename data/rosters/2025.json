@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T20:26:34Z",
+  "generated_at": "2025-10-30T21:21:29Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2785,17 +2785,17 @@
           "news_updated": 1759935303295
         },
         {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
+          "player_id": "11610",
+          "full_name": "Malik Washington",
+          "first_name": "Malik",
+          "last_name": "Washington",
+          "team": "MIA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849559
+          "news_updated": 1759746360603
         },
         {
           "player_id": "7839",
@@ -2811,11 +2811,11 @@
           "news_updated": 1759722058343
         },
         {
-          "player_id": "KC",
+          "player_id": "BAL",
           "full_name": null,
-          "first_name": "Kansas City",
-          "last_name": "Chiefs",
-          "team": "KC",
+          "first_name": "Baltimore",
+          "last_name": "Ravens",
+          "team": "BAL",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -2837,19 +2837,6 @@
           "injury_body_part": "Knee",
           "injury_start_date": null,
           "news_updated": 1759341902592
-        },
-        {
-          "player_id": "11610",
-          "full_name": "Malik Washington",
-          "first_name": "Malik",
-          "last_name": "Washington",
-          "team": "MIA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759746360603
         },
         {
           "player_id": "12540",
@@ -2876,6 +2863,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848348136
+        },
+        {
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849559
         },
         {
           "player_id": "7594",
@@ -2915,11 +2915,25 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759718157528
+        },
+        {
+          "player_id": "KC",
+          "full_name": null,
+          "first_name": "Kansas City",
+          "last_name": "Chiefs",
+          "team": "KC",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
       "ir": [
-        "11589"
+        "11589",
+        "2505"
       ]
     },
     {

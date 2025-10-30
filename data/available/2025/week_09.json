@@ -1,20 +1,13 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T20:26:35Z",
+  "generated_at": "2025-10-30T21:21:29Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3750,
   "players": [
     {
       "player_id": "HOU",
       "full_name": null,
       "team": "HOU",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "BAL",
-      "full_name": null,
-      "team": "BAL",
       "position": "DEF",
       "status": null
     },
