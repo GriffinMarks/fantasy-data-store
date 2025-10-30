@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T12:51:11Z",
+  "generated_at": "2025-10-30T13:34:37Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1174,17 +1174,17 @@
           "news_updated": 1759846249614
         },
         {
-          "player_id": "6699",
-          "full_name": "Gunner Olszewski",
-          "first_name": "Gunner",
-          "last_name": "Olszewski",
-          "team": "NYG",
+          "player_id": "9500",
+          "full_name": "Josh Downs",
+          "first_name": "Josh",
+          "last_name": "Downs",
+          "team": "IND",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1758496543971
+          "news_updated": 1759881058001
         },
         {
           "player_id": "11631",
@@ -1200,30 +1200,30 @@
           "news_updated": 1759846249604
         },
         {
-          "player_id": "4054",
-          "full_name": "Mo Alie-Cox",
-          "first_name": "Mo",
-          "last_name": "Alie-Cox",
-          "team": "IND",
+          "player_id": "7553",
+          "full_name": "Kyle Pitts",
+          "first_name": "Kyle",
+          "last_name": "Pitts",
+          "team": "ATL",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1757345450720
+          "news_updated": 1759103750383
         },
         {
-          "player_id": "3893",
-          "full_name": "Reece Horn",
-          "first_name": "Reece",
-          "last_name": "Horn",
-          "team": null,
+          "player_id": "8134",
+          "full_name": "Khalil Shakir",
+          "first_name": "Khalil",
+          "last_name": "Shakir",
+          "team": "BUF",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1629217845461
+          "news_updated": 1759843849896
         },
         {
           "player_id": "2747",
@@ -1280,6 +1280,32 @@
           "news_updated": 1641276961310
         },
         {
+          "player_id": "3893",
+          "full_name": "Reece Horn",
+          "first_name": "Reece",
+          "last_name": "Horn",
+          "team": null,
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1629217845461
+        },
+        {
+          "player_id": "4054",
+          "full_name": "Mo Alie-Cox",
+          "first_name": "Mo",
+          "last_name": "Alie-Cox",
+          "team": "IND",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1757345450720
+        },
+        {
           "player_id": "5927",
           "full_name": "Terry McLaurin",
           "first_name": "Terry",
@@ -1293,43 +1319,17 @@
           "news_updated": 1759944640410
         },
         {
-          "player_id": "7553",
-          "full_name": "Kyle Pitts",
-          "first_name": "Kyle",
-          "last_name": "Pitts",
-          "team": "ATL",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759103750383
-        },
-        {
-          "player_id": "8134",
-          "full_name": "Khalil Shakir",
-          "first_name": "Khalil",
-          "last_name": "Shakir",
-          "team": "BUF",
+          "player_id": "6699",
+          "full_name": "Gunner Olszewski",
+          "first_name": "Gunner",
+          "last_name": "Olszewski",
+          "team": "NYG",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849896
-        },
-        {
-          "player_id": "9500",
-          "full_name": "Josh Downs",
-          "first_name": "Josh",
-          "last_name": "Downs",
-          "team": "IND",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759881058001
+          "news_updated": 1758496543971
         }
       ],
       "taxi": [],
