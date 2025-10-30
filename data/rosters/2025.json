@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T21:21:29Z",
+  "generated_at": "2025-10-30T22:22:47Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2291,17 +2291,17 @@
           "news_updated": 1759790142494
         },
         {
-          "player_id": "9504",
-          "full_name": "Kayshon Boutte",
-          "first_name": "Kayshon",
-          "last_name": "Boutte",
-          "team": "NE",
+          "player_id": "11624",
+          "full_name": "Xavier Worthy",
+          "first_name": "Xavier",
+          "last_name": "Worthy",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849350
+          "news_updated": 1759847749510
         },
         {
           "player_id": "11604",
@@ -2384,19 +2384,6 @@
           "news_updated": 1759767361308
         },
         {
-          "player_id": "11624",
-          "full_name": "Xavier Worthy",
-          "first_name": "Xavier",
-          "last_name": "Worthy",
-          "team": "KC",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759847749510
-        },
-        {
           "player_id": "12507",
           "full_name": "Omarion Hampton",
           "first_name": "Omarion",
@@ -2447,6 +2434,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727457354
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte",
+          "first_name": "Kayshon",
+          "last_name": "Boutte",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849350
         }
       ],
       "taxi": [],
