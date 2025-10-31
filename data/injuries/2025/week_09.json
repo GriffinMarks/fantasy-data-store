@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T23:21:36Z",
+  "generated_at": "2025-10-31T01:54:27Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -204,14 +204,14 @@
       "news_updated": 1759843849484
     },
     {
-      "player_id": "7090",
-      "full_name": "Darnell Mooney",
-      "team": "ATL",
+      "player_id": "6149",
+      "full_name": "Darius Slayton",
+      "team": "NYG",
       "position": "WR",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_body_part": "Hamstring",
       "injury_start_date": null,
-      "news_updated": 1759154753922
+      "news_updated": 1759944340393
     },
     {
       "player_id": "11618",

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-30T23:21:36Z",
+  "generated_at": "2025-10-31T01:54:27Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -3930,13 +3930,6 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "13190",
-      "full_name": "Taylor Elgersma",
-      "team": null,
-      "position": "QB",
-      "status": "Active"
     },
     {
       "player_id": "2711",
@@ -17568,18 +17561,18 @@
       "status": "Active"
     },
     {
-      "player_id": "6149",
-      "full_name": "Darius Slayton",
-      "team": "NYG",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
       "player_id": "3945",
       "full_name": "Darius White",
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "7090",
+      "full_name": "Darnell Mooney",
+      "team": "ATL",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "7056",
@@ -20506,6 +20499,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "6783",
+      "full_name": "Jerry Jeudy",
+      "team": "CLE",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "11911",
