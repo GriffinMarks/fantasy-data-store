@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-10-31T18:35:08Z",
+  "generated_at": "2025-10-31T19:17:49Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -736,17 +736,17 @@
           "news_updated": 1759944040385
         },
         {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "first_name": "Rhamondre",
-          "last_name": "Stevenson",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
+          "first_name": "TreVeyon",
+          "last_name": "Henderson",
           "team": "NE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759933202508
+          "news_updated": 1759904459748
         },
         {
           "player_id": "11620",
@@ -855,19 +855,6 @@
           "news_updated": 1759790742367
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "first_name": "TreVeyon",
-          "last_name": "Henderson",
-          "team": "NE",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904459748
-        },
-        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -905,6 +892,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878658205
+        },
+        {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "first_name": "Rhamondre",
+          "last_name": "Stevenson",
+          "team": "NE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759933202508
         },
         {
           "player_id": "TB",
