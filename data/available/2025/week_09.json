@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-01T19:16:42Z",
+  "generated_at": "2025-11-01T20:22:57Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -78,13 +78,6 @@
       "player_id": "MIA",
       "full_name": null,
       "team": "MIA",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "SF",
-      "full_name": null,
-      "team": "SF",
       "position": "DEF",
       "status": null
     },
@@ -3930,6 +3923,13 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "13190",
+      "full_name": "Taylor Elgersma",
+      "team": null,
+      "position": "QB",
+      "status": "Active"
     },
     {
       "player_id": "2711",
