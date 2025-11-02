@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 9,
-  "generated_at": "2025-11-02T22:20:41Z",
+  "generated_at": "2025-11-02T23:20:27Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -38,7 +38,7 @@
             "8259",
             "NE"
           ],
-          "points": 73.8,
+          "points": 77.0,
           "projected_points": null
         }
       ]
@@ -60,7 +60,7 @@
             "1945",
             "HOU"
           ],
-          "points": 127.8,
+          "points": 140.5,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "5189",
             "LAC"
           ],
-          "points": 80.3,
+          "points": 93.28,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "5230",
             "MIN"
           ],
-          "points": 117.2,
+          "points": 120.9,
           "projected_points": null
         },
         {
@@ -116,7 +116,7 @@
             "17",
             "SF"
           ],
-          "points": 56.26,
+          "points": 59.06,
           "projected_points": null
         }
       ]
@@ -138,7 +138,7 @@
             "11533",
             "JAX"
           ],
-          "points": 98.5,
+          "points": 104.12,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "2747",
             "SEA"
           ],
-          "points": 41.9,
+          "points": 44.5,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "4227",
             "GB"
           ],
-          "points": 146.8,
+          "points": 156.3,
           "projected_points": null
         },
         {
@@ -216,7 +216,7 @@
             "2020",
             "LAR"
           ],
-          "points": 72.32,
+          "points": 84.02,
           "projected_points": null
         },
         {
@@ -233,7 +233,7 @@
             "12711",
             "IND"
           ],
-          "points": 52.94,
+          "points": 61.9,
           "projected_points": null
         }
       ]
