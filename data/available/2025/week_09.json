@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-02T16:26:26Z",
+  "generated_at": "2025-11-02T17:18:52Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3751,
   "players": [
     {
       "player_id": "PIT",
@@ -22884,6 +22884,13 @@
       "player_id": "1067",
       "full_name": "Marvin Jones",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "9494",
+      "full_name": "Marvin Mims",
+      "team": "DEN",
       "position": "WR",
       "status": "Active"
     },
