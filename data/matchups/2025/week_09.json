@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 9,
-  "generated_at": "2025-11-02T17:18:52Z",
+  "generated_at": "2025-11-02T18:29:38Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "1433",
             "DEN"
           ],
-          "points": 29.7,
+          "points": 59.78,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "8259",
             "NE"
           ],
-          "points": 0.0,
+          "points": 24.3,
           "projected_points": null
         }
       ]
@@ -60,7 +60,7 @@
             "1945",
             "HOU"
           ],
-          "points": 0.0,
+          "points": 26.56,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "5189",
             "LAC"
           ],
-          "points": 14.2,
+          "points": 25.4,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "5230",
             "MIN"
           ],
-          "points": 0.0,
+          "points": 22.74,
           "projected_points": null
         },
         {
@@ -116,7 +116,7 @@
             "17",
             "SF"
           ],
-          "points": 11.4,
+          "points": 22.94,
           "projected_points": null
         }
       ]
@@ -138,7 +138,7 @@
             "11533",
             "JAX"
           ],
-          "points": 9.3,
+          "points": 24.1,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "2747",
             "SEA"
           ],
-          "points": 0.0,
+          "points": 3.0,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "4227",
             "GB"
           ],
-          "points": 0.0,
+          "points": 17.54,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "7839",
             "BAL"
           ],
-          "points": 24.1,
+          "points": 33.1,
           "projected_points": null
         }
       ]
@@ -216,14 +216,14 @@
             "2020",
             "LAR"
           ],
-          "points": 16.6,
+          "points": 22.8,
           "projected_points": null
         },
         {
           "roster_id": 9,
           "owner": "Easy as A-B-CeeDee",
           "starters": [
-            "5849",
+            "7523",
             "9221",
             "9224",
             "6786",
@@ -233,7 +233,7 @@
             "12711",
             "IND"
           ],
-          "points": 4.0,
+          "points": 18.0,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "0",
             "BUF"
           ],
-          "points": 0.0,
+          "points": 19.32,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "11539",
             "DET"
           ],
-          "points": 0.0,
+          "points": 13.2,
           "projected_points": null
         }
       ]

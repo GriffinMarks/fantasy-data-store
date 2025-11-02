@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-02T17:18:52Z",
+  "generated_at": "2025-11-02T18:29:39Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -3036,6 +3036,13 @@
       "status": "Active"
     },
     {
+      "player_id": "5849",
+      "full_name": "Kyler Murray",
+      "team": "ARI",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
       "player_id": "5239",
       "full_name": "Lamar Jordan",
       "team": null,
@@ -4033,13 +4040,6 @@
       "player_id": "4528",
       "full_name": "Trevor Knight",
       "team": null,
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "7523",
-      "full_name": "Trevor Lawrence",
-      "team": "JAX",
       "position": "QB",
       "status": "Active"
     },
