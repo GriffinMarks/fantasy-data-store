@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-01T23:20:37Z",
+  "generated_at": "2025-11-02T02:00:23Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -142,16 +142,6 @@
       "injury_body_part": "Hamstring",
       "injury_start_date": null,
       "news_updated": 1759954543402
-    },
-    {
-      "player_id": "8142",
-      "full_name": "Alec Pierce",
-      "team": "IND",
-      "position": "WR",
-      "injury_status": "Questionable",
-      "injury_body_part": "Concussion",
-      "injury_start_date": null,
-      "news_updated": 1759954242047
     },
     {
       "player_id": "7547",
