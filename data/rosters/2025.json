@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-02T02:00:22Z",
+  "generated_at": "2025-11-02T03:47:45Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -119,12 +119,12 @@
           "news_updated": 1759090252861
         },
         {
-          "player_id": "0",
+          "player_id": "HOU",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Houston",
+          "last_name": "Texans",
+          "team": "HOU",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -158,6 +158,19 @@
           "injury_body_part": "Neck",
           "injury_start_date": null,
           "news_updated": 1759599946577
+        },
+        {
+          "player_id": "12412",
+          "full_name": "Terrell Jennings",
+          "first_name": "Terrell",
+          "last_name": "Jennings",
+          "team": "NE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1756335023454
         },
         {
           "player_id": "12485",
@@ -199,19 +212,6 @@
           "news_updated": 1759943140215
         },
         {
-          "player_id": "12536",
-          "full_name": "Jaylin Noel",
-          "first_name": "Jaylin",
-          "last_name": "Noel",
-          "team": "HOU",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759935902822
-        },
-        {
           "player_id": "7567",
           "full_name": "Kenneth Gainwell",
           "first_name": "Kenneth",
@@ -223,19 +223,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759850148208
-        },
-        {
-          "player_id": "HOU",
-          "full_name": null,
-          "first_name": "Houston",
-          "last_name": "Texans",
-          "team": "HOU",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
