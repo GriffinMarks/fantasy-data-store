@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-04T13:36:58Z",
+  "generated_at": "2025-11-04T14:25:53Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -950,30 +950,30 @@
           "news_updated": 1759745460478
         },
         {
-          "player_id": "4098",
-          "full_name": "Kareem Hunt",
-          "first_name": "Kareem",
-          "last_name": "Hunt",
-          "team": "KC",
+          "player_id": "4199",
+          "full_name": "Aaron Jones",
+          "first_name": "Aaron",
+          "last_name": "Jones",
+          "team": "MIN",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759847749759
+          "news_updated": 1759272653071
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
+          "player_id": "8146",
+          "full_name": "Garrett Wilson",
+          "first_name": "Garrett",
+          "last_name": "Wilson",
+          "team": "NYJ",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
+          "news_updated": 1759727757412
         },
         {
           "player_id": "5846",
@@ -989,19 +989,6 @@
           "news_updated": 1759877457388
         },
         {
-          "player_id": "8110",
-          "full_name": "Jake Ferguson",
-          "first_name": "Jake",
-          "last_name": "Ferguson",
-          "team": "DAL",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759716356294
-        },
-        {
           "player_id": "12518",
           "full_name": "Tyler Warren",
           "first_name": "Tyler",
@@ -1013,6 +1000,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759881358279
+        },
+        {
+          "player_id": "12514",
+          "full_name": "Emeka Egbuka",
+          "first_name": "Emeka",
+          "last_name": "Egbuka",
+          "team": "TB",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849797
         },
         {
           "player_id": "2020",
@@ -1056,17 +1056,17 @@
           "news_updated": 1759931402832
         },
         {
-          "player_id": "12514",
-          "full_name": "Emeka Egbuka",
-          "first_name": "Emeka",
-          "last_name": "Egbuka",
-          "team": "TB",
-          "position": "WR",
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "first_name": "Kareem",
+          "last_name": "Hunt",
+          "team": "KC",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849797
+          "news_updated": 1759847749759
         },
         {
           "player_id": "4195",
@@ -1082,17 +1082,17 @@
           "news_updated": 1759717857723
         },
         {
-          "player_id": "4199",
-          "full_name": "Aaron Jones",
-          "first_name": "Aaron",
-          "last_name": "Jones",
-          "team": "MIN",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Hamstring",
+          "player_id": "8110",
+          "full_name": "Jake Ferguson",
+          "first_name": "Jake",
+          "last_name": "Ferguson",
+          "team": "DAL",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759272653071
+          "news_updated": 1759716356294
         },
         {
           "player_id": "8125",
@@ -1108,17 +1108,17 @@
           "news_updated": 1759953344577
         },
         {
-          "player_id": "8146",
-          "full_name": "Garrett Wilson",
-          "first_name": "Garrett",
-          "last_name": "Wilson",
-          "team": "NYJ",
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759727757412
+          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
