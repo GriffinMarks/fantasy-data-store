@@ -1,7 +1,14 @@
 {
-  "generated_at": "2025-11-04T04:28:19Z",
-  "count": 22,
+  "generated_at": "2025-11-04T05:24:33Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Cardinals snap losing streak, beat Cowboys in Dallas",
+      "link": "https://www.espn.com/nfl/story/_/id/46834805/dallas-cowboys-arizona-cardinals-week-9-mnf",
+      "published": "Tue, 4 Nov 2025 00:21:05 EST",
+      "summary": "The Cardinals bounced back in fashion with an impressive win over the Cowboys.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Quinn: Left Daniels in too long, '100% on me'",
       "link": "https://www.espn.com/nfl/story/_/id/46836266/commanders-dan-quinn-says-left-jayden-daniels-too-long",
@@ -66,17 +73,31 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "NFL trade grades: Will Dre'Mont Jones upgrade the Ravens?",
+      "link": "https://www.espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "published": "Mon, 3 Nov 2025 23:59:22 EST",
+      "summary": "Let's size up deals leading into the Tuesday NFL trade deadline, including the Ravens getting pass-rush help.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Week 9 overreactions -- and what they mean for the trade deadline",
+      "link": "https://www.espn.com/nfl/story/_/id/46819456/nfl-week-9-overreactions-surprises-fantasy-trade-deadline-chris-olave-saints-dolphins-bears",
+      "published": "Mon, 3 Nov 2025 23:59:22 EST",
+      "summary": "We overreacted to the trade deadline this week, including whether the Saints should trade Chris Olave.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Barnwell: Two days after Halloween, four Super Bowl contenders proved to be not-so-scary",
       "link": "https://www.espn.com/nfl/story/_/id/46819448/2025-nfl-week-9-barnwell-super-bowl-favorites-loss-chiefs-colts-packers-lions",
-      "published": "Mon, 3 Nov 2025 12:39:21 EST",
+      "published": "Mon, 3 Nov 2025 23:39:27 EST",
       "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "NFL trade grades: Will Dre'Mont Jones upgrade the Ravens?",
-      "link": "https://www.espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "published": "Mon, 3 Nov 2025 21:27:27 EST",
-      "summary": "Let's size up deals leading into the Tuesday NFL trade deadline, including the Ravens getting pass-rush help.",
+      "title": "Here's what to know from Week 9, including our main takeaways",
+      "link": "https://www.espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "published": "Mon, 3 Nov 2025 23:39:27 EST",
+      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -84,27 +105,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/46834092/jayden-daniels-commanders-injury-dislocated-elbow-faq-recovery",
       "published": "Mon, 3 Nov 2025 19:42:38 EST",
       "summary": "Our experts answer all the pressing questions surrounding the Commanders QB's latest injury.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Darnold dazzles, wild upsets and Daniels' injury: Here's what to know from Week 9",
-      "link": "https://www.espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "Mon, 3 Nov 2025 19:46:09 EST",
-      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 9.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Let's overreact to Week 9: Saints should deal Olave, Vikings don't need Cousins",
-      "link": "https://www.espn.com/nfl/story/_/id/46819456/nfl-week-9-overreactions-surprises-fantasy-trade-deadline-chris-olave-saints-dolphins-bears",
-      "published": "Mon, 3 Nov 2025 19:46:09 EST",
-      "summary": "Should the Saints trade Chris Olave, and are the Dolphins open to anything?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "NFL Week 9's top performance? Check the fan-voted 'Himmy' Award results",
-      "link": "https://www.espn.com/nfl/story/_/id/46836434/rico-dowdle-same-darnold-josh-allen-brock-bowers-himmy-award-week-9",
-      "published": "Mon, 3 Nov 2025 20:16:58 EST",
-      "summary": "Rico Dowdle, Sam Darnold, Josh Allen or Brock Bowers -- who deserves Week 7's \"Himmy\" Award?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -129,6 +129,13 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "NFL Week 9's top performance? Check the fan-voted 'Himmy' Award results",
+      "link": "https://www.espn.com/nfl/story/_/id/46836434/rico-dowdle-same-darnold-josh-allen-brock-bowers-himmy-award-week-9",
+      "published": "Mon, 3 Nov 2025 23:41:29 EST",
+      "summary": "Rico Dowdle, Sam Darnold, Josh Allen or Brock Bowers -- who deserves Week 7's \"Himmy\" Award?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Cardi B in Foxborough: Robert Kraft's suite, Stefon Diggs' TD and postgame recap",
       "link": "https://www.espn.com/nfl/story/_/id/46820021/cardi-b-stefon-diggs-robert-kraft-new-enland-patriots-gillette-stadium",
       "published": "Mon, 3 Nov 2025 19:45:29 EST",
@@ -138,14 +145,14 @@
     {
       "title": "First bets for Week 10: Browns and Eagles to cover in Week 10, plus an MVP pick",
       "link": "https://www.espn.com/espn/betting/story/_/id/46687106/2025-nfl-week-10-games-betting-odds-props-early-pick-predictions-first-bet",
-      "published": "Mon, 3 Nov 2025 15:09:53 EST",
+      "published": "Mon, 3 Nov 2025 23:40:00 EST",
       "summary": "What lines offered immediate value once odds came out? Here are four early bets and a futures wager to track.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "NFL Week 10 betting: Buccaneers favored vs. red-hot Patriots, Packers over Eagles",
       "link": "https://www.espn.com/espn/betting/story/_/id/46687620/2025-nfl-week-10-schedule-odds-betting-point-spreads",
-      "published": "Mon, 3 Nov 2025 15:09:53 EST",
+      "published": "Mon, 3 Nov 2025 23:40:01 EST",
       "summary": "The Patriots have won six straight but are underdogs at Tampa Bay in Week 10, as are the Eagles at Green Bay.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
