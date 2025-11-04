@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 9,
-  "generated_at": "2025-11-04T03:13:43Z",
+  "generated_at": "2025-11-04T04:28:11Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -38,7 +38,7 @@
             "8259",
             "NE"
           ],
-          "points": 124.98,
+          "points": 135.32,
           "projected_points": null
         }
       ]
@@ -138,7 +138,7 @@
             "11533",
             "JAX"
           ],
-          "points": 104.34,
+          "points": 105.34,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "7839",
             "BAL"
           ],
-          "points": 117.42,
+          "points": 120.02,
           "projected_points": null
         }
       ]
@@ -233,7 +233,7 @@
             "12711",
             "IND"
           ],
-          "points": 100.4,
+          "points": 109.9,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "0",
             "BUF"
           ],
-          "points": 84.88,
+          "points": 98.58,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "11539",
             "DET"
           ],
-          "points": 47.0,
+          "points": 47.8,
           "projected_points": null
         }
       ]
