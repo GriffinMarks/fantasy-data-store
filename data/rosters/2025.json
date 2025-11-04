@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-04T20:28:03Z",
+  "generated_at": "2025-11-04T21:22:09Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2241,17 +2241,17 @@
       "points_against": 1011,
       "starters": [
         {
-          "player_id": "3294",
-          "full_name": "Dak Prescott",
-          "first_name": "Dak",
-          "last_name": "Prescott",
-          "team": "DAL",
+          "player_id": "3163",
+          "full_name": "Jared Goff",
+          "first_name": "Jared",
+          "last_name": "Goff",
+          "team": "DET",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759886458061
+          "news_updated": 1759718457565
         },
         {
           "player_id": "4034",
@@ -2293,17 +2293,17 @@
           "news_updated": 1759790142494
         },
         {
-          "player_id": "11624",
-          "full_name": "Xavier Worthy",
-          "first_name": "Xavier",
-          "last_name": "Worthy",
-          "team": "KC",
+          "player_id": "7525",
+          "full_name": "DeVonta Smith",
+          "first_name": "DeVonta",
+          "last_name": "Smith",
+          "team": "PHI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847749510
+          "news_updated": 1759727457354
         },
         {
           "player_id": "11604",
@@ -2319,17 +2319,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "9753",
-          "full_name": "Zach Charbonnet",
-          "first_name": "Zach",
-          "last_name": "Charbonnet",
-          "team": "SEA",
-          "position": "RB",
+          "player_id": "10213",
+          "full_name": "Tre Tucker",
+          "first_name": "Tre",
+          "last_name": "Tucker",
+          "team": "LV",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849573
+          "news_updated": 1759887658303
         },
         {
           "player_id": "8259",
@@ -2360,19 +2360,6 @@
       ],
       "bench": [
         {
-          "player_id": "10213",
-          "full_name": "Tre Tucker",
-          "first_name": "Tre",
-          "last_name": "Tucker",
-          "team": "LV",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759887658303
-        },
-        {
           "player_id": "11571",
           "full_name": "Isaiah Davis",
           "first_name": "Isaiah",
@@ -2384,6 +2371,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759767361308
+        },
+        {
+          "player_id": "11624",
+          "full_name": "Xavier Worthy",
+          "first_name": "Xavier",
+          "last_name": "Worthy",
+          "team": "KC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847749510
         },
         {
           "player_id": "12507",
@@ -2399,17 +2399,17 @@
           "news_updated": 1759950941052
         },
         {
-          "player_id": "3163",
-          "full_name": "Jared Goff",
-          "first_name": "Jared",
-          "last_name": "Goff",
-          "team": "DET",
+          "player_id": "3294",
+          "full_name": "Dak Prescott",
+          "first_name": "Dak",
+          "last_name": "Prescott",
+          "team": "DAL",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759718457565
+          "news_updated": 1759886458061
         },
         {
           "player_id": "5022",
@@ -2425,19 +2425,6 @@
           "news_updated": 1759713057019
         },
         {
-          "player_id": "7525",
-          "full_name": "DeVonta Smith",
-          "first_name": "DeVonta",
-          "last_name": "Smith",
-          "team": "PHI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759727457354
-        },
-        {
           "player_id": "9504",
           "full_name": "Kayshon Boutte",
           "first_name": "Kayshon",
@@ -2449,6 +2436,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849350
+        },
+        {
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "team": "SEA",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849573
         }
       ],
       "taxi": [],
