@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T12:52:13Z",
+  "generated_at": "2025-11-05T13:35:56Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -54,13 +54,6 @@
       "status": null
     },
     {
-      "player_id": "CLE",
-      "full_name": null,
-      "team": "CLE",
-      "position": "DEF",
-      "status": null
-    },
-    {
       "player_id": "ATL",
       "full_name": null,
       "team": "ATL",
@@ -85,6 +78,13 @@
       "player_id": "MIA",
       "full_name": null,
       "team": "MIA",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "SF",
+      "full_name": null,
+      "team": "SF",
       "position": "DEF",
       "status": null
     },
@@ -743,13 +743,6 @@
       "player_id": "1264",
       "full_name": "Justin Tucker",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "3451",
-      "full_name": "Ka'imi Fairbairn",
-      "team": "HOU",
       "position": "K",
       "status": "Active"
     },
@@ -8893,6 +8886,13 @@
       "team": "IND",
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "4147",
+      "full_name": "Samaje Perine",
+      "team": "CIN",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "12308",

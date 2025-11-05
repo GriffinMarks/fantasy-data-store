@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T12:52:12Z",
+  "generated_at": "2025-11-05T13:35:56Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -281,17 +281,17 @@
           "news_updated": 1759953642088
         },
         {
-          "player_id": "8137",
-          "full_name": "George Pickens",
-          "first_name": "George",
-          "last_name": "Pickens",
-          "team": "DAL",
+          "player_id": "8148",
+          "full_name": "Jameson Williams",
+          "first_name": "Jameson",
+          "last_name": "Williams",
+          "team": "DET",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759713357047
+          "news_updated": 1759795543169
         },
         {
           "player_id": "12526",
@@ -320,17 +320,17 @@
           "news_updated": 1759738860345
         },
         {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "first_name": "Kimani",
-          "last_name": "Vidal",
-          "team": "LAC",
+          "player_id": "7021",
+          "full_name": "Rico Dowdle",
+          "first_name": "Rico",
+          "last_name": "Dowdle",
+          "team": "CAR",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759950341754
+          "news_updated": 1759849547926
         },
         {
           "player_id": "0",
@@ -372,6 +372,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759852248997
+        },
+        {
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "first_name": "Kimani",
+          "last_name": "Vidal",
+          "team": "LAC",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759950341754
         },
         {
           "player_id": "12493",
@@ -439,30 +452,17 @@
           "news_updated": 1759499738590
         },
         {
-          "player_id": "7021",
-          "full_name": "Rico Dowdle",
-          "first_name": "Rico",
-          "last_name": "Dowdle",
-          "team": "CAR",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759849547926
-        },
-        {
-          "player_id": "8148",
-          "full_name": "Jameson Williams",
-          "first_name": "Jameson",
-          "last_name": "Williams",
-          "team": "DET",
+          "player_id": "8137",
+          "full_name": "George Pickens",
+          "first_name": "George",
+          "last_name": "Pickens",
+          "team": "DAL",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759795543169
+          "news_updated": 1759713357047
         }
       ],
       "taxi": [],
@@ -2053,30 +2053,30 @@
           "news_updated": 1759738860319
         },
         {
-          "player_id": "4147",
-          "full_name": "Samaje Perine",
-          "first_name": "Samaje",
-          "last_name": "Perine",
-          "team": "CIN",
+          "player_id": "4988",
+          "full_name": "Nick Chubb",
+          "first_name": "Nick",
+          "last_name": "Chubb",
+          "team": "HOU",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759874158487
+          "news_updated": 1759770661065
         },
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759593346002
+          "news_updated": 1759954242925
         },
         {
           "player_id": "9997",
@@ -2105,37 +2105,37 @@
           "news_updated": 1759848047703
         },
         {
-          "player_id": "4454",
-          "full_name": "Kendrick Bourne",
-          "first_name": "Kendrick",
-          "last_name": "Bourne",
-          "team": "SF",
-          "position": "WR",
+          "player_id": "4033",
+          "full_name": "David Njoku",
+          "first_name": "David",
+          "last_name": "Njoku",
+          "team": "CLE",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759852548357
+          "news_updated": 1759741860293
         },
         {
-          "player_id": "17",
-          "full_name": "Matt Prater",
-          "first_name": "Matt",
-          "last_name": "Prater",
-          "team": "BUF",
+          "player_id": "3451",
+          "full_name": "Ka'imi Fairbairn",
+          "first_name": "Ka'imi",
+          "last_name": "Fairbairn",
+          "team": "HOU",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849840
+          "news_updated": 1759712157387
         },
         {
-          "player_id": "SF",
+          "player_id": "CLE",
           "full_name": null,
-          "first_name": "San Francisco",
-          "last_name": "49ers",
-          "team": "SF",
+          "first_name": "Cleveland",
+          "last_name": "Browns",
+          "team": "CLE",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -2145,6 +2145,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
+          "injury_start_date": null,
+          "news_updated": 1759593346002
+        },
         {
           "player_id": "11597",
           "full_name": "Theo Johnson",
@@ -2172,43 +2185,30 @@
           "news_updated": 1759888858146
         },
         {
-          "player_id": "4033",
-          "full_name": "David Njoku",
-          "first_name": "David",
-          "last_name": "Njoku",
-          "team": "CLE",
-          "position": "TE",
+          "player_id": "17",
+          "full_name": "Matt Prater",
+          "first_name": "Matt",
+          "last_name": "Prater",
+          "team": "BUF",
+          "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759741860293
+          "news_updated": 1759843849840
         },
         {
-          "player_id": "4988",
-          "full_name": "Nick Chubb",
-          "first_name": "Nick",
-          "last_name": "Chubb",
-          "team": "HOU",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759770661065
-        },
-        {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne",
+          "first_name": "Kendrick",
+          "last_name": "Bourne",
           "team": "SF",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759852548357
         },
         {
           "player_id": "96",
