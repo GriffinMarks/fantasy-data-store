@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T07:23:57Z",
+  "generated_at": "2025-11-05T08:33:35Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -47,6 +47,13 @@
       "status": null
     },
     {
+      "player_id": "LAC",
+      "full_name": null,
+      "team": "LAC",
+      "position": "DEF",
+      "status": null
+    },
+    {
       "player_id": "CLE",
       "full_name": null,
       "team": "CLE",
@@ -61,9 +68,9 @@
       "status": null
     },
     {
-      "player_id": "CAR",
+      "player_id": "JAX",
       "full_name": null,
-      "team": "CAR",
+      "team": "JAX",
       "position": "DEF",
       "status": null
     },
@@ -327,13 +334,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "11786",
-      "full_name": "Cam Little",
-      "team": "JAX",
-      "position": "K",
-      "status": "Active"
-    },
-    {
       "player_id": "12112",
       "full_name": "Camden Lewis",
       "team": null,
@@ -509,6 +509,13 @@
       "status": "Active"
     },
     {
+      "player_id": "7839",
+      "full_name": "Evan McPherson",
+      "team": "CIN",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "8260",
       "full_name": "Gabe Brkic",
       "team": null,
@@ -568,6 +575,13 @@
       "player_id": "11077",
       "full_name": "Jack Podlesny",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "4195",
+      "full_name": "Jake Elliott",
+      "team": "PHI",
       "position": "K",
       "status": "Active"
     },
@@ -1233,13 +1247,6 @@
       "player_id": "3678",
       "full_name": "Wil Lutz",
       "team": "DEN",
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "11792",
-      "full_name": "Will Reichard",
-      "team": "MIN",
       "position": "K",
       "status": "Active"
     },
@@ -4625,13 +4632,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "12490",
-      "full_name": "Bhayshul Tuten",
-      "team": "JAX",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "818",
       "full_name": "Bilal Powell",
       "team": null,
@@ -6042,6 +6042,13 @@
       "player_id": "11998",
       "full_name": "Emani Bailey",
       "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "11435",
+      "full_name": "Emanuel Wilson",
+      "team": "GB",
       "position": "RB",
       "status": "Active"
     },
@@ -10834,6 +10841,13 @@
       "status": "Active"
     },
     {
+      "player_id": "8210",
+      "full_name": "Chig Okonkwo",
+      "team": "TEN",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "4874",
       "full_name": "Chris Bazile",
       "team": null,
@@ -13284,13 +13298,6 @@
       "status": "Active"
     },
     {
-      "player_id": "9481",
-      "full_name": "Luke Musgrave",
-      "team": "GB",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "10871",
       "full_name": "Luke Schoonmaker",
       "team": "DAL",
@@ -13413,13 +13420,6 @@
       "player_id": "4229",
       "full_name": "Mason Schreck",
       "team": null,
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "12498",
-      "full_name": "Mason Taylor",
-      "team": "NYJ",
       "position": "TE",
       "status": "Active"
     },
@@ -14901,6 +14901,13 @@
       "status": "Active"
     },
     {
+      "player_id": "9484",
+      "full_name": "Tucker Kraft",
+      "team": "GB",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "5133",
       "full_name": "Tyler Conklin",
       "team": "LAC",
@@ -15226,13 +15233,6 @@
       "player_id": "1689",
       "full_name": "Adam Thielen",
       "team": "MIN",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "11625",
-      "full_name": "Adonai Mitchell",
-      "team": "IND",
       "position": "WR",
       "status": "Active"
     },

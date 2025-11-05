@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T07:23:56Z",
+  "generated_at": "2025-11-05T08:33:34Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -801,12 +801,12 @@
           "news_updated": 1759715457484
         },
         {
-          "player_id": "JAX",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Jacksonville",
-          "last_name": "Jaguars",
-          "team": "JAX",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -816,17 +816,17 @@
       ],
       "bench": [
         {
-          "player_id": "11435",
-          "full_name": "Emanuel Wilson",
-          "first_name": "Emanuel",
-          "last_name": "Wilson",
-          "team": "GB",
-          "position": "RB",
+          "player_id": "11625",
+          "full_name": "Adonai Mitchell",
+          "first_name": "Adonai",
+          "last_name": "Mitchell",
+          "team": "IND",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759259752432
+          "news_updated": 1759769461592
         },
         {
           "player_id": "11627",
@@ -840,6 +840,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759790742367
+        },
+        {
+          "player_id": "11792",
+          "full_name": "Will Reichard",
+          "first_name": "Will",
+          "last_name": "Reichard",
+          "team": "MIN",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759860348977
         },
         {
           "player_id": "2216",
@@ -881,17 +894,17 @@
           "news_updated": 1759933202508
         },
         {
-          "player_id": "9484",
-          "full_name": "Tucker Kraft",
-          "first_name": "Tucker",
-          "last_name": "Kraft",
+          "player_id": "9481",
+          "full_name": "Luke Musgrave",
+          "first_name": "Luke",
+          "last_name": "Musgrave",
           "team": "GB",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759868756868
+          "news_updated": 1759284355487
         },
         {
           "player_id": "TB",
@@ -1056,6 +1069,19 @@
           "news_updated": 1759931402832
         },
         {
+          "player_id": "12490",
+          "full_name": "Bhayshul Tuten",
+          "first_name": "Bhayshul",
+          "last_name": "Tuten",
+          "team": "JAX",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759870859628
+        },
+        {
           "player_id": "4098",
           "full_name": "Kareem Hunt",
           "first_name": "Kareem",
@@ -1067,19 +1093,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759847749759
-        },
-        {
-          "player_id": "4195",
-          "full_name": "Jake Elliott",
-          "first_name": "Jake",
-          "last_name": "Elliott",
-          "team": "PHI",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759717857723
         },
         {
           "player_id": "8110",
@@ -2800,17 +2813,17 @@
           "news_updated": 1759746360603
         },
         {
-          "player_id": "7839",
-          "full_name": "Evan McPherson",
-          "first_name": "Evan",
-          "last_name": "McPherson",
-          "team": "CIN",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759722058343
+          "news_updated": null
         },
         {
           "player_id": "BAL",
@@ -2839,6 +2852,19 @@
           "injury_body_part": "Knee",
           "injury_start_date": null,
           "news_updated": 1759341902592
+        },
+        {
+          "player_id": "11786",
+          "full_name": "Cam Little",
+          "first_name": "Cam",
+          "last_name": "Little",
+          "team": "JAX",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847149332
         },
         {
           "player_id": "12540",
@@ -3040,12 +3066,12 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "LAC",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Los Angeles",
-          "last_name": "Chargers",
-          "team": "LAC",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -3054,6 +3080,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12498",
+          "full_name": "Mason Taylor",
+          "first_name": "Mason",
+          "last_name": "Taylor",
+          "team": "NYJ",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759848647940
+        },
         {
           "player_id": "5872",
           "full_name": "Deebo Samuel",
@@ -3094,19 +3133,6 @@
           "news_updated": 1759843849589
         },
         {
-          "player_id": "8210",
-          "full_name": "Chig Okonkwo",
-          "first_name": "Chig",
-          "last_name": "Okonkwo",
-          "team": "TEN",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759890360254
-        },
-        {
           "player_id": "8676",
           "full_name": "Rashid Shaheed",
           "first_name": "Rashid",
@@ -3131,6 +3157,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870257999
+        },
+        {
+          "player_id": "CAR",
+          "full_name": null,
+          "first_name": "Carolina",
+          "last_name": "Panthers",
+          "team": "CAR",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
