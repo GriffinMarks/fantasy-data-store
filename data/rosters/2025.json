@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T19:19:45Z",
+  "generated_at": "2025-11-05T20:28:11Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2266,17 +2266,17 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "8122",
-          "full_name": "Bam Knight",
-          "first_name": "Bam",
-          "last_name": "Knight",
-          "team": "ARI",
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "team": "SEA",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759780842339
+          "news_updated": 1759843849573
         },
         {
           "player_id": "5045",
@@ -2424,6 +2424,19 @@
           "news_updated": 1759713057019
         },
         {
+          "player_id": "8122",
+          "full_name": "Bam Knight",
+          "first_name": "Bam",
+          "last_name": "Knight",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759780842339
+        },
+        {
           "player_id": "9504",
           "full_name": "Kayshon Boutte",
           "first_name": "Kayshon",
@@ -2435,19 +2448,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849350
-        },
-        {
-          "player_id": "9753",
-          "full_name": "Zach Charbonnet",
-          "first_name": "Zach",
-          "last_name": "Charbonnet",
-          "team": "SEA",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849573
         }
       ],
       "taxi": [],
