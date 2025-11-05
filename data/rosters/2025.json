@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T21:23:01Z",
+  "generated_at": "2025-11-05T22:22:42Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -774,17 +774,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
+          "player_id": "11627",
+          "full_name": "Troy Franklin",
+          "first_name": "Troy",
+          "last_name": "Franklin",
+          "team": "DEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850448658
+          "news_updated": 1759790742367
         },
         {
           "player_id": "11792",
@@ -841,19 +841,6 @@
           "news_updated": 1759769461592
         },
         {
-          "player_id": "11627",
-          "full_name": "Troy Franklin",
-          "first_name": "Troy",
-          "last_name": "Franklin",
-          "team": "DEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759790742367
-        },
-        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -878,6 +865,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848948010
+        },
+        {
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "first_name": "Rashod",
+          "last_name": "Bateman",
+          "team": "BAL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759850448658
         },
         {
           "player_id": "7611",
