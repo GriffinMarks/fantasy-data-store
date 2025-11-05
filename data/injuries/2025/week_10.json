@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T17:23:19Z",
+  "generated_at": "2025-11-05T18:35:21Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -12,6 +12,16 @@
       "injury_body_part": "Toe",
       "injury_start_date": null,
       "news_updated": 1759954242048
+    },
+    {
+      "player_id": "11565",
+      "full_name": "J.J. McCarthy",
+      "team": "MIN",
+      "position": "QB",
+      "injury_status": "Out",
+      "injury_body_part": "Ankle",
+      "injury_start_date": null,
+      "news_updated": 1759877157371
     },
     {
       "player_id": "6770",

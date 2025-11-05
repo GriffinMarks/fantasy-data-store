@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T17:23:19Z",
+  "generated_at": "2025-11-05T18:35:21Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -2406,13 +2406,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11565",
-      "full_name": "J.J. McCarthy",
-      "team": "MIN",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
       "player_id": "5228",
       "full_name": "J.T. Barrett",
       "team": null,
@@ -2850,6 +2843,13 @@
       "player_id": "4179",
       "full_name": "Joshua Dobbs",
       "team": "NE",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "7591",
+      "full_name": "Justin Fields",
+      "team": "NYJ",
       "position": "QB",
       "status": "Active"
     },
@@ -9593,13 +9593,6 @@
       "team": "MIN",
       "position": "RB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "6039",
-      "full_name": "Ty Johnson",
-      "team": "BUF",
-      "position": "RB",
-      "status": "Active"
     },
     {
       "player_id": "2399",
@@ -21771,6 +21764,13 @@
       "player_id": "8783",
       "full_name": "Kendric Pryor",
       "team": "CIN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "4454",
+      "full_name": "Kendrick Bourne",
+      "team": "SF",
       "position": "WR",
       "status": "Active"
     },

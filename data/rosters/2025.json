@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T17:23:18Z",
+  "generated_at": "2025-11-05T18:35:20Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -495,17 +495,17 @@
           "news_updated": 1759843849645
         },
         {
-          "player_id": "9508",
-          "full_name": "Tyjae Spears",
-          "first_name": "Tyjae",
-          "last_name": "Spears",
-          "team": "TEN",
+          "player_id": "8155",
+          "full_name": "Breece Hall",
+          "first_name": "Breece",
+          "last_name": "Hall",
+          "team": "NYJ",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759799743285
+          "news_updated": 1759728657548
         },
         {
           "player_id": "3198",
@@ -560,17 +560,17 @@
           "news_updated": 1759867858147
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
-          "first_name": "Tony",
-          "last_name": "Pollard",
-          "team": "TEN",
-          "position": "RB",
+          "player_id": "4037",
+          "full_name": "Chris Godwin",
+          "first_name": "Chris",
+          "last_name": "Godwin",
+          "team": "TB",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759737060024
+          "news_updated": 1759843849770
         },
         {
           "player_id": "1433",
@@ -640,17 +640,17 @@
           "news_updated": 1759769461597
         },
         {
-          "player_id": "4037",
-          "full_name": "Chris Godwin",
-          "first_name": "Chris",
-          "last_name": "Godwin",
-          "team": "TB",
-          "position": "WR",
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "first_name": "Tony",
+          "last_name": "Pollard",
+          "team": "TEN",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849770
+          "news_updated": 1759737060024
         },
         {
           "player_id": "6770",
@@ -666,22 +666,21 @@
           "news_updated": 1758475540771
         },
         {
-          "player_id": "8155",
-          "full_name": "Breece Hall",
-          "first_name": "Breece",
-          "last_name": "Hall",
-          "team": "NYJ",
+          "player_id": "9508",
+          "full_name": "Tyjae Spears",
+          "first_name": "Tyjae",
+          "last_name": "Spears",
+          "team": "TEN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759728657548
+          "news_updated": 1759799743285
         }
       ],
       "taxi": [],
       "ir": [
-        "4037",
         "6770"
       ]
     },
@@ -2185,17 +2184,17 @@
           "news_updated": 1759843849840
         },
         {
-          "player_id": "4454",
-          "full_name": "Kendrick Bourne",
-          "first_name": "Kendrick",
-          "last_name": "Bourne",
-          "team": "SF",
-          "position": "WR",
+          "player_id": "6039",
+          "full_name": "Ty Johnson",
+          "first_name": "Ty",
+          "last_name": "Johnson",
+          "team": "BUF",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759852548357
+          "news_updated": 1759843849444
         },
         {
           "player_id": "96",
@@ -2949,17 +2948,17 @@
       "points_against": 1037,
       "starters": [
         {
-          "player_id": "4046",
-          "full_name": "Patrick Mahomes",
-          "first_name": "Patrick",
-          "last_name": "Mahomes",
-          "team": "KC",
+          "player_id": "11565",
+          "full_name": "J.J. McCarthy",
+          "first_name": "J.J.",
+          "last_name": "McCarthy",
+          "team": "MIN",
           "position": "QB",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Out",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759847749521
+          "news_updated": 1759877157371
         },
         {
           "player_id": "6806",
@@ -3014,17 +3013,17 @@
           "news_updated": 1759895158740
         },
         {
-          "player_id": "1466",
-          "full_name": "Travis Kelce",
-          "first_name": "Travis",
-          "last_name": "Kelce",
-          "team": "KC",
+          "player_id": "12498",
+          "full_name": "Mason Taylor",
+          "first_name": "Mason",
+          "last_name": "Taylor",
+          "team": "NYJ",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848349273
+          "news_updated": 1759848647940
         },
         {
           "player_id": "7526",
@@ -3053,12 +3052,12 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "0",
+          "player_id": "CAR",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Carolina",
+          "last_name": "Panthers",
+          "team": "CAR",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -3068,17 +3067,30 @@
       ],
       "bench": [
         {
-          "player_id": "12498",
-          "full_name": "Mason Taylor",
-          "first_name": "Mason",
-          "last_name": "Taylor",
-          "team": "NYJ",
+          "player_id": "1466",
+          "full_name": "Travis Kelce",
+          "first_name": "Travis",
+          "last_name": "Kelce",
+          "team": "KC",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848647940
+          "news_updated": 1759848349273
+        },
+        {
+          "player_id": "4046",
+          "full_name": "Patrick Mahomes",
+          "first_name": "Patrick",
+          "last_name": "Mahomes",
+          "team": "KC",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847749521
         },
         {
           "player_id": "5872",
@@ -3092,19 +3104,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759721458513
-        },
-        {
-          "player_id": "7591",
-          "full_name": "Justin Fields",
-          "first_name": "Justin",
-          "last_name": "Fields",
-          "team": "NYJ",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759713957288
         },
         {
           "player_id": "8151",
@@ -3144,19 +3143,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870257999
-        },
-        {
-          "player_id": "CAR",
-          "full_name": null,
-          "first_name": "Carolina",
-          "last_name": "Panthers",
-          "team": "CAR",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
