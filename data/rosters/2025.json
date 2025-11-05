@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T14:25:24Z",
+  "generated_at": "2025-11-05T15:25:16Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -788,6 +788,34 @@
           "news_updated": 1759850448658
         },
         {
+          "player_id": "11792",
+          "full_name": "Will Reichard",
+          "first_name": "Will",
+          "last_name": "Reichard",
+          "team": "MIN",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759860348977
+        },
+        {
+          "player_id": "TB",
+          "full_name": null,
+          "first_name": "Tampa Bay",
+          "last_name": "Buccaneers",
+          "team": "TB",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11533",
           "full_name": "Brandon Aubrey",
           "first_name": "Brandon",
@@ -800,21 +828,6 @@
           "injury_start_date": null,
           "news_updated": 1759715457484
         },
-        {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
-        }
-      ],
-      "bench": [
         {
           "player_id": "11625",
           "full_name": "Adonai Mitchell",
@@ -840,19 +853,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759790742367
-        },
-        {
-          "player_id": "11792",
-          "full_name": "Will Reichard",
-          "first_name": "Will",
-          "last_name": "Reichard",
-          "team": "MIN",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759860348977
         },
         {
           "player_id": "2216",
@@ -905,19 +905,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759284355487
-        },
-        {
-          "player_id": "TB",
-          "full_name": null,
-          "first_name": "Tampa Bay",
-          "last_name": "Buccaneers",
-          "team": "TB",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
