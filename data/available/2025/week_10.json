@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-06T01:56:38Z",
+  "generated_at": "2025-11-06T03:19:07Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3750,
   "players": [
     {
       "player_id": "PIT",
@@ -353,13 +353,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "10955",
-      "full_name": "Chad Ryland",
-      "team": "ARI",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "2242",
