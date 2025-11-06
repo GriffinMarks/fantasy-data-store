@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-06T19:19:33Z",
+  "generated_at": "2025-11-06T20:27:30Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1387,30 +1387,30 @@
           "news_updated": 1759843849866
         },
         {
-          "player_id": "12489",
-          "full_name": "RJ Harvey",
-          "first_name": "RJ",
-          "last_name": "Harvey",
-          "team": "DEN",
+          "player_id": "12512",
+          "full_name": "Quinshon Judkins",
+          "first_name": "Quinshon",
+          "last_name": "Judkins",
+          "team": "CLE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759716657368
+          "news_updated": 1759741260292
         },
         {
-          "player_id": "7564",
-          "full_name": "Ja'Marr Chase",
-          "first_name": "Ja'Marr",
-          "last_name": "Chase",
-          "team": "CIN",
-          "position": "WR",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759713357053
+          "news_updated": null
         },
         {
           "player_id": "6819",
@@ -1439,17 +1439,17 @@
           "news_updated": 1759888558257
         },
         {
-          "player_id": "6801",
-          "full_name": "Tee Higgins",
-          "first_name": "Tee",
-          "last_name": "Higgins",
-          "team": "CIN",
-          "position": "WR",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759731059106
+          "news_updated": null
         },
         {
           "player_id": "4227",
@@ -1493,30 +1493,43 @@
           "news_updated": 1759752660039
         },
         {
-          "player_id": "12512",
-          "full_name": "Quinshon Judkins",
-          "first_name": "Quinshon",
-          "last_name": "Judkins",
-          "team": "CLE",
+          "player_id": "12489",
+          "full_name": "RJ Harvey",
+          "first_name": "RJ",
+          "last_name": "Harvey",
+          "team": "DEN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759741260292
+          "news_updated": 1759716657368
         },
         {
-          "player_id": "5001",
-          "full_name": "Dalton Schultz",
-          "first_name": "Dalton",
-          "last_name": "Schultz",
-          "team": "HOU",
-          "position": "TE",
+          "player_id": "6271",
+          "full_name": "Olamide Zaccheaus",
+          "first_name": "Olamide",
+          "last_name": "Zaccheaus",
+          "team": "CHI",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759715457469
+          "news_updated": 1759161356292
+        },
+        {
+          "player_id": "6801",
+          "full_name": "Tee Higgins",
+          "first_name": "Tee",
+          "last_name": "Higgins",
+          "team": "CIN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759731059106
         },
         {
           "player_id": "6804",
@@ -1530,6 +1543,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759866949700
+        },
+        {
+          "player_id": "7564",
+          "full_name": "Ja'Marr Chase",
+          "first_name": "Ja'Marr",
+          "last_name": "Chase",
+          "team": "CIN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759713357053
         },
         {
           "player_id": "8131",

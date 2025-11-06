@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-06T19:19:34Z",
+  "generated_at": "2025-11-06T20:27:30Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -11140,6 +11140,13 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
+    },
+    {
+      "player_id": "5001",
+      "full_name": "Dalton Schultz",
+      "team": "HOU",
+      "position": "TE",
+      "status": "Active"
     },
     {
       "player_id": "11262",
@@ -23500,13 +23507,6 @@
       "player_id": "2078",
       "full_name": "Odell Beckham",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "6271",
-      "full_name": "Olamide Zaccheaus",
-      "team": "CHI",
       "position": "WR",
       "status": "Active"
     },
