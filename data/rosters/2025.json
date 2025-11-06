@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-05T23:22:38Z",
+  "generated_at": "2025-11-06T01:56:37Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2318,17 +2318,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "10213",
-          "full_name": "Tre Tucker",
-          "first_name": "Tre",
-          "last_name": "Tucker",
-          "team": "LV",
-          "position": "WR",
+          "player_id": "5022",
+          "full_name": "Dallas Goedert",
+          "first_name": "Dallas",
+          "last_name": "Goedert",
+          "team": "PHI",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759887658303
+          "news_updated": 1759713057019
         },
         {
           "player_id": "8259",
@@ -2358,6 +2358,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10213",
+          "full_name": "Tre Tucker",
+          "first_name": "Tre",
+          "last_name": "Tucker",
+          "team": "LV",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759887658303
+        },
         {
           "player_id": "11571",
           "full_name": "Isaiah Davis",
@@ -2409,19 +2422,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759886458061
-        },
-        {
-          "player_id": "5022",
-          "full_name": "Dallas Goedert",
-          "first_name": "Dallas",
-          "last_name": "Goedert",
-          "team": "PHI",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759713057019
         },
         {
           "player_id": "8122",
