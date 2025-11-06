@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-06T20:27:30Z",
+  "generated_at": "2025-11-06T21:21:27Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1400,17 +1400,17 @@
           "news_updated": 1759741260292
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "6271",
+          "full_name": "Olamide Zaccheaus",
+          "first_name": "Olamide",
+          "last_name": "Zaccheaus",
+          "team": "CHI",
+          "position": "WR",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759161356292
         },
         {
           "player_id": "6819",
@@ -1439,30 +1439,30 @@
           "news_updated": 1759888558257
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "12489",
+          "full_name": "RJ Harvey",
+          "first_name": "RJ",
+          "last_name": "Harvey",
+          "team": "DEN",
+          "position": "RB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759716657368
         },
         {
-          "player_id": "4227",
-          "full_name": "Harrison Butker",
-          "first_name": "Harrison",
-          "last_name": "Butker",
-          "team": "KC",
+          "player_id": "12961",
+          "full_name": "Ryan Fitzgerald",
+          "first_name": "Ryan",
+          "last_name": "Fitzgerald",
+          "team": "CAR",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848949439
+          "news_updated": 1759843850049
         },
         {
           "player_id": "GB",
@@ -1493,30 +1493,17 @@
           "news_updated": 1759752660039
         },
         {
-          "player_id": "12489",
-          "full_name": "RJ Harvey",
-          "first_name": "RJ",
-          "last_name": "Harvey",
-          "team": "DEN",
-          "position": "RB",
+          "player_id": "4227",
+          "full_name": "Harrison Butker",
+          "first_name": "Harrison",
+          "last_name": "Butker",
+          "team": "KC",
+          "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759716657368
-        },
-        {
-          "player_id": "6271",
-          "full_name": "Olamide Zaccheaus",
-          "first_name": "Olamide",
-          "last_name": "Zaccheaus",
-          "team": "CHI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759161356292
+          "news_updated": 1759848949439
         },
         {
           "player_id": "6801",
@@ -1585,7 +1572,9 @@
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "8205"
+      ]
     },
     {
       "roster_id": 8,
