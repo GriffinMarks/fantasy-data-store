@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-07T05:24:08Z",
+  "generated_at": "2025-11-07T06:36:37Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1588,17 +1588,17 @@
       "points_against": 938,
       "starters": [
         {
-          "player_id": "19",
-          "full_name": "Joe Flacco",
-          "first_name": "Joe",
-          "last_name": "Flacco",
-          "team": "CIN",
+          "player_id": "6904",
+          "full_name": "Jalen Hurts",
+          "first_name": "Jalen",
+          "last_name": "Hurts",
+          "team": "PHI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759945240522
+          "news_updated": 1759719356679
         },
         {
           "player_id": "12534",
@@ -1614,17 +1614,17 @@
           "news_updated": 1759161056187
         },
         {
-          "player_id": "7607",
-          "full_name": "Michael Carter",
-          "first_name": "Michael",
-          "last_name": "Carter",
-          "team": "ARI",
+          "player_id": "4866",
+          "full_name": "Saquon Barkley",
+          "first_name": "Saquon",
+          "last_name": "Barkley",
+          "team": "PHI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759873857105
+          "news_updated": 1759949442986
         },
         {
           "player_id": "11635",
@@ -1707,6 +1707,19 @@
       ],
       "bench": [
         {
+          "player_id": "19",
+          "full_name": "Joe Flacco",
+          "first_name": "Joe",
+          "last_name": "Flacco",
+          "team": "CIN",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759945240522
+        },
+        {
           "player_id": "3214",
           "full_name": "Hunter Henry",
           "first_name": "Hunter",
@@ -1718,19 +1731,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849674
-        },
-        {
-          "player_id": "4866",
-          "full_name": "Saquon Barkley",
-          "first_name": "Saquon",
-          "last_name": "Barkley",
-          "team": "PHI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759949442986
         },
         {
           "player_id": "5859",
@@ -1772,23 +1772,21 @@
           "news_updated": 1759153555480
         },
         {
-          "player_id": "6904",
-          "full_name": "Jalen Hurts",
-          "first_name": "Jalen",
-          "last_name": "Hurts",
-          "team": "PHI",
-          "position": "QB",
+          "player_id": "7607",
+          "full_name": "Michael Carter",
+          "first_name": "Michael",
+          "last_name": "Carter",
+          "team": "ARI",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759719356679
+          "news_updated": 1759873857105
         }
       ],
       "taxi": [],
-      "ir": [
-        "5859"
-      ]
+      "ir": []
     },
     {
       "roster_id": 9,
