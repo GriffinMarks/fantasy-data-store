@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T11:20:21Z",
-  "count": 25,
+  "generated_at": "2025-11-07T12:50:28Z",
+  "count": 27,
   "articles": [
     {
       "title": "Mile High Misery: Broncos' pass rush too much for Geno Smith, Raiders",
@@ -73,17 +73,73 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "'No they didn't': Inside the Jets' shocking deadline day trades of Sauce Gardner, Quinnen Williams",
+      "link": "https://www.espn.com/nfl/story/_/id/46872785/inside-new-york-jets-sauce-gardner-quinnen-williams-trade-deadline-deals-wild-24-hours-indianapolis-colts",
+      "published": "Fri, 7 Nov 2025 06:45:23 EST",
+      "summary": "With much of the Jets organization at Nick Mangold's funeral, two big trades were in the works two miles away.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "15 NFL experts make second-half predictions: Division-race shockers, MVP picks and record breakers",
+      "link": "https://www.espn.com/nfl/story/_/id/46857940/nfl-midseason-predictions-2025-playoffs-mvp-draft-super-bowl-records-stats",
+      "published": "Fri, 7 Nov 2025 06:47:42 EST",
+      "summary": "Could Christian McCaffrey break a record? Who will win the AFC West? We asked 15 experts to give their predictions for the rest of the NFL season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "The NFL at midseason: Separating the good, bad and ugly for all 32 teams",
       "link": "https://www.espn.com/nfl/story/_/id/46833755/espn-nfl-2025-midseason-report-afc-nfc-questions-stats-fantasy",
-      "published": "Thu, 6 Nov 2025 11:34:55 EST",
+      "published": "Fri, 7 Nov 2025 07:37:53 EST",
       "summary": "The 2025 NFL season has hit the midway point, and we have things to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Barnwell's midseason awards: Ranking candidates for MVP, Rookie of the Year, more",
       "link": "https://www.espn.com/nfl/story/_/id/46836960/2025-nfl-midseason-awards-ranking-mvp-rookies-coaches-candidates",
-      "published": "Thu, 6 Nov 2025 11:34:55 EST",
+      "published": "Fri, 7 Nov 2025 07:37:53 EST",
       "summary": "Let's pick three front-runners for seven NFL awards through nine weeks.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Our guide to every Week 10 NFL game: Matchup previews, predictions, picks and nuggets",
+      "link": "https://www.espn.com/nfl/story/_/page/viewersguide46858769/nfl-week-10-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "published": "Fri, 7 Nov 2025 06:52:58 EST",
+      "summary": "Rams vs. 49ers? Jim Harbaugh vs. Mike Tomlin? Picks, predictions and stats for every Week 10 game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Giants' 'Vintage White,' Broncos' throwbacks lead NFL Week 10 uniforms",
+      "link": "https://www.espn.com/nfl/story/_/id/46850079/nfl-2025-week-10-uniforms",
+      "published": "Fri, 7 Nov 2025 06:52:58 EST",
+      "summary": "The New York Giants are bringing back a classic uniform for Week 10 of the NFL season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFC West playoff race: Strengths, weaknesses for Seahawks, 49ers, Rams, Cards",
+      "link": "https://www.espn.com/nfl/story/_/id/46862833/nfc-west-playoff-chance-49ers-rams-seahawks-cardinals",
+      "published": "Fri, 7 Nov 2025 06:57:46 EST",
+      "summary": "Will three teams from the NFC West make the playoffs? Why it's possible.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "How the Colts' Jonathan Taylor and Falcons' Bijan Robinson transcend their gaudy stats",
+      "link": "https://www.espn.com/nfl/story/_/id/46871729/nfl-colts-jonathan-taylor-falcons-bijan-robinson-germany",
+      "published": "Fri, 7 Nov 2025 06:57:09 EST",
+      "summary": "Jonathan Taylor and Bijan Robinson will highlight Sunday's game in Germany, where fans will witness two of the NFL's best RBs with a lot at stake.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Last-minute pickups for Week 10: What will it take for Darnold to get more love?",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46870920/fantasy-football-streaming-last-minute-pickups-week-10-free-agents",
+      "published": "Fri, 7 Nov 2025 06:49:54 EST",
+      "summary": "If bye weeks or injuries have you seeking lineup help, we have available options to consider.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "The Playbook: Lineup locks, Shadow Reports for Week 10",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/46832834/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-10-shadow-reports-mike-clay",
+      "published": "Fri, 7 Nov 2025 06:50:17 EST",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and more.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -101,52 +157,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Jayden Daniels' injury echoes past Commanders mistakes, raises larger NFL questions",
-      "link": "https://www.espn.com/nfl/story/_/id/46863708/nfl-jayden-daniels-injury-washington-commanders-dan-quinn",
-      "published": "Thu, 6 Nov 2025 19:47:21 EST",
-      "summary": "The Commanders QB is one of the league's best young players -- and its most-hit over the past two years.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
       "title": "Updated NFL Power Rankings: 1-32 poll, plus each team's most important game down the stretch",
       "link": "https://www.espn.com/nfl/story/_/id/46770268/nfl-week-10-power-rankings-poll-32-teams-2025-biggest-remaining-second-half-game",
-      "published": "Thu, 6 Nov 2025 19:47:25 EST",
+      "published": "Fri, 7 Nov 2025 06:52:10 EST",
       "summary": "Let's update our rankings ahead of Week 10. Plus, we picked out critical games remaining on the schedule for every team.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Giants' 'Vintage White,' Broncos' throwbacks lead NFL Week 10 uniforms",
-      "link": "https://www.espn.com/nfl/story/_/id/46850079/nfl-2025-week-10-uniforms",
-      "published": "Thu, 6 Nov 2025 19:47:25 EST",
-      "summary": "The New York Giants are bringing back a classic uniform for Week 10 of the NFL season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "The Playbook: Lineup locks, Shadow Reports for Week 10",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46832834/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-10-shadow-reports-mike-clay",
-      "published": "Thu, 6 Nov 2025 09:41:45 EST",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Trade, pick up or hold? What to do with these four hot fantasy QBs",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/46860408/fantasy-football-pickups-trade-value-trends",
-      "published": "Thu, 6 Nov 2025 09:41:45 EST",
-      "summary": "Not all good fantasy QBs do damage with their legs. We highlight four pocket passers who are thriving.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Graziano & Fowler: What we're hearing on the Jets, Cowboys, Dolphins, Seahawks and more",
-      "link": "https://www.espn.com/nfl/story/_/id/46836431/nfl-week-10-trade-deadline-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Wed, 5 Nov 2025 19:23:29 EST",
-      "summary": "What's the fallout from the Jets' blockbuster trades? What about other moves that did or did not happen around the NFL? We have the latest.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Barnwell on the Colts' risky all-in move and what comes next",
-      "link": "https://www.espn.com/nfl/story/_/id/46847618/2025-nfl-trade-deadline-sauce-gardner-colts-jets-draft-super-bowl",
-      "published": "Wed, 5 Nov 2025 19:23:29 EST",
-      "summary": "The Colts shocked the NFL by dealing two first-round picks and Adonai Mitchell to the Jets for Sauce Gardner.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
