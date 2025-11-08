@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-08T08:29:06Z",
+  "generated_at": "2025-11-08T09:22:26Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2053,17 +2053,17 @@
           "news_updated": 1759738860319
         },
         {
-          "player_id": "4988",
-          "full_name": "Nick Chubb",
-          "first_name": "Nick",
-          "last_name": "Chubb",
-          "team": "HOU",
+          "player_id": "11199",
+          "full_name": "Emari Demercado",
+          "first_name": "Emari",
+          "last_name": "Demercado",
+          "team": "ARI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759770661065
+          "news_updated": 1759738260289
         },
         {
           "player_id": "7049",
@@ -2092,17 +2092,17 @@
           "news_updated": 1759707956772
         },
         {
-          "player_id": "11603",
-          "full_name": "AJ Barner",
-          "first_name": "AJ",
-          "last_name": "Barner",
-          "team": "SEA",
+          "player_id": "11597",
+          "full_name": "Theo Johnson",
+          "first_name": "Theo",
+          "last_name": "Johnson",
+          "team": "NYG",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759848047703
+          "news_updated": 1759890958174
         },
         {
           "player_id": "4033",
@@ -2118,17 +2118,17 @@
           "news_updated": 1759741860293
         },
         {
-          "player_id": "3451",
-          "full_name": "Ka'imi Fairbairn",
-          "first_name": "Ka'imi",
-          "last_name": "Fairbairn",
-          "team": "HOU",
+          "player_id": "17",
+          "full_name": "Matt Prater",
+          "first_name": "Matt",
+          "last_name": "Prater",
+          "team": "BUF",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759712157387
+          "news_updated": 1759843849840
         },
         {
           "player_id": "CLE",
@@ -2159,17 +2159,17 @@
           "news_updated": 1759593346002
         },
         {
-          "player_id": "11597",
-          "full_name": "Theo Johnson",
-          "first_name": "Theo",
-          "last_name": "Johnson",
-          "team": "NYG",
+          "player_id": "11603",
+          "full_name": "AJ Barner",
+          "first_name": "AJ",
+          "last_name": "Barner",
+          "team": "SEA",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759890958174
+          "news_updated": 1759848047703
         },
         {
           "player_id": "12481",
@@ -2185,30 +2185,17 @@
           "news_updated": 1759888858146
         },
         {
-          "player_id": "17",
-          "full_name": "Matt Prater",
-          "first_name": "Matt",
-          "last_name": "Prater",
-          "team": "BUF",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849840
-        },
-        {
-          "player_id": "6039",
-          "full_name": "Ty Johnson",
-          "first_name": "Ty",
-          "last_name": "Johnson",
-          "team": "BUF",
+          "player_id": "4988",
+          "full_name": "Nick Chubb",
+          "first_name": "Nick",
+          "last_name": "Chubb",
+          "team": "HOU",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849444
+          "news_updated": 1759770661065
         },
         {
           "player_id": "96",

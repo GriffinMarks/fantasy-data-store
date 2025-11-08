@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-08T08:29:06Z",
+  "generated_at": "2025-11-08T09:22:27Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3750,
   "players": [
     {
       "player_id": "PIT",
@@ -736,6 +736,13 @@
       "player_id": "1264",
       "full_name": "Justin Tucker",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "3451",
+      "full_name": "Ka'imi Fairbairn",
+      "team": "HOU",
       "position": "K",
       "status": "Active"
     },
@@ -6032,13 +6039,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11199",
-      "full_name": "Emari Demercado",
-      "team": "ARI",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "1316",
       "full_name": "Emil Igwenagu",
       "team": null,
@@ -9579,6 +9579,13 @@
       "team": "MIN",
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "6039",
+      "full_name": "Ty Johnson",
+      "team": "BUF",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "2399",
