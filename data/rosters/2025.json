@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-08T19:17:45Z",
+  "generated_at": "2025-11-08T20:23:23Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2319,17 +2319,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown",
+          "first_name": "Amon-Ra",
+          "last_name": "St. Brown",
+          "team": "DET",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Wrist",
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759953344560
         },
         {
           "player_id": "8259",
@@ -2423,19 +2423,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759886458061
-        },
-        {
-          "player_id": "7547",
-          "full_name": "Amon-Ra St. Brown",
-          "first_name": "Amon-Ra",
-          "last_name": "St. Brown",
-          "team": "DET",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Wrist",
-          "injury_start_date": null,
-          "news_updated": 1759953344560
         },
         {
           "player_id": "8122",
@@ -3000,17 +2987,17 @@
           "news_updated": 1759848647940
         },
         {
-          "player_id": "7526",
-          "full_name": "Jaylen Waddle",
-          "first_name": "Jaylen",
-          "last_name": "Waddle",
-          "team": "MIA",
+          "player_id": "5872",
+          "full_name": "Deebo Samuel",
+          "first_name": "Deebo",
+          "last_name": "Samuel",
+          "team": "WAS",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759745760623
+          "news_updated": 1759721458513
         },
         {
           "player_id": "5189",
@@ -3067,17 +3054,17 @@
           "news_updated": 1759847749521
         },
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel",
-          "first_name": "Deebo",
-          "last_name": "Samuel",
-          "team": "WAS",
+          "player_id": "7526",
+          "full_name": "Jaylen Waddle",
+          "first_name": "Jaylen",
+          "last_name": "Waddle",
+          "team": "MIA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759721458513
+          "news_updated": 1759745760623
         },
         {
           "player_id": "8151",
