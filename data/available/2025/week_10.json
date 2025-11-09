@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-09T16:26:44Z",
+  "generated_at": "2025-11-09T17:18:47Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -9861,6 +9861,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "11603",
+      "full_name": "AJ Barner",
+      "team": "SEA",
+      "position": "TE",
+      "status": "Active"
+    },
+    {
       "player_id": "516",
       "full_name": "Aaron Hernandez",
       "team": null,
@@ -11140,13 +11147,6 @@
       "team": null,
       "position": "TE",
       "status": "Inactive"
-    },
-    {
-      "player_id": "5001",
-      "full_name": "Dalton Schultz",
-      "team": "HOU",
-      "position": "TE",
-      "status": "Active"
     },
     {
       "player_id": "11262",
