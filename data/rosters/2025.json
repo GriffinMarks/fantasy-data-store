@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-09T17:18:46Z",
+  "generated_at": "2025-11-09T18:30:27Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1601,17 +1601,17 @@
           "news_updated": 1759719356679
         },
         {
-          "player_id": "12534",
-          "full_name": "Kyle Monangai",
-          "first_name": "Kyle",
-          "last_name": "Monangai",
+          "player_id": "6790",
+          "full_name": "D'Andre Swift",
+          "first_name": "D'Andre",
+          "last_name": "Swift",
           "team": "CHI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759161056187
+          "news_updated": 1759153555480
         },
         {
           "player_id": "4866",
@@ -1707,6 +1707,19 @@
       ],
       "bench": [
         {
+          "player_id": "12534",
+          "full_name": "Kyle Monangai",
+          "first_name": "Kyle",
+          "last_name": "Monangai",
+          "team": "CHI",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759161056187
+        },
+        {
           "player_id": "19",
           "full_name": "Joe Flacco",
           "first_name": "Joe",
@@ -1757,19 +1770,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759735859473
-        },
-        {
-          "player_id": "6790",
-          "full_name": "D'Andre Swift",
-          "first_name": "D'Andre",
-          "last_name": "Swift",
-          "team": "CHI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759153555480
         },
         {
           "player_id": "7607",
