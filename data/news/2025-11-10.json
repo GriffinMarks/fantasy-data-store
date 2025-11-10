@@ -1,7 +1,77 @@
 {
-  "generated_at": "2025-11-10T17:23:00Z",
-  "count": 22,
+  "generated_at": "2025-11-10T18:35:06Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Sources: Daboll out as Giants' HC after latest loss",
+      "link": "https://www.espn.com/nfl/story/_/id/46918387/brian-daboll-giants-coach-bears-loss",
+      "published": "Mon, 10 Nov 2025 13:30:11 EST",
+      "summary": "Giants coach Brian Daboll is out after the team blew another double-digit lead on Sunday in Chicago, sources told ESPN's Adam Schefter on Monday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Burrow back to practice as 21-day window opens",
+      "link": "https://www.espn.com/nfl/story/_/id/46918631/bengals-joe-burrow-returns-practice-21-day-window-opens",
+      "published": "Mon, 10 Nov 2025 13:22:07 EST",
+      "summary": "Bengals quarterback Joe Burrow, who hasn't played since Week 2 after having surgery to repair a turf toe injury on his left foot, is returning to practice Monday in a limited capacity.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Payne suspended 1 game for St. Brown punch",
+      "link": "https://www.espn.com/nfl/story/_/id/46917039/commanders-daron-payne-suspended-punching-amon-ra-st-brown",
+      "published": "Mon, 10 Nov 2025 13:22:07 EST",
+      "summary": "The NFL has suspended Daron Payne for one game after the Commanders defensive lineman punched Lions receiver Amon-Ra St. Brown.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Gronk to fulfill late friend's wish, retire as Patriot",
+      "link": "https://www.espn.com/nfl/story/_/id/46917837/rob-gronkowski-sign-one-day-contract-retire-patriot",
+      "published": "Mon, 10 Nov 2025 13:22:08 EST",
+      "summary": "Rob Gronkowski plans to sign a ceremonial one-day contract with the New England Patriots on Wednesday so he can \"retire as a Patriot for life.\"",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Campbell takes over playcalling; Lions score 44",
+      "link": "https://www.espn.com/nfl/story/_/id/46912993/lions-offense-rolls-dan-campbell-takes-play-calling",
+      "published": "Mon, 10 Nov 2025 13:22:07 EST",
+      "summary": "Lions coach Dan Campbell took over playcalling duties from first-year offensive coordinator John Morton this past week, and it ignited a dominant 44-22 victory over the Washington Commanders on Sunday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Source: Powers-Johnson (ankle) to go on IR",
+      "link": "https://www.espn.com/nfl/story/_/id/46918517/raiders-jackson-powers-johnson-ankle-headed-ir",
+      "published": "Mon, 10 Nov 2025 13:22:08 EST",
+      "summary": "Raiders starting right guard Jackson Powers-Johnson, who hurt his ankle Thursday night vs. Denver, is expected to go on injured reserve and possibly miss the rest of the season, a source told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Allen draws up play to set Chargers' catch mark",
+      "link": "https://www.espn.com/nfl/story/_/id/46913588/keenan-allen-sets-chargers-all-receptions-mark",
+      "published": "Mon, 10 Nov 2025 13:22:08 EST",
+      "summary": "Chargers wide receiver Keenan Allen became the franchise's all-time leader in receptions with 956 catches, passing Hall of Fame tight end Antonio Gates.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Rodgers offers blunt self-assessment after SNF dud",
+      "link": "https://www.espn.com/nfl/story/_/id/46914310/aaron-rodgers-struggles-steelers-loss-chargers-says-got-play-better",
+      "published": "Mon, 10 Nov 2025 13:22:07 EST",
+      "summary": "\"This was not my best performance,\" QB Aaron Rodgers said after the worst game of his Steelers career, which came in a 25-10 loss to the Chargers on \"Sunday Night Football.\"",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Lawrence wows with near-identical defensive TDs",
+      "link": "https://www.espn.com/nfl/story/_/id/46913311/seahawks-lawrence-4th-ever-2-fumble-return-tds-game",
+      "published": "Mon, 10 Nov 2025 13:22:08 EST",
+      "summary": "DeMarcus Lawrence became the fourth player in NFL history with multiple fumble return touchdowns in the same game, doing so on near-identical plays Sunday against the Cardinals.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83c\udfba Jets take NFL Week 10 troll to another level",
+      "link": "https://www.espn.com/nfl/story/_/id/46906231/nfl-week-10-trolls",
+      "published": "Mon, 10 Nov 2025 13:22:08 EST",
+      "summary": "Week 10 of the NFL season brought its fair share of trolls once again, led by the New York Jets.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Let's overreact to NFL Week 10: Taylor could break multiple records? Commanders' season is over?",
       "link": "https://www.espn.com/nfl/story/_/id/46906383/nfl-week-10-overreactions-fantasy-colts-bills-broncos-rams-seahawks-commanders",
@@ -17,72 +87,9 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Payne suspended 1 game for St. Brown punch",
-      "link": "https://www.espn.com/nfl/story/_/id/46917039/commanders-daron-payne-suspended-punching-amon-ra-st-brown",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "The NFL has suspended Daron Payne for one game after the Commanders defensive lineman punched Lions receiver Amon-Ra St. Brown.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Gronk to fulfill late friend's wish, retire as Patriot",
-      "link": "https://www.espn.com/nfl/story/_/id/46917837/rob-gronkowski-sign-one-day-contract-retire-patriot",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Rob Gronkowski plans to sign a ceremonial one-day contract with the New England Patriots on Wednesday so he can \"retire as a Patriot for life.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Campbell takes over playcalling; Lions score 44",
-      "link": "https://www.espn.com/nfl/story/_/id/46912993/lions-offense-rolls-dan-campbell-takes-play-calling",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Lions coach Dan Campbell took over playcalling duties from first-year offensive coordinator John Morton this past week, and it ignited a dominant 44-22 victory over the Washington Commanders on Sunday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Allen draws up play to set Chargers' catch mark",
-      "link": "https://www.espn.com/nfl/story/_/id/46913588/keenan-allen-sets-chargers-all-receptions-mark",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Chargers wide receiver Keenan Allen became the franchise's all-time leader in receptions with 956 catches, passing Hall of Fame tight end Antonio Gates.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Rodgers offers blunt self-assessment after SNF dud",
-      "link": "https://www.espn.com/nfl/story/_/id/46914310/aaron-rodgers-struggles-steelers-loss-chargers-says-got-play-better",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "\"This was not my best performance,\" QB Aaron Rodgers said after the worst game of his Steelers career, which came in a 25-10 loss to the Chargers on \"Sunday Night Football.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Lawrence wows with near-identical defensive TDs",
-      "link": "https://www.espn.com/nfl/story/_/id/46913311/seahawks-lawrence-4th-ever-2-fumble-return-tds-game",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "DeMarcus Lawrence became the fourth player in NFL history with multiple fumble return touchdowns in the same game, doing so on near-identical plays Sunday against the Cardinals.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Giants' Dart suffers concussion in loss to Bears",
-      "link": "https://www.espn.com/nfl/story/_/id/46908188/giants-qb-dart-suffers-concussion-bears",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Giants rookie quarterback Jaxson Dart was ruled out in the fourth quarter against the Bears with a concussion.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Vikings question Ravens' role in false-start woes",
-      "link": "https://www.espn.com/nfl/story/_/id/46910884/at-home-vikings-commit-8-false-start-penalties-vs-ravens",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Vikings players and coaches offered a variety of explanations for how they could commit eight false-start penalties in Sunday's loss to the Ravens.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83c\udfba Jets take NFL Week 10 troll to another level",
-      "link": "https://www.espn.com/nfl/story/_/id/46906231/nfl-week-10-trolls",
-      "published": "Mon, 10 Nov 2025 12:12:32 EST",
-      "summary": "Week 10 of the NFL season brought its fair share of trolls once again, led by the New York Jets.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
       "title": "Barnwell: The AFC is shifting, but the four new challengers to the conference throne are all flawed",
       "link": "https://www.espn.com/nfl/story/_/id/46906402/2025-nfl-week-10-barnwell-afc-top-team-colts-broncos-patriots-chargers",
-      "published": "Mon, 10 Nov 2025 12:00:33 EST",
+      "published": "Mon, 10 Nov 2025 13:17:04 EST",
       "summary": "We thought the Bills, Chiefs and Ravens would dominate the AFC again this season. But four teams have risen from the pack to challenge -- and possibly pass -- them.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -143,9 +150,16 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Early bets for Week 11: Bengals and Dolphins to cover, plus an MVP pick",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46917348/2025-nfl-week-11-games-betting-odds-props-early-pick-predictions-first-bet",
+      "published": "Mon, 10 Nov 2025 13:24:09 EST",
+      "summary": "What lines offered immediate value once odds came out? Here are three early bets and a futures wager to track.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Maye emerges as NFL MVP favorite amid AFC East chaos",
       "link": "https://www.espn.com/espn/betting/story/_/id/46909432/nfl-betting-week-10-afc-east-drake-maye-jets-bills-dolphins",
-      "published": "Mon, 10 Nov 2025 07:09:00 EST",
+      "published": "Mon, 10 Nov 2025 13:24:09 EST",
       "summary": "Division chaos, MVP campaigns and historic comebacks lead the betting recap for Week 10 of the NFL season.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
