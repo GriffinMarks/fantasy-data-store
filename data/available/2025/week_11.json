@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-11T17:22:13Z",
+  "generated_at": "2025-11-11T18:34:31Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3752,
   "players": [
     {
       "player_id": "PIT",
@@ -1030,6 +1030,13 @@
       "player_id": "12791",
       "full_name": "Ryan Coe",
       "team": null,
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "12961",
+      "full_name": "Ryan Fitzgerald",
+      "team": "CAR",
       "position": "K",
       "status": "Active"
     },
@@ -23500,6 +23507,13 @@
       "player_id": "2078",
       "full_name": "Odell Beckham",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "6271",
+      "full_name": "Olamide Zaccheaus",
+      "team": "CHI",
       "position": "WR",
       "status": "Active"
     },
