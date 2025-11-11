@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-11T14:26:19Z",
+  "generated_at": "2025-11-11T15:27:29Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -15,43 +15,43 @@
       "points_against": 1063,
       "starters": [
         {
-          "player_id": "12508",
-          "full_name": "Jaxson Dart",
-          "first_name": "Jaxson",
-          "last_name": "Dart",
-          "team": "NYG",
+          "player_id": "11560",
+          "full_name": "Caleb Williams",
+          "first_name": "Caleb",
+          "last_name": "Williams",
+          "team": "CHI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759943140215
+          "news_updated": 1759153555491
         },
         {
-          "player_id": "6813",
-          "full_name": "Jonathan Taylor",
-          "first_name": "Jonathan",
-          "last_name": "Taylor",
-          "team": "IND",
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell",
+          "first_name": "Kenneth",
+          "last_name": "Gainwell",
+          "team": "PIT",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759736459758
+          "news_updated": 1759850148208
         },
         {
-          "player_id": "6130",
-          "full_name": "Devin Singletary",
-          "first_name": "Devin",
-          "last_name": "Singletary",
-          "team": "NYG",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
+          "team": "HOU",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849282
+          "news_updated": 1759708556770
         },
         {
           "player_id": "7569",
@@ -80,17 +80,17 @@
           "news_updated": 1759905359635
         },
         {
-          "player_id": "12517",
-          "full_name": "Colston Loveland",
-          "first_name": "Colston",
-          "last_name": "Loveland",
-          "team": "CHI",
+          "player_id": "12506",
+          "full_name": "Harold Fannin",
+          "first_name": "Harold",
+          "last_name": "Fannin",
+          "team": "CLE",
           "position": "TE",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hip",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759267253156
+          "news_updated": 1759879557579
         },
         {
           "player_id": "12485",
@@ -134,19 +134,6 @@
       ],
       "bench": [
         {
-          "player_id": "11560",
-          "full_name": "Caleb Williams",
-          "first_name": "Caleb",
-          "last_name": "Williams",
-          "team": "CHI",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759153555491
-        },
-        {
           "player_id": "11584",
           "full_name": "Bucky Irving",
           "first_name": "Bucky",
@@ -173,43 +160,56 @@
           "news_updated": 1759599946577
         },
         {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "team": "HOU",
-          "position": "RB",
+          "player_id": "12508",
+          "full_name": "Jaxson Dart",
+          "first_name": "Jaxson",
+          "last_name": "Dart",
+          "team": "NYG",
+          "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759708556770
+          "news_updated": 1759943140215
         },
         {
-          "player_id": "12506",
-          "full_name": "Harold Fannin",
-          "first_name": "Harold",
-          "last_name": "Fannin",
-          "team": "CLE",
+          "player_id": "12517",
+          "full_name": "Colston Loveland",
+          "first_name": "Colston",
+          "last_name": "Loveland",
+          "team": "CHI",
           "position": "TE",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Hip",
           "injury_start_date": null,
-          "news_updated": 1759879557579
+          "news_updated": 1759267253156
         },
         {
-          "player_id": "7567",
-          "full_name": "Kenneth Gainwell",
-          "first_name": "Kenneth",
-          "last_name": "Gainwell",
-          "team": "PIT",
+          "player_id": "6130",
+          "full_name": "Devin Singletary",
+          "first_name": "Devin",
+          "last_name": "Singletary",
+          "team": "NYG",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759850148208
+          "news_updated": 1759843849282
+        },
+        {
+          "player_id": "6813",
+          "full_name": "Jonathan Taylor",
+          "first_name": "Jonathan",
+          "last_name": "Taylor",
+          "team": "IND",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759736459758
         },
         {
           "player_id": "8142",
