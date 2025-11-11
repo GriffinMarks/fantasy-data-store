@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-11T19:19:43Z",
+  "generated_at": "2025-11-11T20:27:05Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3753,
   "players": [
     {
       "player_id": "PIT",
@@ -25518,6 +25518,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "12530",
+      "full_name": "Travis Hunter",
+      "team": "JAX",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "7454",
