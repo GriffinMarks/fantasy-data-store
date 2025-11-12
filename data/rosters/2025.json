@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T01:56:15Z",
+  "generated_at": "2025-11-12T03:17:12Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1787,30 +1787,30 @@
           "news_updated": 1759728357581
         },
         {
-          "player_id": "8132",
-          "full_name": "Tyler Allgeier",
-          "first_name": "Tyler",
-          "last_name": "Allgeier",
-          "team": "ATL",
+          "player_id": "9224",
+          "full_name": "Chase Brown",
+          "first_name": "Chase",
+          "last_name": "Brown",
+          "team": "CIN",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759103150592
+          "news_updated": 1759730758724
         },
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb",
+          "first_name": "CeeDee",
+          "last_name": "Lamb",
+          "team": "DAL",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759904759647
+          "news_updated": 1759843849166
         },
         {
           "player_id": "9488",
@@ -1826,17 +1826,17 @@
           "news_updated": 1759843849605
         },
         {
-          "player_id": "5844",
-          "full_name": "T.J. Hockenson",
-          "first_name": "T.J.",
-          "last_name": "Hockenson",
-          "team": "MIN",
+          "player_id": "8111",
+          "full_name": "Cade Otton",
+          "first_name": "Cade",
+          "last_name": "Otton",
+          "team": "TB",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759740060361
+          "news_updated": 1759843849714
         },
         {
           "player_id": "1479",
@@ -1893,6 +1893,19 @@
           "news_updated": 1759719057829
         },
         {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759904759647
+        },
+        {
           "player_id": "4137",
           "full_name": "James Conner",
           "first_name": "James",
@@ -1906,30 +1919,17 @@
           "news_updated": 1758659461447
         },
         {
-          "player_id": "6786",
-          "full_name": "CeeDee Lamb",
-          "first_name": "CeeDee",
-          "last_name": "Lamb",
-          "team": "DAL",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
-          "injury_start_date": null,
-          "news_updated": 1759843849166
-        },
-        {
-          "player_id": "8111",
-          "full_name": "Cade Otton",
-          "first_name": "Cade",
-          "last_name": "Otton",
-          "team": "TB",
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "first_name": "T.J.",
+          "last_name": "Hockenson",
+          "team": "MIN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849714
+          "news_updated": 1759740060361
         },
         {
           "player_id": "8121",
@@ -1945,6 +1945,19 @@
           "news_updated": 1759866049397
         },
         {
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
+          "first_name": "Tyler",
+          "last_name": "Allgeier",
+          "team": "ATL",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759103150592
+        },
+        {
           "player_id": "8167",
           "full_name": "Christian Watson",
           "first_name": "Christian",
@@ -1956,19 +1969,6 @@
           "injury_body_part": "Knee - ACL",
           "injury_start_date": null,
           "news_updated": 1759843849484
-        },
-        {
-          "player_id": "9224",
-          "full_name": "Chase Brown",
-          "first_name": "Chase",
-          "last_name": "Brown",
-          "team": "CIN",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759730758724
         }
       ],
       "taxi": [],
