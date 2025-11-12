@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T15:28:15Z",
+  "generated_at": "2025-11-12T16:33:42Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3751,
   "players": [
     {
       "player_id": "PIT",
@@ -50,6 +50,13 @@
       "player_id": "LAC",
       "full_name": null,
       "team": "LAC",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "CLE",
+      "full_name": null,
+      "team": "CLE",
       "position": "DEF",
       "status": null
     },
@@ -878,13 +885,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "650",
-      "full_name": "Nick Folk",
-      "team": "NYJ",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "168",
@@ -10452,13 +10452,6 @@
       "player_id": "221",
       "full_name": "Brent Celek",
       "team": null,
-      "position": "TE",
-      "status": "Inactive"
-    },
-    {
-      "player_id": "9480",
-      "full_name": "Brenton Strange",
-      "team": "JAX",
       "position": "TE",
       "status": "Inactive"
     },
@@ -22984,13 +22977,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "5917",
-      "full_name": "Mecole Hardman",
-      "team": null,
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "3418",
