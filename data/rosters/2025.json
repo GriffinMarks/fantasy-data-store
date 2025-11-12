@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T11:21:51Z",
+  "generated_at": "2025-11-12T12:53:01Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -480,7 +480,6 @@
       ],
       "taxi": [],
       "ir": [
-        "12501",
         "6803"
       ]
     },
@@ -2682,17 +2681,17 @@
           "news_updated": 1759847447787
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "8122",
+          "full_name": "Bam Knight",
+          "first_name": "Bam",
+          "last_name": "Knight",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759780842339
         },
         {
           "player_id": "9487",
@@ -2708,30 +2707,30 @@
           "news_updated": 1759871158182
         },
         {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
+          "player_id": "5045",
+          "full_name": "Courtland Sutton",
+          "first_name": "Courtland",
+          "last_name": "Sutton",
+          "team": "DEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849559
+          "news_updated": 1759790142494
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "5022",
+          "full_name": "Dallas Goedert",
+          "first_name": "Dallas",
+          "last_name": "Goedert",
+          "team": "PHI",
+          "position": "TE",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759713057019
         },
         {
           "player_id": "11610",
@@ -2801,30 +2800,17 @@
           "news_updated": 1759889460417
         },
         {
-          "player_id": "5022",
-          "full_name": "Dallas Goedert",
-          "first_name": "Dallas",
-          "last_name": "Goedert",
-          "team": "PHI",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759713057019
-        },
-        {
-          "player_id": "5045",
-          "full_name": "Courtland Sutton",
-          "first_name": "Courtland",
-          "last_name": "Sutton",
-          "team": "DEN",
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759790142494
+          "news_updated": 1759843849559
         },
         {
           "player_id": "7594",
@@ -2838,19 +2824,6 @@
           "injury_body_part": "Calf",
           "injury_start_date": null,
           "news_updated": 1759952743342
-        },
-        {
-          "player_id": "8122",
-          "full_name": "Bam Knight",
-          "first_name": "Bam",
-          "last_name": "Knight",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759780842339
         },
         {
           "player_id": "8676",
@@ -2877,19 +2850,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759284355487
-        },
-        {
-          "player_id": "KC",
-          "full_name": null,
-          "first_name": "Kansas City",
-          "last_name": "Chiefs",
-          "team": "KC",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],

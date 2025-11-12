@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T11:21:51Z",
+  "generated_at": "2025-11-12T12:53:02Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3753,
   "players": [
     {
       "player_id": "PIT",
@@ -106,6 +106,13 @@
       "player_id": "CIN",
       "full_name": null,
       "team": "CIN",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "KC",
+      "full_name": null,
+      "team": "KC",
       "position": "DEF",
       "status": null
     },
