@@ -1,9 +1,34 @@
 {
   "season": 2025,
   "week": 11,
-  "generated_at": "2025-11-12T17:24:47Z",
+  "generated_at": "2025-11-12T18:33:33Z",
   "league_id": "1262790170931892224",
   "moves": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1762971375958,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "1151413424695001088",
+      "transaction_id": "1294399403854954496",
+      "adds": {
+        "CHI": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "drops": {
+        "TB": 4
+      },
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1762971375958,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -17,12 +42,12 @@
       "adds": {
         "LAC": 14
       },
-      "drops": {
-        "CAR": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "CAR": 14
+      },
       "roster_ids": [
         14
       ],
@@ -40,12 +65,12 @@
       "creator": "1121957026898329600",
       "transaction_id": "1294381961816592384",
       "adds": null,
-      "drops": {
-        "9225": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "9225": 14
+      },
       "roster_ids": [
         14
       ],
@@ -65,12 +90,12 @@
       "adds": {
         "5917": 10
       },
-      "drops": {
-        "CLE": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "CLE": 10
+      },
       "roster_ids": [
         10
       ],
@@ -90,10 +115,10 @@
       "adds": {
         "650": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -113,10 +138,10 @@
       "adds": {
         "9480": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -134,12 +159,12 @@
       "creator": "467584951626231808",
       "transaction_id": "1294304072165265408",
       "adds": null,
-      "drops": {
-        "KC": 13
-      },
       "consenter_ids": [
         13
       ],
+      "drops": {
+        "KC": 13
+      },
       "roster_ids": [
         13
       ],

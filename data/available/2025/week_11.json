@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T17:23:58Z",
+  "generated_at": "2025-11-12T18:33:26Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -43,6 +43,13 @@
       "player_id": "WAS",
       "full_name": null,
       "team": "WAS",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "TB",
+      "full_name": null,
+      "team": "TB",
       "position": "DEF",
       "status": null
     },
@@ -99,13 +106,6 @@
       "player_id": "TEN",
       "full_name": null,
       "team": "TEN",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "CHI",
-      "full_name": null,
-      "team": "CHI",
       "position": "DEF",
       "status": null
     },
