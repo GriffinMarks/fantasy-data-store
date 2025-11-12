@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T07:24:25Z",
+  "generated_at": "2025-11-12T08:33:42Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -333,17 +333,17 @@
           "news_updated": 1759849547926
         },
         {
-          "player_id": "10955",
-          "full_name": "Chad Ryland",
-          "first_name": "Chad",
-          "last_name": "Ryland",
-          "team": "ARI",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860331
+          "news_updated": null
         },
         {
           "player_id": "BUF",
@@ -411,6 +411,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759866649603
+        },
+        {
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "first_name": "Jacoby",
+          "last_name": "Brissett",
+          "team": "ARI",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1755441621254
+        },
+        {
+          "player_id": "3451",
+          "full_name": "Ka'imi Fairbairn",
+          "first_name": "Ka'imi",
+          "last_name": "Fairbairn",
+          "team": "HOU",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759712157387
         },
         {
           "player_id": "4035",
@@ -1865,11 +1891,11 @@
           "news_updated": 1759843849687
         },
         {
-          "player_id": "IND",
+          "player_id": "ATL",
           "full_name": null,
-          "first_name": "Indianapolis",
-          "last_name": "Colts",
-          "team": "IND",
+          "first_name": "Atlanta",
+          "last_name": "Falcons",
+          "team": "ATL",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -1879,19 +1905,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "12711",
-          "full_name": "Tyler Loop",
-          "first_name": "Tyler",
-          "last_name": "Loop",
-          "team": "BAL",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759719057829
-        },
         {
           "player_id": "2449",
           "full_name": "Stefon Diggs",
@@ -1969,6 +1982,19 @@
           "injury_body_part": "Knee - ACL",
           "injury_start_date": null,
           "news_updated": 1759843849484
+        },
+        {
+          "player_id": "IND",
+          "full_name": null,
+          "first_name": "Indianapolis",
+          "last_name": "Colts",
+          "team": "IND",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -2373,17 +2399,17 @@
           "news_updated": 1759718457565
         },
         {
-          "player_id": "7090",
-          "full_name": "Darnell Mooney",
-          "first_name": "Darnell",
-          "last_name": "Mooney",
-          "team": "ATL",
+          "player_id": "6783",
+          "full_name": "Jerry Jeudy",
+          "first_name": "Jerry",
+          "last_name": "Jeudy",
+          "team": "CLE",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hamstring",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759154753922
+          "news_updated": 1759880157721
         },
         {
           "player_id": "9753",
