@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T06:37:07Z",
+  "generated_at": "2025-11-12T07:24:25Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -697,17 +697,17 @@
           "news_updated": 1759843849827
         },
         {
-          "player_id": "11655",
-          "full_name": "Tyrone Tracy",
-          "first_name": "Tyrone",
-          "last_name": "Tracy",
-          "team": "NYG",
+          "player_id": "5850",
+          "full_name": "Josh Jacobs",
+          "first_name": "Josh",
+          "last_name": "Jacobs",
+          "team": "GB",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759944040385
+          "news_updated": 1759930502403
         },
         {
           "player_id": "12529",
@@ -749,17 +749,17 @@
           "news_updated": 1759153855449
         },
         {
-          "player_id": "9481",
-          "full_name": "Luke Musgrave",
-          "first_name": "Luke",
-          "last_name": "Musgrave",
-          "team": "GB",
+          "player_id": "4066",
+          "full_name": "Evan Engram",
+          "first_name": "Evan",
+          "last_name": "Engram",
+          "team": "DEN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759284355487
+          "news_updated": 1759935303295
         },
         {
           "player_id": "11627",
@@ -829,6 +829,19 @@
           "news_updated": 1759769461592
         },
         {
+          "player_id": "11655",
+          "full_name": "Tyrone Tracy",
+          "first_name": "Tyrone",
+          "last_name": "Tracy",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759944040385
+        },
+        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -879,19 +892,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759850448658
-        },
-        {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "first_name": "Rhamondre",
-          "last_name": "Stevenson",
-          "team": "NE",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759933202508
         }
       ],
       "taxi": [],
@@ -2202,17 +2202,17 @@
       "points_against": 1119,
       "starters": [
         {
-          "player_id": "3163",
-          "full_name": "Jared Goff",
-          "first_name": "Jared",
-          "last_name": "Goff",
-          "team": "DET",
+          "player_id": "3294",
+          "full_name": "Dak Prescott",
+          "first_name": "Dak",
+          "last_name": "Prescott",
+          "team": "DAL",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759718457565
+          "news_updated": 1759886458061
         },
         {
           "player_id": "4034",
@@ -2228,30 +2228,30 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "9753",
-          "full_name": "Zach Charbonnet",
-          "first_name": "Zach",
-          "last_name": "Charbonnet",
-          "team": "SEA",
+          "player_id": "11589",
+          "full_name": "Trey Benson",
+          "first_name": "Trey",
+          "last_name": "Benson",
+          "team": "ARI",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Knee",
           "injury_start_date": null,
-          "news_updated": 1759843849573
+          "news_updated": 1759341902592
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown",
+          "first_name": "Amon-Ra",
+          "last_name": "St. Brown",
+          "team": "DET",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Wrist",
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759953344560
         },
         {
           "player_id": "7525",
@@ -2280,17 +2280,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "7547",
-          "full_name": "Amon-Ra St. Brown",
-          "first_name": "Amon-Ra",
-          "last_name": "St. Brown",
-          "team": "DET",
+          "player_id": "11628",
+          "full_name": "Marvin Harrison",
+          "first_name": "Marvin",
+          "last_name": "Harrison",
+          "team": "ARI",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Wrist",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759953344560
+          "news_updated": 1759870256947
         },
         {
           "player_id": "8259",
@@ -2347,19 +2347,6 @@
           "news_updated": 1759767361308
         },
         {
-          "player_id": "11628",
-          "full_name": "Marvin Harrison",
-          "first_name": "Marvin",
-          "last_name": "Harrison",
-          "team": "ARI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759870256947
-        },
-        {
           "player_id": "12507",
           "full_name": "Omarion Hampton",
           "first_name": "Omarion",
@@ -2373,17 +2360,17 @@
           "news_updated": 1759950941052
         },
         {
-          "player_id": "3294",
-          "full_name": "Dak Prescott",
-          "first_name": "Dak",
-          "last_name": "Prescott",
-          "team": "DAL",
+          "player_id": "3163",
+          "full_name": "Jared Goff",
+          "first_name": "Jared",
+          "last_name": "Goff",
+          "team": "DET",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759886458061
+          "news_updated": 1759718457565
         },
         {
           "player_id": "7090",
@@ -2399,30 +2386,17 @@
           "news_updated": 1759154753922
         },
         {
-          "player_id": "8122",
-          "full_name": "Bam Knight",
-          "first_name": "Bam",
-          "last_name": "Knight",
-          "team": "ARI",
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "team": "SEA",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759780842339
-        },
-        {
-          "player_id": "9504",
-          "full_name": "Kayshon Boutte",
-          "first_name": "Kayshon",
-          "last_name": "Boutte",
-          "team": "NE",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849350
+          "news_updated": 1759843849573
         }
       ],
       "taxi": [],
@@ -2682,17 +2656,17 @@
           "news_updated": 1759847447787
         },
         {
-          "player_id": "5850",
-          "full_name": "Josh Jacobs",
-          "first_name": "Josh",
-          "last_name": "Jacobs",
-          "team": "GB",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759930502403
+          "news_updated": null
         },
         {
           "player_id": "9487",
@@ -2721,17 +2695,17 @@
           "news_updated": 1759843849559
         },
         {
-          "player_id": "4066",
-          "full_name": "Evan Engram",
-          "first_name": "Evan",
-          "last_name": "Engram",
-          "team": "DEN",
-          "position": "TE",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759935303295
+          "news_updated": null
         },
         {
           "player_id": "11610",
@@ -2774,19 +2748,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11589",
-          "full_name": "Trey Benson",
-          "first_name": "Trey",
-          "last_name": "Benson",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Knee",
-          "injury_start_date": null,
-          "news_updated": 1759341902592
-        },
         {
           "player_id": "11624",
           "full_name": "Xavier Worthy",
@@ -2853,6 +2814,45 @@
           "news_updated": 1759952743342
         },
         {
+          "player_id": "8122",
+          "full_name": "Bam Knight",
+          "first_name": "Bam",
+          "last_name": "Knight",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759780842339
+        },
+        {
+          "player_id": "8676",
+          "full_name": "Rashid Shaheed",
+          "first_name": "Rashid",
+          "last_name": "Shaheed",
+          "team": "NO",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759719058625
+        },
+        {
+          "player_id": "9481",
+          "full_name": "Luke Musgrave",
+          "first_name": "Luke",
+          "last_name": "Musgrave",
+          "team": "GB",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759284355487
+        },
+        {
           "player_id": "KC",
           "full_name": null,
           "first_name": "Kansas City",
@@ -2867,9 +2867,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "11589"
-      ]
+      "ir": []
     },
     {
       "roster_id": 14,
@@ -3041,6 +3039,19 @@
           "news_updated": 1759745760623
         },
         {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "first_name": "Rhamondre",
+          "last_name": "Stevenson",
+          "team": "NE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759933202508
+        },
+        {
           "player_id": "8151",
           "full_name": "Kenneth Walker",
           "first_name": "Kenneth",
@@ -3054,19 +3065,6 @@
           "news_updated": 1759843849589
         },
         {
-          "player_id": "8676",
-          "full_name": "Rashid Shaheed",
-          "first_name": "Rashid",
-          "last_name": "Shaheed",
-          "team": "NO",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759719058625
-        },
-        {
           "player_id": "9225",
           "full_name": "Tank Bigsby",
           "first_name": "Tank",
@@ -3078,6 +3076,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870257999
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte",
+          "first_name": "Kayshon",
+          "last_name": "Boutte",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849350
         }
       ],
       "taxi": [],
