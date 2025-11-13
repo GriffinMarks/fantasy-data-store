@@ -34,7 +34,13 @@ def main():
         values.append({"player_id":p["player_id"],"name":p["name"],"pos":pos,"ppg":ppg,"value":round(score,1)})
 
     # rank within position & overall
-    values.sort(key=lambda x: (-x["value"], x["pos"], x["name"]))
+    values.sort(
+    key=lambda x: (
+        -x["value"],
+        (x.get("pos") or ""),
+        (x.get("name") or ""),
+    )
+)
     for i,v in enumerate(values,1): v["overall_rank"]=i
 
     # by position
