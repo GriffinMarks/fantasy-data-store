@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T20:27:44Z",
+  "generated_at": "2025-11-14T01:56:44Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -242,17 +242,17 @@
       "points_against": 899,
       "starters": [
         {
-          "player_id": "5870",
-          "full_name": "Daniel Jones",
-          "first_name": "Daniel",
-          "last_name": "Jones",
-          "team": "IND",
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "first_name": "Jacoby",
+          "last_name": "Brissett",
+          "team": "ARI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759880457748
+          "news_updated": 1755441621254
         },
         {
           "player_id": "9509",
@@ -413,19 +413,6 @@
           "news_updated": 1759866649603
         },
         {
-          "player_id": "3257",
-          "full_name": "Jacoby Brissett",
-          "first_name": "Jacoby",
-          "last_name": "Brissett",
-          "team": "ARI",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1755441621254
-        },
-        {
           "player_id": "3451",
           "full_name": "Ka'imi Fairbairn",
           "first_name": "Ka'imi",
@@ -450,6 +437,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878658190
+        },
+        {
+          "player_id": "5870",
+          "full_name": "Daniel Jones",
+          "first_name": "Daniel",
+          "last_name": "Jones",
+          "team": "IND",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759880457748
         },
         {
           "player_id": "6803",
@@ -480,6 +480,7 @@
       ],
       "taxi": [],
       "ir": [
+        "3451",
         "6803"
       ]
     },
@@ -735,17 +736,17 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "first_name": "TreVeyon",
-          "last_name": "Henderson",
-          "team": "NE",
+          "player_id": "11655",
+          "full_name": "Tyrone Tracy",
+          "first_name": "Tyrone",
+          "last_name": "Tracy",
+          "team": "NYG",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759904459748
+          "news_updated": 1759944040385
         },
         {
           "player_id": "8112",
@@ -761,17 +762,17 @@
           "news_updated": 1759103150560
         },
         {
-          "player_id": "11620",
-          "full_name": "Rome Odunze",
-          "first_name": "Rome",
-          "last_name": "Odunze",
-          "team": "CHI",
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "first_name": "Rashee",
+          "last_name": "Rice",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Sus",
+          "injury_body_part": "Suspension",
           "injury_start_date": null,
-          "news_updated": 1759153855449
+          "news_updated": 1759593346002
         },
         {
           "player_id": "4066",
@@ -813,12 +814,12 @@
           "news_updated": 1759715457484
         },
         {
-          "player_id": "0",
+          "player_id": "CHI",
           "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
+          "first_name": "Chicago",
+          "last_name": "Bears",
+          "team": "CHI",
+          "position": "DEF",
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -827,6 +828,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10232",
+          "full_name": "Michael Wilson",
+          "first_name": "Michael",
+          "last_name": "Wilson",
+          "team": "ARI",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759904461734
+        },
         {
           "player_id": "11625",
           "full_name": "Adonai Mitchell",
@@ -839,19 +853,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759769461592
-        },
-        {
-          "player_id": "11655",
-          "full_name": "Tyrone Tracy",
-          "first_name": "Tyrone",
-          "last_name": "Tracy",
-          "team": "NYG",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759944040385
         },
         {
           "player_id": "11792",
@@ -893,6 +894,19 @@
           "news_updated": 1759848948010
         },
         {
+          "player_id": "4988",
+          "full_name": "Nick Chubb",
+          "first_name": "Nick",
+          "last_name": "Chubb",
+          "team": "HOU",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759770661065
+        },
+        {
           "player_id": "7002",
           "full_name": "Juwan Johnson",
           "first_name": "Juwan",
@@ -904,32 +918,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759878658205
-        },
-        {
-          "player_id": "7571",
-          "full_name": "Rashod Bateman",
-          "first_name": "Rashod",
-          "last_name": "Bateman",
-          "team": "BAL",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759850448658
-        },
-        {
-          "player_id": "CHI",
-          "full_name": null,
-          "first_name": "Chicago",
-          "last_name": "Bears",
-          "team": "CHI",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": null
         }
       ],
       "taxi": [],
@@ -1120,6 +1108,19 @@
           "news_updated": 1759847749759
         },
         {
+          "player_id": "4177",
+          "full_name": "Mack Hollins",
+          "first_name": "Mack",
+          "last_name": "Hollins",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759762860959
+        },
+        {
           "player_id": "8125",
           "full_name": "Calvin Austin",
           "first_name": "Calvin",
@@ -1147,7 +1148,9 @@
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "8146"
+      ]
     },
     {
       "roster_id": 6,
@@ -1464,17 +1467,17 @@
           "news_updated": 1759888558257
         },
         {
-          "player_id": "12484",
-          "full_name": "Jayden Higgins",
-          "first_name": "Jayden",
-          "last_name": "Higgins",
-          "team": "HOU",
-          "position": "WR",
+          "player_id": "12489",
+          "full_name": "RJ Harvey",
+          "first_name": "RJ",
+          "last_name": "Harvey",
+          "team": "DEN",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759752660039
+          "news_updated": 1759716657368
         },
         {
           "player_id": "4227",
@@ -1505,17 +1508,17 @@
       ],
       "bench": [
         {
-          "player_id": "12489",
-          "full_name": "RJ Harvey",
-          "first_name": "RJ",
-          "last_name": "Harvey",
-          "team": "DEN",
-          "position": "RB",
+          "player_id": "12484",
+          "full_name": "Jayden Higgins",
+          "first_name": "Jayden",
+          "last_name": "Higgins",
+          "team": "HOU",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759716657368
+          "news_updated": 1759752660039
         },
         {
           "player_id": "6804",
@@ -1571,9 +1574,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "8205"
-      ]
+      "ir": []
     },
     {
       "roster_id": 8,
@@ -1639,30 +1640,30 @@
           "news_updated": 1759843849994
         },
         {
-          "player_id": "8144",
-          "full_name": "Chris Olave",
-          "first_name": "Chris",
-          "last_name": "Olave",
-          "team": "NO",
+          "player_id": "5859",
+          "full_name": "A.J. Brown",
+          "first_name": "A.J.",
+          "last_name": "Brown",
+          "team": "PHI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759720258301
+          "news_updated": 1759706156589
         },
         {
-          "player_id": "10859",
-          "full_name": "Sam LaPorta",
-          "first_name": "Sam",
-          "last_name": "LaPorta",
-          "team": "DET",
+          "player_id": "3214",
+          "full_name": "Hunter Henry",
+          "first_name": "Hunter",
+          "last_name": "Henry",
+          "team": "NE",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759726257256
+          "news_updated": 1759843849674
         },
         {
           "player_id": "9756",
@@ -1706,6 +1707,19 @@
       ],
       "bench": [
         {
+          "player_id": "10859",
+          "full_name": "Sam LaPorta",
+          "first_name": "Sam",
+          "last_name": "LaPorta",
+          "team": "DET",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759726257256
+        },
+        {
           "player_id": "12534",
           "full_name": "Kyle Monangai",
           "first_name": "Kyle",
@@ -1732,32 +1746,6 @@
           "news_updated": 1759945240522
         },
         {
-          "player_id": "3214",
-          "full_name": "Hunter Henry",
-          "first_name": "Hunter",
-          "last_name": "Henry",
-          "team": "NE",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849674
-        },
-        {
-          "player_id": "5859",
-          "full_name": "A.J. Brown",
-          "first_name": "A.J.",
-          "last_name": "Brown",
-          "team": "PHI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759706156589
-        },
-        {
           "player_id": "5947",
           "full_name": "Jakobi Meyers",
           "first_name": "Jakobi",
@@ -1782,6 +1770,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759873857105
+        },
+        {
+          "player_id": "8144",
+          "full_name": "Chris Olave",
+          "first_name": "Chris",
+          "last_name": "Olave",
+          "team": "NO",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759720258301
         }
       ],
       "taxi": [],
@@ -1877,17 +1878,17 @@
           "news_updated": 1759843849714
         },
         {
-          "player_id": "1479",
-          "full_name": "Keenan Allen",
-          "first_name": "Keenan",
-          "last_name": "Allen",
-          "team": "LAC",
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849968
+          "news_updated": 1759904759647
         },
         {
           "player_id": "6650",
@@ -1918,17 +1919,17 @@
       ],
       "bench": [
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
+          "player_id": "1479",
+          "full_name": "Keenan Allen",
+          "first_name": "Keenan",
+          "last_name": "Allen",
+          "team": "LAC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759904759647
+          "news_updated": 1759843849968
         },
         {
           "player_id": "4137",
@@ -2039,17 +2040,17 @@
           "news_updated": 1759843849659
         },
         {
-          "player_id": "4988",
-          "full_name": "Nick Chubb",
-          "first_name": "Nick",
-          "last_name": "Chubb",
-          "team": "HOU",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
+          "first_name": "TreVeyon",
+          "last_name": "Henderson",
+          "team": "NE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759770661065
+          "news_updated": 1759904459748
         },
         {
           "player_id": "11199",
@@ -2065,17 +2066,17 @@
           "news_updated": 1759738260289
         },
         {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "first_name": "Rashee",
-          "last_name": "Rice",
-          "team": "KC",
+          "player_id": "11620",
+          "full_name": "Rome Odunze",
+          "first_name": "Rome",
+          "last_name": "Odunze",
+          "team": "CHI",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Sus",
-          "injury_body_part": "Suspension",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759593346002
+          "news_updated": 1759153855449
         },
         {
           "player_id": "9997",
@@ -2117,17 +2118,17 @@
           "news_updated": 1759954242925
         },
         {
-          "player_id": "17",
-          "full_name": "Matt Prater",
-          "first_name": "Matt",
-          "last_name": "Prater",
-          "team": "BUF",
+          "player_id": "650",
+          "full_name": "Nick Folk",
+          "first_name": "Nick",
+          "last_name": "Folk",
+          "team": "NYJ",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849840
+          "news_updated": 1759719057828
         },
         {
           "player_id": "PHI",
@@ -2145,19 +2146,6 @@
       ],
       "bench": [
         {
-          "player_id": "11597",
-          "full_name": "Theo Johnson",
-          "first_name": "Theo",
-          "last_name": "Johnson",
-          "team": "NYG",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759890958174
-        },
-        {
           "player_id": "12481",
           "full_name": "Cam Skattebo",
           "first_name": "Cam",
@@ -2169,6 +2157,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759888858146
+        },
+        {
+          "player_id": "17",
+          "full_name": "Matt Prater",
+          "first_name": "Matt",
+          "last_name": "Prater",
+          "team": "BUF",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849840
         },
         {
           "player_id": "4033",
@@ -2184,6 +2185,19 @@
           "news_updated": 1759741860293
         },
         {
+          "player_id": "5906",
+          "full_name": "Dawson Knox",
+          "first_name": "Dawson",
+          "last_name": "Knox",
+          "team": "BUF",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849431
+        },
+        {
           "player_id": "5917",
           "full_name": "Mecole Hardman",
           "first_name": "Mecole",
@@ -2195,19 +2209,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1758664201976
-        },
-        {
-          "player_id": "650",
-          "full_name": "Nick Folk",
-          "first_name": "Nick",
-          "last_name": "Folk",
-          "team": "NYJ",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759719057828
         },
         {
           "player_id": "8408",

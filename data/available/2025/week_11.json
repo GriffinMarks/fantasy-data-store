@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-12T20:27:45Z",
+  "generated_at": "2025-11-14T01:56:45Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3751,
   "players": [
     {
       "player_id": "PIT",
@@ -11324,13 +11324,6 @@
       "status": "Active"
     },
     {
-      "player_id": "5906",
-      "full_name": "Dawson Knox",
-      "team": "BUF",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "6016",
       "full_name": "Dax Raymond",
       "team": "PIT",
@@ -14673,6 +14666,13 @@
       "player_id": "6919",
       "full_name": "Thaddeus Moss",
       "team": null,
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "11597",
+      "full_name": "Theo Johnson",
+      "team": "NYG",
       "position": "TE",
       "status": "Active"
     },
@@ -22454,13 +22454,6 @@
       "status": "Active"
     },
     {
-      "player_id": "4177",
-      "full_name": "Mack Hollins",
-      "team": "NE",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
       "player_id": "8209",
       "full_name": "Makai Polk",
       "team": null,
@@ -23101,13 +23094,6 @@
       "player_id": "6363",
       "full_name": "Michael Walker",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "10232",
-      "full_name": "Michael Wilson",
-      "team": "ARI",
       "position": "WR",
       "status": "Active"
     },
@@ -24039,6 +24025,13 @@
       "player_id": "2753",
       "full_name": "Rasheed Bailey",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "7571",
+      "full_name": "Rashod Bateman",
+      "team": "BAL",
       "position": "WR",
       "status": "Active"
     },
