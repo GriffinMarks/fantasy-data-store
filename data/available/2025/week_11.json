@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-14T14:24:40Z",
+  "generated_at": "2025-11-14T15:22:54Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -1219,13 +1219,6 @@
       "player_id": "5251",
       "full_name": "Tyler Davis",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "12711",
-      "full_name": "Tyler Loop",
-      "team": "BAL",
       "position": "K",
       "status": "Active"
     },
@@ -7981,6 +7974,13 @@
       "player_id": "13125",
       "full_name": "Micah Bernard",
       "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "7607",
+      "full_name": "Michael Carter",
+      "team": "ARI",
       "position": "RB",
       "status": "Active"
     },
