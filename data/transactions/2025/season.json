@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-15T01:52:51Z",
+  "generated_at": "2025-11-15T03:11:25Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -8883,6 +8883,58 @@
         1
       ],
       "status_updated": 1762346440983,
+      "waiver_budget": []
+    },
+    {
+      "week": 11,
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1763172303655,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "604792816572366848",
+      "transaction_id": "1295242155693973504",
+      "adds": {
+        "KC": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "BUF": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1763172303655,
+      "waiver_budget": []
+    },
+    {
+      "week": 11,
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1763172218174,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "604792816572366848",
+      "transaction_id": "1295241797160665088",
+      "adds": {
+        "7922": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "12501": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1763172218174,
       "waiver_budget": []
     },
     {
