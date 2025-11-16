@@ -1,102 +1,109 @@
 {
-  "generated_at": "2025-11-16T21:20:38Z",
-  "count": 20,
+  "generated_at": "2025-11-16T22:22:02Z",
+  "count": 17,
   "articles": [
+    {
+      "title": "Rodgers injures hand, sits out 2nd half of victory",
+      "link": "https://www.espn.com/nfl/story/_/id/46990577/steelers-rodgers-injures-hand-sits-2nd-half-victory",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
+      "summary": "Steelers quarterback Aaron Rodgers did not return to Sunday's 34-12 victory over the Bengals after sustaining an injury to his left, non-throwing hand late in the second quarter.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Ramsey ejected for punch, says Chase spit on him",
+      "link": "https://www.espn.com/nfl/story/_/id/46990117/steelers-ramsey-ejected-throwing-punch-bengals-chase",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
+      "summary": "Steelers defensive back Jalen Ramsey was ejected for throwing a punch at Bengals wide receiver Ja'Marr Chase with a little more than 12 minutes remaining in the fourth quarter of Sunday's game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Jets' Boyd in critical condition after being shot",
       "link": "https://www.espn.com/nfl/story/_/id/46987791/jets-kris-boyd-critical-condition-being-shot-nyc",
-      "published": "Sun, 16 Nov 2025 15:53:55 EST",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
       "summary": "Jets special teams player Kris Boyd was hospitalized and is in critical condition after being shot in New York City.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Falcons' Penix hurts knee, exits against Panthers",
+      "title": "Penix, London exit Falcons' loss with knee injuries",
       "link": "https://www.espn.com/nfl/story/_/id/46989995/falcons-michael-penix-jr-exits-right-knee-injury",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
-      "summary": "Michael Penix Jr. injured his right knee and was removed in the third quarter of Sunday's game against the Carolina Panthers.",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
+      "summary": "Falcons QB Michael Penix Jr. and WR Drake London both left Sunday's game vs. Carolina with knee injuries.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Steelers DB Ramsey ejected for throwing punch",
-      "link": "https://www.espn.com/nfl/story/_/id/46990117/steelers-ramsey-ejected-throwing-punch-bengals-chase",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
-      "summary": "Steelers defensive back Jalen Ramsey was ejected for throwing a punch at Bengals wide receiver Ja'Marr Chase with a little more than 12 minutes remaining in the fourth quarter of Sunday's game.",
+      "title": "Titans WR Ridley breaks fibula, out for season",
+      "link": "https://www.espn.com/nfl/story/_/id/46989376/titans-wr-calvin-ridley-leaves-game-ankle-injury",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
+      "summary": "Titans wide receiver Calvin Ridley was ruled out of Sunday's game against the Texans due to an ankle injury.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Andrews sets Ravens career receiving yards mark",
+      "link": "https://www.espn.com/nfl/story/_/id/46991113/mark-andrews-sets-ravens-career-receiving-yards-record",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
+      "summary": "Mark Andrews broke Derrick Mason's record for career receiving yards with the Ravens, doing so on an 11-yard catch vs. the Browns that brought his total to 5,785.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Packers RB Jacobs suffers knee injury, ruled out",
       "link": "https://www.espn.com/nfl/story/_/id/46989353/packers-josh-jacobs-suffers-knee-injury-ruled-vs-giants",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
       "summary": "Packers running back Josh Jacobs left Sunday's game against the Giants with a knee injury in the first half and was ruled out for the rest of the game.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Bills' Coleman out after missing meeting",
-      "link": "https://www.espn.com/nfl/story/_/id/46987326/sources-bills-keon-coleman-healthy-scratch-missed-meeting",
-      "published": "Sun, 16 Nov 2025 15:53:55 EST",
-      "summary": "Bills wide receiver Keon Coleman is a healthy scratch for the team's game against the Buccaneers.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Titans WR Ridley leaves loss with ankle injury",
-      "link": "https://www.espn.com/nfl/story/_/id/46989376/titans-wr-calvin-ridley-leaves-game-ankle-injury",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
-      "summary": "Titans wide receiver Calvin Ridley was ruled out of Sunday's game against the Texans due to an ankle injury.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Eagles owner met Brown amid WR's discontent",
       "link": "https://www.espn.com/nfl/story/_/id/46986676/eagles-owner-jeffrey-lurie-met-aj-brown-wr-discontent",
-      "published": "Sun, 16 Nov 2025 15:53:55 EST",
+      "published": "Sun, 16 Nov 2025 17:00:31 EST",
       "summary": "Eagles owner Jeffrey Lurie met with A.J. Brown during practice Thursday to hash out the star wide receiver's public frustration over his role in Philadelphia's offense, a senior team official told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Giants urging Dart to modify running approach",
-      "link": "https://www.espn.com/nfl/story/_/id/46985678/giants-rookie-qb-jaxson-dart-urged-modify-running-approach",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
-      "summary": "People both inside and outside the Giants organization have urged Jaxson Dart to be more thoughtful and careful with when and how he runs.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc8 Barnwell's early preview of 2026 QB carousel",
       "link": "https://www.espn.com/nfl/story/_/id/46942577/2026-nfl-offseason-quarterback-trades-cuts-retirements-murray-tagovailoa-fields",
-      "published": "Sun, 16 Nov 2025 15:53:54 EST",
+      "published": "Sun, 16 Nov 2025 17:00:30 EST",
       "summary": "Will Arizona move on from Kyler Murray? Is the Tua Tagovailoa era over in Miami? And has time already run out on Bryce Young in Carolina?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Week 11 inactives: Status for Matthew Golden, Davante Adams and others",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-46927449/nfl-fantasy-football-espn-injured-inactives-watchlist-week-11-2025-november-16",
-      "published": "Sun, 16 Nov 2025 12:55:03 EST",
-      "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Catch up on NFL Week 11: Big questions, key performances and what it all means going forward",
       "link": "https://www.espn.com/nfl/story/_/id/46928269/nfl-week-11-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "Sun, 16 Nov 2025 16:12:58 EST",
+      "published": "Sun, 16 Nov 2025 16:38:03 EST",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 11.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "'He fights for all of us': Lions players tell their favorite Dan Campbell stories",
+      "link": "https://www.espn.com/nfl/story/_/id/46921586/stories-lions-dan-campbell-coach-nfl-players",
+      "published": "Sun, 16 Nov 2025 17:17:42 EST",
+      "summary": "What's it like to be coached by Dan Campbell? We asked Lions players -- and a coach -- to weigh in.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Betting: Expect Philly to go to the air, Detroit to struggle on the road",
       "link": "https://www.espn.com/espn/betting/story/_/id/46932178/nfl-week-11-odds-lines-spread-betting-picks-sunday-night-football-preview-detroit-lions-philadelphia-eagles",
-      "published": "Sun, 16 Nov 2025 14:01:34 EST",
+      "published": "Sun, 16 Nov 2025 17:17:42 EST",
       "summary": "Odds, player props, analysis and best bets for Sunday night's Detroit Lions-Philadelphia Eagles game.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "'Y'all stop the run, he's going to throw me the ball': How Jack Jones called game in Madrid",
       "link": "https://www.espn.com/nfl/story/_/id/46988961/dolphins-cb-jack-jones-predicted-interception-vs-commanders-madrid",
-      "published": "Sun, 16 Nov 2025 16:10:57 EST",
+      "published": "Sun, 16 Nov 2025 17:04:59 EST",
       "summary": "\"For someone to be on the couch during OTAs to come and be such a factor in these last couple games,\" Zach Sieler said, \"he's just been awesome.\"",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "NFL Week 11's fashionable arrivals, featuring Baker Mayfield",
+      "title": "How Mike Vrabel has the 9-2 Patriots pushing the pile toward the playoffs",
+      "link": "https://www.espn.com/nfl/story/_/id/46966246/new-england-patriots-pushing-pile-playoffs",
+      "published": "Sun, 16 Nov 2025 17:04:59 EST",
+      "summary": "The Patriots, having bought into Vrabel's culture rebuild, are all pushing in the right direction, and it shows.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFL Week 11's fashionable arrivals, featuring Seahawks RB George Holani",
       "link": "https://www.espn.com/nfl/story/_/id/46957707/nfl-week-11-fashionable-arrivals-2025",
-      "published": "Sun, 16 Nov 2025 12:47:44 EST",
+      "published": "Sun, 16 Nov 2025 16:40:48 EST",
       "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -105,34 +112,6 @@
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
       "published": "Sun, 16 Nov 2025 12:52:24 EST",
       "summary": "We have NFL draft notes through CFB Week 12, including why Zachariah Branch and Makai Lemon are intriguing prospects.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Can Giants interim coach Mike Kafka make it work in New York?",
-      "link": "https://www.espn.com/nfl/story/_/id/46953005/can-giants-interim-head-coach-mike-kafka-make-work-new-york",
-      "published": "Sun, 16 Nov 2025 16:13:53 EST",
-      "summary": "The Giants (2-8) and the rest of the NFL will be looking at how Kafka can help the team over the final two months of the season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "'He fights for all of us': Lions players tell their favorite Dan Campbell stories",
-      "link": "https://www.espn.com/nfl/story/_/id/46921586/stories-lions-dan-campbell-coach-nfl-players",
-      "published": "Fri, 14 Nov 2025 11:51:12 EST",
-      "summary": "What's it like to be coached by Dan Campbell? We asked Lions players -- and a coach -- to weigh in.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Five players who are working out with their new teams -- and five who aren't",
-      "link": "https://www.espn.com/nfl/story/_/id/46929408/2025-offseason-change-scenery-five-players-working-new-teams",
-      "published": "Sun, 16 Nov 2025 16:14:43 EST",
-      "summary": "The midpoint of the season is a great time to evaluate offseason moves. Which players are excelling with their new teams? Which are struggling?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Ranking top free agents in line to get PAID this offseason",
-      "link": "https://www.espn.com/nfl/story/_/id/46929670/2026-nfl-free-agent-ranking-top-25-predictions-buzz-hendrickson-jones-pickens",
-      "published": "Sun, 16 Nov 2025 16:14:43 EST",
-      "summary": "We listed the NFL's top 25 pending free agents and gave intel on who might return to their current team.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
