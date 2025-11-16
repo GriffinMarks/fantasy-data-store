@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-16T20:25:33Z",
+  "generated_at": "2025-11-16T21:20:32Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1614,17 +1614,17 @@
           "news_updated": 1759843849994
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "8148",
+          "full_name": "Jameson Williams",
+          "first_name": "Jameson",
+          "last_name": "Williams",
+          "team": "DET",
+          "position": "WR",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759795543169
         },
         {
           "player_id": "3214",
@@ -1733,19 +1733,6 @@
           "news_updated": 1759878658190
         },
         {
-          "player_id": "5230",
-          "full_name": "Michael Badgley",
-          "first_name": "Michael",
-          "last_name": "Badgley",
-          "team": "IND",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759869656725
-        },
-        {
           "player_id": "5947",
           "full_name": "Jakobi Meyers",
           "first_name": "Jakobi",
@@ -1770,23 +1757,12 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759720258301
-        },
-        {
-          "player_id": "8148",
-          "full_name": "Jameson Williams",
-          "first_name": "Jameson",
-          "last_name": "Williams",
-          "team": "DET",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759795543169
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "10859"
+      ]
     },
     {
       "roster_id": 9,
