@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 11,
-  "generated_at": "2025-11-16T16:27:32Z",
+  "generated_at": "2025-11-16T17:19:22Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -155,7 +155,7 @@
             "2020",
             "LAR"
           ],
-          "points": 8.2,
+          "points": 16.1,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "7922",
             "KC"
           ],
-          "points": 7.0,
+          "points": 8.0,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "11786",
             "BAL"
           ],
-          "points": 4.9,
+          "points": 11.5,
           "projected_points": null
         }
       ]
