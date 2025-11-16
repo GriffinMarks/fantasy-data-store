@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-16T19:18:13Z",
+  "generated_at": "2025-11-16T20:25:33Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -413,17 +413,17 @@
           "news_updated": 1759712157387
         },
         {
-          "player_id": "4035",
-          "full_name": "Alvin Kamara",
-          "first_name": "Alvin",
-          "last_name": "Kamara",
-          "team": "NO",
-          "position": "RB",
+          "player_id": "5859",
+          "full_name": "A.J. Brown",
+          "first_name": "A.J.",
+          "last_name": "Brown",
+          "team": "PHI",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759878658190
+          "news_updated": 1759706156589
         },
         {
           "player_id": "5870",
@@ -450,19 +450,6 @@
           "injury_body_part": "Knee - ACL + MCL",
           "injury_start_date": null,
           "news_updated": 1759499738590
-        },
-        {
-          "player_id": "8148",
-          "full_name": "Jameson Williams",
-          "first_name": "Jameson",
-          "last_name": "Williams",
-          "team": "DET",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759795543169
         }
       ],
       "taxi": [],
@@ -1627,17 +1614,17 @@
           "news_updated": 1759843849994
         },
         {
-          "player_id": "5859",
-          "full_name": "A.J. Brown",
-          "first_name": "A.J.",
-          "last_name": "Brown",
-          "team": "PHI",
-          "position": "WR",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759706156589
+          "news_updated": null
         },
         {
           "player_id": "3214",
@@ -1733,6 +1720,19 @@
           "news_updated": 1759945240522
         },
         {
+          "player_id": "4035",
+          "full_name": "Alvin Kamara",
+          "first_name": "Alvin",
+          "last_name": "Kamara",
+          "team": "NO",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759878658190
+        },
+        {
           "player_id": "5230",
           "full_name": "Michael Badgley",
           "first_name": "Michael",
@@ -1770,6 +1770,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759720258301
+        },
+        {
+          "player_id": "8148",
+          "full_name": "Jameson Williams",
+          "first_name": "Jameson",
+          "last_name": "Williams",
+          "team": "DET",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759795543169
         }
       ],
       "taxi": [],
