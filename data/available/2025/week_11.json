@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-16T17:19:22Z",
+  "generated_at": "2025-11-16T18:31:53Z",
   "league_id": "1262790170931892224",
   "count": 3751,
   "players": [
@@ -290,6 +290,13 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
+    },
+    {
+      "player_id": "1433",
+      "full_name": "Brandon McManus",
+      "team": "GB",
+      "position": "K",
+      "status": "Active"
     },
     {
       "player_id": "11949",
@@ -582,13 +589,6 @@
       "player_id": "11077",
       "full_name": "Jack Podlesny",
       "team": null,
-      "position": "K",
-      "status": "Active"
-    },
-    {
-      "player_id": "4195",
-      "full_name": "Jake Elliott",
-      "team": "PHI",
       "position": "K",
       "status": "Active"
     },

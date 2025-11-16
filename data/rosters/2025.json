@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-16T17:19:22Z",
+  "generated_at": "2025-11-16T18:31:52Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -574,17 +574,17 @@
           "news_updated": 1759769461597
         },
         {
-          "player_id": "1433",
-          "full_name": "Brandon McManus",
-          "first_name": "Brandon",
-          "last_name": "McManus",
-          "team": "GB",
+          "player_id": "4195",
+          "full_name": "Jake Elliott",
+          "first_name": "Jake",
+          "last_name": "Elliott",
+          "team": "PHI",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759164056704
+          "news_updated": 1759717857723
         },
         {
           "player_id": "DEN",
