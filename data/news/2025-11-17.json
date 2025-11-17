@@ -1,82 +1,89 @@
 {
-  "generated_at": "2025-11-17T03:21:41Z",
-  "count": 19,
+  "generated_at": "2025-11-17T04:31:16Z",
+  "count": 21,
   "articles": [
     {
-      "title": "Follow live: Eagles host Lions in NFL clash",
-      "link": "https://www.espn.com/nfl/game/_/gameId/401772928/lions-eagles",
-      "published": "Sun, 16 Nov 2025 21:55:11 EST",
+      "title": "Follow live: Hurts, Eagles protecting late lead over Lions",
+      "link": "https://www.espn.com/nfl/story/_/id/46942812/week-11-nfl-highlights-plays-moments-touchdowns",
+      "published": "Sun, 16 Nov 2025 22:59:26 EST",
       "summary": "null",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sanders rues 'rough' debut after Gabriel concussed",
       "link": "https://www.espn.com/nfl/story/_/id/46992431/browns-shedeur-sanders-debuts-dillon-gabriel-concussion",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "Browns rookie quarterback Shedeur Sanders made his NFL debut Sunday against the Ravens, coming on after fellow rookie Dillon Gabriel was concussed.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Source: Concern Rodgers has break in left wrist",
       "link": "https://www.espn.com/nfl/story/_/id/46990577/steelers-rodgers-injures-hand-sits-2nd-half-victory",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "The initial concern is that Steelers quarterback Aaron Rodgers has \"a slight break\" in his left wrist, a source told ESPN's Adam Schefter.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Ramsey ejected for punch, says Chase spit on him",
       "link": "https://www.espn.com/nfl/story/_/id/46990117/steelers-ramsey-ejected-throwing-punch-bengals-chase",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "Steelers defensive back Jalen Ramsey was ejected for throwing a punch at Bengals wide receiver Ja'Marr Chase with a little more than 12 minutes remaining in the fourth quarter of Sunday's game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Mahomes takes blame as division title hopes fade",
+      "link": "https://www.espn.com/nfl/story/_/id/46995265/patrick-mahomes-chiefs-inconsistency-starts-me",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
+      "summary": "Patrick Mahomes took much of the blame for the Chiefs' 22-19 loss to the Broncos, an outcome that leveled the team's record at 5-5 and put their hopes at winning another AFC West title in doubt.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Allen's 6 TDs draw more 'unreal' praise by Bills",
       "link": "https://www.espn.com/nfl/story/_/id/46993926/josh-allen-wows-again-collects-6-total-tds-bills-top-bucs",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "Josh Allen rebounded from a rough start against the Buccaneers to record three passing touchdowns and a career-high three rushing TDs. It was his second career game with 3 TDs passing and 3 rushing.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Bears' Wright honors former coach Beam with INT",
       "link": "https://www.espn.com/nfl/story/_/id/46993560/bears-nahshon-wright-honors-former-coach-john-beam-interception-was-today",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "Playing with a heavy heart Sunday following the death of his former college coach John Beam, Bears cornerback Nahshon Wright recorded an interception in Chicago's 19-17 win at Minnesota, saying afterward that Beam \"was behind me today.\"",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Ravens' trick real treat for record-setter Andrews",
+      "link": "https://www.espn.com/nfl/story/_/id/46994889/andrews-sets-record-seals-ravens-win-trick-play-td-run",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
+      "summary": "Mark Andrews's 35-yard touchdown run on a fourth-and-1 trick play proved to be the winning score in the Ravens' 23-16 win over the Browns. It came after he set the franchise receiving yards record earlier in the game.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "'He was vintage Brock': Purdy stars in 49ers return",
       "link": "https://www.espn.com/nfl/story/_/id/46994437/49ers-qb-brock-purdy-returns-injury-3-touchdowns-win-cardinals",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "After a frustrating six-week wait to return from injury, 49ers quarterback Brock Purdy didn't take long to get back into a rhythm Sunday, throwing for 200 yards with three touchdowns and no interceptions in a blowout win over the Cardinals.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "TE Kelce sets Chiefs' all-time TD mark in loss",
-      "link": "https://www.espn.com/nfl/story/_/id/46993169/travis-kelce-sets-chiefs-all-touchdown-mark-84",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
-      "summary": "Chiefs star TE Travis Kelce broke the franchise's record for most total touchdowns in team history with his 21-yard TD grab in the fourth quarter.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Young's Panthers-record 448 in win eases pain",
-      "link": "https://www.espn.com/nfl/story/_/id/46993193/bryce-young-overcomes-ankle-injury-sets-panthers-record-win",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
-      "summary": "Bryce Young, with his ankle heavily taped, passed for a franchise-record 448 yards and three touchdowns in an overtime win against the Falcons that put Carolina at 6-5 and a half-game behind the first-place Bucs.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\u2614 'Game blouses': Bears' jab at Vikes tops trolls",
       "link": "https://www.espn.com/nfl/story/_/id/46991811/nfl-week-11-trolls",
-      "published": "Sun, 16 Nov 2025 21:45:49 EST",
+      "published": "Sun, 16 Nov 2025 23:16:31 EST",
       "summary": "A busy week in the NFL prompted the usual trolls around the league.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "What do Week 11 games mean for the rest of the season? We hit big questions, key stats and QB breakouts",
       "link": "https://www.espn.com/nfl/story/_/id/46928269/nfl-week-11-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "Sun, 16 Nov 2025 20:18:37 EST",
+      "published": "Sun, 16 Nov 2025 22:23:43 EST",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 11.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Let's overreact to NFL Week 11: MVP for Josh Allen? Sack record for Myles Garrett?",
+      "link": "https://www.espn.com/nfl/story/_/id/46988497/nfl-week-11-overreactions-fantasy-josh-allen-myles-garrett-rams-afc-west",
+      "published": "Sun, 16 Nov 2025 22:23:42 EST",
+      "summary": "Is Allen a prime MVP candidate again? Has the AFC West torch been passed? We overreact to Week 11 takes.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -112,6 +119,13 @@
       "link": "https://www.espn.com/nfl/story/_/id/46992676/frustrated-simmons-titans-false-starts-need-better",
       "published": "Sun, 16 Nov 2025 20:19:07 EST",
       "summary": "The Titans' Jeffery Simmons is fed up with the losing and let his frustrations be known after Tennessee had five false starts at home Sunday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Favorites keep winning in Week 11 of 'customer-friendly' NFL season",
+      "link": "https://www.espn.com/espn/betting/story/_/id/46988571/nfl-betting-week-11-favorites-overs-unders-odds-rams-seahawks-cfb",
+      "published": "Sun, 16 Nov 2025 22:52:03 EST",
+      "summary": "Favorites rule the day in Week 11 of the NFL season, while chaos rules in CFB, where Alabama lost its sixth game in two seasons when favored by six or more.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {

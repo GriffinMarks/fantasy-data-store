@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 11,
-  "generated_at": "2025-11-17T03:21:31Z",
+  "generated_at": "2025-11-17T04:31:06Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "4195",
             "DEN"
           ],
-          "points": 79.86,
+          "points": 83.86,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "12711",
             "MIN"
           ],
-          "points": 75.62,
+          "points": 90.1,
           "projected_points": null
         }
       ]
@@ -116,7 +116,7 @@
             "8259",
             "NE"
           ],
-          "points": 61.0,
+          "points": 62.8,
           "projected_points": null
         }
       ]
@@ -194,7 +194,7 @@
             "650",
             "PHI"
           ],
-          "points": 101.64,
+          "points": 99.64,
           "projected_points": null
         }
       ]
@@ -233,7 +233,7 @@
             "11539",
             "DET"
           ],
-          "points": 57.72,
+          "points": 61.42,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "6650",
             "ATL"
           ],
-          "points": 98.72,
+          "points": 111.22,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "11786",
             "BAL"
           ],
-          "points": 69.2,
+          "points": 71.9,
           "projected_points": null
         }
       ]
