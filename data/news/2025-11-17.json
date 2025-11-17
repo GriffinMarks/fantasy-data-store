@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T11:21:47Z",
-  "count": 20,
+  "generated_at": "2025-11-17T12:52:17Z",
+  "count": 26,
   "articles": [
     {
       "title": "Sanders rues 'rough' debut after Gabriel concussed",
@@ -24,7 +24,7 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Eagles D makes statement, shuts down Goff, Lions",
+      "title": "Eagles D shuts down Goff, Lions in statement win",
       "link": "https://www.espn.com/nfl/story/_/id/46996474/eagles-defense-makes-statement-shutting-jared-goff-lions",
       "published": "Mon, 17 Nov 2025 02:44:15 EST",
       "summary": "The Eagles \"made a statement on defense\" Sunday night, shutting down quarterback Jared Goff and the normally high-powered Lions attack in a 16-9 win that swings the conference odds in Philly's favor.",
@@ -80,6 +80,13 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Antonio Brown's journey from All-Pro to criminal defendant",
+      "link": "https://www.espn.com/nfl/story/_/id/46991182/antonio-brown-extradition-trial",
+      "published": "Mon, 17 Nov 2025 07:17:45 EST",
+      "summary": "Extradition from Dubai caps a twisted saga involving gunfire and questions of self-defense.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Jets' Boyd in critical but stable condition after being shot",
       "link": "https://www.espn.com/nfl/story/_/id/46987791/jets-kris-boyd-critical-condition-being-shot-nyc",
       "published": "Sun, 16 Nov 2025 21:19:12 EST",
@@ -87,17 +94,52 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "From Josh McDaniels to Dan Campbell: What has gone right, wrong for every NFL OC, playcaller this season",
+      "link": "https://www.espn.com/nfl/story/_/id/46970963/nfl-offensive-coordinators-playcallers-josh-mcdaniels-dan-campbell",
+      "published": "Mon, 17 Nov 2025 07:25:32 EST",
+      "summary": "NFL Nation reporters break down the good and bad for each OC/playcaller and peg the key to success the rest of the season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Players react to NFL's efforts to halt team report cards: 'Fact that there's pushback shows it's working'",
+      "link": "https://www.espn.com/nfl/story/_/id/46995326/nfl-players-nflpa-reaction-2025-league-grievance-team-report-cards-survey",
+      "published": "Mon, 17 Nov 2025 07:27:34 EST",
+      "summary": "NFL players who spoke to ESPN say the report cards are making a tangible impact on workplace conditions.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "'Y'all stop the run, he's going to throw me the ball': How Jack Jones called game in Madrid",
       "link": "https://www.espn.com/nfl/story/_/id/46988961/dolphins-cb-jack-jones-predicted-interception-vs-commanders-madrid",
-      "published": "Sun, 16 Nov 2025 21:03:04 EST",
+      "published": "Mon, 17 Nov 2025 07:28:19 EST",
       "summary": "\"For someone to be on the couch during OTAs to come and be such a factor in these last couple games,\" Zach Sieler said, \"he's just been awesome.\"",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "How Mike Vrabel has the 9-2 Patriots pushing the pile toward the playoffs",
       "link": "https://www.espn.com/nfl/story/_/id/46966246/new-england-patriots-pushing-pile-playoffs",
-      "published": "Sun, 16 Nov 2025 21:03:04 EST",
+      "published": "Mon, 17 Nov 2025 07:28:19 EST",
       "summary": "The Patriots, having bought into Vrabel's culture rebuild, are all pushing in the right direction, and it shows.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Why the Jaguars want Trevor Lawrence to play free and 'cut it loose'",
+      "link": "https://www.espn.com/nfl/story/_/id/46993626/why-jacksonville-jaguars-playoff-hopes-depend-trevor-lawrence-cutting-loose",
+      "published": "Mon, 17 Nov 2025 07:28:19 EST",
+      "summary": "Liam Coen wants his team to play free -- especially his QB. Why that could be a key to making the playoffs.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "'I'm probably going to cry': Inside DeMarvion Overshown's long journey back from knee surgery",
+      "link": "https://www.espn.com/nfl/story/_/id/46974338/nfl-dallas-cowboys-demarvion-overshown-knee-surgery",
+      "published": "Mon, 17 Nov 2025 07:20:55 EST",
+      "summary": "Overshown's breakout 2024 season for Dallas was cut short by a horrendous knee injury. Here's how he fought his way back.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Raiders' offense not making strides under new regime",
+      "link": "https://www.espn.com/nfl/story/_/id/46970642/las-vegas-raiders-2025-offense-struggles-geno-smith-pete-carroll-chip-kelly",
+      "published": "Mon, 17 Nov 2025 07:20:55 EST",
+      "summary": "From national champion and Pro Bowler to ... league-worst offense?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -138,7 +180,7 @@
     {
       "title": "Will your team make the playoffs? Simulate the rest of the regular season",
       "link": "https://www.espn.com/nfl/playoffs/machine",
-      "published": "Sun, 16 Nov 2025 12:17:29 EST",
+      "published": "Mon, 17 Nov 2025 07:45:57 EST",
       "summary": "null",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
