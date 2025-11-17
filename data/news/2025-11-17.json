@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T15:28:21Z",
-  "count": 24,
+  "generated_at": "2025-11-17T16:34:10Z",
+  "count": 23,
   "articles": [
     {
       "title": "The Chiefs aren't broken -- but they could miss the playoffs: Barnwell on what has gone wrong",
@@ -87,17 +87,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Players react to NFL's efforts to halt team report cards: 'Fact that there's pushback shows it's working'",
+      "link": "https://www.espn.com/nfl/story/_/id/46995326/nfl-players-nflpa-reaction-2025-league-grievance-team-report-cards-survey",
+      "published": "Mon, 17 Nov 2025 11:25:32 EST",
+      "summary": "NFL players who spoke to ESPN say the report cards are making a tangible impact on workplace conditions.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Antonio Brown's journey from All-Pro to criminal defendant",
       "link": "https://www.espn.com/nfl/story/_/id/46991182/antonio-brown-extradition-trial",
       "published": "Mon, 17 Nov 2025 09:54:48 EST",
       "summary": "Extradition from Dubai caps a twisted saga involving gunfire and questions of self-defense.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Players react to NFL's efforts to halt team report cards: 'Fact that there's pushback shows it's working'",
-      "link": "https://www.espn.com/nfl/story/_/id/46995326/nfl-players-nflpa-reaction-2025-league-grievance-team-report-cards-survey",
-      "published": "Mon, 17 Nov 2025 09:26:28 EST",
-      "summary": "NFL players who spoke to ESPN say the report cards are making a tangible impact on workplace conditions.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -115,13 +115,6 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Jets' Boyd in critical but stable condition after being shot",
-      "link": "https://www.espn.com/nfl/story/_/id/46987791/jets-kris-boyd-critical-condition-being-shot-nyc",
-      "published": "Sun, 16 Nov 2025 21:19:12 EST",
-      "summary": "Jets special teams player Kris Boyd was hospitalized and is in critical condition after being shot in New York City.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
       "title": "'You just can't miss those': J.J. McCarthy's struggles limiting Vikings' chances to win",
       "link": "https://www.espn.com/nfl/story/_/id/46998300/nfl-minnesota-vikings-jj-mccarthy-kevin-oconnell-justin-jefferson",
       "published": "Mon, 17 Nov 2025 09:49:41 EST",
@@ -129,10 +122,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Buzz: Tucker goes off for Buccaneers; Packers lose Jacobs, Ridley's season over",
+      "title": "Buzz: Moody's notebook detailing who got the ball Sunday",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "published": "Sun, 16 Nov 2025 20:19:06 EST",
-      "summary": "Sean Tucker had 140 yards and three TDs in early Sunday action, but injuries abounded again in Week 11.",
+      "summary": "Look beyond yards and touchdowns to determine who will have the opportunity to score future fantasy points.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -166,7 +159,7 @@
     {
       "title": "Will your team make the playoffs? Simulate the rest of the regular season",
       "link": "https://www.espn.com/nfl/playoffs/machine",
-      "published": "Mon, 17 Nov 2025 08:22:52 EST",
+      "published": "Mon, 17 Nov 2025 11:25:41 EST",
       "summary": "null",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
