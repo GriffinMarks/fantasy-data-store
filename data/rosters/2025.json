@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-18T16:34:45Z",
+  "generated_at": "2025-11-18T17:23:14Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -749,30 +749,30 @@
           "news_updated": 1759593346002
         },
         {
-          "player_id": "4066",
-          "full_name": "Evan Engram",
-          "first_name": "Evan",
-          "last_name": "Engram",
-          "team": "DEN",
+          "player_id": "7002",
+          "full_name": "Juwan Johnson",
+          "first_name": "Juwan",
+          "last_name": "Johnson",
+          "team": "NO",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759935303295
+          "news_updated": 1759878658205
         },
         {
-          "player_id": "11627",
-          "full_name": "Troy Franklin",
-          "first_name": "Troy",
-          "last_name": "Franklin",
-          "team": "DEN",
+          "player_id": "10232",
+          "full_name": "Michael Wilson",
+          "first_name": "Michael",
+          "last_name": "Wilson",
+          "team": "ARI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759790742367
+          "news_updated": 1759904461734
         },
         {
           "player_id": "11533",
@@ -803,19 +803,6 @@
       ],
       "bench": [
         {
-          "player_id": "10232",
-          "full_name": "Michael Wilson",
-          "first_name": "Michael",
-          "last_name": "Wilson",
-          "team": "ARI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904461734
-        },
-        {
           "player_id": "11625",
           "full_name": "Adonai Mitchell",
           "first_name": "Adonai",
@@ -827,6 +814,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759769461592
+        },
+        {
+          "player_id": "11627",
+          "full_name": "Troy Franklin",
+          "first_name": "Troy",
+          "last_name": "Franklin",
+          "team": "DEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759790742367
         },
         {
           "player_id": "11792",
@@ -855,6 +855,19 @@
           "news_updated": 1759947940772
         },
         {
+          "player_id": "4066",
+          "full_name": "Evan Engram",
+          "first_name": "Evan",
+          "last_name": "Engram",
+          "team": "DEN",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759935303295
+        },
+        {
           "player_id": "4892",
           "full_name": "Baker Mayfield",
           "first_name": "Baker",
@@ -879,19 +892,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759770661065
-        },
-        {
-          "player_id": "7002",
-          "full_name": "Juwan Johnson",
-          "first_name": "Juwan",
-          "last_name": "Johnson",
-          "team": "NO",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759878658205
         }
       ],
       "taxi": [],
