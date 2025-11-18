@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-18T12:52:12Z",
+  "generated_at": "2025-11-18T13:35:20Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2672,30 +2672,30 @@
       "points_against": 1348,
       "starters": [
         {
-          "player_id": "11563",
-          "full_name": "Bo Nix",
-          "first_name": "Bo",
-          "last_name": "Nix",
-          "team": "DEN",
-          "position": "QB",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759789242193
+          "news_updated": null
         },
         {
-          "player_id": "12533",
-          "full_name": "Jacory Croskey-Merritt",
-          "first_name": "Jacory",
-          "last_name": "Croskey-Merritt",
-          "team": "WAS",
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard",
+          "first_name": "Chuba",
+          "last_name": "Hubbard",
+          "team": "CAR",
           "position": "RB",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Calf",
           "injury_start_date": null,
-          "news_updated": 1759847447787
+          "news_updated": 1759952743342
         },
         {
           "player_id": "8122",
@@ -2724,17 +2724,17 @@
           "news_updated": 1759871158182
         },
         {
-          "player_id": "5045",
-          "full_name": "Courtland Sutton",
-          "first_name": "Courtland",
-          "last_name": "Sutton",
-          "team": "DEN",
+          "player_id": "11624",
+          "full_name": "Xavier Worthy",
+          "first_name": "Xavier",
+          "last_name": "Worthy",
+          "team": "KC",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759790142494
+          "news_updated": 1759847749510
         },
         {
           "player_id": "5022",
@@ -2750,17 +2750,17 @@
           "news_updated": 1759713057019
         },
         {
-          "player_id": "11610",
-          "full_name": "Malik Washington",
-          "first_name": "Malik",
-          "last_name": "Washington",
-          "team": "MIA",
+          "player_id": "4039",
+          "full_name": "Cooper Kupp",
+          "first_name": "Cooper",
+          "last_name": "Kupp",
+          "team": "SEA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759746360603
+          "news_updated": 1759843849559
         },
         {
           "player_id": "11786",
@@ -2791,17 +2791,43 @@
       ],
       "bench": [
         {
-          "player_id": "11624",
-          "full_name": "Xavier Worthy",
-          "first_name": "Xavier",
-          "last_name": "Worthy",
-          "team": "KC",
+          "player_id": "11563",
+          "full_name": "Bo Nix",
+          "first_name": "Bo",
+          "last_name": "Nix",
+          "team": "DEN",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759789242193
+        },
+        {
+          "player_id": "11610",
+          "full_name": "Malik Washington",
+          "first_name": "Malik",
+          "last_name": "Washington",
+          "team": "MIA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847749510
+          "news_updated": 1759746360603
+        },
+        {
+          "player_id": "12533",
+          "full_name": "Jacory Croskey-Merritt",
+          "first_name": "Jacory",
+          "last_name": "Croskey-Merritt",
+          "team": "WAS",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847447787
         },
         {
           "player_id": "12540",
@@ -2817,30 +2843,17 @@
           "news_updated": 1759889460417
         },
         {
-          "player_id": "4039",
-          "full_name": "Cooper Kupp",
-          "first_name": "Cooper",
-          "last_name": "Kupp",
-          "team": "SEA",
+          "player_id": "5045",
+          "full_name": "Courtland Sutton",
+          "first_name": "Courtland",
+          "last_name": "Sutton",
+          "team": "DEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849559
-        },
-        {
-          "player_id": "7594",
-          "full_name": "Chuba Hubbard",
-          "first_name": "Chuba",
-          "last_name": "Hubbard",
-          "team": "CAR",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Calf",
-          "injury_start_date": null,
-          "news_updated": 1759952743342
+          "news_updated": 1759790142494
         },
         {
           "player_id": "8676",
@@ -2857,7 +2870,9 @@
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "12540"
+      ]
     },
     {
       "roster_id": 14,
