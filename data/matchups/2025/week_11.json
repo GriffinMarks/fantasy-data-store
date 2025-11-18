@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 11,
-  "generated_at": "2025-11-18T01:56:19Z",
+  "generated_at": "2025-11-18T03:17:24Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -60,7 +60,7 @@
             "11533",
             "CHI"
           ],
-          "points": 94.5,
+          "points": 97.5,
           "projected_points": null
         },
         {
@@ -116,7 +116,7 @@
             "8259",
             "NE"
           ],
-          "points": 70.14,
+          "points": 97.36,
           "projected_points": null
         }
       ]
@@ -155,7 +155,7 @@
             "2020",
             "LAR"
           ],
-          "points": 121.18,
+          "points": 131.08,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "7922",
             "KC"
           ],
-          "points": 158.98,
+          "points": 180.78,
           "projected_points": null
         },
         {
@@ -216,7 +216,7 @@
             "2747",
             "SEA"
           ],
-          "points": 22.4,
+          "points": 26.8,
           "projected_points": null
         },
         {
@@ -233,7 +233,7 @@
             "11539",
             "DET"
           ],
-          "points": 65.22,
+          "points": 69.22,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "6650",
             "ATL"
           ],
-          "points": 120.02,
+          "points": 125.72,
           "projected_points": null
         },
         {
