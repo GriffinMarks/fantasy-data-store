@@ -1,147 +1,147 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-18T05:24:44Z",
+  "generated_at": "2025-11-18T06:36:17Z",
   "league_id": "1262790170931892224",
   "standings": [
     {
       "roster_id": 2,
       "owner": "burnsinator96",
       "team_name": "Waiver Wire Warrior ",
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0,
-      "win_pct": 0.8,
-      "points_for": 1269
+      "win_pct": 0.8181818181818182,
+      "points_for": 1450
     },
     {
       "roster_id": 1,
       "owner": "Mooner13",
       "team_name": "Jonathan Taylor’s Version",
       "wins": 8,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "win_pct": 0.8,
-      "points_for": 1263
+      "win_pct": 0.7272727272727273,
+      "points_for": 1367
     },
     {
       "roster_id": 5,
       "owner": "DanielRuettiger",
       "team_name": "Robert Boucher Jr.",
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0,
-      "win_pct": 0.7,
-      "points_for": 1204
+      "win_pct": 0.7272727272727273,
+      "points_for": 1336
     },
     {
       "roster_id": 11,
       "owner": "tdchamberlain",
       "team_name": "Jerking goff my dicker",
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0,
-      "win_pct": 0.7,
-      "points_for": 1183
+      "win_pct": 0.7272727272727273,
+      "points_for": 1299
     },
     {
       "roster_id": 14,
       "owner": "Delio123",
       "team_name": null,
-      "wins": 6,
+      "wins": 7,
       "losses": 4,
       "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 1224
+      "win_pct": 0.6363636363636364,
+      "points_for": 1339
+    },
+    {
+      "roster_id": 9,
+      "owner": "BronnyJr91",
+      "team_name": "Easy as A-B-CeeDee",
+      "wins": 7,
+      "losses": 4,
+      "ties": 0,
+      "win_pct": 0.6363636363636364,
+      "points_for": 1299
     },
     {
       "roster_id": 8,
       "owner": "Bcarrabau",
       "team_name": "My Conkey Hurts",
-      "wins": 6,
+      "wins": 7,
       "losses": 4,
       "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 1185
+      "win_pct": 0.6363636363636364,
+      "points_for": 1276
     },
     {
       "roster_id": 7,
       "owner": "JefftheBartender",
       "team_name": null,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 1182
-    },
-    {
-      "roster_id": 9,
-      "owner": "BronnyJr91",
-      "team_name": "Easy as A-B-CeeDee",
-      "wins": 6,
-      "losses": 4,
-      "ties": 0,
-      "win_pct": 0.6,
-      "points_for": 1170
+      "win_pct": 0.5454545454545454,
+      "points_for": 1259
     },
     {
       "roster_id": 13,
       "owner": "dellio",
       "team_name": "Morgan Morgan & Morgan",
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "win_pct": 0.4,
-      "points_for": 1153
+      "win_pct": 0.36363636363636365,
+      "points_for": 1225
     },
     {
       "roster_id": 10,
       "owner": "CruzCarvalho",
       "team_name": "119mph ",
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "win_pct": 0.4,
-      "points_for": 1054
+      "win_pct": 0.36363636363636365,
+      "points_for": 1154
     },
     {
       "roster_id": 3,
       "owner": "jrussss",
       "team_name": "Many Men",
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0,
-      "win_pct": 0.3,
-      "points_for": 1035
+      "win_pct": 0.2727272727272727,
+      "points_for": 1119
     },
     {
       "roster_id": 4,
       "owner": "ryanquigg",
       "team_name": "Rome aint built in a day",
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0,
-      "win_pct": 0.3,
-      "points_for": 996
+      "win_pct": 0.2727272727272727,
+      "points_for": 1095
     },
     {
       "roster_id": 12,
       "owner": "Shmigly67",
       "team_name": "Lights, Camera, Jackson",
-      "wins": 1,
+      "wins": 2,
       "losses": 9,
       "ties": 0,
-      "win_pct": 0.1,
-      "points_for": 872
+      "win_pct": 0.18181818181818182,
+      "points_for": 944
     },
     {
       "roster_id": 6,
       "owner": "OJWhitt2K",
       "team_name": "Im not paying",
       "wins": 1,
-      "losses": 9,
+      "losses": 10,
       "ties": 0,
-      "win_pct": 0.1,
-      "points_for": 813
+      "win_pct": 0.09090909090909091,
+      "points_for": 843
     }
   ]
 }
