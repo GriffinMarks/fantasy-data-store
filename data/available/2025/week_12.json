@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-19T16:33:09Z",
+  "generated_at": "2025-11-19T17:22:16Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -85,13 +85,6 @@
       "player_id": "BUF",
       "full_name": null,
       "team": "BUF",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "SF",
-      "full_name": null,
-      "team": "SF",
       "position": "DEF",
       "status": null
     },
@@ -18721,6 +18714,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "12499",
+      "full_name": "Elic Ayomanor",
+      "team": "TEN",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "11139",
