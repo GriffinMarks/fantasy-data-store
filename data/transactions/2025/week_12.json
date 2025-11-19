@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-19T12:52:58Z",
+  "generated_at": "2025-11-19T13:35:40Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -15,12 +15,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1296853246073126912",
       "adds": null,
-      "drops": {
-        "5917": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "5917": 10
+      },
       "roster_ids": [
         10
       ],
