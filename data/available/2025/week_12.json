@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-19T07:24:27Z",
+  "generated_at": "2025-11-19T08:33:06Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3750,
   "players": [
     {
       "player_id": "PIT",
@@ -50,13 +50,6 @@
       "player_id": "TB",
       "full_name": null,
       "team": "TB",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "CLE",
-      "full_name": null,
-      "team": "CLE",
       "position": "DEF",
       "status": null
     },
@@ -120,6 +113,13 @@
       "player_id": "CIN",
       "full_name": null,
       "team": "CIN",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "KC",
+      "full_name": null,
+      "team": "KC",
       "position": "DEF",
       "status": null
     },
@@ -213,13 +213,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "12713",
-      "full_name": "Andy Borregales",
-      "team": "NE",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "4555",
@@ -3792,13 +3785,6 @@
       "status": "Active"
     },
     {
-      "player_id": "12524",
-      "full_name": "Shedeur Sanders",
-      "team": "CLE",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
       "player_id": "8206",
       "full_name": "Skylar Thompson",
       "team": "PIT",
@@ -6028,13 +6014,6 @@
       "player_id": "11998",
       "full_name": "Emani Bailey",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "11435",
-      "full_name": "Emanuel Wilson",
-      "team": "GB",
       "position": "RB",
       "status": "Active"
     },
@@ -8909,13 +8888,6 @@
       "status": "Active"
     },
     {
-      "player_id": "9506",
-      "full_name": "Sean Tucker",
-      "team": "TB",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "2114",
       "full_name": "Senorise Perry",
       "team": null,
@@ -11320,6 +11292,13 @@
       "player_id": "6469",
       "full_name": "Davis Koppenhaver",
       "team": null,
+      "position": "TE",
+      "status": "Active"
+    },
+    {
+      "player_id": "5906",
+      "full_name": "Dawson Knox",
+      "team": "BUF",
       "position": "TE",
       "status": "Active"
     },
@@ -16777,6 +16756,13 @@
       "status": "Active"
     },
     {
+      "player_id": "12540",
+      "full_name": "Chimere Dike",
+      "team": "TEN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "12100",
       "full_name": "Chris Autman-Bell",
       "team": null,
@@ -17573,13 +17559,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "7090",
-      "full_name": "Darnell Mooney",
-      "team": "ATL",
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "7056",

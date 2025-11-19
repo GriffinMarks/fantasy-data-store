@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-19T07:24:26Z",
+  "generated_at": "2025-11-19T08:33:06Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -346,12 +346,12 @@
           "news_updated": 1759843850158
         },
         {
-          "player_id": "KC",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Kansas City",
-          "last_name": "Chiefs",
-          "team": "KC",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -450,6 +450,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759953642088
+        },
+        {
+          "player_id": "CLE",
+          "full_name": null,
+          "first_name": "Cleveland",
+          "last_name": "Browns",
+          "team": "CLE",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
@@ -1694,6 +1707,19 @@
           "news_updated": 1759726257256
         },
         {
+          "player_id": "11435",
+          "full_name": "Emanuel Wilson",
+          "first_name": "Emanuel",
+          "last_name": "Wilson",
+          "team": "GB",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759259752432
+        },
+        {
           "player_id": "12534",
           "full_name": "Kyle Monangai",
           "first_name": "Kyle",
@@ -2161,19 +2187,6 @@
           "news_updated": 1759741860293
         },
         {
-          "player_id": "5906",
-          "full_name": "Dawson Knox",
-          "first_name": "Dawson",
-          "last_name": "Knox",
-          "team": "BUF",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849431
-        },
-        {
           "player_id": "5917",
           "full_name": "Mecole Hardman",
           "first_name": "Mecole",
@@ -2198,6 +2211,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759738860319
+        },
+        {
+          "player_id": "9506",
+          "full_name": "Sean Tucker",
+          "first_name": "Sean",
+          "last_name": "Tucker",
+          "team": "TB",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849755
         },
         {
           "player_id": "96",
@@ -2399,6 +2425,19 @@
           "injury_body_part": "Ankle",
           "injury_start_date": null,
           "news_updated": 1759950941052
+        },
+        {
+          "player_id": "12713",
+          "full_name": "Andy Borregales",
+          "first_name": "Andy",
+          "last_name": "Borregales",
+          "team": "NE",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849632
         },
         {
           "player_id": "3163",
@@ -2817,6 +2856,19 @@
           "news_updated": 1759746360603
         },
         {
+          "player_id": "12524",
+          "full_name": "Shedeur Sanders",
+          "first_name": "Shedeur",
+          "last_name": "Sanders",
+          "team": "CLE",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759941040004
+        },
+        {
           "player_id": "12533",
           "full_name": "Jacory Croskey-Merritt",
           "first_name": "Jacory",
@@ -2830,19 +2882,6 @@
           "news_updated": 1759847447787
         },
         {
-          "player_id": "12540",
-          "full_name": "Chimere Dike",
-          "first_name": "Chimere",
-          "last_name": "Dike",
-          "team": "TEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759889460417
-        },
-        {
           "player_id": "5045",
           "full_name": "Courtland Sutton",
           "first_name": "Courtland",
@@ -2854,6 +2893,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759790142494
+        },
+        {
+          "player_id": "7090",
+          "full_name": "Darnell Mooney",
+          "first_name": "Darnell",
+          "last_name": "Mooney",
+          "team": "ATL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Hamstring",
+          "injury_start_date": null,
+          "news_updated": 1759154753922
         },
         {
           "player_id": "8676",
@@ -2870,9 +2922,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "12540"
-      ]
+      "ir": []
     },
     {
       "roster_id": 14,
