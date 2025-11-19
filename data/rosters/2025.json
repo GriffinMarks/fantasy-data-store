@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-19T15:27:23Z",
+  "generated_at": "2025-11-19T16:33:08Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2320,17 +2320,17 @@
           "news_updated": 1759887658303
         },
         {
-          "player_id": "8259",
-          "full_name": "Cameron Dicker",
-          "first_name": "Cameron",
-          "last_name": "Dicker",
-          "team": "LAC",
+          "player_id": "12713",
+          "full_name": "Andy Borregales",
+          "first_name": "Andy",
+          "last_name": "Borregales",
+          "team": "NE",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849238
+          "news_updated": 1759843849632
         },
         {
           "player_id": "NE",
@@ -2400,19 +2400,6 @@
           "news_updated": 1759950941052
         },
         {
-          "player_id": "12713",
-          "full_name": "Andy Borregales",
-          "first_name": "Andy",
-          "last_name": "Borregales",
-          "team": "NE",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849632
-        },
-        {
           "player_id": "3163",
           "full_name": "Jared Goff",
           "first_name": "Jared",
@@ -2437,6 +2424,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759880157721
+        },
+        {
+          "player_id": "8259",
+          "full_name": "Cameron Dicker",
+          "first_name": "Cameron",
+          "last_name": "Dicker",
+          "team": "LAC",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849238
         },
         {
           "player_id": "9480",
@@ -2987,17 +2987,17 @@
           "news_updated": 1759848349273
         },
         {
-          "player_id": "7526",
-          "full_name": "Jaylen Waddle",
-          "first_name": "Jaylen",
-          "last_name": "Waddle",
-          "team": "MIA",
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte",
+          "first_name": "Kayshon",
+          "last_name": "Boutte",
+          "team": "NE",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759745760623
+          "news_updated": 1759843849350
         },
         {
           "player_id": "5189",
@@ -3013,11 +3013,11 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "LAC",
+          "player_id": "LV",
           "full_name": null,
-          "first_name": "Los Angeles",
-          "last_name": "Chargers",
-          "team": "LAC",
+          "first_name": "Las Vegas",
+          "last_name": "Raiders",
+          "team": "LV",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -3080,6 +3080,19 @@
           "news_updated": 1759937102995
         },
         {
+          "player_id": "7526",
+          "full_name": "Jaylen Waddle",
+          "first_name": "Jaylen",
+          "last_name": "Waddle",
+          "team": "MIA",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759745760623
+        },
+        {
           "player_id": "7611",
           "full_name": "Rhamondre Stevenson",
           "first_name": "Rhamondre",
@@ -3093,17 +3106,17 @@
           "news_updated": 1759933202508
         },
         {
-          "player_id": "9504",
-          "full_name": "Kayshon Boutte",
-          "first_name": "Kayshon",
-          "last_name": "Boutte",
-          "team": "NE",
-          "position": "WR",
+          "player_id": "7839",
+          "full_name": "Evan McPherson",
+          "first_name": "Evan",
+          "last_name": "McPherson",
+          "team": "CIN",
+          "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849350
+          "news_updated": 1759722058343
         }
       ],
       "taxi": [],

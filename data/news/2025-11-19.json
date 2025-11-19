@@ -1,84 +1,7 @@
 {
-  "generated_at": "2025-11-19T15:27:36Z",
+  "generated_at": "2025-11-19T16:33:21Z",
   "count": 24,
   "articles": [
-    {
-      "title": "Buzz around the NFL: Will Burrow or Daniels be back on the field? Which coaches are on the hot seat?",
-      "link": "https://www.espn.com/nfl/story/_/id/47012464/nfl-week-12-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Wed, 19 Nov 2025 10:12:38 EST",
-      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat? Here's what we're hearing.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Power Rankings: Bengals and Vikings drop, plus who is under the most pressure",
-      "link": "https://www.espn.com/nfl/story/_/id/46999579/nfl-week-12-power-rankings-poll-32-teams-2025-pressure-players-coaches-executives",
-      "published": "Wed, 19 Nov 2025 10:12:37 EST",
-      "summary": "Let's update our rankings ahead of Week 12.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Chase's 1-game suspension for spitting upheld",
-      "link": "https://www.espn.com/nfl/story/_/id/47016818/jamarr-chase-suspension-upheld-bengals-wr-sit-vs-pats",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Ja'Marr Chase's one-game suspension for spitting on Steelers defensive back Jalen Ramsey has been upheld, meaning the star Bengals wide receiver will not play against the Patriots.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Tomlin: Rodgers doesn't need surgery, status TBD",
-      "link": "https://www.espn.com/nfl/story/_/id/47011057/steelers-aaron-rodgers-need-surgery-wrist-status-tbd",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Steelers quarterback Aaron Rodgers will not need surgery to repair a fracture to his left wrist, coach Mike Tomlin announced Tuesday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Texans QB Stroud still in protocol, out vs. Bills",
-      "link": "https://www.espn.com/nfl/story/_/id/47012837/texans-cj-stroud-concussion-again-vs-bills-tnf",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "C.J. Stroud is out for Thursday night's game against the Bills, his third straight missed game due to a concussion. He's expected to be back next week, sources said.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Police say $200K stolen from QB Sanders' home",
-      "link": "https://www.espn.com/nfl/story/_/id/47011424/police-say-200k-stolen-shedeur-sanders-home-game",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Approximately $200,000 in property was stolen from the home of Browns rookie quarterback Shedeur Sanders during a break-in Sunday, according to police.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Carroll has 'no hesitation' in defending QB Smith",
-      "link": "https://www.espn.com/nfl/story/_/id/47013836/raiders-carroll-no-hesitation-defending-struggling-smith",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Raiders coach Pete Carroll defended Geno Smith after the quarterback recorded his 13th interception in the team's 33-16 loss to the Cowboys on Monday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Giants' Carter: Missed practice 'honest mistake'",
-      "link": "https://www.espn.com/nfl/story/_/id/47009978/missed-practice-honest-mistake-says-giants-abdul-carter",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Giants rookie Abdul Carter denies sleeping through a recent practice, saying a change in the team's original practice schedule led to an \"honest mistake.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cowboys' Lamb, Pickens benched for opening drive",
-      "link": "https://www.espn.com/nfl/story/_/id/47004927/cowboys-ceedee-lamb-george-pickens-benched-opening-series-vs-raiders-coach-decision",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Cowboys wide receivers CeeDee Lamb and George Pickens were kept on the bench for the first series Monday night against the Raiders in what the team said was a coach's decision.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Cards' Demercado has high ankle sprain",
-      "link": "https://www.espn.com/nfl/story/_/id/47009071/source-cardinals-emari-demercado-high-ankle-sprain",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "Cardinals running back Emari Demercado suffered a high ankle sprain and is unlikely to play Sunday against the Jaguars, a source told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83c\udf7c Baker and wife Emily expecting baby No. 2",
-      "link": "https://www.espn.com/nfl/story/_/id/47013637/baker-mayfield-wife-emily-expecting-second-child-tampa-bay-buccaneers",
-      "published": "Tue, 18 Nov 2025 22:12:26 EST",
-      "summary": "The couple wed in July 2019 and have a daughter, Kova Jade, born in April 2024.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
     {
       "title": "Miller's new NFL mock draft: 32 first-round pick predictions -- and two trades -- five months out",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/47000736/2026-nfl-mock-draft-first-round-predictions-32-picks-matt-miller",
@@ -87,10 +10,87 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Browns say QB Sanders to make 1st NFL start",
+      "link": "https://www.espn.com/nfl/story/_/id/47023248/browns-qb-shedeur-sanders-make-1st-nfl-start-coach-says",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Shedeur Sanders will start at quarterback for the Browns against the Raiders, coach Kevin Stefanski said.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Chase's 1-game suspension for spitting upheld",
+      "link": "https://www.espn.com/nfl/story/_/id/47016818/jamarr-chase-suspension-upheld-bengals-wr-sit-vs-pats",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Ja'Marr Chase's one-game suspension for spitting on Steelers defensive back Jalen Ramsey has been upheld, meaning the star Bengals wide receiver will not play against the Patriots.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tomlin: Rodgers doesn't need surgery, status TBD",
+      "link": "https://www.espn.com/nfl/story/_/id/47011057/steelers-aaron-rodgers-need-surgery-wrist-status-tbd",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Steelers quarterback Aaron Rodgers will not need surgery to repair a fracture to his left wrist, coach Mike Tomlin announced Tuesday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Texans QB Stroud still in protocol, out vs. Bills",
+      "link": "https://www.espn.com/nfl/story/_/id/47012837/texans-cj-stroud-concussion-again-vs-bills-tnf",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "C.J. Stroud is out for Thursday night's game against the Bills, his third straight missed game due to a concussion. He's expected to be back next week, sources said.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Anderson, Craig among football HOF semifinalists",
+      "link": "https://www.espn.com/nfl/story/_/id/47023259/ken-anderson-roger-craig-hall-fame-semifinalists",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Former MVP Ken Anderson, versatile running back Roger Craig and former AFL star Otis Taylor are among the nine semifinalists for the Pro Football Hall of Fame's Class of 2026 in the seniors category.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Carroll has 'no hesitation' in defending QB Smith",
+      "link": "https://www.espn.com/nfl/story/_/id/47013836/raiders-carroll-no-hesitation-defending-struggling-smith",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Raiders coach Pete Carroll defended Geno Smith after the quarterback recorded his 13th interception in the team's 33-16 loss to the Cowboys on Monday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Giants' Carter: Missed practice 'honest mistake'",
+      "link": "https://www.espn.com/nfl/story/_/id/47009978/missed-practice-honest-mistake-says-giants-abdul-carter",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Giants rookie Abdul Carter denies sleeping through a recent practice, saying a change in the team's original practice schedule led to an \"honest mistake.\"",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Cowboys' Lamb, Pickens benched for opening drive",
+      "link": "https://www.espn.com/nfl/story/_/id/47004927/cowboys-ceedee-lamb-george-pickens-benched-opening-series-vs-raiders-coach-decision",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "Cowboys wide receivers CeeDee Lamb and George Pickens were kept on the bench for the first series Monday night against the Raiders in what the team said was a coach's decision.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83c\udf7c Baker and wife Emily expecting baby No. 2",
+      "link": "https://www.espn.com/nfl/story/_/id/47013637/baker-mayfield-wife-emily-expecting-second-child-tampa-bay-buccaneers",
+      "published": "Wed, 19 Nov 2025 11:17:02 EST",
+      "summary": "The couple wed in July 2019 and have a daughter, Kova Jade, born in April 2024.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Can Colts RB Jonathan Taylor win MVP? Here's how he stacks up against four QB candidates",
       "link": "https://www.espn.com/nfl/story/_/id/47013992/mvp-jonathan-taylor-matthew-stafford-josh-allen-drake-maye-patrick-mahomes",
       "published": "Wed, 19 Nov 2025 10:04:51 EST",
       "summary": "Matthew Stafford is now the favorite to win MVP, but can he hold off Drake Maye, Josh Allen, Patrick Mahomes and Taylor?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Buzz around the NFL: Will Burrow or Daniels be back on the field? Which coaches are on the hot seat?",
+      "link": "https://www.espn.com/nfl/story/_/id/47012464/nfl-week-12-buzz-news-updates-fantasy-intel-questions-predictions",
+      "published": "Wed, 19 Nov 2025 10:38:09 EST",
+      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Power Rankings: Bengals and Vikings drop, plus who is under the most pressure",
+      "link": "https://www.espn.com/nfl/story/_/id/46999579/nfl-week-12-power-rankings-poll-32-teams-2025-pressure-players-coaches-executives",
+      "published": "Wed, 19 Nov 2025 10:36:17 EST",
+      "summary": "Let's update our rankings ahead of Week 12.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -115,16 +115,16 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Matchup rankings: Upgrade Tetairoa McMillan, downgrade Dak Prescott",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47012514/fantasy-football-rankings-tips-nfl-week-12-matchups-qb-rb-wr-te",
-      "published": "Wed, 19 Nov 2025 08:48:08 EST",
-      "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions: QB, RB, WR and TE.",
+      "title": "Facts vs. Feelings: All in on a healthy Brock Purdy, worried about Justin Jefferson",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/47022271/fantasy-football-start-sit-add-week-12",
+      "published": "Wed, 19 Nov 2025 11:01:54 EST",
+      "summary": "Why to feel good about starting Brock Purdy and Quinshon Judkins, but be worried about Justin Jefferson.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Fantasy football rankings for Week 12",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank25main-46028352/fantasy-football-rankings-2025-nfl-week-qb-rb-wr-te-dst",
-      "published": "Wed, 19 Nov 2025 08:48:08 EST",
+      "published": "Wed, 19 Nov 2025 11:01:54 EST",
       "summary": "Weekly individual and composite rankings for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
