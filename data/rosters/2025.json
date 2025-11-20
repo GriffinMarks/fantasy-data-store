@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T13:33:36Z",
+  "generated_at": "2025-11-20T14:25:13Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2989,17 +2989,17 @@
           "news_updated": 1759843849350
         },
         {
-          "player_id": "5189",
-          "full_name": "Eddy Pineiro",
-          "first_name": "Eddy",
-          "last_name": "Pineiro",
-          "team": "SF",
+          "player_id": "7839",
+          "full_name": "Evan McPherson",
+          "first_name": "Evan",
+          "last_name": "McPherson",
+          "team": "CIN",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759517441799
+          "news_updated": 1759722058343
         },
         {
           "player_id": "LV",
@@ -3041,6 +3041,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759848647940
+        },
+        {
+          "player_id": "5189",
+          "full_name": "Eddy Pineiro",
+          "first_name": "Eddy",
+          "last_name": "Pineiro",
+          "team": "SF",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759517441799
         },
         {
           "player_id": "5872",
@@ -3093,19 +3106,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759933202508
-        },
-        {
-          "player_id": "7839",
-          "full_name": "Evan McPherson",
-          "first_name": "Evan",
-          "last_name": "McPherson",
-          "team": "CIN",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759722058343
         }
       ],
       "taxi": [],
