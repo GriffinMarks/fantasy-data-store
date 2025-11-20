@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T05:24:58Z",
+  "generated_at": "2025-11-20T06:36:12Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -761,17 +761,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "11625",
-          "full_name": "Adonai Mitchell",
-          "first_name": "Adonai",
-          "last_name": "Mitchell",
-          "team": "IND",
+          "player_id": "10226",
+          "full_name": "Andrei Iosivas",
+          "first_name": "Andrei",
+          "last_name": "Iosivas",
+          "team": "CIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759769461592
+          "news_updated": 1759732558799
         },
         {
           "player_id": "11533",
@@ -802,6 +802,19 @@
       ],
       "bench": [
         {
+          "player_id": "11625",
+          "full_name": "Adonai Mitchell",
+          "first_name": "Adonai",
+          "last_name": "Mitchell",
+          "team": "IND",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759769461592
+        },
+        {
           "player_id": "11627",
           "full_name": "Troy Franklin",
           "first_name": "Troy",
@@ -813,19 +826,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759790742367
-        },
-        {
-          "player_id": "11792",
-          "full_name": "Will Reichard",
-          "first_name": "Will",
-          "last_name": "Reichard",
-          "team": "MIN",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759860348977
         },
         {
           "player_id": "2216",

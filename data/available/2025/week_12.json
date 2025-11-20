@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T05:24:59Z",
+  "generated_at": "2025-11-20T06:36:13Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -1219,6 +1219,13 @@
       "player_id": "3678",
       "full_name": "Wil Lutz",
       "team": "DEN",
+      "position": "K",
+      "status": "Active"
+    },
+    {
+      "player_id": "11792",
+      "full_name": "Will Reichard",
+      "team": "MIN",
       "position": "K",
       "status": "Active"
     },
@@ -15492,13 +15499,6 @@
       "player_id": "627",
       "full_name": "Andre Roberts",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "10226",
-      "full_name": "Andrei Iosivas",
-      "team": "CIN",
       "position": "WR",
       "status": "Active"
     },
