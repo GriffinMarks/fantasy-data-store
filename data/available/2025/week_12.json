@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T11:21:41Z",
+  "generated_at": "2025-11-20T12:51:16Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -57,13 +57,6 @@
       "player_id": "CAR",
       "full_name": null,
       "team": "CAR",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "JAX",
-      "full_name": null,
-      "team": "JAX",
       "position": "DEF",
       "status": null
     },
@@ -5720,6 +5713,13 @@
       "player_id": "12476",
       "full_name": "Devin Neal",
       "team": "NO",
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "6130",
+      "full_name": "Devin Singletary",
+      "team": "NYG",
       "position": "RB",
       "status": "Active"
     },

@@ -1,9 +1,34 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-20T11:21:46Z",
+  "generated_at": "2025-11-20T12:51:24Z",
   "league_id": "1262790170931892224",
   "moves": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1763641239181,
+      "settings": null,
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "1121958347281915904",
+      "transaction_id": "1297209013850624000",
+      "adds": {
+        "JAX": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": {
+        "6130": 1
+      },
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1763641239181,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -17,12 +42,12 @@
       "adds": {
         "10226": 4
       },
-      "drops": {
-        "11792": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "11792": 4
+      },
       "roster_ids": [
         4
       ],
@@ -42,12 +67,12 @@
       "adds": {
         "SF": 3
       },
-      "drops": {
-        "12499": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12499": 3
+      },
       "roster_ids": [
         3
       ],
@@ -67,10 +92,10 @@
       "adds": {
         "7839": 14
       },
-      "drops": null,
       "consenter_ids": [
         14
       ],
+      "drops": null,
       "roster_ids": [
         14
       ],
@@ -90,12 +115,12 @@
       "adds": {
         "LV": 14
       },
-      "drops": {
-        "LAC": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "LAC": 14
+      },
       "roster_ids": [
         14
       ],
@@ -113,12 +138,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1296853246073126912",
       "adds": null,
-      "drops": {
-        "5917": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "5917": 10
+      },
       "roster_ids": [
         10
       ],
