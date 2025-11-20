@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T18:36:16Z",
+  "generated_at": "2025-11-20T19:20:02Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -787,11 +787,11 @@
           "news_updated": 1759715457484
         },
         {
-          "player_id": "CHI",
+          "player_id": "BUF",
           "full_name": null,
-          "first_name": "Chicago",
-          "last_name": "Bears",
-          "team": "CHI",
+          "first_name": "Buffalo",
+          "last_name": "Bills",
+          "team": "BUF",
           "position": "DEF",
           "status": null,
           "injury_status": null,

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-20T18:36:17Z",
+  "generated_at": "2025-11-20T19:20:03Z",
   "league_id": "1262790170931892224",
   "count": 3750,
   "players": [
@@ -75,13 +75,6 @@
       "status": null
     },
     {
-      "player_id": "BUF",
-      "full_name": null,
-      "team": "BUF",
-      "position": "DEF",
-      "status": null
-    },
-    {
       "player_id": "NYG",
       "full_name": null,
       "team": "NYG",
@@ -92,6 +85,13 @@
       "player_id": "TEN",
       "full_name": null,
       "team": "TEN",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "CHI",
+      "full_name": null,
+      "team": "CHI",
       "position": "DEF",
       "status": null
     },
