@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-21T18:32:17Z",
+  "generated_at": "2025-11-21T19:20:08Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3749,
   "players": [
     {
       "player_id": "PIT",
@@ -19097,13 +19097,6 @@
       "player_id": "11024",
       "full_name": "Grant DuBose",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "5970",
-      "full_name": "Greg Dortch",
-      "team": "ARI",
       "position": "WR",
       "status": "Active"
     },
