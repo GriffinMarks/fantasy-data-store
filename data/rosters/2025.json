@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-22T22:22:39Z",
+  "generated_at": "2025-11-22T23:22:26Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -923,17 +923,17 @@
           "news_updated": 1759843849852
         },
         {
-          "player_id": "9226",
-          "full_name": "De'Von Achane",
-          "first_name": "De'Von",
-          "last_name": "Achane",
-          "team": "MIA",
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "first_name": "Kareem",
+          "last_name": "Hunt",
+          "team": "KC",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759745460478
+          "news_updated": 1759847749759
         },
         {
           "player_id": "4199",
@@ -988,17 +988,17 @@
           "news_updated": 1759716356294
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
-          "position": "WR",
+          "player_id": "12518",
+          "full_name": "Tyler Warren",
+          "first_name": "Tyler",
+          "last_name": "Warren",
+          "team": "IND",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
+          "news_updated": 1759881358279
         },
         {
           "player_id": "2020",
@@ -1040,32 +1040,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870859628
-        },
-        {
-          "player_id": "12518",
-          "full_name": "Tyler Warren",
-          "first_name": "Tyler",
-          "last_name": "Warren",
-          "team": "IND",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759881358279
-        },
-        {
-          "player_id": "4098",
-          "full_name": "Kareem Hunt",
-          "first_name": "Kareem",
-          "last_name": "Hunt",
-          "team": "KC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759847749759
         },
         {
           "player_id": "4177",
@@ -1118,6 +1092,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727757412
+        },
+        {
+          "player_id": "9226",
+          "full_name": "De'Von Achane",
+          "first_name": "De'Von",
+          "last_name": "Achane",
+          "team": "MIA",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759745460478
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
