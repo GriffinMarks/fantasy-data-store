@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-22T11:18:00Z",
+  "generated_at": "2025-11-22T12:43:44Z",
   "league_id": "1262790170931892224",
   "count": 3749,
   "players": [
@@ -4737,6 +4737,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "12455",
+      "full_name": "Brashard Smith",
+      "team": "KC",
+      "position": "RB",
+      "status": "Active"
+    },
+    {
       "player_id": "2768",
       "full_name": "Braylon Heard",
       "team": null,
@@ -5713,13 +5720,6 @@
       "player_id": "12476",
       "full_name": "Devin Neal",
       "team": "NO",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "6130",
-      "full_name": "Devin Singletary",
-      "team": "NYG",
       "position": "RB",
       "status": "Active"
     },

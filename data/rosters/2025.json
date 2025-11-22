@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-22T11:17:59Z",
+  "generated_at": "2025-11-22T12:43:43Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1029,19 +1029,6 @@
       ],
       "bench": [
         {
-          "player_id": "12455",
-          "full_name": "Brashard Smith",
-          "first_name": "Brashard",
-          "last_name": "Smith",
-          "team": "KC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759931402832
-        },
-        {
           "player_id": "12490",
           "full_name": "Bhayshul Tuten",
           "first_name": "Bhayshul",
@@ -1092,6 +1079,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759762860959
+        },
+        {
+          "player_id": "6130",
+          "full_name": "Devin Singletary",
+          "first_name": "Devin",
+          "last_name": "Singletary",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849282
         },
         {
           "player_id": "8125",
