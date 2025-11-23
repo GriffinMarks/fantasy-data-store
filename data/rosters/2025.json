@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-23T16:28:14Z",
+  "generated_at": "2025-11-23T17:20:00Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -696,19 +696,6 @@
           "news_updated": 1759848948010
         },
         {
-          "player_id": "5850",
-          "full_name": "Josh Jacobs",
-          "first_name": "Josh",
-          "last_name": "Jacobs",
-          "team": "GB",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759930502403
-        },
-        {
           "player_id": "11655",
           "full_name": "Tyrone Tracy",
           "first_name": "Tyrone",
@@ -720,6 +707,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759944040385
+        },
+        {
+          "player_id": "7607",
+          "full_name": "Michael Carter",
+          "first_name": "Michael",
+          "last_name": "Carter",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759873857105
         },
         {
           "player_id": "10232",
@@ -867,17 +867,17 @@
           "news_updated": 1759843849827
         },
         {
-          "player_id": "4988",
-          "full_name": "Nick Chubb",
-          "first_name": "Nick",
-          "last_name": "Chubb",
-          "team": "HOU",
+          "player_id": "5850",
+          "full_name": "Josh Jacobs",
+          "first_name": "Josh",
+          "last_name": "Jacobs",
+          "team": "GB",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759770661065
+          "news_updated": 1759930502403
         },
         {
           "player_id": "8112",
