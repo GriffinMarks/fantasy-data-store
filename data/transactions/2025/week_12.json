@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-23T23:22:32Z",
+  "generated_at": "2025-11-24T02:04:26Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -17,12 +17,12 @@
       "adds": {
         "7607": 4
       },
-      "drops": {
-        "4988": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "4988": 4
+      },
       "roster_ids": [
         4
       ],
@@ -42,10 +42,10 @@
       "adds": {
         "5970": 7
       },
-      "drops": null,
       "consenter_ids": [
         7
       ],
+      "drops": null,
       "roster_ids": [
         7
       ],
@@ -65,12 +65,12 @@
       "adds": {
         "BUF": 4
       },
-      "drops": {
-        "CHI": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "CHI": 4
+      },
       "roster_ids": [
         4
       ],
@@ -94,12 +94,12 @@
       "adds": {
         "6130": 5
       },
-      "drops": {
-        "12455": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "12455": 5
+      },
       "roster_ids": [
         5
       ],
@@ -119,12 +119,12 @@
       "adds": {
         "JAX": 1
       },
-      "drops": {
-        "6130": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "6130": 1
+      },
       "roster_ids": [
         1
       ],
@@ -144,12 +144,12 @@
       "adds": {
         "10226": 4
       },
-      "drops": {
-        "11792": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "11792": 4
+      },
       "roster_ids": [
         4
       ],
@@ -169,12 +169,12 @@
       "adds": {
         "SF": 3
       },
-      "drops": {
-        "12499": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12499": 3
+      },
       "roster_ids": [
         3
       ],
@@ -194,10 +194,10 @@
       "adds": {
         "7839": 14
       },
-      "drops": null,
       "consenter_ids": [
         14
       ],
+      "drops": null,
       "roster_ids": [
         14
       ],
@@ -217,12 +217,12 @@
       "adds": {
         "LV": 14
       },
-      "drops": {
-        "LAC": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "LAC": 14
+      },
       "roster_ids": [
         14
       ],
@@ -240,12 +240,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1296853246073126912",
       "adds": null,
-      "drops": {
-        "5917": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "5917": 10
+      },
       "roster_ids": [
         10
       ],
