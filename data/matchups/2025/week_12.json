@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-24T20:28:23Z",
+  "generated_at": "2025-11-24T21:24:08Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "4195",
             "SF"
           ],
-          "points": 84.66,
+          "points": 84.76,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "11539",
             "DET"
           ],
-          "points": 55.92,
+          "points": 56.02,
           "projected_points": null
         }
       ]
