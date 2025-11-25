@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-25T20:28:38Z",
+  "generated_at": "2025-11-25T21:23:17Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1362,17 +1362,17 @@
       "points_against": 1236,
       "starters": [
         {
-          "player_id": "6804",
-          "full_name": "Jordan Love",
-          "first_name": "Jordan",
-          "last_name": "Love",
-          "team": "GB",
+          "player_id": "6797",
+          "full_name": "Justin Herbert",
+          "first_name": "Justin",
+          "last_name": "Herbert",
+          "team": "LAC",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759866949700
+          "news_updated": 1759843850007
         },
         {
           "player_id": "8138",
@@ -1414,17 +1414,17 @@
           "news_updated": 1759881058009
         },
         {
-          "player_id": "6801",
-          "full_name": "Tee Higgins",
-          "first_name": "Tee",
-          "last_name": "Higgins",
+          "player_id": "7564",
+          "full_name": "Ja'Marr Chase",
+          "first_name": "Ja'Marr",
+          "last_name": "Chase",
           "team": "CIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759731059106
+          "news_updated": 1759713357053
         },
         {
           "player_id": "8131",
@@ -1440,17 +1440,17 @@
           "news_updated": 1759903261405
         },
         {
-          "player_id": "5970",
-          "full_name": "Greg Dortch",
-          "first_name": "Greg",
-          "last_name": "Dortch",
-          "team": "ARI",
-          "position": "WR",
+          "player_id": "12489",
+          "full_name": "RJ Harvey",
+          "first_name": "RJ",
+          "last_name": "Harvey",
+          "team": "DEN",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759853149199
+          "news_updated": 1759716657368
         },
         {
           "player_id": "4227",
@@ -1507,43 +1507,43 @@
           "news_updated": 1759752660039
         },
         {
-          "player_id": "12489",
-          "full_name": "RJ Harvey",
-          "first_name": "RJ",
-          "last_name": "Harvey",
-          "team": "DEN",
-          "position": "RB",
+          "player_id": "5970",
+          "full_name": "Greg Dortch",
+          "first_name": "Greg",
+          "last_name": "Dortch",
+          "team": "ARI",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759716657368
+          "news_updated": 1759853149199
         },
         {
-          "player_id": "6797",
-          "full_name": "Justin Herbert",
-          "first_name": "Justin",
-          "last_name": "Herbert",
-          "team": "LAC",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850007
-        },
-        {
-          "player_id": "7564",
-          "full_name": "Ja'Marr Chase",
-          "first_name": "Ja'Marr",
-          "last_name": "Chase",
+          "player_id": "6801",
+          "full_name": "Tee Higgins",
+          "first_name": "Tee",
+          "last_name": "Higgins",
           "team": "CIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759713357053
+          "news_updated": 1759731059106
+        },
+        {
+          "player_id": "6804",
+          "full_name": "Jordan Love",
+          "first_name": "Jordan",
+          "last_name": "Love",
+          "team": "GB",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759866949700
         },
         {
           "player_id": "8205",
