@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-25T03:20:00Z",
+  "generated_at": "2025-11-25T04:31:07Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "4195",
             "SF"
           ],
-          "points": 94.36,
+          "points": 97.56,
           "projected_points": null
         },
         {
@@ -138,7 +138,7 @@
             "3451",
             "CLE"
           ],
-          "points": 153.68,
+          "points": 157.78,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "12713",
             "NE"
           ],
-          "points": 152.86,
+          "points": 154.86,
           "projected_points": null
         }
       ]
@@ -194,7 +194,7 @@
             "11539",
             "DET"
           ],
-          "points": 66.92,
+          "points": 69.82,
           "projected_points": null
         }
       ]
@@ -233,7 +233,7 @@
             "17",
             "PHI"
           ],
-          "points": 81.26,
+          "points": 84.76,
           "projected_points": null
         }
       ]
