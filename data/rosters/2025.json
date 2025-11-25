@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-25T15:28:13Z",
+  "generated_at": "2025-11-25T16:34:27Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -268,17 +268,17 @@
           "news_updated": 1759102850446
         },
         {
-          "player_id": "7021",
-          "full_name": "Rico Dowdle",
-          "first_name": "Rico",
-          "last_name": "Dowdle",
-          "team": "CAR",
+          "player_id": "8228",
+          "full_name": "Jaylen Warren",
+          "first_name": "Jaylen",
+          "last_name": "Warren",
+          "team": "PIT",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759849547926
+          "news_updated": 1759953642088
         },
         {
           "player_id": "5859",
@@ -426,6 +426,19 @@
           "news_updated": 1759499738590
         },
         {
+          "player_id": "7021",
+          "full_name": "Rico Dowdle",
+          "first_name": "Rico",
+          "last_name": "Dowdle",
+          "team": "CAR",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759849547926
+        },
+        {
           "player_id": "7922",
           "full_name": "Riley Patterson",
           "first_name": "Riley",
@@ -437,19 +450,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843850158
-        },
-        {
-          "player_id": "8228",
-          "full_name": "Jaylen Warren",
-          "first_name": "Jaylen",
-          "last_name": "Warren",
-          "team": "PIT",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759953642088
         }
       ],
       "taxi": [],
@@ -2271,17 +2271,17 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "9753",
-          "full_name": "Zach Charbonnet",
-          "first_name": "Zach",
-          "last_name": "Charbonnet",
-          "team": "SEA",
+          "player_id": "12507",
+          "full_name": "Omarion Hampton",
+          "first_name": "Omarion",
+          "last_name": "Hampton",
+          "team": "LAC",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759843849573
+          "news_updated": 1759950941052
         },
         {
           "player_id": "7547",
@@ -2323,17 +2323,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "10213",
-          "full_name": "Tre Tucker",
-          "first_name": "Tre",
-          "last_name": "Tucker",
-          "team": "LV",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "player_id": "11589",
+          "full_name": "Trey Benson",
+          "first_name": "Trey",
+          "last_name": "Benson",
+          "team": "ARI",
+          "position": "RB",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Knee",
           "injury_start_date": null,
-          "news_updated": 1759887658303
+          "news_updated": 1759341902592
         },
         {
           "player_id": "12713",
@@ -2364,30 +2364,17 @@
       ],
       "bench": [
         {
-          "player_id": "11571",
-          "full_name": "Isaiah Davis",
-          "first_name": "Isaiah",
-          "last_name": "Davis",
-          "team": "NYJ",
-          "position": "RB",
+          "player_id": "10213",
+          "full_name": "Tre Tucker",
+          "first_name": "Tre",
+          "last_name": "Tucker",
+          "team": "LV",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759767361308
-        },
-        {
-          "player_id": "11589",
-          "full_name": "Trey Benson",
-          "first_name": "Trey",
-          "last_name": "Benson",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Knee",
-          "injury_start_date": null,
-          "news_updated": 1759341902592
+          "news_updated": 1759887658303
         },
         {
           "player_id": "11628",
@@ -2401,19 +2388,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870256947
-        },
-        {
-          "player_id": "12507",
-          "full_name": "Omarion Hampton",
-          "first_name": "Omarion",
-          "last_name": "Hampton",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Ankle",
-          "injury_start_date": null,
-          "news_updated": 1759950941052
         },
         {
           "player_id": "3163",
@@ -2466,12 +2440,24 @@
           "injury_body_part": "Quadriceps",
           "injury_start_date": null,
           "news_updated": 1759871756930
+        },
+        {
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "team": "SEA",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849573
         }
       ],
       "taxi": [],
       "ir": [
-        "11589",
-        "12507"
+        "11628"
       ]
     },
     {

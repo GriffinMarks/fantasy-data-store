@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-25T15:28:15Z",
+  "generated_at": "2025-11-25T16:34:28Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3750,
   "players": [
     {
       "player_id": "PIT",
@@ -6254,6 +6254,13 @@
       "team": null,
       "position": "RB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "11571",
+      "full_name": "Isaiah Davis",
+      "team": "NYJ",
+      "position": "RB",
+      "status": "Active"
     },
     {
       "player_id": "1206",
