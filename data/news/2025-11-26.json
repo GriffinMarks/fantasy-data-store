@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T13:38:00Z",
+  "generated_at": "2025-11-26T14:27:06Z",
   "count": 24,
   "articles": [
     {
@@ -87,17 +87,24 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Sack record tracker: Cleveland's Myles Garrett on pace for NFL single-season record",
+      "link": "https://www.espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
+      "published": "Wed, 26 Nov 2025 08:56:02 EST",
+      "summary": "The Browns star has 18 sacks so far. Can he catch Michael Strahan's and T.J. Watt's record of 22.5 sacks?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Colts QB Daniel Jones is facing skepticism once again, and at a bad time",
+      "link": "https://www.espn.com/nfl/story/_/id/47100388/indianapolis-colts-quarterback-daniel-jones-needs-regain-form-vs-houston-texans",
+      "published": "Wed, 26 Nov 2025 08:55:52 EST",
+      "summary": "Indianapolis and its quarterback have lost two of its past three games and the schedule is getting tougher.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "How a Dak Prescott initiative saved a Cowboys exec with Stage 2 cancer",
       "link": "https://www.espn.com/nfl/story/_/id/47098713/how-dallas-cowboys-quarterback-dak-prescott-cancer-screening-changed-executive-friend-tad-carper-life",
       "published": "Wed, 26 Nov 2025 08:25:14 EST",
       "summary": "Dallas QB Dak Prescott and the senior VP of communications look back on their friendship through a fortified bond: \"It's bigger than football.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sack record tracker: Cleveland's Myles Garrett on pace for NFL single-season record",
-      "link": "https://www.espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
-      "published": "Wed, 26 Nov 2025 08:25:30 EST",
-      "summary": "The Browns star has 18 sacks so far. Can he catch Michael Strahan's and T.J. Watt's record of 22.5 sacks?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -119,13 +126,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47012915/nfl-week-12-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "published": "Wed, 26 Nov 2025 07:40:54 EST",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 12.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Colts QB Daniel Jones is facing skepticism once again, and at a bad time",
-      "link": "https://www.espn.com/nfl/story/_/id/47100388/indianapolis-colts-quarterback-daniel-jones-needs-regain-form-vs-houston-texans",
-      "published": "Wed, 26 Nov 2025 07:43:11 EST",
-      "summary": "Indianapolis and its quarterback have lost two of its past three games and the schedule is getting tougher.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -159,7 +159,7 @@
     {
       "title": "Omarion Hampton's practice window is open -- just in time for the fantasy trade deadline",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "published": "Tue, 25 Nov 2025 18:32:06 EST",
+      "published": "Wed, 26 Nov 2025 08:55:08 EST",
       "summary": "Kris Rhim provides an update on Hampton, and how the Chargers' backfield could look when he returns.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
