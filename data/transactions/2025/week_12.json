@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 12,
-  "generated_at": "2025-11-26T07:24:16Z",
+  "generated_at": "2025-11-26T08:34:30Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -25,6 +25,93 @@
         11
       ],
       "status_updated": 1764088410365,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1764088224475,
+      "settings": {
+        "seq": 1
+      },
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "604792816572366848",
+      "transaction_id": "1299083806057197568",
+      "adds": {
+        "12476": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "11637": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1764144425629,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1764044984572,
+      "settings": {
+        "seq": 2
+      },
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "1151413424695001088",
+      "transaction_id": "1298902444754898944",
+      "adds": {
+        "12540": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "drops": {
+        "10226": 4
+      },
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1764144425629,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1764044976549,
+      "settings": {
+        "seq": 0
+      },
+      "leg": 12,
+      "draft_picks": [],
+      "creator": "1151413424695001088",
+      "transaction_id": "1298902411103965184",
+      "adds": {
+        "LAC": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "drops": {
+        "BUF": 4
+      },
+      "roster_ids": [
+        4
+      ],
+      "status_updated": 1764144425629,
       "waiver_budget": []
     },
     {
