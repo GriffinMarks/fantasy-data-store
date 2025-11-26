@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-26T18:32:34Z",
+  "generated_at": "2025-11-26T19:19:16Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -3015,19 +3015,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11565",
-          "full_name": "J.J. McCarthy",
-          "first_name": "J.J.",
-          "last_name": "McCarthy",
-          "team": "MIN",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": "Out",
-          "injury_body_part": "Ankle",
-          "injury_start_date": null,
-          "news_updated": 1759877157371
-        },
         {
           "player_id": "12498",
           "full_name": "Mason Taylor",
