@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-27T01:55:14Z",
+  "generated_at": "2025-11-27T03:15:41Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -722,17 +722,17 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "8112",
-          "full_name": "Drake London",
-          "first_name": "Drake",
-          "last_name": "London",
-          "team": "ATL",
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
+          "first_name": "Chimere",
+          "last_name": "Dike",
+          "team": "TEN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759103150560
+          "news_updated": 1759889460417
         },
         {
           "player_id": "10229",
@@ -828,19 +828,6 @@
           "news_updated": 1759790742367
         },
         {
-          "player_id": "12540",
-          "full_name": "Chimere Dike",
-          "first_name": "Chimere",
-          "last_name": "Dike",
-          "team": "TEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759889460417
-        },
-        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "first_name": "Mike",
@@ -891,6 +878,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759873857105
+        },
+        {
+          "player_id": "8112",
+          "full_name": "Drake London",
+          "first_name": "Drake",
+          "last_name": "London",
+          "team": "ATL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759103150560
         }
       ],
       "taxi": [],
@@ -2296,30 +2296,30 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "11589",
-          "full_name": "Trey Benson",
-          "first_name": "Trey",
-          "last_name": "Benson",
+          "player_id": "11628",
+          "full_name": "Marvin Harrison",
+          "first_name": "Marvin",
+          "last_name": "Harrison",
           "team": "ARI",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Knee",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759341902592
+          "news_updated": 1759870256947
         },
         {
-          "player_id": "12713",
-          "full_name": "Andy Borregales",
-          "first_name": "Andy",
-          "last_name": "Borregales",
-          "team": "NE",
+          "player_id": "8259",
+          "full_name": "Cameron Dicker",
+          "first_name": "Cameron",
+          "last_name": "Dicker",
+          "team": "LAC",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849632
+          "news_updated": 1759843849238
         },
         {
           "player_id": "NE",
@@ -2350,17 +2350,17 @@
           "news_updated": 1759887658303
         },
         {
-          "player_id": "11628",
-          "full_name": "Marvin Harrison",
-          "first_name": "Marvin",
-          "last_name": "Harrison",
+          "player_id": "11589",
+          "full_name": "Trey Benson",
+          "first_name": "Trey",
+          "last_name": "Benson",
           "team": "ARI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "position": "RB",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Knee",
           "injury_start_date": null,
-          "news_updated": 1759870256947
+          "news_updated": 1759341902592
         },
         {
           "player_id": "3163",
@@ -2387,19 +2387,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759880157721
-        },
-        {
-          "player_id": "8259",
-          "full_name": "Cameron Dicker",
-          "first_name": "Cameron",
-          "last_name": "Dicker",
-          "team": "LAC",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849238
         },
         {
           "player_id": "9480",
@@ -2429,9 +2416,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "11628"
-      ]
+      "ir": []
     },
     {
       "roster_id": 12,
