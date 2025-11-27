@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-26T23:22:58Z",
+  "generated_at": "2025-11-27T01:55:15Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3753,
   "players": [
     {
       "player_id": "PIT",
@@ -864,6 +864,13 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
+    },
+    {
+      "player_id": "650",
+      "full_name": "Nick Folk",
+      "team": "NYJ",
+      "position": "K",
+      "status": "Active"
     },
     {
       "player_id": "168",
@@ -6007,6 +6014,13 @@
       "player_id": "11998",
       "full_name": "Emani Bailey",
       "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "11199",
+      "full_name": "Emari Demercado",
+      "team": "ARI",
       "position": "RB",
       "status": "Active"
     },

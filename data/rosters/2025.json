@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-26T23:22:57Z",
+  "generated_at": "2025-11-27T01:55:14Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1628,17 +1628,17 @@
           "news_updated": 1759843849994
         },
         {
-          "player_id": "8148",
-          "full_name": "Jameson Williams",
-          "first_name": "Jameson",
-          "last_name": "Williams",
-          "team": "DET",
+          "player_id": "8144",
+          "full_name": "Chris Olave",
+          "first_name": "Chris",
+          "last_name": "Olave",
+          "team": "NO",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759795543169
+          "news_updated": 1759720258301
         },
         {
           "player_id": "3214",
@@ -1654,17 +1654,17 @@
           "news_updated": 1759843849674
         },
         {
-          "player_id": "9756",
-          "full_name": "Jordan Addison",
-          "first_name": "Jordan",
-          "last_name": "Addison",
-          "team": "MIN",
+          "player_id": "5947",
+          "full_name": "Jakobi Meyers",
+          "first_name": "Jakobi",
+          "last_name": "Meyers",
+          "team": "LV",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759739460716
+          "news_updated": 1759735859473
         },
         {
           "player_id": "12711",
@@ -1760,30 +1760,30 @@
           "news_updated": 1759878658190
         },
         {
-          "player_id": "5947",
-          "full_name": "Jakobi Meyers",
-          "first_name": "Jakobi",
-          "last_name": "Meyers",
-          "team": "LV",
+          "player_id": "8148",
+          "full_name": "Jameson Williams",
+          "first_name": "Jameson",
+          "last_name": "Williams",
+          "team": "DET",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759735859473
+          "news_updated": 1759795543169
         },
         {
-          "player_id": "8144",
-          "full_name": "Chris Olave",
-          "first_name": "Chris",
-          "last_name": "Olave",
-          "team": "NO",
+          "player_id": "9756",
+          "full_name": "Jordan Addison",
+          "first_name": "Jordan",
+          "last_name": "Addison",
+          "team": "MIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759720258301
+          "news_updated": 1759739460716
         }
       ],
       "taxi": [],
@@ -2149,19 +2149,6 @@
       ],
       "bench": [
         {
-          "player_id": "11199",
-          "full_name": "Emari Demercado",
-          "first_name": "Emari",
-          "last_name": "Demercado",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759738260289
-        },
-        {
           "player_id": "12481",
           "full_name": "Cam Skattebo",
           "first_name": "Cam",
@@ -2186,19 +2173,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759741860293
-        },
-        {
-          "player_id": "650",
-          "full_name": "Nick Folk",
-          "first_name": "Nick",
-          "last_name": "Folk",
-          "team": "NYJ",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759719057828
         },
         {
           "player_id": "8408",
