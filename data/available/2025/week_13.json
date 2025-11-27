@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-27T20:25:06Z",
+  "generated_at": "2025-11-27T21:21:52Z",
   "league_id": "1262790170931892224",
-  "count": 3754,
+  "count": 3753,
   "players": [
     {
       "player_id": "BAL",
@@ -22,6 +22,13 @@
       "player_id": "ARI",
       "full_name": null,
       "team": "ARI",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "LV",
+      "full_name": null,
+      "team": "LV",
       "position": "DEF",
       "status": null
     },
@@ -57,13 +64,6 @@
       "player_id": "CAR",
       "full_name": null,
       "team": "CAR",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "NO",
-      "full_name": null,
-      "team": "NO",
       "position": "DEF",
       "status": null
     },
@@ -20714,13 +20714,6 @@
       "player_id": "12383",
       "full_name": "John Jiles",
       "team": "NE",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "8147",
-      "full_name": "John Metchie",
-      "team": "PHI",
       "position": "WR",
       "status": "Active"
     },

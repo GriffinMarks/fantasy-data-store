@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-27T20:25:05Z",
+  "generated_at": "2025-11-27T21:21:51Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2932,17 +2932,17 @@
           "news_updated": 1759848349273
         },
         {
-          "player_id": "9504",
-          "full_name": "Kayshon Boutte",
-          "first_name": "Kayshon",
-          "last_name": "Boutte",
-          "team": "NE",
+          "player_id": "7526",
+          "full_name": "Jaylen Waddle",
+          "first_name": "Jaylen",
+          "last_name": "Waddle",
+          "team": "MIA",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849350
+          "news_updated": 1759745760623
         },
         {
           "player_id": "7839",
@@ -2958,11 +2958,11 @@
           "news_updated": 1759722058343
         },
         {
-          "player_id": "LV",
+          "player_id": "NO",
           "full_name": null,
-          "first_name": "Las Vegas",
-          "last_name": "Raiders",
-          "team": "LV",
+          "first_name": "New Orleans",
+          "last_name": "Saints",
+          "team": "NO",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -3025,19 +3025,6 @@
           "news_updated": 1759937102995
         },
         {
-          "player_id": "7526",
-          "full_name": "Jaylen Waddle",
-          "first_name": "Jaylen",
-          "last_name": "Waddle",
-          "team": "MIA",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759745760623
-        },
-        {
           "player_id": "7611",
           "full_name": "Rhamondre Stevenson",
           "first_name": "Rhamondre",
@@ -3049,6 +3036,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759933202508
+        },
+        {
+          "player_id": "8147",
+          "full_name": "John Metchie",
+          "first_name": "John",
+          "last_name": "Metchie",
+          "team": "PHI",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759254651829
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte",
+          "first_name": "Kayshon",
+          "last_name": "Boutte",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849350
         }
       ],
       "taxi": [],
