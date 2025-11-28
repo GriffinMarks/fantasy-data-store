@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 13,
-  "generated_at": "2025-11-28T01:55:08Z",
+  "generated_at": "2025-11-28T03:15:31Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "4195",
             "SF"
           ],
-          "points": 11.12,
+          "points": 17.7,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "4227",
             "GB"
           ],
-          "points": 10.6,
+          "points": 28.1,
           "projected_points": null
         }
       ]
@@ -138,7 +138,7 @@
             "11539",
             "DET"
           ],
-          "points": 35.9,
+          "points": 38.48,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "7839",
             "NO"
           ],
-          "points": 47.94,
+          "points": 57.94,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "6650",
             "ATL"
           ],
-          "points": 38.3,
+          "points": 44.8,
           "projected_points": null
         },
         {
