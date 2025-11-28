@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 13,
-  "generated_at": "2025-11-28T19:19:54Z",
+  "generated_at": "2025-11-28T20:27:04Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -99,7 +99,7 @@
             "3451",
             "CLE"
           ],
-          "points": 16.8,
+          "points": 18.8,
           "projected_points": null
         },
         {
@@ -116,7 +116,7 @@
             "12711",
             "MIN"
           ],
-          "points": 2.0,
+          "points": 7.4,
           "projected_points": null
         }
       ]
@@ -272,7 +272,7 @@
             "17",
             "PHI"
           ],
-          "points": 0.6,
+          "points": 12.1,
           "projected_points": null
         }
       ]
