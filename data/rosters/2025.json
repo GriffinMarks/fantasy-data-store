@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-28T23:22:34Z",
+  "generated_at": "2025-11-29T01:54:45Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2242,17 +2242,17 @@
           "news_updated": 1759954543436
         },
         {
-          "player_id": "12507",
-          "full_name": "Omarion Hampton",
-          "first_name": "Omarion",
-          "last_name": "Hampton",
-          "team": "LAC",
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "team": "SEA",
           "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Ankle",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759950941052
+          "news_updated": 1759843849573
         },
         {
           "player_id": "7547",
@@ -2361,6 +2361,19 @@
           "news_updated": 1759341902592
         },
         {
+          "player_id": "12507",
+          "full_name": "Omarion Hampton",
+          "first_name": "Omarion",
+          "last_name": "Hampton",
+          "team": "LAC",
+          "position": "RB",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Ankle",
+          "injury_start_date": null,
+          "news_updated": 1759950941052
+        },
+        {
           "player_id": "3163",
           "full_name": "Jared Goff",
           "first_name": "Jared",
@@ -2398,19 +2411,6 @@
           "injury_body_part": "Quadriceps",
           "injury_start_date": null,
           "news_updated": 1759871756930
-        },
-        {
-          "player_id": "9753",
-          "full_name": "Zach Charbonnet",
-          "first_name": "Zach",
-          "last_name": "Charbonnet",
-          "team": "SEA",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849573
         }
       ],
       "taxi": [],
