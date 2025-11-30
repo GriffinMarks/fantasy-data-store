@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 13,
-  "generated_at": "2025-11-30T21:21:24Z",
+  "generated_at": "2025-11-30T22:23:17Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -38,7 +38,7 @@
             "4227",
             "GB"
           ],
-          "points": 55.7,
+          "points": 68.04,
           "projected_points": null
         }
       ]
@@ -60,7 +60,7 @@
             "11533",
             "LAC"
           ],
-          "points": 80.52,
+          "points": 95.52,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "2020",
             "LAR"
           ],
-          "points": 64.4,
+          "points": 74.78,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "3451",
             "CLE"
           ],
-          "points": 146.44,
+          "points": 157.34,
           "projected_points": null
         },
         {
@@ -116,7 +116,7 @@
             "12711",
             "MIN"
           ],
-          "points": 91.7,
+          "points": 93.7,
           "projected_points": null
         }
       ]
@@ -155,7 +155,7 @@
             "7839",
             "NO"
           ],
-          "points": 111.34,
+          "points": 112.04,
           "projected_points": null
         }
       ]
@@ -194,7 +194,7 @@
             "8259",
             "NE"
           ],
-          "points": 61.7,
+          "points": 69.0,
           "projected_points": null
         }
       ]
@@ -216,7 +216,7 @@
             "1945",
             "JAX"
           ],
-          "points": 103.8,
+          "points": 105.7,
           "projected_points": null
         },
         {
@@ -255,7 +255,7 @@
             "2747",
             "SEA"
           ],
-          "points": 32.6,
+          "points": 52.8,
           "projected_points": null
         },
         {
