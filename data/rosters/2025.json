@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-11-30T17:20:32Z",
+  "generated_at": "2025-11-30T18:33:30Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -986,17 +986,17 @@
           "news_updated": 1759716356294
         },
         {
-          "player_id": "5846",
-          "full_name": "DK Metcalf",
-          "first_name": "DK",
-          "last_name": "Metcalf",
-          "team": "PIT",
-          "position": "WR",
+          "player_id": "12518",
+          "full_name": "Tyler Warren",
+          "first_name": "Tyler",
+          "last_name": "Warren",
+          "team": "IND",
+          "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759877457388
+          "news_updated": 1759881358279
         },
         {
           "player_id": "2020",
@@ -1040,19 +1040,6 @@
           "news_updated": 1759870859628
         },
         {
-          "player_id": "12518",
-          "full_name": "Tyler Warren",
-          "first_name": "Tyler",
-          "last_name": "Warren",
-          "team": "IND",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759881358279
-        },
-        {
           "player_id": "4177",
           "full_name": "Mack Hollins",
           "first_name": "Mack",
@@ -1077,6 +1064,19 @@
           "injury_body_part": "Hamstring",
           "injury_start_date": null,
           "news_updated": 1759272653071
+        },
+        {
+          "player_id": "5846",
+          "full_name": "DK Metcalf",
+          "first_name": "DK",
+          "last_name": "Metcalf",
+          "team": "PIT",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759877457388
         },
         {
           "player_id": "6130",
