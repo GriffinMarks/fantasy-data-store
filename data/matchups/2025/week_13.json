@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 13,
-  "generated_at": "2025-12-02T01:59:34Z",
+  "generated_at": "2025-12-02T03:24:21Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -60,7 +60,7 @@
             "11533",
             "LAC"
           ],
-          "points": 89.82,
+          "points": 94.02,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "7839",
             "NO"
           ],
-          "points": 121.54,
+          "points": 129.14,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "6650",
             "ATL"
           ],
-          "points": 97.26,
+          "points": 99.26,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "8259",
             "NE"
           ],
-          "points": 121.2,
+          "points": 117.2,
           "projected_points": null
         }
       ]
@@ -216,7 +216,7 @@
             "1945",
             "JAX"
           ],
-          "points": 111.26,
+          "points": 118.86,
           "projected_points": null
         },
         {
@@ -255,7 +255,7 @@
             "2747",
             "SEA"
           ],
-          "points": 84.7,
+          "points": 82.7,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "17",
             "PHI"
           ],
-          "points": 49.52,
+          "points": 64.5,
           "projected_points": null
         }
       ]
