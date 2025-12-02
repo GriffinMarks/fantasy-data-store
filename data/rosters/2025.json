@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-02T06:39:30Z",
+  "generated_at": "2025-12-02T07:26:47Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1879,17 +1879,17 @@
           "news_updated": 1759843849714
         },
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
+          "player_id": "8167",
+          "full_name": "Christian Watson",
+          "first_name": "Christian",
+          "last_name": "Watson",
+          "team": "GB",
           "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "PUP",
+          "injury_body_part": "Knee - ACL",
           "injury_start_date": null,
-          "news_updated": 1759904759647
+          "news_updated": 1759843849484
         },
         {
           "player_id": "6650",
@@ -1931,6 +1931,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849968
+        },
+        {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759904759647
         },
         {
           "player_id": "4137",
@@ -1983,19 +1996,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759103150592
-        },
-        {
-          "player_id": "8167",
-          "full_name": "Christian Watson",
-          "first_name": "Christian",
-          "last_name": "Watson",
-          "team": "GB",
-          "position": "WR",
-          "status": "Inactive",
-          "injury_status": "PUP",
-          "injury_body_part": "Knee - ACL",
-          "injury_start_date": null,
-          "news_updated": 1759843849484
         },
         {
           "player_id": "IND",
