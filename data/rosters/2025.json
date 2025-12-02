@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-02T15:29:53Z",
+  "generated_at": "2025-12-02T16:35:59Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -15,17 +15,17 @@
       "points_against": 1347,
       "starters": [
         {
-          "player_id": "12508",
-          "full_name": "Jaxson Dart",
-          "first_name": "Jaxson",
-          "last_name": "Dart",
-          "team": "NYG",
+          "player_id": "11560",
+          "full_name": "Caleb Williams",
+          "first_name": "Caleb",
+          "last_name": "Williams",
+          "team": "CHI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759943140215
+          "news_updated": 1759153555491
         },
         {
           "player_id": "6813",
@@ -93,17 +93,17 @@
           "news_updated": 1759879557579
         },
         {
-          "player_id": "7567",
-          "full_name": "Kenneth Gainwell",
-          "first_name": "Kenneth",
-          "last_name": "Gainwell",
-          "team": "PIT",
-          "position": "RB",
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "first_name": "Alec",
+          "last_name": "Pierce",
+          "team": "IND",
+          "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Concussion",
           "injury_start_date": null,
-          "news_updated": 1759850148208
+          "news_updated": 1759954242047
         },
         {
           "player_id": "1945",
@@ -119,11 +119,11 @@
           "news_updated": 1759090252861
         },
         {
-          "player_id": "JAX",
+          "player_id": "HOU",
           "full_name": null,
-          "first_name": "Jacksonville",
-          "last_name": "Jaguars",
-          "team": "JAX",
+          "first_name": "Houston",
+          "last_name": "Texans",
+          "team": "HOU",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -133,19 +133,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11560",
-          "full_name": "Caleb Williams",
-          "first_name": "Caleb",
-          "last_name": "Williams",
-          "team": "CHI",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759153555491
-        },
         {
           "player_id": "11618",
           "full_name": "Jalen McMillan",
@@ -186,6 +173,19 @@
           "news_updated": 1759899359041
         },
         {
+          "player_id": "12508",
+          "full_name": "Jaxson Dart",
+          "first_name": "Jaxson",
+          "last_name": "Dart",
+          "team": "NYG",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759943140215
+        },
+        {
           "player_id": "12517",
           "full_name": "Colston Loveland",
           "first_name": "Colston",
@@ -199,24 +199,24 @@
           "news_updated": 1759267253156
         },
         {
-          "player_id": "8142",
-          "full_name": "Alec Pierce",
-          "first_name": "Alec",
-          "last_name": "Pierce",
-          "team": "IND",
-          "position": "WR",
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell",
+          "first_name": "Kenneth",
+          "last_name": "Gainwell",
+          "team": "PIT",
+          "position": "RB",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Concussion",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242047
+          "news_updated": 1759850148208
         },
         {
-          "player_id": "HOU",
+          "player_id": "JAX",
           "full_name": null,
-          "first_name": "Houston",
-          "last_name": "Texans",
-          "team": "HOU",
+          "first_name": "Jacksonville",
+          "last_name": "Jaguars",
+          "team": "JAX",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -242,17 +242,17 @@
       "points_against": 1272,
       "starters": [
         {
-          "player_id": "3257",
-          "full_name": "Jacoby Brissett",
-          "first_name": "Jacoby",
-          "last_name": "Brissett",
-          "team": "ARI",
+          "player_id": "5870",
+          "full_name": "Daniel Jones",
+          "first_name": "Daniel",
+          "last_name": "Jones",
+          "team": "IND",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1755441621254
+          "news_updated": 1759880457748
         },
         {
           "player_id": "9509",
@@ -320,17 +320,17 @@
           "news_updated": 1759738860345
         },
         {
-          "player_id": "12526",
-          "full_name": "Tetairoa McMillan",
-          "first_name": "Tetairoa",
-          "last_name": "McMillan",
-          "team": "CAR",
-          "position": "WR",
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "first_name": "Kimani",
+          "last_name": "Vidal",
+          "team": "LAC",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843850118
+          "news_updated": 1759950341754
         },
         {
           "player_id": "3451",
@@ -361,19 +361,6 @@
       ],
       "bench": [
         {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "first_name": "Kimani",
-          "last_name": "Vidal",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759950341754
-        },
-        {
           "player_id": "12476",
           "full_name": "Devin Neal",
           "first_name": "Devin",
@@ -400,17 +387,30 @@
           "news_updated": 1759843849209
         },
         {
-          "player_id": "5870",
-          "full_name": "Daniel Jones",
-          "first_name": "Daniel",
-          "last_name": "Jones",
-          "team": "IND",
+          "player_id": "12526",
+          "full_name": "Tetairoa McMillan",
+          "first_name": "Tetairoa",
+          "last_name": "McMillan",
+          "team": "CAR",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843850118
+        },
+        {
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "first_name": "Jacoby",
+          "last_name": "Brissett",
+          "team": "ARI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759880457748
+          "news_updated": 1755441621254
         },
         {
           "player_id": "6803",
@@ -2906,17 +2906,17 @@
           "news_updated": 1759905359635
         },
         {
-          "player_id": "8126",
-          "full_name": "Wan'Dale Robinson",
-          "first_name": "Wan'Dale",
-          "last_name": "Robinson",
-          "team": "NYG",
+          "player_id": "5872",
+          "full_name": "Deebo Samuel",
+          "first_name": "Deebo",
+          "last_name": "Samuel",
+          "team": "WAS",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759895158740
+          "news_updated": 1759721458513
         },
         {
           "player_id": "1466",
@@ -2999,19 +2999,6 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel",
-          "first_name": "Deebo",
-          "last_name": "Samuel",
-          "team": "WAS",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759721458513
-        },
-        {
           "player_id": "6806",
           "full_name": "J.K. Dobbins",
           "first_name": "J.K.",
@@ -3036,6 +3023,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759933202508
+        },
+        {
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson",
+          "first_name": "Wan'Dale",
+          "last_name": "Robinson",
+          "team": "NYG",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759895158740
         },
         {
           "player_id": "8147",
