@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-03T20:30:06Z",
+  "generated_at": "2025-12-03T21:22:50Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -694,17 +694,17 @@
           "news_updated": 1759848948010
         },
         {
-          "player_id": "11655",
-          "full_name": "Tyrone Tracy",
-          "first_name": "Tyrone",
-          "last_name": "Tracy",
-          "team": "NYG",
+          "player_id": "7607",
+          "full_name": "Michael Carter",
+          "first_name": "Michael",
+          "last_name": "Carter",
+          "team": "ARI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759944040385
+          "news_updated": 1759873857105
         },
         {
           "player_id": "5850",
@@ -720,17 +720,17 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "10232",
-          "full_name": "Michael Wilson",
-          "first_name": "Michael",
-          "last_name": "Wilson",
-          "team": "ARI",
+          "player_id": "8112",
+          "full_name": "Drake London",
+          "first_name": "Drake",
+          "last_name": "London",
+          "team": "ATL",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759904461734
+          "news_updated": 1759103150560
         },
         {
           "player_id": "10229",
@@ -759,17 +759,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "12540",
-          "full_name": "Chimere Dike",
-          "first_name": "Chimere",
-          "last_name": "Dike",
-          "team": "TEN",
+          "player_id": "11625",
+          "full_name": "Adonai Mitchell",
+          "first_name": "Adonai",
+          "last_name": "Mitchell",
+          "team": "IND",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759889460417
+          "news_updated": 1759769461592
         },
         {
           "player_id": "11533",
@@ -785,12 +785,12 @@
           "news_updated": 1759715457484
         },
         {
-          "player_id": "LAC",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Los Angeles",
-          "last_name": "Chargers",
-          "team": "LAC",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -800,17 +800,17 @@
       ],
       "bench": [
         {
-          "player_id": "11625",
-          "full_name": "Adonai Mitchell",
-          "first_name": "Adonai",
-          "last_name": "Mitchell",
-          "team": "IND",
+          "player_id": "10232",
+          "full_name": "Michael Wilson",
+          "first_name": "Michael",
+          "last_name": "Wilson",
+          "team": "ARI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759769461592
+          "news_updated": 1759904461734
         },
         {
           "player_id": "11627",
@@ -824,6 +824,32 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759790742367
+        },
+        {
+          "player_id": "11655",
+          "full_name": "Tyrone Tracy",
+          "first_name": "Tyrone",
+          "last_name": "Tracy",
+          "team": "NYG",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759944040385
+        },
+        {
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
+          "first_name": "Chimere",
+          "last_name": "Dike",
+          "team": "TEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759889460417
         },
         {
           "player_id": "2216",
@@ -865,30 +891,17 @@
           "news_updated": 1759843849827
         },
         {
-          "player_id": "7607",
-          "full_name": "Michael Carter",
-          "first_name": "Michael",
-          "last_name": "Carter",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Active",
+          "player_id": "WAS",
+          "full_name": null,
+          "first_name": "Washington",
+          "last_name": "Commanders",
+          "team": "WAS",
+          "position": "DEF",
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759873857105
-        },
-        {
-          "player_id": "8112",
-          "full_name": "Drake London",
-          "first_name": "Drake",
-          "last_name": "London",
-          "team": "ATL",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759103150560
+          "news_updated": null
         }
       ],
       "taxi": [],
