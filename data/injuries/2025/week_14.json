@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-03T07:26:45Z",
+  "generated_at": "2025-12-03T08:35:39Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -52,6 +52,16 @@
       "injury_body_part": "Shoulder",
       "injury_start_date": null,
       "news_updated": 1759947640663
+    },
+    {
+      "player_id": "7594",
+      "full_name": "Chuba Hubbard",
+      "team": "CAR",
+      "position": "RB",
+      "injury_status": "Questionable",
+      "injury_body_part": "Calf",
+      "injury_start_date": null,
+      "news_updated": 1759952743342
     },
     {
       "player_id": "4137",
@@ -112,6 +122,16 @@
       "injury_body_part": "Knee - PCL",
       "injury_start_date": null,
       "news_updated": 1759843849125
+    },
+    {
+      "player_id": "6865",
+      "full_name": "Colby Parkinson",
+      "team": "LAR",
+      "position": "TE",
+      "injury_status": "Questionable",
+      "injury_body_part": "Concussion",
+      "injury_start_date": null,
+      "news_updated": 1759787743162
     },
     {
       "player_id": "12517",
