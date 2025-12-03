@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-03T01:59:10Z",
+  "generated_at": "2025-12-03T03:23:05Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -333,17 +333,17 @@
           "news_updated": 1759950341754
         },
         {
-          "player_id": "3451",
-          "full_name": "Ka'imi Fairbairn",
-          "first_name": "Ka'imi",
-          "last_name": "Fairbairn",
-          "team": "HOU",
+          "player_id": "7922",
+          "full_name": "Riley Patterson",
+          "first_name": "Riley",
+          "last_name": "Patterson",
+          "team": "MIA",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759712157387
+          "news_updated": 1759843850158
         },
         {
           "player_id": "CLE",
@@ -413,6 +413,19 @@
           "news_updated": 1755441621254
         },
         {
+          "player_id": "3451",
+          "full_name": "Ka'imi Fairbairn",
+          "first_name": "Ka'imi",
+          "last_name": "Fairbairn",
+          "team": "HOU",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759712157387
+        },
+        {
           "player_id": "6803",
           "full_name": "Brandon Aiyuk",
           "first_name": "Brandon",
@@ -437,19 +450,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759849547926
-        },
-        {
-          "player_id": "7922",
-          "full_name": "Riley Patterson",
-          "first_name": "Riley",
-          "last_name": "Patterson",
-          "team": "MIA",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850158
         }
       ],
       "taxi": [],
