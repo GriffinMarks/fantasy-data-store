@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-03T17:27:22Z",
+  "generated_at": "2025-12-03T18:39:22Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2279,17 +2279,17 @@
           "news_updated": 1759886458061
         },
         {
-          "player_id": "4034",
-          "full_name": "Christian McCaffrey",
-          "first_name": "Christian",
-          "last_name": "McCaffrey",
-          "team": "SF",
+          "player_id": "12507",
+          "full_name": "Omarion Hampton",
+          "first_name": "Omarion",
+          "last_name": "Hampton",
+          "team": "LAC",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759954543436
+          "news_updated": 1759950941052
         },
         {
           "player_id": "9753",
@@ -2370,12 +2370,12 @@
           "news_updated": 1759843849238
         },
         {
-          "player_id": "NE",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "New England",
-          "last_name": "Patriots",
-          "team": "NE",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -2411,19 +2411,6 @@
           "news_updated": 1759341902592
         },
         {
-          "player_id": "12507",
-          "full_name": "Omarion Hampton",
-          "first_name": "Omarion",
-          "last_name": "Hampton",
-          "team": "LAC",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Ankle",
-          "injury_start_date": null,
-          "news_updated": 1759950941052
-        },
-        {
           "player_id": "3163",
           "full_name": "Jared Goff",
           "first_name": "Jared",
@@ -2435,6 +2422,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759718457565
+        },
+        {
+          "player_id": "4034",
+          "full_name": "Christian McCaffrey",
+          "first_name": "Christian",
+          "last_name": "McCaffrey",
+          "team": "SF",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759954543436
         },
         {
           "player_id": "7594",
@@ -2461,6 +2461,19 @@
           "injury_body_part": "Quadriceps",
           "injury_start_date": null,
           "news_updated": 1759871756930
+        },
+        {
+          "player_id": "NE",
+          "full_name": null,
+          "first_name": "New England",
+          "last_name": "Patriots",
+          "team": "NE",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
