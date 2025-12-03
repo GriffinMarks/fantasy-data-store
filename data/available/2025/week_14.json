@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-03T08:35:39Z",
+  "generated_at": "2025-12-03T09:30:26Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3750,
   "players": [
     {
       "player_id": "BAL",
@@ -4089,13 +4089,6 @@
       "player_id": "12545",
       "full_name": "Tyler Shough",
       "team": "NO",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "827",
-      "full_name": "Tyrod Taylor",
-      "team": "NYJ",
       "position": "QB",
       "status": "Active"
     },
@@ -9586,13 +9579,6 @@
       "team": "MIN",
       "position": "RB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "6039",
-      "full_name": "Ty Johnson",
-      "team": "BUF",
-      "position": "RB",
-      "status": "Active"
     },
     {
       "player_id": "2399",
@@ -18096,13 +18082,6 @@
       "player_id": "2577",
       "full_name": "Devante Davis",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "11834",
-      "full_name": "Devaughn Vele",
-      "team": "NO",
       "position": "WR",
       "status": "Active"
     },
