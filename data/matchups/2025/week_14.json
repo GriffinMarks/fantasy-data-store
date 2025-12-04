@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 14,
-  "generated_at": "2025-12-04T20:29:36Z",
+  "generated_at": "2025-12-04T21:24:28Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -97,7 +97,7 @@
             "7002",
             "11625",
             "11533",
-            "0"
+            "WAS"
           ],
           "points": 0.0,
           "projected_points": null
