@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-04T03:34:52Z",
+  "generated_at": "2025-12-04T04:35:05Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -3034,11 +3034,11 @@
           "news_updated": 1759722058343
         },
         {
-          "player_id": "NO",
+          "player_id": "PIT",
           "full_name": null,
-          "first_name": "New Orleans",
-          "last_name": "Saints",
-          "team": "NO",
+          "first_name": "Pittsburgh",
+          "last_name": "Steelers",
+          "team": "PIT",
           "position": "DEF",
           "status": null,
           "injury_status": null,
