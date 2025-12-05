@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-05T19:21:31Z",
+  "generated_at": "2025-12-05T20:29:00Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -720,17 +720,17 @@
           "news_updated": 1759930502403
         },
         {
-          "player_id": "8112",
-          "full_name": "Drake London",
-          "first_name": "Drake",
-          "last_name": "London",
-          "team": "ATL",
+          "player_id": "10232",
+          "full_name": "Michael Wilson",
+          "first_name": "Michael",
+          "last_name": "Wilson",
+          "team": "ARI",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759103150560
+          "news_updated": 1759904461734
         },
         {
           "player_id": "10229",
@@ -799,19 +799,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10232",
-          "full_name": "Michael Wilson",
-          "first_name": "Michael",
-          "last_name": "Wilson",
-          "team": "ARI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904461734
-        },
         {
           "player_id": "11627",
           "full_name": "Troy Franklin",
@@ -889,6 +876,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849827
+        },
+        {
+          "player_id": "8112",
+          "full_name": "Drake London",
+          "first_name": "Drake",
+          "last_name": "London",
+          "team": "ATL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759103150560
         }
       ],
       "taxi": [],
