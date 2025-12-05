@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 14,
-  "generated_at": "2025-12-05T04:34:38Z",
+  "generated_at": "2025-12-05T05:25:42Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -38,7 +38,7 @@
             "2020",
             "LAR"
           ],
-          "points": 8.3,
+          "points": 10.8,
           "projected_points": null
         }
       ]
@@ -116,7 +116,7 @@
             "11539",
             "DET"
           ],
-          "points": 54.0,
+          "points": 57.0,
           "projected_points": null
         }
       ]
@@ -233,7 +233,7 @@
             "8259",
             "BAL"
           ],
-          "points": 35.2,
+          "points": 35.64,
           "projected_points": null
         }
       ]
