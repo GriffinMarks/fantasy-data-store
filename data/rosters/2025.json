@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-06T15:23:04Z",
+  "generated_at": "2025-12-06T16:29:24Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -934,17 +934,17 @@
           "news_updated": 1759745460478
         },
         {
-          "player_id": "4098",
-          "full_name": "Kareem Hunt",
-          "first_name": "Kareem",
-          "last_name": "Hunt",
-          "team": "KC",
+          "player_id": "4199",
+          "full_name": "Aaron Jones",
+          "first_name": "Aaron",
+          "last_name": "Jones",
+          "team": "MIN",
           "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759847749759
+          "news_updated": 1759272653071
         },
         {
           "player_id": "12514",
@@ -1040,6 +1040,19 @@
           "news_updated": 1759870859628
         },
         {
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "first_name": "Kareem",
+          "last_name": "Hunt",
+          "team": "KC",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847749759
+        },
+        {
           "player_id": "4177",
           "full_name": "Mack Hollins",
           "first_name": "Mack",
@@ -1051,19 +1064,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759762860959
-        },
-        {
-          "player_id": "4199",
-          "full_name": "Aaron Jones",
-          "first_name": "Aaron",
-          "last_name": "Jones",
-          "team": "MIN",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Hamstring",
-          "injury_start_date": null,
-          "news_updated": 1759272653071
         },
         {
           "player_id": "6130",
