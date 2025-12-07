@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-12-07T17:19:53Z",
-  "count": 24,
+  "generated_at": "2025-12-07T18:33:36Z",
+  "count": 22,
   "articles": [
-    {
-      "title": "One more look at NFL Week 14: We have sleepers, QB questions, trends to watch and more",
-      "link": "https://www.espn.com/nfl/story/_/id/47192594/2025-nfl-week-14-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "published": "Sat, 6 Dec 2025 19:00:37 EST",
-      "summary": "Can the Falcons stop Jaxon Smith-Njigba? Does Adonai Mitchell have fantasy upside? Could the Raiders put the Broncos on upset watch?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Key intel on the games that could decide three division races",
-      "link": "https://www.espn.com/nfl/story/_/id/47211204/playoffs-bears-packers-colts-jaguars-ravens-steelers",
-      "published": "Sat, 6 Dec 2025 19:00:36 EST",
-      "summary": "What are the keys to the biggest games, injury situations and QB updates as races tighten up?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
     {
       "title": "Bengals suspend WR Burton for game vs. Bills",
       "link": "https://www.espn.com/nfl/story/_/id/47235283/bengals-suspend-wr-jermaine-burton-game-vs-bills",
       "published": "Sun, 7 Dec 2025 12:00:45 EST",
-      "summary": "The Bengals suspended Jermaine Burton for Sunday's game against the Bills, the team announced.",
+      "summary": "The Bengals have suspended Jermaine Burton for Sunday's game against the Bills, the team announced.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -80,6 +66,76 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "NFL draft risers, questions and notes: Which prospects stood out in the conference title games?",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "published": "Sun, 7 Dec 2025 13:04:01 EST",
+      "summary": "We have NFL draft notes for every week of the college football season, including why Sonny Styles and Zachariah Branch stood out in Championship Week.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Myles Garrett's journey to the NFL sack record: 'It is written'",
+      "link": "https://www.espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
+      "published": "Fri, 5 Dec 2025 09:14:38 EST",
+      "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Will the Bears back up Ben Johnson's shot at Packers coach Matt LaFleur?",
+      "link": "https://www.espn.com/nfl/story/_/id/47201613/chicago-bears-green-bay-packers-ben-johnson-matt-lafleur",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "Johnson said he likes to beat LaFleur twice a year, and his first chance at it is Sunday at Lambeau Field.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Shedeur Sanders, Cam Ward and their NFL journeys to QB1",
+      "link": "https://www.espn.com/nfl/story/_/id/47213384/cleveland-browns-shedeur-sanders-tennessee-titans-cam-ward-nfl-journeys-starting-quarterbacks",
+      "published": "Sat, 6 Dec 2025 06:52:11 EST",
+      "summary": "The Browns host the Titans on Sunday, the first NFL meeting between friends amid challenging rookie seasons.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "What does Peyton Manning see as Joe Burrow's career highlight?",
+      "link": "https://www.espn.com/nfl/story/_/id/47205832/nfl-cincinnati-bengals-joe-burrow-peyton-manning",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "The Bengals QB showed what makes him special when the headsets stopped working during a 2021 playoff game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Another record for Brandon Aubrey; Lions stop George Pickens' slant route success",
+      "link": "https://www.espn.com/nfl/story/_/id/47216295/dallas-cowboys-george-pickens-brandon-aubrey-tyler-smith",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "The Cowboys' kicker continued to shine in Thursday's loss, but Detroit kept Dallas' wide receiver in check.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "10 NFL veterans who could unexpectedly be on the move this offseason: Surprise cut, trade candidates",
+      "link": "https://www.espn.com/nfl/story/_/id/47201187/2026-nfl-offseason-predictions-surprise-candidates-cuts-free-agents-trades-salary-cap",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "Would the Eagles trade A.J. Brown in the offseason? Could the Ravens face salary cap decisions on two stars? Is Kyler Murray's time in Arizona running out?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Barnwell's prove-it list: Coaches, players with something at stake",
+      "link": "https://www.espn.com/nfl/story/_/id/47179286/2025-nfl-season-players-coaches-most-gain-lose-pressure-stake-playoffs",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "Kenneth Walker III and Shedeur Sanders are among those with a lot on the line in the season's final weeks.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFL Week 14's fashionable arrivals, featuring Jets' Quincy Williams",
+      "link": "https://www.espn.com/nfl/story/_/id/47205229/nfl-week-14-fashionable-arrivals",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "Players around the league made sure to show out with fashionable arrivals in Week 14.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "My Cause, My Cleats: Players step out in support of the V Foundation and other causes",
+      "link": "https://www.espn.com/nfl/story/_/id/47194192/nfl-players-honor-v-foundation-custom-cleats",
+      "published": "Sun, 7 Dec 2025 13:03:24 EST",
+      "summary": "NFL players use custom cleats to spotlight cancer research and other causes close to their hearts.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Week 14 inactives: Jayden Daniels returns, Rome Odunze sits",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-47211819/nfl-fantasy-football-espn-injured-inactives-watchlist-week-14-2025-december-7",
       "published": "Sun, 7 Dec 2025 11:52:16 EST",
@@ -91,76 +147,6 @@
       "link": "https://www.espn.com/fantasy/football/story/_/id/47211876/2025-fantasy-football-nfl-advice-questions-answers-espn-expert-arena-week-14",
       "published": "Sun, 7 Dec 2025 11:52:16 EST",
       "summary": "Eric Moody is here to answer your pressing questions in a live Q&amp;A from noon to 1 p.m. ET.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Will the Bears back up Ben Johnson's shot at Packers coach Matt LaFleur?",
-      "link": "https://www.espn.com/nfl/story/_/id/47201613/chicago-bears-green-bay-packers-ben-johnson-matt-lafleur",
-      "published": "Sun, 7 Dec 2025 10:02:00 EST",
-      "summary": "Johnson said he likes to beat LaFleur twice a year, and his first chance at it is Sunday at Lambeau Field.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "What does Peyton Manning see as Joe Burrow's career highlight?",
-      "link": "https://www.espn.com/nfl/story/_/id/47205832/nfl-cincinnati-bengals-joe-burrow-peyton-manning",
-      "published": "Sun, 7 Dec 2025 07:51:26 EST",
-      "summary": "The Bengals QB showed what makes him special when the headsets stopped working during a 2021 playoff game.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Another record for Brandon Aubrey; Lions stop George Pickens' slant route success",
-      "link": "https://www.espn.com/nfl/story/_/id/47216295/dallas-cowboys-george-pickens-brandon-aubrey-tyler-smith",
-      "published": "Sun, 7 Dec 2025 07:51:26 EST",
-      "summary": "The Cowboys' kicker continued to shine in Thursday's loss, but Detroit kept Dallas' wide receiver in check.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Myles Garrett's journey to the NFL sack record: 'It is written'",
-      "link": "https://www.espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
-      "published": "Fri, 5 Dec 2025 09:14:38 EST",
-      "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "10 NFL veterans who could unexpectedly be on the move this offseason: Surprise cut, trade candidates",
-      "link": "https://www.espn.com/nfl/story/_/id/47201187/2026-nfl-offseason-predictions-surprise-candidates-cuts-free-agents-trades-salary-cap",
-      "published": "Sun, 7 Dec 2025 10:01:45 EST",
-      "summary": "Would the Eagles trade A.J. Brown in the offseason? Could the Ravens face salary cap decisions on two stars? Is Kyler Murray's time in Arizona running out?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Barnwell's prove-it list: Coaches, players with something at stake",
-      "link": "https://www.espn.com/nfl/story/_/id/47179286/2025-nfl-season-players-coaches-most-gain-lose-pressure-stake-playoffs",
-      "published": "Sun, 7 Dec 2025 10:01:45 EST",
-      "summary": "Kenneth Walker III and Shedeur Sanders are among those with a lot on the line in the season's final weeks.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Shedeur Sanders, Cam Ward and their NFL journeys to QB1",
-      "link": "https://www.espn.com/nfl/story/_/id/47213384/cleveland-browns-shedeur-sanders-tennessee-titans-cam-ward-nfl-journeys-starting-quarterbacks",
-      "published": "Sat, 6 Dec 2025 06:52:11 EST",
-      "summary": "The Browns host the Titans on Sunday, the first NFL meeting between friends amid challenging rookie seasons.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "NFL draft risers, questions and notes: Which prospects stood out in the conference title games?",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
-      "published": "Sun, 7 Dec 2025 10:21:44 EST",
-      "summary": "We have NFL draft notes for every week of the college football season, including why Sonny Styles and Zachariah Branch stood out in Championship Week.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "NFL Week 14's fashionable arrivals, featuring Cowboys WR CeeDee Lamb",
-      "link": "https://www.espn.com/nfl/story/_/id/47205229/nfl-week-14-fashionable-arrivals",
-      "published": "Sat, 6 Dec 2025 17:30:21 EST",
-      "summary": "Players around the league made sure to show out with fashionable arrivals in Week 14.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "My Cause, My Cleats: Players step out in support of the V Foundation and other causes",
-      "link": "https://www.espn.com/nfl/story/_/id/47194192/nfl-players-honor-v-foundation-custom-cleats",
-      "published": "Sat, 6 Dec 2025 17:30:21 EST",
-      "summary": "NFL players use custom cleats to spotlight cancer research and other causes close to their hearts.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
