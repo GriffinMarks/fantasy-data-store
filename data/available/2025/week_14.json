@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-07T18:33:23Z",
+  "generated_at": "2025-12-07T19:19:13Z",
   "league_id": "1262790170931892224",
-  "count": 3749,
+  "count": 3750,
   "players": [
     {
       "player_id": "ARI",
@@ -8891,6 +8891,13 @@
       "player_id": "7005",
       "full_name": "Scottie Phillips",
       "team": null,
+      "position": "RB",
+      "status": "Active"
+    },
+    {
+      "player_id": "9506",
+      "full_name": "Sean Tucker",
+      "team": "TB",
       "position": "RB",
       "status": "Active"
     },
