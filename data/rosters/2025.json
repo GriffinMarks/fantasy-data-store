@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-07T15:22:08Z",
+  "generated_at": "2025-12-07T16:28:30Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1866,17 +1866,17 @@
           "news_updated": 1759843849605
         },
         {
-          "player_id": "8111",
-          "full_name": "Cade Otton",
-          "first_name": "Cade",
-          "last_name": "Otton",
-          "team": "TB",
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "first_name": "T.J.",
+          "last_name": "Hockenson",
+          "team": "MIN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849714
+          "news_updated": 1759740060361
         },
         {
           "player_id": "8167",
@@ -1959,17 +1959,17 @@
           "news_updated": 1758659461447
         },
         {
-          "player_id": "5844",
-          "full_name": "T.J. Hockenson",
-          "first_name": "T.J.",
-          "last_name": "Hockenson",
-          "team": "MIN",
+          "player_id": "8111",
+          "full_name": "Cade Otton",
+          "first_name": "Cade",
+          "last_name": "Otton",
+          "team": "TB",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759740060361
+          "news_updated": 1759843849714
         },
         {
           "player_id": "8121",
@@ -2709,17 +2709,17 @@
           "news_updated": 1759941040004
         },
         {
-          "player_id": "12533",
-          "full_name": "Jacory Croskey-Merritt",
-          "first_name": "Jacory",
-          "last_name": "Croskey-Merritt",
-          "team": "WAS",
+          "player_id": "8122",
+          "full_name": "Bam Knight",
+          "first_name": "Bam",
+          "last_name": "Knight",
+          "team": "ARI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759847447787
+          "news_updated": 1759780842339
         },
         {
           "player_id": "11586",
@@ -2841,6 +2841,19 @@
           "news_updated": 1759746360603
         },
         {
+          "player_id": "12533",
+          "full_name": "Jacory Croskey-Merritt",
+          "first_name": "Jacory",
+          "last_name": "Croskey-Merritt",
+          "team": "WAS",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847447787
+        },
+        {
           "player_id": "4039",
           "full_name": "Cooper Kupp",
           "first_name": "Cooper",
@@ -2852,19 +2865,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849559
-        },
-        {
-          "player_id": "8122",
-          "full_name": "Bam Knight",
-          "first_name": "Bam",
-          "last_name": "Knight",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759780842339
         },
         {
           "player_id": "8676",
