@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 14,
-  "generated_at": "2025-12-08T19:23:45Z",
+  "generated_at": "2025-12-08T20:29:57Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -15,12 +15,12 @@
       "creator": "1266150695719948288",
       "transaction_id": "1303467703616442368",
       "adds": null,
-      "drops": {
-        "9506": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "9506": 10
+      },
       "roster_ids": [
         10
       ],
@@ -40,10 +40,10 @@
       "adds": {
         "BAL": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -63,12 +63,12 @@
       "adds": {
         "PIT": 14
       },
-      "drops": {
-        "NO": 14
-      },
       "consenter_ids": [
         14
       ],
+      "drops": {
+        "NO": 14
+      },
       "roster_ids": [
         14
       ],
@@ -88,12 +88,12 @@
       "adds": {
         "WAS": 4
       },
-      "drops": {
-        "LAC": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "LAC": 4
+      },
       "roster_ids": [
         4
       ],
@@ -113,10 +113,10 @@
       "adds": {
         "6039": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -136,10 +136,10 @@
       "adds": {
         "11834": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -159,10 +159,10 @@
       "adds": {
         "827": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
