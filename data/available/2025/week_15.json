@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-09T06:39:57Z",
+  "generated_at": "2025-12-09T07:27:06Z",
   "league_id": "1262790170931892224",
-  "count": 3750,
+  "count": 3751,
   "players": [
     {
       "player_id": "ARI",
@@ -4082,6 +4082,13 @@
       "player_id": "12545",
       "full_name": "Tyler Shough",
       "team": "NO",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "827",
+      "full_name": "Tyrod Taylor",
+      "team": "NYJ",
       "position": "QB",
       "status": "Active"
     },
