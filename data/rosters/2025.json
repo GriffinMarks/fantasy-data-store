@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-10T13:41:31Z",
+  "generated_at": "2025-12-10T14:28:45Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2359,12 +2359,12 @@
           "news_updated": 1759843849238
         },
         {
-          "player_id": "BAL",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Baltimore",
-          "last_name": "Ravens",
-          "team": "BAL",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -2411,6 +2411,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759870256947
+        },
+        {
+          "player_id": "12469",
+          "full_name": "Dylan Sampson",
+          "first_name": "Dylan",
+          "last_name": "Sampson",
+          "team": "CLE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759746959582
         },
         {
           "player_id": "3163",
