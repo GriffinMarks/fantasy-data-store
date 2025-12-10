@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-10T19:22:19Z",
+  "generated_at": "2025-12-10T20:31:06Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1412,17 +1412,17 @@
           "news_updated": 1759713357053
         },
         {
-          "player_id": "8131",
-          "full_name": "Isaiah Likely",
-          "first_name": "Isaiah",
-          "last_name": "Likely",
-          "team": "BAL",
+          "player_id": "10236",
+          "full_name": "Dalton Kincaid",
+          "first_name": "Dalton",
+          "last_name": "Kincaid",
+          "team": "BUF",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759903261405
+          "news_updated": 1759888558257
         },
         {
           "player_id": "12489",
@@ -1465,19 +1465,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10236",
-          "full_name": "Dalton Kincaid",
-          "first_name": "Dalton",
-          "last_name": "Kincaid",
-          "team": "BUF",
-          "position": "TE",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759888558257
-        },
         {
           "player_id": "12484",
           "full_name": "Jayden Higgins",
@@ -1529,6 +1516,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759881058009
+        },
+        {
+          "player_id": "8131",
+          "full_name": "Isaiah Likely",
+          "first_name": "Isaiah",
+          "last_name": "Likely",
+          "team": "BAL",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759903261405
         },
         {
           "player_id": "8205",
@@ -2015,30 +2015,30 @@
       "points_against": 1654,
       "starters": [
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "11564",
+          "full_name": "Drake Maye",
+          "first_name": "Drake",
+          "last_name": "Maye",
+          "team": "NE",
+          "position": "QB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759843849659
         },
         {
-          "player_id": "6039",
-          "full_name": "Ty Johnson",
-          "first_name": "Ty",
-          "last_name": "Johnson",
-          "team": "BUF",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
+          "first_name": "TreVeyon",
+          "last_name": "Henderson",
+          "team": "NE",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849444
+          "news_updated": 1759904459748
         },
         {
           "player_id": "8408",
@@ -2093,17 +2093,17 @@
           "news_updated": 1759715457469
         },
         {
-          "player_id": "11834",
-          "full_name": "Devaughn Vele",
-          "first_name": "Devaughn",
-          "last_name": "Vele",
-          "team": "NO",
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
           "injury_start_date": null,
-          "news_updated": 1759806645305
+          "news_updated": 1759954242925
         },
         {
           "player_id": "17",
@@ -2134,17 +2134,17 @@
       ],
       "bench": [
         {
-          "player_id": "11564",
-          "full_name": "Drake Maye",
-          "first_name": "Drake",
-          "last_name": "Maye",
-          "team": "NE",
-          "position": "QB",
+          "player_id": "11834",
+          "full_name": "Devaughn Vele",
+          "first_name": "Devaughn",
+          "last_name": "Vele",
+          "team": "NO",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849659
+          "news_updated": 1759806645305
         },
         {
           "player_id": "12481",
@@ -2160,19 +2160,6 @@
           "news_updated": 1759888858146
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "first_name": "TreVeyon",
-          "last_name": "Henderson",
-          "team": "NE",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904459748
-        },
-        {
           "player_id": "4033",
           "full_name": "David Njoku",
           "first_name": "David",
@@ -2186,17 +2173,17 @@
           "news_updated": 1759741860293
         },
         {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
-          "team": "SF",
-          "position": "WR",
+          "player_id": "6039",
+          "full_name": "Ty Johnson",
+          "first_name": "Ty",
+          "last_name": "Johnson",
+          "team": "BUF",
+          "position": "RB",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759843849444
         },
         {
           "player_id": "96",
