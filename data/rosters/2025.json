@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-10T15:30:42Z",
+  "generated_at": "2025-12-10T16:37:34Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -242,17 +242,17 @@
       "points_against": 1391,
       "starters": [
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "9758",
+          "full_name": "C.J. Stroud",
+          "first_name": "C.J.",
+          "last_name": "Stroud",
+          "team": "HOU",
+          "position": "QB",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759701655990
         },
         {
           "player_id": "9509",
@@ -320,30 +320,30 @@
           "news_updated": 1759738860345
         },
         {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "first_name": "Kimani",
-          "last_name": "Vidal",
-          "team": "LAC",
-          "position": "RB",
+          "player_id": "12526",
+          "full_name": "Tetairoa McMillan",
+          "first_name": "Tetairoa",
+          "last_name": "McMillan",
+          "team": "CAR",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759950341754
+          "news_updated": 1759843850118
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "first_name": null,
-          "last_name": null,
-          "team": null,
-          "position": null,
-          "status": null,
+          "player_id": "3451",
+          "full_name": "Ka'imi Fairbairn",
+          "first_name": "Ka'imi",
+          "last_name": "Fairbairn",
+          "team": "HOU",
+          "position": "K",
+          "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759712157387
         },
         {
           "player_id": "CLE",
@@ -360,6 +360,19 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "first_name": "Kimani",
+          "last_name": "Vidal",
+          "team": "LAC",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759950341754
+        },
         {
           "player_id": "12476",
           "full_name": "Devin Neal",
@@ -387,19 +400,6 @@
           "news_updated": 1759843849209
         },
         {
-          "player_id": "12526",
-          "full_name": "Tetairoa McMillan",
-          "first_name": "Tetairoa",
-          "last_name": "McMillan",
-          "team": "CAR",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843850118
-        },
-        {
           "player_id": "3257",
           "full_name": "Jacoby Brissett",
           "first_name": "Jacoby",
@@ -411,19 +411,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1755441621254
-        },
-        {
-          "player_id": "3451",
-          "full_name": "Ka'imi Fairbairn",
-          "first_name": "Ka'imi",
-          "last_name": "Fairbairn",
-          "team": "HOU",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759712157387
         },
         {
           "player_id": "6803",
@@ -450,19 +437,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759849547926
-        },
-        {
-          "player_id": "9758",
-          "full_name": "C.J. Stroud",
-          "first_name": "C.J.",
-          "last_name": "Stroud",
-          "team": "HOU",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759701655990
         }
       ],
       "taxi": [],
