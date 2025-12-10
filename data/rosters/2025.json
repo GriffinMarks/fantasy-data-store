@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-10T07:27:55Z",
+  "generated_at": "2025-12-10T08:36:00Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -333,17 +333,17 @@
           "news_updated": 1759950341754
         },
         {
-          "player_id": "7922",
-          "full_name": "Riley Patterson",
-          "first_name": "Riley",
-          "last_name": "Patterson",
-          "team": "MIA",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843850158
+          "news_updated": null
         },
         {
           "player_id": "CLE",
@@ -450,6 +450,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759849547926
+        },
+        {
+          "player_id": "9758",
+          "full_name": "C.J. Stroud",
+          "first_name": "C.J.",
+          "last_name": "Stroud",
+          "team": "HOU",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759701655990
         }
       ],
       "taxi": [],
@@ -1027,17 +1040,30 @@
       ],
       "bench": [
         {
-          "player_id": "12490",
-          "full_name": "Bhayshul Tuten",
-          "first_name": "Bhayshul",
-          "last_name": "Tuten",
-          "team": "JAX",
+          "player_id": "11643",
+          "full_name": "Jaylen Wright",
+          "first_name": "Jaylen",
+          "last_name": "Wright",
+          "team": "MIA",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759870859628
+          "news_updated": 1759682153846
+        },
+        {
+          "player_id": "11783",
+          "full_name": "Ryan Flournoy",
+          "first_name": "Ryan",
+          "last_name": "Flournoy",
+          "team": "DAL",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759847147716
         },
         {
           "player_id": "12518",
@@ -1064,19 +1090,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759847749759
-        },
-        {
-          "player_id": "4177",
-          "full_name": "Mack Hollins",
-          "first_name": "Mack",
-          "last_name": "Hollins",
-          "team": "NE",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759762860959
         },
         {
           "player_id": "6130",
@@ -1879,17 +1892,17 @@
           "news_updated": 1759740060361
         },
         {
-          "player_id": "8167",
-          "full_name": "Christian Watson",
-          "first_name": "Christian",
-          "last_name": "Watson",
-          "team": "GB",
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "first_name": "Stefon",
+          "last_name": "Diggs",
+          "team": "NE",
           "position": "WR",
-          "status": "Inactive",
-          "injury_status": "PUP",
-          "injury_body_part": "Knee - ACL",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849484
+          "news_updated": 1759904759647
         },
         {
           "player_id": "6650",
@@ -1931,19 +1944,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849968
-        },
-        {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
-          "first_name": "Stefon",
-          "last_name": "Diggs",
-          "team": "NE",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759904759647
         },
         {
           "player_id": "4137",
@@ -1996,6 +1996,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759103150592
+        },
+        {
+          "player_id": "8167",
+          "full_name": "Christian Watson",
+          "first_name": "Christian",
+          "last_name": "Watson",
+          "team": "GB",
+          "position": "WR",
+          "status": "Inactive",
+          "injury_status": "PUP",
+          "injury_body_part": "Knee - ACL",
+          "injury_start_date": null,
+          "news_updated": 1759843849484
         },
         {
           "player_id": "ATL",
@@ -2999,12 +3012,12 @@
           "news_updated": 1759722058343
         },
         {
-          "player_id": "PIT",
+          "player_id": "0",
           "full_name": null,
-          "first_name": "Pittsburgh",
-          "last_name": "Steelers",
-          "team": "PIT",
-          "position": "DEF",
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
           "status": null,
           "injury_status": null,
           "injury_body_part": null,
@@ -3103,6 +3116,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759843849350
+        },
+        {
+          "player_id": "CHI",
+          "full_name": null,
+          "first_name": "Chicago",
+          "last_name": "Bears",
+          "team": "CHI",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],

@@ -1,9 +1,16 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-10T07:27:56Z",
+  "generated_at": "2025-12-10T08:36:01Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
+    {
+      "player_id": "PIT",
+      "full_name": null,
+      "team": "PIT",
+      "position": "DEF",
+      "status": null
+    },
     {
       "player_id": "ARI",
       "full_name": null,
@@ -71,13 +78,6 @@
       "player_id": "TEN",
       "full_name": null,
       "team": "TEN",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "CHI",
-      "full_name": null,
-      "team": "CHI",
       "position": "DEF",
       "status": null
     },
@@ -978,6 +978,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "7922",
+      "full_name": "Riley Patterson",
+      "team": "MIA",
+      "position": "K",
+      "status": "Active"
+    },
+    {
       "player_id": "49",
       "full_name": "Robbie Gould",
       "team": null,
@@ -1660,13 +1667,6 @@
       "player_id": "4127",
       "full_name": "C.J. Beathard",
       "team": "DET",
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "9758",
-      "full_name": "C.J. Stroud",
-      "team": "HOU",
       "position": "QB",
       "status": "Active"
     },
@@ -4618,6 +4618,13 @@
       "status": "Inactive"
     },
     {
+      "player_id": "12490",
+      "full_name": "Bhayshul Tuten",
+      "team": "JAX",
+      "position": "RB",
+      "status": "Active"
+    },
+    {
       "player_id": "818",
       "full_name": "Bilal Powell",
       "team": null,
@@ -6672,13 +6679,6 @@
       "player_id": "5107",
       "full_name": "Jaylen Samuels",
       "team": null,
-      "position": "RB",
-      "status": "Active"
-    },
-    {
-      "player_id": "11643",
-      "full_name": "Jaylen Wright",
-      "team": "MIA",
       "position": "RB",
       "status": "Active"
     },
@@ -22447,6 +22447,13 @@
       "status": "Active"
     },
     {
+      "player_id": "4177",
+      "full_name": "Mack Hollins",
+      "team": "NE",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "8209",
       "full_name": "Makai Polk",
       "team": null,
@@ -24431,13 +24438,6 @@
       "player_id": "6036",
       "full_name": "Ryan Davis",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "11783",
-      "full_name": "Ryan Flournoy",
-      "team": "DAL",
       "position": "WR",
       "status": "Active"
     },
