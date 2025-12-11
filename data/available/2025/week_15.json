@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-11T22:25:57Z",
+  "generated_at": "2025-12-11T23:24:44Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -1678,6 +1678,13 @@
       "status": "Active"
     },
     {
+      "player_id": "9758",
+      "full_name": "C.J. Stroud",
+      "team": "HOU",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
       "player_id": "12285",
       "full_name": "Cade Peterson",
       "team": null,
@@ -3123,13 +3130,6 @@
       "player_id": "6343",
       "full_name": "Manny Wilkins",
       "team": null,
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "2307",
-      "full_name": "Marcus Mariota",
-      "team": "WAS",
       "position": "QB",
       "status": "Active"
     },
