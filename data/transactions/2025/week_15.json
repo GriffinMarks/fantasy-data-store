@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 15,
-  "generated_at": "2025-12-11T21:28:05Z",
+  "generated_at": "2025-12-11T22:26:09Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -17,12 +17,12 @@
       "adds": {
         "12492": 11
       },
-      "drops": {
-        "9480": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "9480": 11
+      },
       "roster_ids": [
         11
       ],
@@ -40,12 +40,12 @@
       "creator": "1128160904866136064",
       "transaction_id": "1304910100468596736",
       "adds": null,
-      "drops": {
-        "11589": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "11589": 11
+      },
       "roster_ids": [
         11
       ],
@@ -65,10 +65,10 @@
       "adds": {
         "6783": 10
       },
-      "drops": null,
       "consenter_ids": [
         10
       ],
+      "drops": null,
       "roster_ids": [
         10
       ],
@@ -88,12 +88,12 @@
       "adds": {
         "12469": 11
       },
-      "drops": {
-        "BAL": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "BAL": 11
+      },
       "roster_ids": [
         11
       ],
