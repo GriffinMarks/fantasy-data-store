@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-11T17:31:08Z",
+  "generated_at": "2025-12-11T18:37:48Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -746,17 +746,17 @@
           "news_updated": 1759878658205
         },
         {
-          "player_id": "11625",
-          "full_name": "Adonai Mitchell",
-          "first_name": "Adonai",
-          "last_name": "Mitchell",
-          "team": "IND",
+          "player_id": "2216",
+          "full_name": "Mike Evans",
+          "first_name": "Mike",
+          "last_name": "Evans",
+          "team": "TB",
           "position": "WR",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Out",
+          "injury_body_part": "Hamstring",
           "injury_start_date": null,
-          "news_updated": 1759769461592
+          "news_updated": 1759947940772
         },
         {
           "player_id": "11533",
@@ -787,6 +787,19 @@
       ],
       "bench": [
         {
+          "player_id": "11625",
+          "full_name": "Adonai Mitchell",
+          "first_name": "Adonai",
+          "last_name": "Mitchell",
+          "team": "IND",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759769461592
+        },
+        {
           "player_id": "11627",
           "full_name": "Troy Franklin",
           "first_name": "Troy",
@@ -811,19 +824,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759889460417
-        },
-        {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "first_name": "Mike",
-          "last_name": "Evans",
-          "team": "TB",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "Out",
-          "injury_body_part": "Hamstring",
-          "injury_start_date": null,
-          "news_updated": 1759947940772
         },
         {
           "player_id": "4066",
@@ -880,7 +880,7 @@
       ],
       "taxi": [],
       "ir": [
-        "2216"
+        "8112"
       ]
     },
     {
@@ -2307,17 +2307,17 @@
           "news_updated": 1759843849125
         },
         {
-          "player_id": "9480",
-          "full_name": "Brenton Strange",
-          "first_name": "Brenton",
-          "last_name": "Strange",
-          "team": "JAX",
-          "position": "TE",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Quadriceps",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759871756930
+          "news_updated": null
         },
         {
           "player_id": "8259",
@@ -2361,19 +2361,6 @@
           "news_updated": 1759887658303
         },
         {
-          "player_id": "11589",
-          "full_name": "Trey Benson",
-          "first_name": "Trey",
-          "last_name": "Benson",
-          "team": "ARI",
-          "position": "RB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "injury_body_part": "Knee",
-          "injury_start_date": null,
-          "news_updated": 1759341902592
-        },
-        {
           "player_id": "11628",
           "full_name": "Marvin Harrison",
           "first_name": "Marvin",
@@ -2398,6 +2385,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759746959582
+        },
+        {
+          "player_id": "12492",
+          "full_name": "Pat Bryant",
+          "first_name": "Pat",
+          "last_name": "Bryant",
+          "team": "DEN",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759897858855
         },
         {
           "player_id": "3163",
@@ -2453,9 +2453,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "11589"
-      ]
+      "ir": []
     },
     {
       "roster_id": 12,

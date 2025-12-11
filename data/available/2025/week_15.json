@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-11T17:31:09Z",
+  "generated_at": "2025-12-11T18:37:49Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3752,
   "players": [
     {
       "player_id": "BAL",
@@ -9525,6 +9525,13 @@
       "status": "Active"
     },
     {
+      "player_id": "11589",
+      "full_name": "Trey Benson",
+      "team": "ARI",
+      "position": "RB",
+      "status": "Inactive"
+    },
+    {
       "player_id": "4696",
       "full_name": "Trey Edmunds",
       "team": null,
@@ -10452,6 +10459,13 @@
       "player_id": "221",
       "full_name": "Brent Celek",
       "team": null,
+      "position": "TE",
+      "status": "Inactive"
+    },
+    {
+      "player_id": "9480",
+      "full_name": "Brenton Strange",
+      "team": "JAX",
       "position": "TE",
       "status": "Inactive"
     },
@@ -23542,13 +23556,6 @@
       "player_id": "5880",
       "full_name": "Parris Campbell",
       "team": "DAL",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "12492",
-      "full_name": "Pat Bryant",
-      "team": "DEN",
       "position": "WR",
       "status": "Active"
     },
