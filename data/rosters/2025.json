@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-12T17:24:43Z",
+  "generated_at": "2025-12-12T18:38:57Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1371,17 +1371,17 @@
           "news_updated": 1759741260292
         },
         {
-          "player_id": "6801",
-          "full_name": "Tee Higgins",
-          "first_name": "Tee",
-          "last_name": "Higgins",
-          "team": "CIN",
+          "player_id": "6819",
+          "full_name": "Michael Pittman",
+          "first_name": "Michael",
+          "last_name": "Pittman",
+          "team": "IND",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759731059106
+          "news_updated": 1759881058009
         },
         {
           "player_id": "7564",
@@ -1490,17 +1490,17 @@
           "news_updated": 1759843850007
         },
         {
-          "player_id": "6819",
-          "full_name": "Michael Pittman",
-          "first_name": "Michael",
-          "last_name": "Pittman",
-          "team": "IND",
+          "player_id": "6801",
+          "full_name": "Tee Higgins",
+          "first_name": "Tee",
+          "last_name": "Higgins",
+          "team": "CIN",
           "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759881058009
+          "news_updated": 1759731059106
         },
         {
           "player_id": "8131",
@@ -2039,19 +2039,6 @@
           "news_updated": 1759738860319
         },
         {
-          "player_id": "11620",
-          "full_name": "Rome Odunze",
-          "first_name": "Rome",
-          "last_name": "Odunze",
-          "team": "CHI",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759153855449
-        },
-        {
           "player_id": "9997",
           "full_name": "Zay Flowers",
           "first_name": "Zay",
@@ -2063,6 +2050,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759707956772
+        },
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "first_name": "Jauan",
+          "last_name": "Jennings",
+          "team": "SF",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
+          "injury_start_date": null,
+          "news_updated": 1759954242925
         },
         {
           "player_id": "5001",
@@ -2078,17 +2078,17 @@
           "news_updated": 1759715457469
         },
         {
-          "player_id": "7049",
-          "full_name": "Jauan Jennings",
-          "first_name": "Jauan",
-          "last_name": "Jennings",
-          "team": "SF",
+          "player_id": "11620",
+          "full_name": "Rome Odunze",
+          "first_name": "Rome",
+          "last_name": "Odunze",
+          "team": "CHI",
           "position": "WR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759954242925
+          "news_updated": 1759153855449
         },
         {
           "player_id": "17",
