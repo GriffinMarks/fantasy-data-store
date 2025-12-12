@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-12T18:38:58Z",
+  "generated_at": "2025-12-12T19:21:50Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3752,
   "players": [
     {
       "player_id": "BAL",
@@ -15534,13 +15534,6 @@
       "player_id": "627",
       "full_name": "Andre Roberts",
       "team": null,
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "10226",
-      "full_name": "Andrei Iosivas",
-      "team": "CIN",
       "position": "WR",
       "status": "Active"
     },
