@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-13T21:21:27Z",
+  "generated_at": "2025-12-13T22:23:24Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -398,19 +398,6 @@
           "news_updated": 1755441621254
         },
         {
-          "player_id": "6803",
-          "full_name": "Brandon Aiyuk",
-          "first_name": "Brandon",
-          "last_name": "Aiyuk",
-          "team": "SF",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": "PUP",
-          "injury_body_part": "Knee - ACL + MCL",
-          "injury_start_date": null,
-          "news_updated": 1759499738590
-        },
-        {
           "player_id": "7021",
           "full_name": "Rico Dowdle",
           "first_name": "Rico",
@@ -425,9 +412,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "6803"
-      ]
+      "ir": []
     },
     {
       "roster_id": 3,

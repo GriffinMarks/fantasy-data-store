@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-13T21:21:27Z",
+  "generated_at": "2025-12-13T22:23:25Z",
   "league_id": "1262790170931892224",
   "players": [
     {
@@ -152,16 +152,6 @@
       "injury_body_part": "Wrist",
       "injury_start_date": null,
       "news_updated": 1759953344560
-    },
-    {
-      "player_id": "6803",
-      "full_name": "Brandon Aiyuk",
-      "team": "SF",
-      "position": "WR",
-      "injury_status": "PUP",
-      "injury_body_part": "Knee - ACL + MCL",
-      "injury_start_date": null,
-      "news_updated": 1759499738590
     },
     {
       "player_id": "8125",
