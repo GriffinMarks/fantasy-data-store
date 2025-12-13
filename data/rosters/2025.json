@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-13T07:25:58Z",
+  "generated_at": "2025-12-13T08:31:10Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -958,17 +958,17 @@
           "news_updated": 1759881358279
         },
         {
-          "player_id": "9754",
-          "full_name": "Quentin Johnston",
-          "first_name": "Quentin",
-          "last_name": "Johnston",
-          "team": "LAC",
-          "position": "WR",
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "first_name": "Kareem",
+          "last_name": "Hunt",
+          "team": "KC",
+          "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849981
+          "news_updated": 1759847749759
         },
         {
           "player_id": "2020",
@@ -1025,19 +1025,6 @@
           "news_updated": 1759847147716
         },
         {
-          "player_id": "4098",
-          "full_name": "Kareem Hunt",
-          "first_name": "Kareem",
-          "last_name": "Hunt",
-          "team": "KC",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759847749759
-        },
-        {
           "player_id": "6130",
           "full_name": "Devin Singletary",
           "first_name": "Devin",
@@ -1088,6 +1075,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759727757412
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston",
+          "first_name": "Quentin",
+          "last_name": "Johnston",
+          "team": "LAC",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849981
         }
       ],
       "taxi": [],
