@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-15T21:26:12Z",
+  "generated_at": "2025-12-15T22:25:57Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -106,17 +106,17 @@
           "news_updated": 1759708556770
         },
         {
-          "player_id": "1945",
-          "full_name": "Chris Boswell",
-          "first_name": "Chris",
-          "last_name": "Boswell",
-          "team": "PIT",
-          "position": "K",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "first_name": null,
+          "last_name": null,
+          "team": null,
+          "position": null,
+          "status": null,
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759090252861
+          "news_updated": null
         },
         {
           "player_id": "HOU",
@@ -171,6 +171,19 @@
           "injury_body_part": "Hip",
           "injury_start_date": null,
           "news_updated": 1759267253156
+        },
+        {
+          "player_id": "1945",
+          "full_name": "Chris Boswell",
+          "first_name": "Chris",
+          "last_name": "Boswell",
+          "team": "PIT",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759090252861
         },
         {
           "player_id": "7567",
