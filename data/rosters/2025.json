@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-16T14:29:56Z",
+  "generated_at": "2025-12-16T15:29:42Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -240,17 +240,17 @@
       "points_against": 1391,
       "starters": [
         {
-          "player_id": "2307",
-          "full_name": "Marcus Mariota",
-          "first_name": "Marcus",
-          "last_name": "Mariota",
-          "team": "WAS",
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "first_name": "Jacoby",
+          "last_name": "Brissett",
+          "team": "ARI",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759162554846
+          "news_updated": 1755441621254
         },
         {
           "player_id": "9509",
@@ -398,30 +398,17 @@
           "news_updated": 1759843849209
         },
         {
-          "player_id": "12504",
-          "full_name": "Kaleb Johnson",
-          "first_name": "Kaleb",
-          "last_name": "Johnson",
-          "team": "PIT",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759089649150
-        },
-        {
-          "player_id": "3257",
-          "full_name": "Jacoby Brissett",
-          "first_name": "Jacoby",
-          "last_name": "Brissett",
-          "team": "ARI",
+          "player_id": "2307",
+          "full_name": "Marcus Mariota",
+          "first_name": "Marcus",
+          "last_name": "Mariota",
+          "team": "WAS",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1755441621254
+          "news_updated": 1759162554846
         },
         {
           "player_id": "7021",
