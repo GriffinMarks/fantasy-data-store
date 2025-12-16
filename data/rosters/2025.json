@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-16T03:59:03Z",
+  "generated_at": "2025-12-16T04:42:29Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2357,19 +2357,6 @@
           "news_updated": 1759887658303
         },
         {
-          "player_id": "10226",
-          "full_name": "Andrei Iosivas",
-          "first_name": "Andrei",
-          "last_name": "Iosivas",
-          "team": "CIN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759732558799
-        },
-        {
           "player_id": "11628",
           "full_name": "Marvin Harrison",
           "first_name": "Marvin",
@@ -2450,7 +2437,6 @@
       ],
       "taxi": [],
       "ir": [
-        "11628",
         "12469"
       ]
     },
