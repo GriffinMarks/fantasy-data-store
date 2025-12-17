@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 16,
-  "generated_at": "2025-12-17T22:25:41Z",
+  "generated_at": "2025-12-17T23:25:24Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -15,12 +15,12 @@
       "creator": "1151413424695001088",
       "transaction_id": "1307105504752836608",
       "adds": null,
-      "drops": {
-        "12540": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "12540": 4
+      },
       "roster_ids": [
         4
       ],
@@ -40,12 +40,12 @@
       "adds": {
         "KC": 9
       },
-      "drops": {
-        "IND": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "IND": 9
+      },
       "roster_ids": [
         9
       ],
