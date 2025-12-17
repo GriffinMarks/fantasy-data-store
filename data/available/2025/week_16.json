@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-17T19:23:57Z",
+  "generated_at": "2025-12-17T20:30:55Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3752,
   "players": [
     {
       "player_id": "BAL",
@@ -16766,6 +16766,13 @@
       "player_id": "3582",
       "full_name": "Chester Rogers",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "12540",
+      "full_name": "Chimere Dike",
+      "team": "TEN",
       "position": "WR",
       "status": "Active"
     },

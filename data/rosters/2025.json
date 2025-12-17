@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-17T19:23:56Z",
+  "generated_at": "2025-12-17T20:30:55Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -809,19 +809,6 @@
           "news_updated": 1759790742367
         },
         {
-          "player_id": "12540",
-          "full_name": "Chimere Dike",
-          "first_name": "Chimere",
-          "last_name": "Dike",
-          "team": "TEN",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759889460417
-        },
-        {
           "player_id": "4066",
           "full_name": "Evan Engram",
           "first_name": "Evan",
@@ -875,9 +862,7 @@
         }
       ],
       "taxi": [],
-      "ir": [
-        "8112"
-      ]
+      "ir": []
     },
     {
       "roster_id": 5,
