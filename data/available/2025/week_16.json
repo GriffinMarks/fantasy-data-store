@@ -1,13 +1,20 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-17T07:27:30Z",
+  "generated_at": "2025-12-17T08:37:06Z",
   "league_id": "1262790170931892224",
-  "count": 3753,
+  "count": 3751,
   "players": [
     {
       "player_id": "BAL",
       "full_name": null,
       "team": "BAL",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "PIT",
+      "full_name": null,
+      "team": "PIT",
       "position": "DEF",
       "status": null
     },
@@ -64,13 +71,6 @@
       "player_id": "NO",
       "full_name": null,
       "team": "NO",
-      "position": "DEF",
-      "status": null
-    },
-    {
-      "player_id": "BUF",
-      "full_name": null,
-      "team": "BUF",
       "position": "DEF",
       "status": null
     },
@@ -6431,13 +6431,6 @@
       "status": "Active"
     },
     {
-      "player_id": "11439",
-      "full_name": "Jaleel McLaughlin",
-      "team": "DEN",
-      "position": "RB",
-      "status": "Active"
-    },
-    {
       "player_id": "12218",
       "full_name": "Jalen Jackson",
       "team": null,
@@ -11313,13 +11306,6 @@
       "player_id": "6469",
       "full_name": "Davis Koppenhaver",
       "team": null,
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "5906",
-      "full_name": "Dawson Knox",
-      "team": "BUF",
       "position": "TE",
       "status": "Active"
     },
