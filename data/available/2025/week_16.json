@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-17T23:25:13Z",
+  "generated_at": "2025-12-18T02:00:19Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -199,13 +199,6 @@
       "team": null,
       "position": "K",
       "status": "Inactive"
-    },
-    {
-      "player_id": "12713",
-      "full_name": "Andy Borregales",
-      "team": "NE",
-      "position": "K",
-      "status": "Active"
     },
     {
       "player_id": "4555",
@@ -1485,6 +1478,13 @@
       "player_id": "3957",
       "full_name": "Blake Sims",
       "team": null,
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "11563",
+      "full_name": "Bo Nix",
+      "team": "DEN",
       "position": "QB",
       "status": "Active"
     },
@@ -3545,13 +3545,6 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
-    },
-    {
-      "player_id": "12500",
-      "full_name": "Quinn Ewers",
-      "team": "MIA",
-      "position": "QB",
-      "status": "Active"
     },
     {
       "player_id": "5165",
@@ -18103,6 +18096,13 @@
       "player_id": "2577",
       "full_name": "Devante Davis",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "11834",
+      "full_name": "Devaughn Vele",
+      "team": "NO",
       "position": "WR",
       "status": "Active"
     },

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-17T23:25:13Z",
+  "generated_at": "2025-12-18T02:00:18Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -438,7 +438,9 @@
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "12476"
+      ]
     },
     {
       "roster_id": 3,
@@ -2087,17 +2089,17 @@
           "news_updated": 1759153855449
         },
         {
-          "player_id": "17",
-          "full_name": "Matt Prater",
-          "first_name": "Matt",
-          "last_name": "Prater",
-          "team": "BUF",
+          "player_id": "12713",
+          "full_name": "Andy Borregales",
+          "first_name": "Andy",
+          "last_name": "Borregales",
+          "team": "NE",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849840
+          "news_updated": 1759843849632
         },
         {
           "player_id": "PHI",
@@ -2115,19 +2117,6 @@
       ],
       "bench": [
         {
-          "player_id": "11834",
-          "full_name": "Devaughn Vele",
-          "first_name": "Devaughn",
-          "last_name": "Vele",
-          "team": "NO",
-          "position": "WR",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759806645305
-        },
-        {
           "player_id": "12481",
           "full_name": "Cam Skattebo",
           "first_name": "Cam",
@@ -2139,6 +2128,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759888858146
+        },
+        {
+          "player_id": "17",
+          "full_name": "Matt Prater",
+          "first_name": "Matt",
+          "last_name": "Prater",
+          "team": "BUF",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849840
         },
         {
           "player_id": "4033",
@@ -2208,7 +2210,8 @@
       ],
       "taxi": [],
       "ir": [
-        "12481"
+        "12481",
+        "17"
       ]
     },
     {
@@ -2664,17 +2667,17 @@
       "points_against": 1627,
       "starters": [
         {
-          "player_id": "12524",
-          "full_name": "Shedeur Sanders",
-          "first_name": "Shedeur",
-          "last_name": "Sanders",
-          "team": "CLE",
+          "player_id": "12500",
+          "full_name": "Quinn Ewers",
+          "first_name": "Quinn",
+          "last_name": "Ewers",
+          "team": "MIA",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759941040004
+          "news_updated": 1759679753978
         },
         {
           "player_id": "8122",
@@ -2783,19 +2786,6 @@
       ],
       "bench": [
         {
-          "player_id": "11563",
-          "full_name": "Bo Nix",
-          "first_name": "Bo",
-          "last_name": "Nix",
-          "team": "DEN",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759789242193
-        },
-        {
           "player_id": "11610",
           "full_name": "Malik Washington",
           "first_name": "Malik",
@@ -2807,6 +2797,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759746360603
+        },
+        {
+          "player_id": "12524",
+          "full_name": "Shedeur Sanders",
+          "first_name": "Shedeur",
+          "last_name": "Sanders",
+          "team": "CLE",
+          "position": "QB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759941040004
         },
         {
           "player_id": "12533",
@@ -2967,17 +2970,17 @@
           "news_updated": 1759745760623
         },
         {
-          "player_id": "7839",
-          "full_name": "Evan McPherson",
-          "first_name": "Evan",
-          "last_name": "McPherson",
-          "team": "CIN",
+          "player_id": "5189",
+          "full_name": "Eddy Pineiro",
+          "first_name": "Eddy",
+          "last_name": "Pineiro",
+          "team": "SF",
           "position": "K",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759722058343
+          "news_updated": 1759517441799
         },
         {
           "player_id": "CHI",
@@ -3008,19 +3011,6 @@
           "news_updated": 1759848647940
         },
         {
-          "player_id": "5189",
-          "full_name": "Eddy Pineiro",
-          "first_name": "Eddy",
-          "last_name": "Pineiro",
-          "team": "SF",
-          "position": "K",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759517441799
-        },
-        {
           "player_id": "5872",
           "full_name": "Deebo Samuel",
           "first_name": "Deebo",
@@ -3045,6 +3035,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759937102995
+        },
+        {
+          "player_id": "7839",
+          "full_name": "Evan McPherson",
+          "first_name": "Evan",
+          "last_name": "McPherson",
+          "team": "CIN",
+          "position": "K",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759722058343
         },
         {
           "player_id": "8147",
