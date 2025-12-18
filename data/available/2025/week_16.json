@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-18T16:37:13Z",
+  "generated_at": "2025-12-18T17:27:34Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3753,
   "players": [
     {
       "player_id": "BAL",
@@ -20499,6 +20499,13 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
+    },
+    {
+      "player_id": "6783",
+      "full_name": "Jerry Jeudy",
+      "team": "CLE",
+      "position": "WR",
+      "status": "Active"
     },
     {
       "player_id": "11911",
