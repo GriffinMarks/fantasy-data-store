@@ -1,82 +1,89 @@
 {
-  "generated_at": "2025-12-20T21:21:23Z",
-  "count": 23,
+  "generated_at": "2025-12-20T22:23:42Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Follow live: Eagles visit the Commanders with a chance to clinch NFC East",
+      "link": "https://www.espn.com/nfl/game/_/gameId/401772612/eagles-commanders",
+      "published": "Sat, 20 Dec 2025 16:58:16 EST",
+      "summary": "null",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Rams fire ST coordinator after TNF loss",
+      "link": "https://www.espn.com/nfl/story/_/id/47371200/sources-rams-fire-special-teams-coordinator-chase-blackburn",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Rams have fired special teams coordinator Chase Blackburn, sources told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Fins tried Burrow trade before '20 draft",
+      "link": "https://www.espn.com/nfl/story/_/id/47369428/sources-dolphins-offered-4-first-round-picks-joe-burrow-2020",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Dolphins offered the Bengals four first-round picks in 2020 for the No. 1 overall selection and the ability to take Burrow, sources told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Bucs activate Pierre-Paul for game vs. Panthers",
+      "link": "https://www.espn.com/nfl/story/_/id/47371381/buccaneers-activate-jason-pierre-paul-game-vs-panthers",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Buccaneers are elevating LB Jason Pierre-Paul, who hasn't played in the regular season since 2023, from the practice squad for Sunday's game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Cowboys activate Diggs ahead of Chargers game",
+      "link": "https://www.espn.com/nfl/story/_/id/47369382/cowboys-activate-cb-trevon-diggs-ahead-chargers-game",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Cowboys activated Trevon Diggs off injured reserve on Saturday, giving the two-time Pro Bowl cornerback the opportunity to play Sunday against the Chargers.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Giants put LB Thibodeaux on IR, ending his season",
+      "link": "https://www.espn.com/nfl/story/_/id/47371473/giants-put-lb-kayvon-thibodeaux-shoulder-ir-ending-season",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "New York Giants outside linebacker Kayvon Thibodeaux had his season end prematurely Saturday when he was placed on injured reserve.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Kelce to play final 3 games as he ponders future",
+      "link": "https://www.espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Lions put S Joseph on IR, activate OL Mahogany",
+      "link": "https://www.espn.com/nfl/story/_/id/47371379/lions-place-safety-joseph-ir-activate-ol-mahogany",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Lions have placed veteran safety Kerby Joseph on the injured reserve list while activating OL Christian Mahogany, the team announced Saturday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Colts' Buckner back from IR; Gardner out again",
+      "link": "https://www.espn.com/nfl/story/_/id/47370232/colts-deforest-buckner-back-ir-sauce-gardner-again",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "The Colts are getting DT DeForest Buckner back from injured reserve but will be without CB Sauce Gardner again vs. the 49ers on Monday night.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83d\udc1d Week 16 buzz: Latest on what we're hearing",
+      "link": "https://www.espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "published": "Sat, 20 Dec 2025 17:01:23 EST",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Last-minute prep on NFL Week 16: We have sleepers, QB questions, trends to watch and more",
       "link": "https://www.espn.com/nfl/story/_/id/47336865/2025-nfl-week-16-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "published": "Sat, 20 Dec 2025 08:07:23 EST",
+      "published": "Sat, 20 Dec 2025 17:02:19 EST",
       "summary": "Fantasy upside for J.J. McCarthy and Tyler Shough? An advantage for the Bears' rushing attack? Upset brewing in Commanders-Eagles? Let's look at Week 16.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Our guide to every game: Matchup previews, predictions and what's at stake",
       "link": "https://www.espn.com/nfl/story/_/page/viewersguide47337400/nfl-week-16-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "published": "Sat, 20 Dec 2025 08:07:23 EST",
+      "published": "Sat, 20 Dec 2025 17:02:19 EST",
       "summary": "Can Dallas still make the postseason? Picks, predictions and stats for every Week 16 game.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cowboys activate Diggs ahead of Chargers game",
-      "link": "https://www.espn.com/nfl/story/_/id/47369382/cowboys-activate-cb-trevon-diggs-ahead-chargers-game",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "The Cowboys activated Trevon Diggs off injured reserve on Saturday, giving the two-time Pro Bowl cornerback the opportunity to play Sunday against the Chargers.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Kelce to play final 3 games as he ponders future",
-      "link": "https://www.espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Colts' Buckner back from IR; Gardner out again",
-      "link": "https://www.espn.com/nfl/story/_/id/47370232/colts-deforest-buckner-back-ir-sauce-gardner-again",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "The Colts are getting DT DeForest Buckner back from injured reserve but will be without CB Sauce Gardner again vs. the 49ers on Monday night.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Seahawks OLB Hall suspended one game by NFL",
-      "link": "https://www.espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cards' Harrison feels 'good enough' to face Falcons",
-      "link": "https://www.espn.com/nfl/story/_/id/47360628/cardinals-harrison-says-heel-feeling-good-enough-return-vs-falcons",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "Cardinals wide receiver Marvin Harrison Jr. said his injured heel is \"good enough to go\" for him to return on Sunday against the Atlanta Falcons after missing the past two games.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Steelers' Watt remains sidelined against Lions",
-      "link": "https://www.espn.com/nfl/story/_/id/47360107/steelers-tj-watt-again-amid-recovery-lung-surgery",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "After not practicing again this week, T.J. Watt will miss his second straight game when the Steelers face the Lions.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Vikings LT Darrisaw's start-stop year ends on IR",
-      "link": "https://www.espn.com/nfl/story/_/id/47360059/vikings-shut-christian-darrisaw-knee-injury-lingers",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "The Vikings have placed left tackle Christian Darrisaw on injured reserve, concluding an unusual season in which he could never fully return from a left knee injury that occurred nearly 14 months ago.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Falcons expect WR London to play vs. Cardinals",
-      "link": "https://www.espn.com/nfl/story/_/id/47359742/falcons-wr-drake-london-knee-track-return-vs-cards",
-      "published": "Sat, 20 Dec 2025 15:32:57 EST",
-      "summary": "Falcons wide receiver Drake London, out the past four games with a strained left PCL, is expected to play against the Cardinals, according to coach Raheem Morris.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83d\udc1d Week 16 buzz: Latest on what we're hearing",
-      "link": "https://www.espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Sat, 20 Dec 2025 15:32:56 EST",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -89,15 +96,8 @@
     {
       "title": "How Bears DC Dennis Allen has created a takeaway machine",
       "link": "https://www.espn.com/nfl/story/_/id/47359548/chicago-bears-defense-dennis-allen-takeaways",
-      "published": "Sat, 20 Dec 2025 08:09:05 EST",
+      "published": "Sat, 20 Dec 2025 17:04:17 EST",
       "summary": "The Bears lead the NFL in takeaways differential (plus-20), interceptions (21) and total takeaways (30). Here's why.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Saturday special: How to bet Eagles-Commanders and Packers-Bears, plus DFS picks",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47348964/nfl-week-16-odds-lines-spread-betting-picks-dfs-tips-saturday-football-preview-eagles-commanders-packers-bears",
-      "published": "Sat, 20 Dec 2025 09:11:06 EST",
-      "summary": "The Eagles can clinch the NFC East, and the winner of Packers-Bears will lead the NFC North. Here are the odds, game picks, prop plays and daily fantasy tips for the games.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -129,16 +129,9 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Seahawks mount 16-point comeback, defeat Rams in OT to take over NFC West",
-      "link": "https://www.espn.com/nfl/story/_/id/47352168/los-angeles-rams-seattle-seahawks-win-ot-nfc-west-thursday-night-football",
-      "published": "Sat, 20 Dec 2025 01:14:17 EST",
-      "summary": "The battle of the NFC West came down to overtime. Here's everything you need to know.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
       "title": "The race for No. 1 draft pick: Five teams still in the mix, plus prospects they might consider",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/47335129/2026-nfl-draft-top-pick-raiders-browns-titans-giants-jets",
-      "published": "Sat, 20 Dec 2025 01:30:50 EST",
+      "published": "Sat, 20 Dec 2025 16:34:47 EST",
       "summary": "The Raiders, Browns, Titans, Giants and Jets are front-runners for the No. 1 pick. What would they do with the top selection?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },

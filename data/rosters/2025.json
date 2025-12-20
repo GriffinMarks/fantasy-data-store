@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-20T21:21:15Z",
+  "generated_at": "2025-12-20T22:23:25Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -67,17 +67,17 @@
           "news_updated": 1759698955852
         },
         {
-          "player_id": "8142",
-          "full_name": "Alec Pierce",
-          "first_name": "Alec",
-          "last_name": "Pierce",
-          "team": "IND",
+          "player_id": "11646",
+          "full_name": "Jalen Coker",
+          "first_name": "Jalen",
+          "last_name": "Coker",
+          "team": "CAR",
           "position": "WR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Concussion",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_body_part": "Quadriceps",
           "injury_start_date": null,
-          "news_updated": 1759954242047
+          "news_updated": 1759953941554
         },
         {
           "player_id": "12517",
@@ -199,17 +199,17 @@
           "news_updated": 1759850148208
         },
         {
-          "player_id": "JAX",
-          "full_name": null,
-          "first_name": "Jacksonville",
-          "last_name": "Jaguars",
-          "team": "JAX",
-          "position": "DEF",
-          "status": null,
-          "injury_status": null,
-          "injury_body_part": null,
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "first_name": "Alec",
+          "last_name": "Pierce",
+          "team": "IND",
+          "position": "WR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Concussion",
           "injury_start_date": null,
-          "news_updated": null
+          "news_updated": 1759954242047
         }
       ],
       "taxi": [],
@@ -2011,17 +2011,17 @@
           "news_updated": 1759904459748
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
-          "first_name": "Jordan",
-          "last_name": "Mason",
-          "team": "MIN",
+          "player_id": "11579",
+          "full_name": "Audric Estime",
+          "first_name": "Audric",
+          "last_name": "Estime",
+          "team": "PHI",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759738860319
+          "news_updated": 1756326324569
         },
         {
           "player_id": "9997",
@@ -2104,19 +2104,6 @@
       ],
       "bench": [
         {
-          "player_id": "11579",
-          "full_name": "Audric Estime",
-          "first_name": "Audric",
-          "last_name": "Estime",
-          "team": "PHI",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1756326324569
-        },
-        {
           "player_id": "11620",
           "full_name": "Rome Odunze",
           "first_name": "Rome",
@@ -2182,6 +2169,19 @@
           "news_updated": 1759843849444
         },
         {
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "team": "MIN",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759738860319
+        },
+        {
           "player_id": "96",
           "full_name": "Aaron Rodgers",
           "first_name": "Aaron",
@@ -2197,8 +2197,7 @@
       ],
       "taxi": [],
       "ir": [
-        "12481",
-        "17"
+        "12481"
       ]
     },
     {

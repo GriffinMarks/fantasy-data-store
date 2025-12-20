@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-20T21:21:15Z",
+  "generated_at": "2025-12-20T22:23:26Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -71,6 +71,13 @@
       "player_id": "CAR",
       "full_name": null,
       "team": "CAR",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "JAX",
+      "full_name": null,
+      "team": "JAX",
       "position": "DEF",
       "status": null
     },
@@ -19785,13 +19792,6 @@
       "team": null,
       "position": "WR",
       "status": "Active"
-    },
-    {
-      "player_id": "11646",
-      "full_name": "Jalen Coker",
-      "team": "CAR",
-      "position": "WR",
-      "status": "Inactive"
     },
     {
       "player_id": "11506",
