@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 16,
-  "generated_at": "2025-12-20T22:23:25Z",
+  "generated_at": "2025-12-20T23:23:03Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "3451",
             "BUF"
           ],
-          "points": 0.0,
+          "points": 16.6,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 1.6,
+          "points": 12.6,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "12711",
             "TB"
           ],
-          "points": 0.54,
+          "points": 16.08,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "12713",
             "PHI"
           ],
-          "points": 7.0,
+          "points": 5.0,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "11533",
             "WAS"
           ],
-          "points": 42.88,
+          "points": 38.88,
           "projected_points": null
         },
         {
