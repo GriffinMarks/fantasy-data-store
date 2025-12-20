@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-20T20:26:01Z",
+  "generated_at": "2025-12-20T21:21:15Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2970,11 +2970,11 @@
           "news_updated": 1759517441799
         },
         {
-          "player_id": "CHI",
+          "player_id": "NO",
           "full_name": null,
-          "first_name": "Chicago",
-          "last_name": "Bears",
-          "team": "CHI",
+          "first_name": "New Orleans",
+          "last_name": "Saints",
+          "team": "NO",
           "position": "DEF",
           "status": null,
           "injury_status": null,
