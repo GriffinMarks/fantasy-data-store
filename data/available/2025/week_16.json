@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-19T23:24:22Z",
+  "generated_at": "2025-12-20T01:56:41Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -1478,13 +1478,6 @@
       "player_id": "3957",
       "full_name": "Blake Sims",
       "team": null,
-      "position": "QB",
-      "status": "Active"
-    },
-    {
-      "player_id": "11563",
-      "full_name": "Bo Nix",
-      "team": "DEN",
       "position": "QB",
       "status": "Active"
     },
@@ -3454,6 +3447,13 @@
       "team": null,
       "position": "QB",
       "status": "Inactive"
+    },
+    {
+      "player_id": "4046",
+      "full_name": "Patrick Mahomes",
+      "team": "KC",
+      "position": "QB",
+      "status": "Active"
     },
     {
       "player_id": "3170",
