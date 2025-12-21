@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-21T16:30:08Z",
+  "generated_at": "2025-12-21T17:21:32Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2182,17 +2182,17 @@
           "news_updated": 1759738860319
         },
         {
-          "player_id": "96",
-          "full_name": "Aaron Rodgers",
-          "first_name": "Aaron",
-          "last_name": "Rodgers",
-          "team": "PIT",
+          "player_id": "9758",
+          "full_name": "C.J. Stroud",
+          "first_name": "C.J.",
+          "last_name": "Stroud",
+          "team": "HOU",
           "position": "QB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759876257357
+          "news_updated": 1759701655990
         }
       ],
       "taxi": [],
