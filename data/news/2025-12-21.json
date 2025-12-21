@@ -1,67 +1,74 @@
 {
-  "generated_at": "2025-12-21T22:24:38Z",
-  "count": 18,
+  "generated_at": "2025-12-21T23:23:31Z",
+  "count": 20,
   "articles": [
+    {
+      "title": "Follow live: Lions aim to keep playoff hopes alive vs. Steelers",
+      "link": "https://www.espn.com/nfl/game/_/gameId/401772806/steelers-lions",
+      "published": "Sun, 21 Dec 2025 18:16:30 EST",
+      "summary": "null",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Steelers' Metcalf throws punch at fan in Detroit",
+      "link": "https://www.espn.com/nfl/story/_/id/47383437/steelers-dk-metcalf-throws-punch-fan-detroit",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
+      "summary": "Steelers wideout DK Metcalf threw a punch at a fan hanging over the railing at Ford Field in the second quarter of Sunday's game against the Lions in Detroit.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Sources: Chiefs fear Minshew suffered ACL tear",
       "link": "https://www.espn.com/nfl/story/_/id/47381084/chiefs-gardner-minshew-suffers-knee-injury-ruled-vs-titans",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "One week after losing starter Patrick Mahomes to an ACL tear, Chiefs quarterback Gardner Minshew is feared to have suffered a torn ACL, sources told ESPN.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "QB McCarthy suffers hand injury in Vikings' win",
       "link": "https://www.espn.com/nfl/story/_/id/47381154/vikings-jj-mccarthy-ryan-kelly-jordan-mason-leave-injured",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "Vikings quarterback J.J. McCarthy suffered a hand injury in Sunday's game against the Giants.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "RB Judkins has dislocated ankle, fractured fibula",
       "link": "https://www.espn.com/nfl/story/_/id/47380829/browns-standout-rookie-rb-quinshon-judkins-leg-carted-off",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "Browns rookie running back Quinshon Judkins suffered a dislocated ankle and fractured fibula in Sunday's 23-20 loss to the Buffalo Bills, coach Kevin Stefanski said.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Packers' Willis also ailing with Love in protocol",
+      "link": "https://www.espn.com/nfl/story/_/id/47382880/packers-monitor-love-concussion-willis-shoulder",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
+      "summary": "While Jordan Love remains in the concussion protocol, his backup, Malik Willis, is dealing with a shoulder injury suffered in Saturday's loss to the Bears.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Rookie Ewers expected to remain Dolphins' QB1",
+      "link": "https://www.espn.com/nfl/story/_/id/47383243/dolphins-quinn-ewers-makes-1st-nfl-start-expected-remain-qb1",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
+      "summary": "Dolphins quarterback Quinn Ewers is expected to continue to start after coach Mike McDaniel said he \"earned\" the opportunity.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Williams' OT magic caps Bears' latest comeback",
       "link": "https://www.espn.com/nfl/story/_/id/47377003/caleb-williams-ot-magic-caps-bears-latest-comeback-win",
-      "published": "Sun, 21 Dec 2025 15:17:28 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "Caleb Williams capped his NFL-leading sixth comeback win from a fourth-quarter deficit with a thrilling 46-yard touchdown pass to DJ Moore to stun the Packers 22-16 in overtime.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "'Been There, Won That': Eagles clinch NFC East",
-      "link": "https://www.espn.com/nfl/story/_/id/47373985/eagles-beat-commanders-clinch-nfc-east-again",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
-      "summary": "The Eagles clinched their second straight NFC East title by beating the Commanders 29-18.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Eagles go for 2, igniting brawl; Sirianni backs play",
-      "link": "https://www.espn.com/nfl/story/_/id/47375448/eagles-2-point-conversion-ignites-brawl-sirianni-defends-play",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
-      "summary": "An on-field fight resulted in three players being ejected from Saturday's Eagles-Commanders game after Philadelphia, up by 17 late in the fourth quarter, decided to go for a 2-point conversion.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Pack lose Love to concussion, unravel in OT loss",
-      "link": "https://www.espn.com/nfl/story/_/id/47374679/packers-jordan-love-exits-concussion-taking-helmet-helmet-hit",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
-      "summary": "Packers quarterback Jordan Love suffered a concussion on a helmet-to-helmet hit, and Green Bay blew a 10-point lead late in the fourth quarter of a crucial overtime loss to the Bears.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sources: Rams fire ST coordinator after TNF loss",
       "link": "https://www.espn.com/nfl/story/_/id/47371200/sources-rams-fire-special-teams-coordinator-chase-blackburn",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "The Rams have fired special teams coordinator Chase Blackburn, sources told ESPN.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc6 Playoff picture: Updated projections, chances",
       "link": "https://www.espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "published": "Sun, 21 Dec 2025 15:02:52 EST",
+      "published": "Sun, 21 Dec 2025 18:06:50 EST",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to Super Bowl LX.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -76,13 +83,13 @@
       "title": "As Chiefs collapse continues, lost 2025 season could be a blessing in disguise",
       "link": "https://www.espn.com/nfl/story/_/id/47381191/chiefs-2025-season-collapse-patrick-mahomes",
       "published": "Sun, 21 Dec 2025 16:44:19 EST",
-      "summary": "While this shouldn't be a full teardown and rebuild, the Chiefs could retool and search for new ideas.",
+      "summary": "While this shouldn't be a full teardown and rebuild, Kansas City could retool and search for new ideas.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Will Cowboys consider sitting Dak Prescott down the stretch?",
       "link": "https://www.espn.com/nfl/story/_/id/47360296/dallas-cowboys-dak-prescott-no-shutdown",
-      "published": "Sun, 21 Dec 2025 12:51:55 EST",
+      "published": "Sun, 21 Dec 2025 17:30:42 EST",
       "summary": "Prescott wants to 'take the field with my brothers,' but do Jerry Jones and Brian Schottenheimer agree he should?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -91,6 +98,13 @@
       "link": "https://www.espn.com/nfl/story/_/id/47361550/new-england-patriots-drake-maye-adversity-baltimore-ravens",
       "published": "Sun, 21 Dec 2025 08:38:37 EST",
       "summary": "Maye said he has learned from the loss to the Bills and is focused on Baltimore.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "'Tis the szn': Chargers troll Cowboys multiple times after victory",
+      "link": "https://www.espn.com/nfl/story/_/id/47382903/nfl-week-16-trolls",
+      "published": "Sun, 21 Dec 2025 17:59:06 EST",
+      "summary": "Even with the holidays coming up, NFL teams remained their petty selves in Week 16.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
