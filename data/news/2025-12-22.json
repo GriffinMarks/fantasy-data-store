@@ -1,89 +1,103 @@
 {
-  "generated_at": "2025-12-22T13:38:05Z",
-  "count": 26,
+  "generated_at": "2025-12-22T14:26:50Z",
+  "count": 28,
   "articles": [
     {
-      "title": "'Chaos': Aaron Rodgers' one-word take of Steelers-Lions tops Week 16 quotes",
-      "link": "https://www.espn.com/nfl/story/_/id/47384800/nfl-week-16-quotes-steelers-lions-aaron-rodgers-joe-burrow-jaxson-dart",
-      "published": "Mon, 22 Dec 2025 00:02:10 EST",
-      "summary": "With the playoff race heating up, Week 16 gave fans highlight plays and headline-worthy quotes.",
+      "title": "How Week 16 shook up both 1-seed races: Barnwell sizes up the Seahawks, Rams, Broncos and Patriots",
+      "link": "https://www.espn.com/nfl/story/_/id/47380105/2025-nfl-week-16-top-seed-afc-nfc-playoff-picture-broncos-patriots-rams-seahawks",
+      "published": "Mon, 22 Dec 2025 08:59:29 EST",
+      "summary": "Will the Broncos hold off the Patriots in the AFC and get the first-round bye in the playoffs? Can the Seahawks stay ahead of the Rams in the NFC?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tracking the playoff picture: Updated chances to clinch open spots, win division titles",
+      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "published": "Mon, 22 Dec 2025 08:59:29 EST",
+      "summary": "Here's how things look right now for wild-card spots, division races and even the draft order.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Steelers' Metcalf shoves fan during game in Detroit",
       "link": "https://www.espn.com/nfl/story/_/id/47383437/steelers-dk-metcalf-throws-punch-fan-detroit",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "Steelers wide receiver DK Metcalf was involved in an altercation with a fan at Ford Field during the second quarter of Sunday's 29-24 win over the Detroit Lions.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Back injury forces Ravens' Jackson from SNF loss",
       "link": "https://www.espn.com/nfl/story/_/id/47386034/ravens-qb-lamar-jackson-exits-vs-patriots-back-injury",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "Ravens quarterback Lamar Jackson left Sunday night's game against the Patriots late in the first half because of a back injury. He said he hopes to play Saturday at Green Bay but will first have an MRI on Monday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Lions own loss after late OPI calls: 'It's on us'",
       "link": "https://www.espn.com/nfl/story/_/id/47386352/lions-blame-officials-own-loss-late-opi-calls",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "The Detroit Lions owned their big loss after late offensive pass interference calls, with coach Dan Campbell saying, \"It's on us.\"",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Maye rallies Pats after last week's 'wake-up call'",
       "link": "https://www.espn.com/nfl/story/_/id/47387313/patriots-qb-drake-maye-leads-fourth-quarter-comeback-vs-ravens-clinch-playoff-spot",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "A week after failing to lead a winning drive against Buffalo, Patriots QB Drake Maye was given the same opportunity Sunday night at Baltimore -- and this time he delivered one of the signature performances of his career to clinch a playoff spot.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Defiant Jags shift narrative, beat 1-seed Broncos",
       "link": "https://www.espn.com/nfl/story/_/id/47385935/defiant-jaguars-shift-narrative-victory-broncos",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "After a narrative-changing victory over the top-seeded Broncos in Denver, the Jaguars say they don't want anyone jumping on the bandwagon now.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sources: Broncos' Bryant discharged from hospital",
       "link": "https://www.espn.com/nfl/story/_/id/47385829/broncos-pat-bryant-hospitalized-big-hit-vs-jaguars",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "Pat Bryant was discharged from an area hospital Sunday night after being diagnosed with a concussion, but cleared of other major injuries, following a big hit in the final minute of the team's 34-20 loss to the Jaguars, sources told ESPN.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sources: Chiefs fear Minshew suffered ACL tear",
       "link": "https://www.espn.com/nfl/story/_/id/47381084/chiefs-gardner-minshew-suffers-knee-injury-ruled-vs-titans",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "One week after losing starter Patrick Mahomes to an ACL tear, Chiefs quarterback Gardner Minshew is feared to also have suffered a torn ACL, sources told ESPN.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Jones: Cowboys 'underachieved' in 2025 season",
       "link": "https://www.espn.com/nfl/story/_/id/47384308/jerry-jones-cowboys-underachieved-2025-bullish-future",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "Cowboys owner and general manager Jerry Jones expressed his disappointment Sunday with how the season has gone for his team.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83c\udfc6 Playoff picture: Updated projections, chances",
       "link": "https://www.espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "published": "Mon, 22 Dec 2025 02:54:50 EST",
+      "published": "Mon, 22 Dec 2025 08:41:49 EST",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to Super Bowl LX.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Our reporters make sense of Week 16: Statement wins for Patriots, Jaguars, Panthers, Steelers, Bears",
       "link": "https://www.espn.com/nfl/story/_/id/47325576/nfl-week-16-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "Sun, 21 Dec 2025 23:59:17 EST",
+      "published": "Mon, 22 Dec 2025 08:42:30 EST",
       "summary": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Let's overreact to NFL Week 16: Broncos won't be the 1-seed? Macdonald is COY?",
       "link": "https://www.espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
-      "published": "Sun, 21 Dec 2025 23:59:17 EST",
+      "published": "Mon, 22 Dec 2025 08:42:30 EST",
       "summary": "Did lopsided loss expose Denver? Should Bowles be done? We overreact to Week 16, plus fantasy takes.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "'Chaos': Aaron Rodgers' one-word take of Steelers-Lions tops Week 16 quotes",
+      "link": "https://www.espn.com/nfl/story/_/id/47384800/nfl-week-16-quotes-steelers-lions-aaron-rodgers-joe-burrow-jaxson-dart",
+      "published": "Mon, 22 Dec 2025 00:02:10 EST",
+      "summary": "With the playoff race heating up, Week 16 gave fans highlight plays and headline-worthy quotes.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -94,10 +108,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
-      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "published": "Mon, 22 Dec 2025 07:34:03 EST",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
+      "title": "Inside the wildest dadgum comeback in NFL history",
+      "link": "https://www.espn.com/nfl/story/_/id/47379625/inside-philip-rivers-startling-nfl-comeback",
+      "published": "Mon, 22 Dec 2025 08:37:26 EST",
+      "summary": "Yes, Philip Rivers unretired and is now the starting QB for a team in the playoff race. No, this is not a movie.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
