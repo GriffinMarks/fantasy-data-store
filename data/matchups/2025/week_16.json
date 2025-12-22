@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 16,
-  "generated_at": "2025-12-22T04:06:52Z",
+  "generated_at": "2025-12-22T05:29:31Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 91.96,
+          "points": 94.96,
           "projected_points": null
         }
       ]
@@ -116,7 +116,7 @@
             "5189",
             "NO"
           ],
-          "points": 119.98,
+          "points": 130.98,
           "projected_points": null
         }
       ]
@@ -194,7 +194,7 @@
             "12713",
             "PHI"
           ],
-          "points": 81.98,
+          "points": 86.2,
           "projected_points": null
         }
       ]
