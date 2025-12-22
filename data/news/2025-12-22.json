@@ -1,84 +1,7 @@
 {
-  "generated_at": "2025-12-22T19:22:11Z",
-  "count": 25,
+  "generated_at": "2025-12-22T20:29:14Z",
+  "count": 26,
   "articles": [
-    {
-      "title": "Playoff picture projections: Updated odds for every team trying to reach the postseason",
-      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "published": "Mon, 22 Dec 2025 12:03:02 EST",
-      "summary": "We are following the 2025 season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "How Week 16 reset the race for the AFC and NFC 1-seeds: Barnwell on NFL's best teams",
-      "link": "https://www.espn.com/nfl/story/_/id/47380105/2025-nfl-week-16-top-seed-afc-nfc-playoff-picture-broncos-patriots-rams-seahawks",
-      "published": "Mon, 22 Dec 2025 12:03:02 EST",
-      "summary": "Will the Broncos hold off the Patriots in the AFC? Can the Seahawks stay ahead of the Rams in the NFC?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Seahawks LB Hall's appeal of 1-game ban fails",
-      "link": "https://www.espn.com/nfl/story/_/id/47390305/seahawks-lb-derick-hall-one-game-suspension-upheld-appeal",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Seahawks outside linebacker Derick Hall's one game suspension without pay for an act of unnecessary roughness and unsportsmanlike conduct has been upheld by hearing officer Ramon Foster.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Steelers' Metcalf shoves fan during game in Detroit",
-      "link": "https://www.espn.com/nfl/story/_/id/47383437/steelers-dk-metcalf-throws-punch-fan-detroit",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Steelers wide receiver DK Metcalf was involved in an altercation with a fan at Ford Field during the second quarter of Sunday's 29-24 win over the Detroit Lions.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Glenn to frustrated Jets fans: 'We have a plan'",
-      "link": "https://www.espn.com/nfl/story/_/id/47390702/aaron-glenn-asks-jets-fans-patience-says-plan",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Aaron Glenn is asking frustrated Jets fans for patience, telling them \"we have a plan\" and not to \"let go of the rope.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Back injury forces Ravens' Jackson from SNF loss",
-      "link": "https://www.espn.com/nfl/story/_/id/47386034/ravens-qb-lamar-jackson-exits-vs-patriots-back-injury",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Ravens quarterback Lamar Jackson left Sunday night's game against the Patriots late in the first half because of a back injury. He said he hopes to play Saturday at Green Bay but will first have an MRI on Monday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Lions own loss after late OPI calls: 'It's on us'",
-      "link": "https://www.espn.com/nfl/story/_/id/47386352/lions-blame-officials-own-loss-late-opi-calls",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "The Detroit Lions owned their big loss after late offensive pass interference calls, with coach Dan Campbell saying, \"It's on us.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Maye rallies Pats after last week's 'wake-up call'",
-      "link": "https://www.espn.com/nfl/story/_/id/47387313/patriots-qb-drake-maye-leads-fourth-quarter-comeback-vs-ravens-clinch-playoff-spot",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "A week after failing to lead a winning drive against Buffalo, Patriots QB Drake Maye was given the same opportunity Sunday night at Baltimore -- and this time he delivered one of the signature performances of his career to clinch a playoff spot.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Broncos' Bryant discharged from hospital",
-      "link": "https://www.espn.com/nfl/story/_/id/47385829/broncos-pat-bryant-hospitalized-big-hit-vs-jaguars",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Pat Bryant was discharged from an area hospital Sunday night after being diagnosed with a concussion, but cleared of other major injuries, following a big hit in the final minute of the team's 34-20 loss to the Jaguars, sources told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Chiefs fear Minshew suffered ACL tear",
-      "link": "https://www.espn.com/nfl/story/_/id/47381084/chiefs-gardner-minshew-suffers-knee-injury-ruled-vs-titans",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "One week after losing starter Patrick Mahomes to an ACL tear, Chiefs quarterback Gardner Minshew is feared to also have suffered a torn ACL, sources told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83d\udc40 The biggest overreactions for Week 16 games",
-      "link": "https://www.espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
-      "published": "Mon, 22 Dec 2025 13:07:22 EST",
-      "summary": "Did a lopsided loss expose Denver? Should Bowles be done? Should DK Metcalf have sat? We overreact to Week 16, plus fantasy football takes.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
     {
       "title": "Inside the wildest dadgum comeback in NFL history",
       "link": "https://www.espn.com/nfl/story/_/id/47379625/inside-philip-rivers-startling-nfl-comeback",
@@ -87,10 +10,101 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Fan denies using slur during incident with Metcalf",
+      "link": "https://www.espn.com/nfl/story/_/id/47391606/fan-denies-using-slur-incident-steelers-dk-metcalf",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "The fan involved in the altercation with the Steelers' DK Metcalf on Sunday denied using a slur during the incident, according to a statement issued by a Michigan law firm.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Kansas approves proposal for new Chiefs stadium",
+      "link": "https://www.espn.com/nfl/story/_/id/47391840/kansas-lawmakers-approve-proposal-help-chiefs-build-new-stadium",
+      "published": "Mon, 22 Dec 2025 15:18:40 EST",
+      "summary": "Kansas lawmakers approved a proposal Monday to help pay for a new stadium for the Chiefs, which is expected to lure one of the NFL's iconic franchises across the state line from Missouri and replace popular but aging Arrowhead Stadium.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFL suspends Chargers LB Perryman two games",
+      "link": "https://www.espn.com/nfl/story/_/id/47391841/nfl-suspends-chargers-lb-denzel-perryman-two-games",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "The NFL suspended Chargers LB Denzel Perryman two games cited repeated violations of player safety rules, including during Sunday's win over the Cowboys.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Seahawks LB Hall's appeal of 1-game ban fails",
+      "link": "https://www.espn.com/nfl/story/_/id/47390305/seahawks-lb-derick-hall-one-game-suspension-upheld-appeal",
+      "published": "Mon, 22 Dec 2025 15:18:40 EST",
+      "summary": "Seahawks outside linebacker Derick Hall's one game suspension without pay for an act of unnecessary roughness and unsportsmanlike conduct has been upheld by hearing officer Ramon Foster.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Glenn to frustrated Jets fans: 'We have a plan'",
+      "link": "https://www.espn.com/nfl/story/_/id/47390702/aaron-glenn-asks-jets-fans-patience-says-plan",
+      "published": "Mon, 22 Dec 2025 15:18:40 EST",
+      "summary": "Aaron Glenn is asking frustrated Jets fans for patience, telling them \"we have a plan\" and not to \"let go of the rope.\"",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Chiefs QB Minshew avoids ACL tear, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/47391618/chiefs-qb-gardner-minshew-avoids-acl-tear-sources-say",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "Chiefs quarterback Gardner Minshew does not have a torn ACL, as the team initially feared, sources told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Back injury forces Ravens' Jackson from SNF loss",
+      "link": "https://www.espn.com/nfl/story/_/id/47386034/ravens-qb-lamar-jackson-exits-vs-patriots-back-injury",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "Ravens quarterback Lamar Jackson left Sunday night's game against the Patriots late in the first half because of a back injury. He said he hopes to play Saturday at Green Bay but will first have an MRI on Monday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Maye rallies Pats after last week's 'wake-up call'",
+      "link": "https://www.espn.com/nfl/story/_/id/47387313/patriots-qb-drake-maye-leads-fourth-quarter-comeback-vs-ravens-clinch-playoff-spot",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "A week after failing to lead a winning drive against Buffalo, Patriots QB Drake Maye was given the same opportunity Sunday night at Baltimore -- and this time he delivered one of the signature performances of his career to clinch a playoff spot.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83d\udc40 The biggest overreactions for Week 16 games",
+      "link": "https://www.espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
+      "published": "Mon, 22 Dec 2025 15:18:39 EST",
+      "summary": "Did a lopsided loss expose Denver? Should Bowles be done? Should DK Metcalf have sat? We overreact to Week 16, plus fantasy football takes.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "Robert Saleh wants to be a head coach again -- but isn't desperate after 49ers return",
       "link": "https://www.espn.com/nfl/story/_/id/47384999/is-san-francisco-49ers-robert-saleh-open-being-head-coach-again-2026",
-      "published": "Mon, 22 Dec 2025 10:59:07 EST",
+      "published": "Mon, 22 Dec 2025 14:48:57 EST",
       "summary": "Saleh has the 49ers' defense staying afloat amid injuries and offseason turnover. Could he leave this offseason?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "How Week 16 reset the race for the AFC and NFC 1-seeds: Barnwell on the NFL's best teams",
+      "link": "https://www.espn.com/nfl/story/_/id/47380105/2025-nfl-week-16-top-seed-afc-nfc-playoff-picture-broncos-patriots-rams-seahawks",
+      "published": "Mon, 22 Dec 2025 14:49:06 EST",
+      "summary": "Will the Broncos hold off the Patriots in the AFC and get the first-round bye in the playoffs? Can the Seahawks stay ahead of the Rams in the NFC?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Playoff picture projections: Updated odds for every team trying to reach the postseason",
+      "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "published": "Mon, 22 Dec 2025 14:49:06 EST",
+      "summary": "Here's how things look right now for wild-card spots, division races and even the draft order.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Veteran Stefon Diggs shone when Patriots needed him most: 'Prime time is my time'",
+      "link": "https://www.espn.com/nfl/story/_/id/47390497/stefon-diggs-shined-need-new-england-patriots-vs-baltimore-ravens",
+      "published": "Mon, 22 Dec 2025 14:49:47 EST",
+      "summary": "After a quiet last month for Diggs, he showed out against the Ravens to secure the Patriots a playoff spot.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Missed tackles, third-down struggles doom the Broncos defense: 'We didn't execute'",
+      "link": "https://www.espn.com/nfl/story/_/id/47386626/denver-broncos-defense-struggles-jaguars-third-missed-tackles",
+      "published": "Mon, 22 Dec 2025 14:49:47 EST",
+      "summary": "Denver's 11-game win streak fizzled against the Jaguars. Should the Broncos be concerned?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -98,20 +112,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47325576/nfl-week-16-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "published": "Mon, 22 Dec 2025 08:42:30 EST",
       "summary": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Veteran Stefon Diggs shined when Patriots needed him most: 'Prime time is my time'",
-      "link": "https://www.espn.com/nfl/story/_/id/47390497/stefon-diggs-shined-need-new-england-patriots-vs-baltimore-ravens",
-      "published": "Mon, 22 Dec 2025 13:42:29 EST",
-      "summary": "After a quiet last month for Diggs, he showed out against the Ravens to secure the Patriots a playoff spot.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Missed tackles, third-down struggles doom the Broncos defense: 'We didn't execute'",
-      "link": "https://www.espn.com/nfl/story/_/id/47386626/denver-broncos-defense-struggles-jaguars-third-missed-tackles",
-      "published": "Mon, 22 Dec 2025 13:42:29 EST",
-      "summary": "Denver's 11-game win streak fizzled against the Jaguars. Should the Broncos be concerned?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -150,10 +150,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Week 17 odds: Jaguars big favorites at Colts, 49ers favored over Bears",
+      "title": "Early Week 17 bets: Back Steelers to win AFC North, Lions to keep playoff hopes alive",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47387778/2025-nfl-week-17-betting-odds-props-early-pick-predictions-first-bet",
+      "published": "Mon, 22 Dec 2025 14:42:17 EST",
+      "summary": "Which lines offered value once odds came out? Here are games we are eyeing for bets going into Week 17.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Odds: Jaguars big favorites at Colts, 49ers favored over Bears",
       "link": "https://www.espn.com/espn/betting/story/_/id/47387542/2025-nfl-week-17-schedule-betting-odds-lines-point-spreads-preview",
-      "published": "Mon, 22 Dec 2025 07:26:41 EST",
-      "summary": "Week 17 features critical matchups with the NFL playoffs approaching. Here are the odds, spreads and totals for every game.",
+      "published": "Mon, 22 Dec 2025 14:42:17 EST",
+      "summary": "Here are the odds, spreads and totals for every game in Week 17.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
