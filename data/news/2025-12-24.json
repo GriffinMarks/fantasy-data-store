@@ -1,23 +1,23 @@
 {
-  "generated_at": "2025-12-24T14:25:24Z",
-  "count": 26,
+  "generated_at": "2025-12-24T15:27:27Z",
+  "count": 23,
   "articles": [
     {
       "title": "NFL Week 17 buzz: What we're hearing on Joe Burrow, the red-hot Jaguars and Pro Bowl rosters",
       "link": "https://www.espn.com/nfl/story/_/id/47392543/nfl-week-17-buzz-news-updates-fantasy-intel-questions-predictions",
-      "published": "Wed, 24 Dec 2025 09:15:44 EST",
+      "published": "Wed, 24 Dec 2025 10:14:39 EST",
       "summary": "Here's the latest, including intel on Burrow's future, opening QB1 spots, the Jaguars' legitimacy and Pro Bowl roster fallout.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
       "link": "https://www.espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
-      "published": "Wed, 24 Dec 2025 09:15:44 EST",
+      "published": "Wed, 24 Dec 2025 10:14:39 EST",
       "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Metcalf's 2-game ban upheld, will forfeit $555K",
+      "title": "Metcalf's ban upheld; fan's conduct under review",
       "link": "https://www.espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
       "published": "Tue, 23 Dec 2025 21:52:35 EST",
       "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday.",
@@ -82,14 +82,14 @@
     {
       "title": "How a random NFL drug test led to a cancer diagnosis: Alex Singleton's 'horrifying' past two months",
       "link": "https://www.espn.com/nfl/story/_/id/47399442/alex-singleton-denver-broncos-testicular-cancer-nfl-random-drug-test",
-      "published": "Wed, 24 Dec 2025 09:20:22 EST",
+      "published": "Wed, 24 Dec 2025 09:44:35 EST",
       "summary": "The Broncos linebacker discovered he had testicular cancer from a league drug test. And now he plays the game with a fresh perspective.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "One loaded Christmas Day slate: Everything you need to know",
       "link": "https://www.espn.com/espn/story/_/id/47326382/nfl-nba-christmas-2025-games-picks-schedules-odds-injuries-stats",
-      "published": "Wed, 24 Dec 2025 08:35:23 EST",
+      "published": "Wed, 24 Dec 2025 09:23:07 EST",
       "summary": "Christmas Day includes three NFL matchups and five NBA games. We're previewing them all with picks, predictions, storylines and more.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -101,17 +101,38 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
+      "title": "Believe in Tyler Shough, Malik Willis and other unlikely playoff starters",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/47402594/fantasy-football-start-sit-add-week-17",
+      "published": "Wed, 24 Dec 2025 09:42:01 EST",
+      "summary": "'Tis the season for fantasy heroes! Liz Loza breaks down so players who can step in and help win a fantasy championship even if they're not necessarily the ones who got you here.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Matchup rankings: Upgrade Fannin Jr., downgrade Williams",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/47389017/fantasy-football-rankings-tips-nfl-week-17-matchups-qb-rb-wr-te",
+      "published": "Wed, 24 Dec 2025 09:42:01 EST",
+      "summary": "The most and least favorable matchups at the four key fantasy positions (QB, RB, WR and TE).",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
       "title": "2026 NFL Pro Bowl AFC, NFC rosters: The league's top players",
       "link": "https://www.espn.com/nfl/story/_/id/47391530/2026-nfl-pro-bowl-afc-nfc-players-teams-watch",
-      "published": "Wed, 24 Dec 2025 08:08:44 EST",
+      "published": "Wed, 24 Dec 2025 09:39:57 EST",
       "summary": "The Ravens, Broncos, 49ers and Seahawks each had six players chosen to lead the way.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Wait, no Jordan Love? The biggest Pro Bowl snubs for the AFC and NFC rosters",
       "link": "https://www.espn.com/nfl/story/_/id/47391177/2026-nfl-pro-bowl-roster-snubs-misses-love-olave-brooks",
-      "published": "Wed, 24 Dec 2025 08:08:44 EST",
+      "published": "Wed, 24 Dec 2025 09:39:57 EST",
       "summary": "Love and Chris Olave didn't make the NFC roster? Should Josh Hines-Allen be in the AFC lineup?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
+      "link": "https://www.espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
+      "published": "Wed, 24 Dec 2025 09:42:53 EST",
+      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -129,52 +150,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
-      "link": "https://www.espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
-      "published": "Tue, 23 Dec 2025 18:01:14 EST",
-      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "How Week 16 reset the race for the AFC and NFC 1-seeds: Barnwell on NFL's best teams",
-      "link": "https://www.espn.com/nfl/story/_/id/47380105/2025-nfl-week-16-top-seed-afc-nfc-playoff-picture-broncos-patriots-rams-seahawks",
-      "published": "Tue, 23 Dec 2025 11:35:02 EST",
-      "summary": "Will the Broncos hold off the Patriots in the AFC? Can the Seahawks stay ahead of the Rams in the NFC?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Matchup rankings: Upgrade Harold Fannin Jr., downgrade Jameson Williams",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47389017/fantasy-football-rankings-tips-nfl-week-17-matchups-qb-rb-wr-te",
-      "published": "Wed, 24 Dec 2025 07:59:44 EST",
-      "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions (QB, RB, WR and TE).",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Our reporters make sense of Week 16: Statement wins for 49ers, Patriots, Jaguars, Panthers, Steelers, Bears",
-      "link": "https://www.espn.com/nfl/story/_/id/47325576/nfl-week-16-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "published": "Mon, 22 Dec 2025 08:42:30 EST",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Let's overreact to NFL Week 16: Broncos won't be the 1-seed? Macdonald is COY?",
-      "link": "https://www.espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
-      "published": "Mon, 22 Dec 2025 08:42:30 EST",
-      "summary": "Did lopsided loss expose Denver? Should Bowles be done? We overreact to Week 16, plus fantasy takes.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
       "title": "Buzz: Disappointing Chiefs enter Christmas matchup as two-TD underdogs to Broncos",
       "link": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
       "published": "Wed, 24 Dec 2025 08:06:10 EST",
       "summary": "The NFL's Christmas Day slate features some disappointing teams, none as bad betting-wise as the Kansas City Chiefs.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Did you know there are 13 active former No. 1 picks in the NFL? We examine them all",
-      "link": "https://www.espn.com/nfl/story/_/id/47250685/former-nfl-number-1-picks-current-nfl-matthew-stafford-myles-garrett-jadeveon-clowney",
-      "published": "Sat, 20 Dec 2025 10:54:20 EST",
-      "summary": "Matthew Stafford, Myles Garrett are having the best seasons of all 13 of the former No. 1 picks currently in the NFL.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
