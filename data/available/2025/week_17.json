@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-24T16:32:07Z",
+  "generated_at": "2025-12-24T17:22:08Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3751,
   "players": [
     {
       "player_id": "BAL",
@@ -71,6 +71,13 @@
       "player_id": "JAX",
       "full_name": null,
       "team": "JAX",
+      "position": "DEF",
+      "status": null
+    },
+    {
+      "player_id": "BUF",
+      "full_name": null,
+      "team": "BUF",
       "position": "DEF",
       "status": null
     },
@@ -3123,6 +3130,13 @@
       "player_id": "6343",
       "full_name": "Manny Wilkins",
       "team": null,
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "2307",
+      "full_name": "Marcus Mariota",
+      "team": "WAS",
       "position": "QB",
       "status": "Active"
     },
@@ -9861,13 +9875,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "11603",
-      "full_name": "AJ Barner",
-      "team": "SEA",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "516",
       "full_name": "Aaron Hernandez",
       "team": null,
@@ -10445,13 +10452,6 @@
       "player_id": "221",
       "full_name": "Brent Celek",
       "team": null,
-      "position": "TE",
-      "status": "Inactive"
-    },
-    {
-      "player_id": "9480",
-      "full_name": "Brenton Strange",
-      "team": "JAX",
       "position": "TE",
       "status": "Inactive"
     },
@@ -14659,13 +14659,6 @@
       "player_id": "6919",
       "full_name": "Thaddeus Moss",
       "team": null,
-      "position": "TE",
-      "status": "Active"
-    },
-    {
-      "player_id": "11597",
-      "full_name": "Theo Johnson",
-      "team": "NYG",
       "position": "TE",
       "status": "Active"
     },
