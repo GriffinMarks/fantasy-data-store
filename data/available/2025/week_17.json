@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-24T17:22:08Z",
+  "generated_at": "2025-12-24T18:37:07Z",
   "league_id": "1262790170931892224",
-  "count": 3751,
+  "count": 3752,
   "players": [
     {
       "player_id": "BAL",
@@ -14614,13 +14614,6 @@
       "status": "Inactive"
     },
     {
-      "player_id": "4381",
-      "full_name": "Taysom Hill",
-      "team": "NO",
-      "position": "TE",
-      "status": "Active"
-    },
-    {
       "player_id": "8227",
       "full_name": "Teagan Quitoriano",
       "team": "ATL",
@@ -23546,6 +23539,13 @@
       "status": "Active"
     },
     {
+      "player_id": "12492",
+      "full_name": "Pat Bryant",
+      "team": "DEN",
+      "position": "WR",
+      "status": "Active"
+    },
+    {
       "player_id": "2674",
       "full_name": "Paul Browning",
       "team": null,
@@ -25558,6 +25558,13 @@
       "player_id": "7546",
       "full_name": "Tre Nixon",
       "team": null,
+      "position": "WR",
+      "status": "Active"
+    },
+    {
+      "player_id": "10213",
+      "full_name": "Tre Tucker",
+      "team": "LV",
       "position": "WR",
       "status": "Active"
     },
