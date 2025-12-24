@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-24T08:36:08Z",
+  "generated_at": "2025-12-24T09:29:51Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -253,17 +253,17 @@
           "news_updated": 1759102850446
         },
         {
-          "player_id": "7021",
-          "full_name": "Rico Dowdle",
-          "first_name": "Rico",
-          "last_name": "Dowdle",
-          "team": "CAR",
+          "player_id": "8228",
+          "full_name": "Jaylen Warren",
+          "first_name": "Jaylen",
+          "last_name": "Warren",
+          "team": "PIT",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759849547926
+          "news_updated": 1759953642088
         },
         {
           "player_id": "5859",
@@ -331,11 +331,11 @@
           "news_updated": 1759712157387
         },
         {
-          "player_id": "BUF",
+          "player_id": "PIT",
           "full_name": null,
-          "first_name": "Buffalo",
-          "last_name": "Bills",
-          "team": "BUF",
+          "first_name": "Pittsburgh",
+          "last_name": "Steelers",
+          "team": "PIT",
           "position": "DEF",
           "status": null,
           "injury_status": null,
@@ -398,24 +398,24 @@
           "news_updated": 1759162554846
         },
         {
-          "player_id": "8228",
-          "full_name": "Jaylen Warren",
-          "first_name": "Jaylen",
-          "last_name": "Warren",
-          "team": "PIT",
+          "player_id": "7021",
+          "full_name": "Rico Dowdle",
+          "first_name": "Rico",
+          "last_name": "Dowdle",
+          "team": "CAR",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759953642088
+          "news_updated": 1759849547926
         },
         {
-          "player_id": "PIT",
+          "player_id": "BUF",
           "full_name": null,
-          "first_name": "Pittsburgh",
-          "last_name": "Steelers",
-          "team": "PIT",
+          "first_name": "Buffalo",
+          "last_name": "Bills",
+          "team": "BUF",
           "position": "DEF",
           "status": null,
           "injury_status": null,
