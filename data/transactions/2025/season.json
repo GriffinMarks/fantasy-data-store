@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-24T07:28:26Z",
+  "generated_at": "2025-12-24T08:36:23Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -11109,6 +11109,36 @@
         11
       ],
       "status_updated": 1765375747767,
+      "waiver_budget": []
+    },
+    {
+      "week": 16,
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1766552208812,
+      "settings": {
+        "seq": 0
+      },
+      "leg": 16,
+      "draft_picks": [],
+      "creator": "604792816572366848",
+      "transaction_id": "1309418505417814016",
+      "adds": {
+        "PIT": 2
+      },
+      "drops": {
+        "11439": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1766563609152,
       "waiver_budget": []
     },
     {

@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-24T07:28:18Z",
+  "generated_at": "2025-12-24T08:36:08Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -346,19 +346,6 @@
       ],
       "bench": [
         {
-          "player_id": "11439",
-          "full_name": "Jaleel McLaughlin",
-          "first_name": "Jaleel",
-          "last_name": "McLaughlin",
-          "team": "DEN",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759679453953
-        },
-        {
           "player_id": "11647",
           "full_name": "Kimani Vidal",
           "first_name": "Kimani",
@@ -422,6 +409,19 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759953642088
+        },
+        {
+          "player_id": "PIT",
+          "full_name": null,
+          "first_name": "Pittsburgh",
+          "last_name": "Steelers",
+          "team": "PIT",
+          "position": "DEF",
+          "status": null,
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": null
         }
       ],
       "taxi": [],
