@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 17,
-  "generated_at": "2025-12-25T13:35:43Z",
+  "generated_at": "2025-12-25T14:25:40Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -11,8 +11,8 @@
       "created": 1766600512043,
       "settings": null,
       "leg": 17,
-      "creator": "1128160904866136064",
       "draft_picks": [],
+      "creator": "1128160904866136064",
       "transaction_id": "1309621103852814336",
       "adds": {
         "4381": 11
@@ -34,8 +34,8 @@
       "created": 1766600498049,
       "settings": null,
       "leg": 17,
-      "creator": "1128160904866136064",
       "draft_picks": [],
+      "creator": "1128160904866136064",
       "transaction_id": "1309621045157707776",
       "adds": null,
       "drops": {
@@ -57,8 +57,8 @@
       "created": 1766600471033,
       "settings": null,
       "leg": 17,
-      "creator": "1128160904866136064",
       "draft_picks": [],
+      "creator": "1128160904866136064",
       "transaction_id": "1309620931844386816",
       "adds": null,
       "drops": {
@@ -80,8 +80,8 @@
       "created": 1766595791952,
       "settings": null,
       "leg": 17,
-      "creator": "604792816572366848",
       "draft_picks": [],
+      "creator": "604792816572366848",
       "transaction_id": "1309601306356236288",
       "adds": {
         "11597": 2
@@ -105,8 +105,8 @@
       "created": 1766595242687,
       "settings": null,
       "leg": 17,
-      "creator": "604792816572366848",
       "draft_picks": [],
+      "creator": "604792816572366848",
       "transaction_id": "1309599002571870208",
       "adds": {
         "11603": 2
@@ -130,8 +130,8 @@
       "created": 1766595209916,
       "settings": null,
       "leg": 17,
-      "creator": "604792816572366848",
       "draft_picks": [],
+      "creator": "604792816572366848",
       "transaction_id": "1309598865120317440",
       "adds": {
         "9480": 2
