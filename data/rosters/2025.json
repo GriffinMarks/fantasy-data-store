@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-25T20:29:15Z",
+  "generated_at": "2025-12-25T21:23:30Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -1836,17 +1836,17 @@
           "news_updated": 1759843849605
         },
         {
-          "player_id": "5844",
-          "full_name": "T.J. Hockenson",
-          "first_name": "T.J.",
-          "last_name": "Hockenson",
-          "team": "MIN",
+          "player_id": "8111",
+          "full_name": "Cade Otton",
+          "first_name": "Cade",
+          "last_name": "Otton",
+          "team": "TB",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759740060361
+          "news_updated": 1759843849714
         },
         {
           "player_id": "8167",
@@ -1929,17 +1929,17 @@
           "news_updated": 1758659461447
         },
         {
-          "player_id": "8111",
-          "full_name": "Cade Otton",
-          "first_name": "Cade",
-          "last_name": "Otton",
-          "team": "TB",
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "first_name": "T.J.",
+          "last_name": "Hockenson",
+          "team": "MIN",
           "position": "TE",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849714
+          "news_updated": 1759740060361
         },
         {
           "player_id": "8121",
@@ -2423,7 +2423,9 @@
         }
       ],
       "taxi": [],
-      "ir": []
+      "ir": [
+        "11604"
+      ]
     },
     {
       "roster_id": 12,
@@ -2876,17 +2878,17 @@
           "news_updated": 1759789242193
         },
         {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "first_name": "Rhamondre",
-          "last_name": "Stevenson",
-          "team": "NE",
+          "player_id": "8151",
+          "full_name": "Kenneth Walker",
+          "first_name": "Kenneth",
+          "last_name": "Walker",
+          "team": "SEA",
           "position": "RB",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759933202508
+          "news_updated": 1759843849589
         },
         {
           "player_id": "8150",
@@ -3021,6 +3023,19 @@
           "news_updated": 1759937102995
         },
         {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "first_name": "Rhamondre",
+          "last_name": "Stevenson",
+          "team": "NE",
+          "position": "RB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759933202508
+        },
+        {
           "player_id": "7839",
           "full_name": "Evan McPherson",
           "first_name": "Evan",
@@ -3047,19 +3062,6 @@
           "news_updated": 1759254651829
         },
         {
-          "player_id": "8151",
-          "full_name": "Kenneth Walker",
-          "first_name": "Kenneth",
-          "last_name": "Walker",
-          "team": "SEA",
-          "position": "RB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759843849589
-        },
-        {
           "player_id": "9504",
           "full_name": "Kayshon Boutte",
           "first_name": "Kayshon",
@@ -3075,7 +3077,6 @@
       ],
       "taxi": [],
       "ir": [
-        "12498",
         "6806"
       ]
     }
