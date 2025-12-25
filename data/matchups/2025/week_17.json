@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 17,
-  "generated_at": "2025-12-25T19:20:06Z",
+  "generated_at": "2025-12-25T20:29:15Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "11533",
             "WAS"
           ],
-          "points": 4.0,
+          "points": 17.0,
           "projected_points": null
         },
         {
@@ -60,7 +60,7 @@
             "3451",
             "PIT"
           ],
-          "points": 5.8,
+          "points": 8.7,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 15.16,
+          "points": 20.0,
           "projected_points": null
         }
       ]
@@ -116,7 +116,7 @@
             "6650",
             "KC"
           ],
-          "points": 4.5,
+          "points": 9.6,
           "projected_points": null
         }
       ]
