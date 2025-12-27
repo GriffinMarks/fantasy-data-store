@@ -1,8 +1,8 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-27T18:35:07Z",
+  "generated_at": "2025-12-27T19:19:27Z",
   "league_id": "1262790170931892224",
-  "count": 3752,
+  "count": 3751,
   "players": [
     {
       "player_id": "BAL",
@@ -22116,13 +22116,6 @@
       "team": null,
       "position": "WR",
       "status": "Inactive"
-    },
-    {
-      "player_id": "12547",
-      "full_name": "Kyle Williams",
-      "team": "NE",
-      "position": "WR",
-      "status": "Active"
     },
     {
       "player_id": "638",
