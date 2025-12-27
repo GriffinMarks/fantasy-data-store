@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 17,
-  "generated_at": "2025-12-27T21:22:25Z",
+  "generated_at": "2025-12-27T22:23:46Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -60,7 +60,7 @@
             "3451",
             "PIT"
           ],
-          "points": 11.8,
+          "points": 13.8,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 37.48,
+          "points": 40.88,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "1945",
             "HOU"
           ],
-          "points": 0.0,
+          "points": 14.5,
           "projected_points": null
         },
         {
@@ -112,7 +112,7 @@
             "6786",
             "9488",
             "8111",
-            "8167",
+            "2449",
             "6650",
             "KC"
           ],
@@ -272,7 +272,7 @@
             "12713",
             "PHI"
           ],
-          "points": 0.0,
+          "points": 1.8,
           "projected_points": null
         }
       ]
