@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-26T23:24:48Z",
+  "generated_at": "2025-12-27T02:01:20Z",
   "league_id": "1262790170931892224",
   "count": 3752,
   "players": [
@@ -1681,6 +1681,13 @@
       "player_id": "4127",
       "full_name": "C.J. Beathard",
       "team": "DET",
+      "position": "QB",
+      "status": "Active"
+    },
+    {
+      "player_id": "9758",
+      "full_name": "C.J. Stroud",
+      "team": "HOU",
       "position": "QB",
       "status": "Active"
     },
@@ -22394,13 +22401,6 @@
       "player_id": "11650",
       "full_name": "Luke McCaffrey",
       "team": "WAS",
-      "position": "WR",
-      "status": "Active"
-    },
-    {
-      "player_id": "12519",
-      "full_name": "Luther Burden",
-      "team": "CHI",
       "position": "WR",
       "status": "Active"
     },

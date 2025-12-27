@@ -1,6 +1,6 @@
 {
   "season": 2025,
-  "generated_at": "2025-12-26T23:24:48Z",
+  "generated_at": "2025-12-27T02:01:20Z",
   "league_id": "1262790170931892224",
   "rosters": [
     {
@@ -2076,17 +2076,17 @@
           "news_updated": 1759715457469
         },
         {
-          "player_id": "5906",
-          "full_name": "Dawson Knox",
-          "first_name": "Dawson",
-          "last_name": "Knox",
-          "team": "BUF",
-          "position": "TE",
+          "player_id": "12519",
+          "full_name": "Luther Burden",
+          "first_name": "Luther",
+          "last_name": "Burden",
+          "team": "CHI",
+          "position": "WR",
           "status": "Active",
           "injury_status": null,
           "injury_body_part": null,
           "injury_start_date": null,
-          "news_updated": 1759843849431
+          "news_updated": 1759161356298
         },
         {
           "player_id": "12713",
@@ -2169,6 +2169,19 @@
           "news_updated": 1759741860293
         },
         {
+          "player_id": "5906",
+          "full_name": "Dawson Knox",
+          "first_name": "Dawson",
+          "last_name": "Knox",
+          "team": "BUF",
+          "position": "TE",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_start_date": null,
+          "news_updated": 1759843849431
+        },
+        {
           "player_id": "6039",
           "full_name": "Ty Johnson",
           "first_name": "Ty",
@@ -2193,19 +2206,6 @@
           "injury_body_part": null,
           "injury_start_date": null,
           "news_updated": 1759738860319
-        },
-        {
-          "player_id": "9758",
-          "full_name": "C.J. Stroud",
-          "first_name": "C.J.",
-          "last_name": "Stroud",
-          "team": "HOU",
-          "position": "QB",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_start_date": null,
-          "news_updated": 1759701655990
         }
       ],
       "taxi": [],
