@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 17,
-  "generated_at": "2025-12-29T02:19:42Z",
+  "generated_at": "2025-12-29T04:12:55Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 111.38,
+          "points": 122.48,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "1945",
             "HOU"
           ],
-          "points": 74.64,
+          "points": 88.84,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "5189",
             "NO"
           ],
-          "points": 76.78,
+          "points": 78.78,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "2020",
             "LAR"
           ],
-          "points": 72.78,
+          "points": 78.78,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "12711",
             "TB"
           ],
-          "points": 83.9,
+          "points": 102.0,
           "projected_points": null
         }
       ]
@@ -255,7 +255,7 @@
             "4195",
             "SF"
           ],
-          "points": 135.8,
+          "points": 139.7,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "12713",
             "PHI"
           ],
-          "points": 106.84,
+          "points": 119.64,
           "projected_points": null
         }
       ]
