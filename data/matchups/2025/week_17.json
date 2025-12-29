@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 17,
-  "generated_at": "2025-12-28T23:24:27Z",
+  "generated_at": "2025-12-29T02:19:42Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "11533",
             "WAS"
           ],
-          "points": 74.1,
+          "points": 74.5,
           "projected_points": null
         },
         {
@@ -77,7 +77,7 @@
             "8259",
             "NE"
           ],
-          "points": 97.18,
+          "points": 111.38,
           "projected_points": null
         }
       ]
@@ -99,7 +99,7 @@
             "1945",
             "HOU"
           ],
-          "points": 68.2,
+          "points": 74.64,
           "projected_points": null
         },
         {
@@ -138,7 +138,7 @@
             "4227",
             "GB"
           ],
-          "points": 60.7,
+          "points": 62.9,
           "projected_points": null
         },
         {
@@ -155,7 +155,7 @@
             "5189",
             "NO"
           ],
-          "points": 72.08,
+          "points": 76.78,
           "projected_points": null
         }
       ]
@@ -177,7 +177,7 @@
             "2020",
             "LAR"
           ],
-          "points": 52.08,
+          "points": 72.78,
           "projected_points": null
         },
         {
@@ -194,7 +194,7 @@
             "12711",
             "TB"
           ],
-          "points": 82.6,
+          "points": 83.9,
           "projected_points": null
         }
       ]
@@ -216,7 +216,7 @@
             "2747",
             "SEA"
           ],
-          "points": 33.4,
+          "points": 38.6,
           "projected_points": null
         },
         {
@@ -255,7 +255,7 @@
             "4195",
             "SF"
           ],
-          "points": 125.5,
+          "points": 135.8,
           "projected_points": null
         },
         {
@@ -272,7 +272,7 @@
             "12713",
             "PHI"
           ],
-          "points": 97.34,
+          "points": 106.84,
           "projected_points": null
         }
       ]
