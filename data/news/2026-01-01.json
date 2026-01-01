@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:21:34Z",
-  "count": 22,
+  "generated_at": "2026-01-01T20:29:52Z",
+  "count": 23,
   "articles": [
     {
       "title": "Ravens vs. Steelers: Answering six questions ahead of Sunday's AFC North showdown",
@@ -96,14 +96,14 @@
     {
       "title": "16 teams in the NFL playoff mix, 16 potential downfalls: Let's find each roster's fatal flaw",
       "link": "https://www.espn.com/nfl/story/_/id/47451548/2025-nfl-playoff-teams-weaknesses-concerns-flaws-afc-nfc",
-      "published": "Wed, 31 Dec 2025 20:09:32 EST",
+      "published": "Thu, 1 Jan 2026 14:24:32 EST",
       "summary": "We found fatal flaws for all 12 clinched teams in the playoff field, plus the AFC North and NFC South teams trying to join them entering Week 18.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "NFL playoff schedule, projected bracket: Here's what to know in both conferences",
       "link": "https://www.espn.com/nfl/story/_/id/47440678/nfl-playoff-schedule-bracket-afc-nfc-tv-dates-locations-2026",
-      "published": "Wed, 31 Dec 2025 20:09:32 EST",
+      "published": "Thu, 1 Jan 2026 14:24:32 EST",
       "summary": "The playoffs begin on Jan. 10 with three full rounds before Super Bowl LX on Feb. 8.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -119,6 +119,13 @@
       "link": "https://www.espn.com/nfl/story/_/id/47454173/nfl-week-18-head-coaching-carousel-intel-latest-buzz-news-updates",
       "published": "Wed, 31 Dec 2025 13:40:26 EST",
       "summary": "Which teams will make coaching changes? Could Jeff Hafley or Chris Shula land an open job? Here's our coach movement intel ahead of Week 18.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Help wanted: Bills request help from fans in shoveling Highmark Stadium",
+      "link": "https://www.espn.com/nfl/story/_/id/47472959/buffalo-bills-help-shovel-snow-highmark-stadium-new-york-jets",
+      "published": "Thu, 1 Jan 2026 14:45:22 EST",
+      "summary": "The Buffalo Bills are paying $20 an hour to fans who help shovel Highmark Stadium.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -152,7 +159,7 @@
     {
       "title": "Will your team make the playoffs? Simulate the rest of the regular season",
       "link": "https://www.espn.com/nfl/playoffs/machine",
-      "published": "Wed, 31 Dec 2025 21:44:28 EST",
+      "published": "Thu, 1 Jan 2026 15:26:03 EST",
       "summary": "null",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
