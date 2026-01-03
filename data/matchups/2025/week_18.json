@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 18,
-  "generated_at": "2026-01-03T21:23:03Z",
+  "generated_at": "2026-01-03T22:24:54Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "1945",
             "HOU"
           ],
-          "points": 0.0,
+          "points": 5.2,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "3451",
             "PIT"
           ],
-          "points": 0.0,
+          "points": 2.1,
           "projected_points": null
         },
         {
@@ -72,7 +72,7 @@
             "11533",
             "WAS"
           ],
-          "points": 0.0,
+          "points": 5.4,
           "projected_points": null
         },
         {
@@ -140,7 +140,7 @@
             "12711",
             "TB"
           ],
-          "points": 0.0,
+          "points": 4.0,
           "projected_points": null
         },
         {
@@ -157,7 +157,7 @@
             "6650",
             "KC"
           ],
-          "points": 0.0,
+          "points": 16.2,
           "projected_points": null
         },
         {
@@ -208,7 +208,7 @@
             "11539",
             "DET"
           ],
-          "points": 0.0,
+          "points": 0.6,
           "projected_points": null
         },
         {
