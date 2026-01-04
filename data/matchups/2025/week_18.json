@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 18,
-  "generated_at": "2026-01-04T20:29:03Z",
+  "generated_at": "2026-01-04T21:23:31Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "1945",
             "HOU"
           ],
-          "points": 48.6,
+          "points": 59.9,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "3451",
             "PIT"
           ],
-          "points": 37.7,
+          "points": 45.7,
           "projected_points": null
         },
         {
@@ -55,7 +55,7 @@
             "4195",
             "SF"
           ],
-          "points": 23.54,
+          "points": 29.94,
           "projected_points": null
         },
         {
@@ -72,7 +72,7 @@
             "11533",
             "WAS"
           ],
-          "points": 56.4,
+          "points": 62.2,
           "projected_points": null
         },
         {
@@ -89,7 +89,7 @@
             "2020",
             "LAR"
           ],
-          "points": 7.8,
+          "points": 9.4,
           "projected_points": null
         },
         {
@@ -106,7 +106,7 @@
             "2747",
             "SEA"
           ],
-          "points": 47.9,
+          "points": 57.6,
           "projected_points": null
         },
         {
@@ -123,7 +123,7 @@
             "4227",
             "GB"
           ],
-          "points": 22.6,
+          "points": 33.6,
           "projected_points": null
         },
         {
@@ -157,7 +157,7 @@
             "6650",
             "KC"
           ],
-          "points": 90.6,
+          "points": 90.5,
           "projected_points": null
         },
         {
@@ -174,7 +174,7 @@
             "12713",
             "PHI"
           ],
-          "points": 29.9,
+          "points": 34.4,
           "projected_points": null
         },
         {
@@ -225,7 +225,7 @@
             "11786",
             "MIA"
           ],
-          "points": 20.0,
+          "points": 21.0,
           "projected_points": null
         },
         {
@@ -242,7 +242,7 @@
             "5189",
             "NO"
           ],
-          "points": 29.3,
+          "points": 28.3,
           "projected_points": null
         }
       ]
