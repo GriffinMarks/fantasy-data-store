@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 18,
-  "generated_at": "2026-01-04T02:23:32Z",
+  "generated_at": "2026-01-04T04:13:24Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -55,7 +55,7 @@
             "4195",
             "SF"
           ],
-          "points": 6.8,
+          "points": 7.8,
           "projected_points": null
         },
         {
@@ -106,7 +106,7 @@
             "2747",
             "SEA"
           ],
-          "points": 13.0,
+          "points": 18.0,
           "projected_points": null
         },
         {
@@ -157,7 +157,7 @@
             "6650",
             "KC"
           ],
-          "points": 41.6,
+          "points": 46.8,
           "projected_points": null
         },
         {
@@ -174,7 +174,7 @@
             "12713",
             "PHI"
           ],
-          "points": 4.9,
+          "points": 7.5,
           "projected_points": null
         },
         {
@@ -191,7 +191,7 @@
             "8259",
             "NE"
           ],
-          "points": 17.5,
+          "points": 30.4,
           "projected_points": null
         },
         {
@@ -208,7 +208,7 @@
             "11539",
             "DET"
           ],
-          "points": 9.6,
+          "points": 14.0,
           "projected_points": null
         },
         {
@@ -242,7 +242,7 @@
             "5189",
             "NO"
           ],
-          "points": 13.1,
+          "points": 21.3,
           "projected_points": null
         }
       ]
