@@ -1,89 +1,103 @@
 {
-  "generated_at": "2026-01-05T15:30:36Z",
-  "count": 27,
+  "generated_at": "2026-01-05T16:34:14Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Raiders fire Carroll after one season, GM remains",
+      "link": "https://www.espn.com/nfl/story/_/id/47513676/raiders-fire-pete-carroll-one-season-gm-john-spytek-remains",
+      "published": "Mon, 5 Jan 2026 11:28:33 EST",
+      "summary": "The Raiders on Monday fired coach Pete Carroll after just one season in which Las Vegas finished 3-14. General manager John Spytek will remain in his role.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tracking coaching changes: Five openings after Raiders, Browns and Falcons make changes",
+      "link": "https://www.espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires",
+      "published": "Mon, 5 Jan 2026 11:28:33 EST",
+      "summary": "The Raiders fired Pete Carroll after one season, while the Browns moved on from Kevin Stefanski after six seasons.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Browns fire coach Stefanski, will keep GM Berry",
       "link": "https://www.espn.com/nfl/story/_/id/47512228/browns-fire-head-coach-kevin-stefanski-6-seasons",
-      "published": "Mon, 5 Jan 2026 10:26:28 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The Browns have fired Kevin Stefanski, who was twice named the NFL's Coach of the Year over the past six seasons but also led Cleveland to consecutive last-place finishes.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Falcons fire Morris, Fontenot despite hot finish",
       "link": "https://www.espn.com/nfl/story/_/id/47507975/source-falcons-move-raheem-morris-coach",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The Falcons have fired coach Raheem Morris and general manager Terry Fontenot after two straight disappointing seasons.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Sources: Giants GM to return despite 4-13 year",
+      "title": "Giants GM Schoen returning despite 4-13 season",
       "link": "https://www.espn.com/nfl/story/_/id/47513130/sources-giants-gm-joe-schoen-return-4-13-season",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
-      "summary": "The Giants will retain general manager Joe Schoen despite closing out a third straight losing season Sunday, sources told ESPN on Monday.",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
+      "summary": "The Giants will retain general manager Joe Schoen despite closing out a third straight losing season Sunday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Bengals keeping coach Taylor, top executive Tobin",
       "link": "https://www.espn.com/nfl/story/_/id/47512942/bengals-keeping-coach-zac-taylor-top-executive-duke-tobin",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The Bengals are bringing back coach Zac Taylor and director of player personnel Duke Tobin.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Seahawks, once long shots, now SB betting fave",
       "link": "https://www.espn.com/nfl/story/_/id/47512888/once-longshot-seahawks-now-betting-fave-win-super-bowl-lx",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The Seattle Seahawks, who entered the 2025 NFL season as long shots, are now +350 favorites to win Super Bowl LX, according to DraftKings lines.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Rodgers fulfills Steelers' 'vision,' delivers AFC North",
       "link": "https://www.espn.com/nfl/story/_/id/47509668/steelers-take-afc-north-title-ravens-miss-last-second-fg",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The Steelers placed their belief in Aaron Rodgers in the offseason. On Sunday night, the veteran QB showed why they were right to do so, leading Pittsburgh to a 26-24 win over Baltimore and the AFC North crown.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Ravens' Loop: Knew kick was no-good on contact",
       "link": "https://www.espn.com/nfl/story/_/id/47510931/tyler-loop-missed-field-goal-vs-steelers-costs-ravens-afc-north-title-ends-baltimore-season",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "Ravens kicker Tyler Loop knew immediately that his potential winning 44-yard field goal Sunday night sliced wide right, giving the AFC North title to the rival Steelers and abruptly ending Baltimore's season.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Johnson rips Bears' offense after loss to Lions",
       "link": "https://www.espn.com/nfl/story/_/id/47508941/ben-johnson-rips-bears-offense-loss-lions",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "Bears coach Ben Johnson wasn't happy with his team's offense in a 19-16 loss to the Lions while QB Caleb Williams admitted Chicago came out \"flat.\"",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Eagles stand by rest call despite losing 2-seed",
-      "link": "https://www.espn.com/nfl/story/_/id/47508337/eagles-stand-decision-rest-fall-no-3-seed",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
-      "summary": "Eagles coach Nick Sirianni stood by the decision to rest most of his starters in a Week 18 loss to the Commanders despite it costing Philadelphia a chance for the No. 2 seed.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83d\udc40 Our offseason guide for all eliminated teams",
       "link": "https://www.espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
-      "published": "Mon, 5 Jan 2026 10:24:54 EST",
+      "published": "Mon, 5 Jan 2026 10:28:06 EST",
       "summary": "The NFL offseason has arrived for 18 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
       "link": "https://www.espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
-      "published": "Mon, 5 Jan 2026 10:26:31 EST",
+      "published": "Mon, 5 Jan 2026 11:24:34 EST",
       "summary": "The 2025 NFL playoff field is set, and an exciting wild-card round looms. Here's everything to know about the 14 teams vying to win Super Bowl LX.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Barnwell makes his NFL award picks: Ranking candidates for MVP, Rookie of the Year, more",
+      "title": "Barnwell's final picks for every major NFL award",
       "link": "https://www.espn.com/nfl/story/_/id/47503914/2025-nfl-season-awards-ranking-mvp-best-rookies-coaches-players-candidates",
-      "published": "Mon, 5 Jan 2026 10:26:35 EST",
+      "published": "Mon, 5 Jan 2026 11:03:50 EST",
       "summary": "Drake Maye or Matthew Stafford for MVP? Which rookies should earn hardware? And no one is beating out Myles Garrett for DPOY, right?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Coach Kevin Stefanski out, but GM Andrew Berry stays: Next steps for Browns?",
+      "link": "https://www.espn.com/nfl/story/_/id/47512919/cleveland-browns-fire-coach-kevin-stefanski-keep-general-manager-andrew-berry-questions-whats-next",
+      "published": "Mon, 5 Jan 2026 10:55:24 EST",
+      "summary": "In search of a new coach, Cleveland enters an offseason with first-round picks and unsettled questions at QB.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -91,13 +105,6 @@
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/47444785/2026-nfl-draft-order-first-round-top-32-picks-needs",
       "published": "Mon, 5 Jan 2026 10:26:47 EST",
       "summary": "The Raiders, Jets and Cardinals hold the top three picks in the 2026 NFL draft. See the rest of the order -- plus each team's top need -- after the regular season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Steelers escape Ravens' late push, win AFC North title",
-      "link": "https://www.espn.com/nfl/story/_/id/47506780/pittsburgh-steelers-escape-baltimore-ravens-late-push-win-afc-north-title-week-18-playoffs",
-      "published": "Mon, 5 Jan 2026 09:11:54 EST",
-      "summary": "In a rock fight that morphed into a fourth-quarter track meet, Pittsburgh edges Baltimore to advance.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -122,17 +129,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "We answered 7 questions about the Falcons' coaching, GM moves",
-      "link": "https://www.espn.com/nfl/story/_/id/47508535/atlanta-falcons-fire-gm-coach-terry-fontenot-raheem-morris-whats-next",
-      "published": "Mon, 5 Jan 2026 10:01:55 EST",
-      "summary": "Even a four-game win streak to end the season couldn't stop the firings, so where do the Falcons turn now?",
+      "title": "Steelers escape Ravens' late push, win AFC North title",
+      "link": "https://www.espn.com/nfl/story/_/id/47506780/pittsburgh-steelers-escape-baltimore-ravens-late-push-win-afc-north-title-week-18-playoffs",
+      "published": "Mon, 5 Jan 2026 11:03:22 EST",
+      "summary": "In a rock fight that morphed into a fourth-quarter track meet, Pittsburgh edges Baltimore to advance.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Tracking NFL coaching changes: Falcons fire Raheem Morris after two seasons",
-      "link": "https://www.espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires",
-      "published": "Mon, 5 Jan 2026 10:01:55 EST",
-      "summary": "The Falcons fired Raheem Morris despite a four-game winning streak to end the regular season.",
+      "title": "We answered 7 questions about the Falcons' coaching, GM moves",
+      "link": "https://www.espn.com/nfl/story/_/id/47508535/atlanta-falcons-fire-gm-coach-terry-fontenot-raheem-morris-whats-next",
+      "published": "Mon, 5 Jan 2026 10:33:00 EST",
+      "summary": "Even a four-game win streak to end the season couldn't stop the firings, so where do the Falcons turn now?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -154,6 +161,27 @@
       "link": "https://www.espn.com/espn/betting/story/_/id/47499366/2025-nfl-playoffs-wild-card-round-schedule-betting-odds-lines-point-spreads-preview",
       "published": "Mon, 5 Jan 2026 08:14:00 EST",
       "summary": "The NFL playoffs are set. Here are the odds, spreads and totals for every game in the wild-card round.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Futures uncertain for Saints veterans Cameron Jordan, Demario Davis, Taysom Hill",
+      "link": "https://www.espn.com/nfl/story/_/id/47507204/futures-uncertain-new-orleans-saints-veterans-cameron-jordan-demario-davis-taysom-hill",
+      "published": "Mon, 5 Jan 2026 10:47:34 EST",
+      "summary": "The Saints have now missed the postseason for five straight years. Could there be changes on the horizon?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "A laundry list of offseason changes awaits Aaron Glenn, Jets",
+      "link": "https://www.espn.com/nfl/story/_/id/47483660/new-york-jets-aaron-glenn-offseason-changes-coaches-quarterback-draft",
+      "published": "Mon, 5 Jan 2026 10:47:34 EST",
+      "summary": "New York's coach must find a defensive coordinator, decide on free agents and figure out the QB situation.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Patriots undrafted rookie WR Efton Chism is making most of expanded role",
+      "link": "https://www.espn.com/nfl/story/_/id/47485751/new-england-patriots-receiver-efton-chism-role",
+      "published": "Mon, 5 Jan 2026 10:47:34 EST",
+      "summary": "Chism helps at a needed spot; defensive reinforcements are also coming in Robert Spillane and Milton Williams.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
