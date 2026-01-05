@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "week": 18,
-  "generated_at": "2026-01-04T23:25:00Z",
+  "generated_at": "2026-01-05T02:23:21Z",
   "league_id": "1262790170931892224",
   "games": [
     {
@@ -21,7 +21,7 @@
             "1945",
             "HOU"
           ],
-          "points": 61.54,
+          "points": 89.08,
           "projected_points": null
         },
         {
@@ -38,7 +38,7 @@
             "3451",
             "PIT"
           ],
-          "points": 66.4,
+          "points": 87.92,
           "projected_points": null
         },
         {
@@ -55,7 +55,7 @@
             "4195",
             "SF"
           ],
-          "points": 34.04,
+          "points": 47.64,
           "projected_points": null
         },
         {
@@ -72,7 +72,7 @@
             "11533",
             "WAS"
           ],
-          "points": 96.58,
+          "points": 115.76,
           "projected_points": null
         },
         {
@@ -89,7 +89,7 @@
             "2020",
             "LAR"
           ],
-          "points": 24.8,
+          "points": 27.9,
           "projected_points": null
         },
         {
@@ -106,7 +106,7 @@
             "2747",
             "SEA"
           ],
-          "points": 65.4,
+          "points": 70.0,
           "projected_points": null
         },
         {
@@ -123,7 +123,7 @@
             "4227",
             "GB"
           ],
-          "points": 51.2,
+          "points": 61.3,
           "projected_points": null
         },
         {
@@ -140,7 +140,7 @@
             "12711",
             "TB"
           ],
-          "points": 36.6,
+          "points": 52.2,
           "projected_points": null
         },
         {
@@ -157,7 +157,7 @@
             "6650",
             "KC"
           ],
-          "points": 119.8,
+          "points": 129.1,
           "projected_points": null
         },
         {
@@ -174,7 +174,7 @@
             "12713",
             "PHI"
           ],
-          "points": 74.92,
+          "points": 88.94,
           "projected_points": null
         },
         {
@@ -191,7 +191,7 @@
             "8259",
             "NE"
           ],
-          "points": 79.5,
+          "points": 87.4,
           "projected_points": null
         },
         {
@@ -208,7 +208,7 @@
             "11539",
             "DET"
           ],
-          "points": 59.6,
+          "points": 62.4,
           "projected_points": null
         },
         {
@@ -225,7 +225,7 @@
             "11786",
             "MIA"
           ],
-          "points": 33.28,
+          "points": 37.78,
           "projected_points": null
         },
         {
@@ -242,7 +242,7 @@
             "5189",
             "NO"
           ],
-          "points": 61.4,
+          "points": 80.14,
           "projected_points": null
         }
       ]
