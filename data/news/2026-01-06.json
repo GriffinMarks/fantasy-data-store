@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-01-06T21:26:42Z",
-  "count": 25,
+  "generated_at": "2026-01-06T22:27:14Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Harbaugh out as coach of Ravens, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/47531459/john-harbaugh-coach-ravens-sources-say",
+      "published": "Tue, 6 Jan 2026 17:17:44 EST",
+      "summary": "John Harbaugh is out as the coach of the Baltimore Ravens, sources told ESPN's Adam Schefter .",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Morton fired as Lions' OC after just one season",
+      "link": "https://www.espn.com/nfl/story/_/id/47531414/lions-fire-oc-john-morton-one-season",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "The Lions have fired offensive coordinator John Morton after one season, the team announced Tuesday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Commanders' Kingsbury, Whitt both out",
+      "link": "https://www.espn.com/nfl/story/_/id/47528237/sources-kingsbury-whitt-commanders-coordinators",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "The Washington Commanders and OC Kliff Kingsbury have mutually agreed to go their separate ways, while DC Joe Whitt Jr. has been fired, sources told ESPN's Adam Schefter.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Falcons rework Cousins deal, set up key decision",
+      "link": "https://www.espn.com/nfl/story/_/id/47528023/source-falcons-restructure-kirk-cousins-deal-set-key-decision",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "The Falcons and Kirk Cousins agreed to modify the final two years of the QB's contract, setting the stage for a decision on his Atlanta future to be made by the third day of the 2026 NFL league year on March 13, a source told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Bengals' Taylor-Britt sentenced to 5 days in jail",
+      "link": "https://www.espn.com/nfl/story/_/id/47531176/bengals-cam-taylor-britt-sentenced-driving-incident",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "Bengals cornerback Cam Taylor-Britt was sentenced to five days of jail time for a driving incident.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Cowboys fire DC Eberflus: 'Change is needed'",
+      "link": "https://www.espn.com/nfl/story/_/id/47526360/sources-matt-eberflus-cowboys-defensive-coordinator",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "The Dallas Cowboys have relieved Matt Eberflus of his duties as defensive coordinator.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Titans GM: Must remove Chiefs bias in HC search",
+      "link": "https://www.espn.com/nfl/story/_/id/47528974/mike-borgonzi-remove-chiefs-bias-titans-coach-search",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "Titans GM Mike Borgonzi, despite spending 16 years in various scouting and personnel roles with the Chiefs, said he refuses to allow any previous biases to heavily influence his first opportunity to select Tennessee's head coach.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Panthers release WR Renfrow, activate Moore",
+      "link": "https://www.espn.com/nfl/story/_/id/47526340/panthers-release-wr-hunter-renfrow-add-david-moore-playoffs",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "Wide receiver Hunter Renfrow, who was making a comeback with the Panthers after missing last season, was released Tuesday to make room for David Moore for the NFC wild-card game.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tua: Getting a fresh start in '26 'would be dope'",
+      "link": "https://www.espn.com/nfl/story/_/id/47515559/dolphins-tua-tagovailoa-open-playing-elsewhere-2026",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "Dolphins quarterback Tua Tagovailoa is open to a \"fresh start,\" he told reporters Monday, after he was benched for the team's final three games of the season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83c\udfc6 Barnwell's final picks for every major award",
+      "link": "https://www.espn.com/nfl/story/_/id/47503914/2025-nfl-season-awards-ranking-mvp-best-rookies-coaches-players-candidates",
+      "published": "Tue, 6 Jan 2026 17:20:45 EST",
+      "summary": "Drake Maye or Matthew Stafford for MVP? Which rookies should earn hardware? And no one is beating out Myles Garrett for DPOY, right?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Inside Raiders' lost 2025 season: Tom Brady's influence, private meetings and dysfunction",
+      "link": "https://www.espn.com/nfl/story/_/id/47517128/las-vegas-raiders-2025-collapse-mark-davis-tom-brady-pete-carroll-geno-smith-dysfunction",
+      "published": "Tue, 6 Jan 2026 17:01:11 EST",
+      "summary": "\"Who would want the Raiders job?\" The inside story of how the Raiders went from playoff hopes to the No. 1 pick and another fired coach.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "The NFL draft order is set, so let\u2019s project Round 1: Reid finds landing spots for 32 top prospects",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
@@ -14,76 +91,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
       "published": "Tue, 6 Jan 2026 15:16:05 EST",
       "summary": "The NFL offseason has arrived for 17 teams. What must each do? We have outlooks, early buzz and predictions.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Commanders' Kingsbury, Whitt both out",
-      "link": "https://www.espn.com/nfl/story/_/id/47528237/sources-kingsbury-whitt-commanders-coordinators",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "The Washington Commanders and OC Kliff Kingsbury have mutually agreed to go their separate ways, while DC Joe Whitt Jr. has been fired, sources told ESPN's Adam Schefter.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Cowboys fire DC Eberflus: 'Change is needed'",
-      "link": "https://www.espn.com/nfl/story/_/id/47526360/sources-matt-eberflus-cowboys-defensive-coordinator",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "The Dallas Cowboys have relieved Matt Eberflus of his duties as defensive coordinator.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Falcons rework Cousins deal, set up key decision",
-      "link": "https://www.espn.com/nfl/story/_/id/47528023/source-falcons-restructure-kirk-cousins-deal-set-key-decision",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "The Falcons and Kirk Cousins agreed to modify the final two years of the QB's contract, setting the stage for a decision on his Atlanta future to be made by the third day of the 2026 NFL league year on March 13, a source told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Titans GM: Must remove Chiefs bias in HC search",
-      "link": "https://www.espn.com/nfl/story/_/id/47528974/mike-borgonzi-remove-chiefs-bias-titans-coach-search",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "Titans GM Mike Borgonzi, despite spending 16 years in various scouting and personnel roles with the Chiefs, said he refuses to allow any previous biases to heavily influence his first opportunity to select Tennessee's head coach.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Tua: Getting a fresh start in '26 'would be dope'",
-      "link": "https://www.espn.com/nfl/story/_/id/47515559/dolphins-tua-tagovailoa-open-playing-elsewhere-2026",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "Dolphins quarterback Tua Tagovailoa is open to a \"fresh start,\" he told reporters Monday, after he was benched for the team's final three games of the season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Panthers release WR Renfrow, activate Moore",
-      "link": "https://www.espn.com/nfl/story/_/id/47526340/panthers-release-wr-hunter-renfrow-add-david-moore-playoffs",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "Wide receiver Hunter Renfrow, who was making a comeback with the Panthers after missing last season, was released Tuesday to make room for David Moore for the NFC wild-card game.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Ravens sing Lamar's praises as season falls flat",
-      "link": "https://www.espn.com/nfl/story/_/id/47517672/ravens-players-back-qb-lamar-jackson-difficult-season",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "Quarterback Lamar Jackson has the support of his teammates after an injury-marred season that saw the Ravens miss the playoffs for the first time since 2021.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Raiders fire Carroll after one season; GM remains",
-      "link": "https://www.espn.com/nfl/story/_/id/47513676/raiders-fire-pete-carroll-one-season-gm-john-spytek-remains",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "The Raiders on Monday fired coach Pete Carroll after just one season in which Las Vegas finished 3-14. General manager John Spytek will remain in his role.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83c\udfc6 Barnwell's final picks for every major award",
-      "link": "https://www.espn.com/nfl/story/_/id/47503914/2025-nfl-season-awards-ranking-mvp-best-rookies-coaches-players-candidates",
-      "published": "Tue, 6 Jan 2026 13:22:25 EST",
-      "summary": "Drake Maye or Matthew Stafford for MVP? Which rookies should earn hardware? And no one is beating out Myles Garrett for DPOY, right?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Inside Raiders' lost 2025 season: Tom Brady's influence, private meetings and dysfunction",
-      "link": "https://www.espn.com/nfl/story/_/id/47517128/las-vegas-raiders-2025-collapse-mark-davis-tom-brady-pete-carroll-geno-smith-dysfunction",
-      "published": "Tue, 6 Jan 2026 15:25:05 EST",
-      "summary": "\"Who would want the Raiders job?\" The inside story of how the Raiders went from playoff hopes to the No. 1 pick and another fired coach.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
