@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T04:04:13Z",
-  "count": 26,
+  "generated_at": "2026-01-09T05:31:07Z",
+  "count": 25,
   "articles": [
     {
       "title": "Barnwell predicts the NFL playoff bracket: Could two lower seeds go to the Super Bowl?",
@@ -87,10 +87,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Why Todd Bowles, Buccaneers had to shake up coaching staff",
-      "link": "https://www.espn.com/nfl/story/_/id/47550473/tampa-bay-buccaneers-todd-bowles-coaching-staff-shakeup-grizzard",
-      "published": "Thu, 8 Jan 2026 19:59:50 EST",
-      "summary": "Tampa Bay fired five coaches Thursday after the Bucs went 8-9 and missed the playoffs for the first time since 2019.",
+      "title": "One big thing we're hearing on every NFL team's coaching situation: Hot seats, candidates, more",
+      "link": "https://www.espn.com/nfl/story/_/id/47515440/2025-nfl-coach-coordinator-hiring-firing-candidates-intel-buzz-32-teams",
+      "published": "Thu, 8 Jan 2026 23:18:27 EST",
+      "summary": "We have the latest buzz on all 32 coaching staffs, including Mike Tomlin's Steelers future.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Answering seven questions about the shocking Jim Harbaugh move",
+      "link": "https://www.espn.com/nfl/story/_/id/47531700/baltimore-ravens-fire-coach-john-harbaugh-whats-next-faq",
+      "published": "Thu, 8 Jan 2026 23:18:27 EST",
+      "summary": "After 18 seasons in Baltimore, the Ravens fired Harbaugh.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -101,17 +108,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "One big thing we're hearing on every NFL team's coaching situation: Hot seats, candidates, more",
-      "link": "https://www.espn.com/nfl/story/_/id/47515440/2025-nfl-coach-coordinator-hiring-firing-candidates-intel-buzz-32-teams",
-      "published": "Wed, 7 Jan 2026 22:19:49 EST",
-      "summary": "We have the latest buzz on all 32 coaching staffs, including Mike Tomlin's Steelers future.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Answering seven questions about the shocking Jim Harbaugh move",
-      "link": "https://www.espn.com/nfl/story/_/id/47531700/baltimore-ravens-fire-coach-john-harbaugh-whats-next-faq",
-      "published": "Wed, 7 Jan 2026 22:19:49 EST",
-      "summary": "After 18 seasons in Baltimore, the Ravens fired Harbaugh.",
+      "title": "Why Todd Bowles, Buccaneers had to shake up coaching staff",
+      "link": "https://www.espn.com/nfl/story/_/id/47550473/tampa-bay-buccaneers-todd-bowles-coaching-staff-shakeup-grizzard",
+      "published": "Thu, 8 Jan 2026 19:59:50 EST",
+      "summary": "Tampa Bay fired five coaches Thursday after the Bucs went 8-9 and missed the playoffs for the first time since 2019.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -152,14 +152,14 @@
     {
       "title": "Secret sauce to Bills beating the Jaguars? A big key is the O-line",
       "link": "https://www.espn.com/nfl/story/_/id/47538510/buffalo-bills-jacksonville-jaguars-offensive-line-dion-dawkin-afc-2025-playoffs",
-      "published": "Thu, 8 Jan 2026 17:58:15 EST",
+      "published": "Thu, 8 Jan 2026 23:18:09 EST",
       "summary": "What makes up the Bills O-line unit's success and its diverse personalities off the field? Let them explain.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "'I had 23': Revisiting the sack ruling that separates Jared Allen and Myles Garrett",
       "link": "https://www.espn.com/nfl/story/_/id/47543788/minnesota-vikings-jared-allen-sack-aaron-rodgers-2011-myles-garrett-sack-record",
-      "published": "Thu, 8 Jan 2026 17:58:15 EST",
+      "published": "Thu, 8 Jan 2026 23:18:09 EST",
       "summary": "A 2011  Vikings sack that NFL officials changed a call on seemed to work in the  Browns' defensive end's favor.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
@@ -175,13 +175,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47541649/how-trevor-lawrence-grill-happened-jacksonville-jaguars",
       "published": "Thu, 8 Jan 2026 10:11:55 EST",
       "summary": "The quarterback's grill came from a collaboration of his mom, wife and the Jaguars social media team.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "The fastest, longest, most improbable NFL plays of 2025",
-      "link": "https://www.espn.com/nfl/story/_/id/47531020/nfl-next-gen-fastest-longest-plays-aaron-rodgers-caleb-williams",
-      "published": "Wed, 7 Jan 2026 16:35:38 EST",
-      "summary": "From the real speed of Jahmyr Gibbs to the relative speed of Aaron Rodgers, Next Gen Stats had the most thrilling plays of 2025.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
   ]
