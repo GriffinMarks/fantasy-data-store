@@ -1,82 +1,103 @@
 {
-  "generated_at": "2026-01-18T02:22:19Z",
-  "count": 24,
+  "generated_at": "2026-01-18T04:08:43Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Follow live: 49ers get on the board with FG, Seahawks still lead",
+      "title": "Broncos' Nix breaks bone in ankle, out for playoffs",
+      "link": "https://www.espn.com/nfl/story/_/id/47645966/broncos-qb-bo-nix-fractures-ankle-rest-playoffs",
+      "published": "Sat, 17 Jan 2026 21:34:57 EST",
+      "summary": "Broncos quarterback Bo Nix will miss the remainder of the playoffs after breaking a bone in his right ankle during overtime of Saturday's 33-30 win over the Bills, coach Sean Payton said.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Follow live: Seahawks in control over 49ers with NFC championship on the line",
       "link": "https://www.espn.com/nfl/story/_/id/47633283/nfl-divisional-highlights-best-plays-moments-touchdowns",
-      "published": "Sat, 17 Jan 2026 21:19:17 EST",
+      "published": "Sat, 17 Jan 2026 21:47:36 EST",
       "summary": "null",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Falcons hire Stefanski hours after 2nd interview",
+      "link": "https://www.espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
+      "published": "Sat, 17 Jan 2026 22:11:54 EST",
+      "summary": "The Atlanta Falcons hired Kevin Stefanski, 43, as their new coach, the club announced on Saturday night, after the former Cleveland Browns coach, who is a two-time NFL Coach of the Year, had his second interview with the team earlier in the day.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Broncos pull out OT thriller to make AFC title game",
       "link": "https://www.espn.com/nfl/story/_/id/47645389/broncos-sweat-ot-thriller-bounce-bills-make-afc-title-game",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
-      "summary": "In a thrilling finish, the Broncos intercepted Josh Allen's deep throw in overtime and got a game-winning 24-yard field goal that sent them into the AFC title game.",
+      "published": "Sat, 17 Jan 2026 22:11:53 EST",
+      "summary": "In a thrilling finish, the Broncos intercepted Josh Allen's deep throw in overtime and got a game-winning 23-yard field goal that sent them into the AFC title game.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Sources: Packers' LaFleur back on multiyear deal",
       "link": "https://www.espn.com/nfl/story/_/id/47644339/sources-packers-bringing-back-matt-lafleur-multiyear-deal",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:53 EST",
       "summary": "The Packers are keeping Matt LaFleur as head coach on a multiyear extension that represents a \"real commitment,\" sources told ESPN.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "'Honored' Harbaugh agrees to Giants' 5-year deal",
       "link": "https://www.espn.com/nfl/story/_/id/47642180/john-harbaugh-agrees-giants-five-year-deal-coach-says",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:54 EST",
       "summary": "Former Baltimore Ravens coach John Harbaugh, 63, agreed to the five-year deal the New York Giants offered him earlier this week, the club announced Saturday night, and sources told ESPN's Adam Schefter that the contract is for $20 million per season.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Seahawks QB Darnold (oblique) starts vs. 49ers",
       "link": "https://www.espn.com/nfl/story/_/id/47644395/seahawks-qb-sam-darnold-active-playoff-game-vs-49ers",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:53 EST",
       "summary": "Seahawks quarterback Sam Darnold was active and started the team's divisional round playoff game against the San Francisco 49ers Saturday.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Texans WR Collins (concussion) ruled out vs. Pats",
       "link": "https://www.espn.com/nfl/story/_/id/47633058/texans-wr-collins-ruled-vs-patriots-concussion",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:54 EST",
       "summary": "Texans Pro Bowl wideout Nico Collins has been ruled out with a concussion ahead of Sunday's division round playoff game at the Patriots.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Rams OL Dotson to return from injury vs. Bears",
       "link": "https://www.espn.com/nfl/story/_/id/47632834/rams-guard-kevin-dotson-return-injury-vs-bears",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:54 EST",
       "summary": "Rams right guard Kevin Dotson will return from an ankle injury for the divisional round playoff game vs. the Bears, coach Sean McVay said.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "NFL to honor MLK with 'Choose Love' in end zone",
-      "link": "https://www.espn.com/nfl/story/_/id/47639329/nfl-honor-martin-luther-king-jr-choose-love-end-zone",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
-      "summary": "The NFL will honor the Rev. Martin Luther King Jr. by displaying \"Choose Love\" in the end zones and on helmet decals for all divisional round playoff games this weekend.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "\ud83d\udcc8 Yates' debut 2026 NFL draft rankings",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "published": "Sat, 17 Jan 2026 20:44:57 EST",
+      "published": "Sat, 17 Jan 2026 22:11:54 EST",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Sizing up overreactions, big questions from divisional round: Why do the Bills keep falling short?",
-      "link": "https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026",
-      "published": "Sat, 17 Jan 2026 21:06:59 EST",
-      "summary": "Another Super Bowl-less season for Buffalo? Bo Nix is Sean Payton's best draft decision ever? Let's make sense of every divisional round game.",
+      "title": "Kevin Stefanski to Falcons: Grading the hire and the impact on Penix",
+      "link": "https://www.espn.com/nfl/story/_/id/47646496/atlanta-falcons-coach-hire-kevin-stefanski-michael-penix-jr",
+      "published": "Sat, 17 Jan 2026 22:53:02 EST",
+      "summary": "Kevin Stefanski didn't have a great record in Cleveland, but he'll have more talent to work with in Atlanta.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Broncos find way again as Bills' OT woes continue in playoffs",
-      "link": "https://www.espn.com/nfl/story/_/id/47644053/nfl-playoffs-denver-broncos-beat-buffalo-bills-ot-next-afc-title-game",
-      "published": "Sat, 17 Jan 2026 20:53:13 EST",
-      "summary": "Bo Nix and the Broncos are headed to the AFC Championship Game after an overtime win over the Bills.",
+      "title": "John Harbaugh to the Giants! Eight questions and a grade for New York's move",
+      "link": "https://www.espn.com/nfl/story/_/id/47616742/new-york-giants-hire-coach-john-harbaugh-know-five-year-deal",
+      "published": "Sat, 17 Jan 2026 22:53:02 EST",
+      "summary": "The 63-year-old has been able to call his own shot in this coaching search and wound up choosing the Giants.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Key questions about close calls in Broncos' win over Bills",
+      "link": "https://www.espn.com/nfl/story/_/id/47645805/playoffs-divisional-round-denver-broncos-buffalo-bills-officiating-pass-interference",
+      "published": "Sat, 17 Jan 2026 22:42:47 EST",
+      "summary": "When is a catch a catch and how much contact draws a penalty flag were in dispute Saturday in Denver.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sizing up overreactions, big questions from the divisional round: Why do the Bills keep falling short?",
+      "link": "https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026",
+      "published": "Sat, 17 Jan 2026 21:06:59 EST",
+      "summary": "Another Super Bowl-less season for Buffalo? But are the Broncos also done? Let's make sense of every divisional round game.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -84,20 +105,6 @@
       "link": "https://www.espn.com/nfl/story/_/page/viewersguide47602151/nfl-divisional-predictions-schedule-odds-injuries-stats-2025-playoffs",
       "published": "Sat, 17 Jan 2026 19:31:36 EST",
       "summary": "Bills-Broncos? 49ers-Seahawks? Texans-Patriots? Rams-Bears? We have picks, predictions and stats to know for the divisional round games.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "John Harbaugh to the Giants! Eight questions and a grade for New York's splashy coaching move",
-      "link": "https://www.espn.com/nfl/story/_/id/47616742/new-york-giants-hire-coach-john-harbaugh-know-five-year-deal",
-      "published": "Sat, 17 Jan 2026 17:05:28 EST",
-      "summary": "The 63-year-old has been able to call his own shot in this coaching search and wound up choosing the Giants.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "'There is no timetable': Making sense of the Titans' coaching search",
-      "link": "https://www.espn.com/nfl/story/_/id/47620196/tennessee-titans-coaching-search-18-candidates",
-      "published": "Sat, 17 Jan 2026 17:05:28 EST",
-      "summary": "As the coaching candidate list nears 20, the Titans aren't rushing to \"make the best decision for this team.\"",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
