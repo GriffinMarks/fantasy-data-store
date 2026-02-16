@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-02-16T18:53:21Z",
-  "count": 15,
+  "generated_at": "2026-02-16T19:35:48Z",
+  "count": 16,
   "articles": [
+    {
+      "title": "Why did the Dolphins release Tyreek Hill now, and what's next for him?",
+      "link": "https://www.espn.com/nfl/story/_/id/47948025/miami-dolphins-cut-tyreek-hill-answering-biggest-questions-injury-whats-next",
+      "published": "Mon, 16 Feb 2026 14:32:11 EST",
+      "summary": "Miami cut ties with the receiver, but questions remain for the franchise and Tyreek Hill. Here's what we know.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Hill released as Dolphins clean house",
+      "link": "https://www.espn.com/nfl/story/_/id/47947892/sources-dolphins-release-8-pro-bowl-wr-tyreek-hill",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "The Dolphins released Tyreek Hill in a flurry of roster moves that will clear significant salary cap space, sources told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Source: Browns hire Falcons' Rutenberg as DC",
+      "link": "https://www.espn.com/nfl/story/_/id/47948501/source-browns-hire-falcons-rutenberg-replace-schwartz-dc",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "The Browns are hiring Falcons defensive passing game coordinator Mike Rutenberg to be their next defensive coordinator, a league source told ESPN's Jeremy Fowler.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Seahawks to hire 49ers' Fleury as OC",
+      "link": "https://www.espn.com/nfl/story/_/id/47941623/sources-seahawks-expected-hire-49ers-brian-fleury-oc",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "The Seahawks are expected to hire 49ers tight ends coach Brian Fleury as their offensive coordinator, sources told ESPN's Adam Schefter on Sunday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Raiders hire Seahawks QB coach Janocko as OC",
+      "link": "https://www.espn.com/nfl/story/_/id/47941780/sources-raiders-expected-hire-andrew-janocko-oc",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "Seahawks QB coach Andrew Janocko has been hired as offensive coordinator for the Raiders, where he'll reunite with coach Klint Kubiak.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Johnson, ex-Pro Bowl Washington OL, dies at 54",
+      "link": "https://www.espn.com/nfl/story/_/id/47944143/tre-johnson-former-washington-o-lineman-dies-54",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "Tre' Johnson, the former standout NFL offensive lineman with Washington who went on to become a Maryland high school history teacher, died Sunday. He was 54.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Carr: I'd unretire but only for chance to win SB",
+      "link": "https://www.espn.com/nfl/story/_/id/47939427/derek-carr-says-willing-unretire-wants-chance-win-sb",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "Derek Carr has confirmed he is willing to unretire but said it will take a special circumstance to lure him back to the playing field, which includes the chance to win a Super Bowl.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Ruling says Flores lawsuit vs. NFL can go to court",
+      "link": "https://www.espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Bills' Brady adds Fox to staff as senior assistant",
+      "link": "https://www.espn.com/nfl/story/_/id/47921239/bills-coach-joe-brady-adds-john-fox-staff-senior-assistant",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "New Bills coach Joe Brady has added NFL head coaching experience to his staff, hiring John Fox as a senior assistant coach. The Bills announced Fox and more of the team's coaching staff, which now includes 20 assistants, on Friday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83d\udd2e Experts predict the 2026 NFL season",
+      "link": "https://www.espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
+      "published": "Mon, 16 Feb 2026 14:32:16 EST",
+      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "The 11 trades we want to see this NFL offseason: Barnwell finds new homes for 15 players",
       "link": "https://www.espn.com/nfl/story/_/id/47937538/2026-nfl-offseason-trade-proposals-offers-fits-deals-free-agency-barnwell",
@@ -14,69 +84,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47908741/2026-nfl-franchise-tag-candidates-kyle-pitts-sr-george-pickens-breece-hall",
       "published": "Mon, 16 Feb 2026 10:10:55 EST",
       "summary": "Who could get the franchise tag when the window opens Tuesday?",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Hill released as Dolphins clean house",
-      "link": "https://www.espn.com/nfl/story/_/id/47947892/sources-dolphins-release-8-pro-bowl-wr-tyreek-hill",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "The Dolphins released Tyreek Hill in a flurry of roster moves that will clear significant salary cap space, sources told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Browns hire Falcons' Rutenberg as DC",
-      "link": "https://www.espn.com/nfl/story/_/id/47948501/source-browns-hire-falcons-rutenberg-replace-schwartz-dc",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "The Browns are hiring Falcons defensive passing game coordinator Mike Rutenberg to be their next defensive coordinator, a league source told ESPN's Jeremy Fowler.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Seahawks to hire 49ers' Fleury as OC",
-      "link": "https://www.espn.com/nfl/story/_/id/47941623/sources-seahawks-expected-hire-49ers-brian-fleury-oc",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "The Seahawks are expected to hire 49ers tight ends coach Brian Fleury as their offensive coordinator, sources told ESPN's Adam Schefter on Sunday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Raiders hire Seahawks QB coach Janocko as OC",
-      "link": "https://www.espn.com/nfl/story/_/id/47941780/sources-raiders-expected-hire-andrew-janocko-oc",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "Seahawks QB coach Andrew Janocko has been hired as offensive coordinator for the Raiders, where he'll reunite with coach Klint Kubiak.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Johnson, ex-Pro Bowl Washington OL, dies at 54",
-      "link": "https://www.espn.com/nfl/story/_/id/47944143/tre-johnson-former-washington-o-lineman-dies-54",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "Tre' Johnson, the former standout NFL offensive lineman with Washington who went on to become a Maryland high school history teacher, died Sunday. He was 54.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Carr: I'd unretire but only for chance to win SB",
-      "link": "https://www.espn.com/nfl/story/_/id/47939427/derek-carr-says-willing-unretire-wants-chance-win-sb",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "Derek Carr has confirmed he is willing to unretire but said it will take a special circumstance to lure him back to the playing field, which includes the chance to win a Super Bowl.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Ruling says Flores lawsuit vs. NFL can go to court",
-      "link": "https://www.espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Bills' Brady adds Fox to staff as senior assistant",
-      "link": "https://www.espn.com/nfl/story/_/id/47921239/bills-coach-joe-brady-adds-john-fox-staff-senior-assistant",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "New Bills coach Joe Brady has added NFL head coaching experience to his staff, hiring John Fox as a senior assistant coach. The Bills announced Fox and more of the team's coaching staff, which now includes 20 assistants, on Friday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83d\udd2e Experts predict the 2026 NFL season",
-      "link": "https://www.espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
-      "published": "Mon, 16 Feb 2026 13:29:14 EST",
-      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
