@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-03-03T20:38:26Z",
-  "count": 18,
+  "generated_at": "2026-03-03T21:39:31Z",
+  "count": 20,
   "articles": [
+    {
+      "title": "Ranking the NFL's top 100 free agents: Which players should land big contracts?",
+      "link": "https://www.espn.com/nfl/story/_/id/48043945/2026-nfl-free-agency-top-100-players-ranking-available-hendrickson-willis",
+      "published": "Tue, 3 Mar 2026 16:17:13 EST",
+      "summary": "Could Kenneth Walker III, Trey Hendrickson, Jauan Jennings and Malik Willis get a lot of interest from teams? Let's stack the best NFL free agents.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Tracking NFL free agency: Updates on re-signings, trades, cuts and rumors",
+      "link": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "published": "Tue, 3 Mar 2026 16:17:13 EST",
+      "summary": "NFL free agency opens with the legal negotiating window on March 9. Here's all the latest.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Cardinals to cut QB Murray next week",
+      "link": "https://www.espn.com/nfl/story/_/id/48091996/sources-cardinals-tell-kyler-murray-released-next-week",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The Cardinals have informed quarterback Kyler Murray that they intend to release him on the first day of the league year next Wednesday, barring a trade between now and then, sources told ESPN's Adam Schefter on Monday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Colts place rarely used transition tag on QB Jones",
+      "link": "https://www.espn.com/nfl/story/_/id/48091610/colts-place-rarely-used-transition-tag-qb-daniel-jones",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The Colts place the rarely used transition tag on QB Daniel Jones, preserving their right to match any offer sheet in free agency.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Bears center Dalman retiring at age 27",
+      "link": "https://www.espn.com/nfl/story/_/id/48091684/bears-center-drew-dalman-retiring-nfl-age-27",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "Pro Bowl center Drew Dalman has informed the Bears that he's retiring at age 27 after four seasons with the Atlanta Falcons and one with Chicago, sources told ESPN's Adam Schefter.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Jets put franchise tag on Hall amid contract talks",
+      "link": "https://www.espn.com/nfl/story/_/id/48090048/sources-jets-place-franchise-tag-star-rb-breece-hall",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The Jets placed their franchise tag on running back Breece Hall ahead of Tuesday's deadline.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Vikings open to trading OLB Greenard",
+      "link": "https://www.espn.com/nfl/story/_/id/48090802/vikings-mull-trading-olb-greenard-cap-issues-swirl",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The Minnesota Vikings are open to trading outside linebacker Jonathan Greenard as the team seeks relief from being more than $43 million over the salary cap.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "McVay: 'Great dialogue' with Stafford over deal",
+      "link": "https://www.espn.com/nfl/story/_/id/48091436/sean-mcvay-says-rams-having-great-dialogue-matthew-stafford-new-deal",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "Sean McVay said the Rams have had \"great dialogue\" with Matthew Stafford entering the final season of the QB's contract.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Falcons get 5th European game, this time Madrid",
+      "link": "https://www.espn.com/nfl/story/_/id/48088916/falcons-play-madrid-part-nfl-international-slate",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The NFL announced Tuesday that the Falcons would be playing a game in Madrid, one of the NFL's nine international games this coming season.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Sources: Texans trade for Lions RB Montgomery",
+      "link": "https://www.espn.com/nfl/story/_/id/48081713/sources-texans-trade-draft-pick-lions-rb-david-montgomery",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "The Lions are trading running back David Montgomery to the Texans for offensive lineman Juice Scruggs and two draft picks, sources told ESPN's Adam Schefter on Monday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83d\udc40 Kiper's top standouts from the NFL combine",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48046106/2025-nfl-combine-draft-risers-mel-kiper-prospects-top-workouts",
+      "published": "Tue, 3 Mar 2026 16:17:20 EST",
+      "summary": "Mel Kiper Jr. picked out 13 players who caught his attention during combine workouts, including Chris Brazzell II and Dani Dennis-Sutton.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Big combine shakeups in the top 64? Reid projects Rounds 1-2 with his new NFL mock draft",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/48053564/2026-nfl-mock-draft-two-rounds-64-picks-jordan-reid-combine",
@@ -10,73 +87,17 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Colts place rarely used transition tag on QB Jones",
-      "link": "https://www.espn.com/nfl/story/_/id/48091610/colts-place-rarely-used-transition-tag-qb-daniel-jones",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "The Colts place the rarely used transition tag on QB Daniel Jones, preserving their right to match any offer sheet in free agency.",
+      "title": "NFL franchise and transition tag winners, losers: Solak sizes up deadline dominoes",
+      "link": "https://www.espn.com/nfl/story/_/id/48082127/2026-nfl-franchise-tag-deadline-winners-losers-free-agency-offseason-contracts",
+      "published": "Tue, 3 Mar 2026 16:33:02 EST",
+      "summary": "Breece Hall, George Pickens and Kyle Pitts Sr. were franchise-tagged, and Daniel Jones got the transition tag. What does it all mean for free agency?",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Sources: Bears center Dalman retiring at age 27",
-      "link": "https://www.espn.com/nfl/story/_/id/48091684/bears-center-drew-dalman-retiring-nfl-age-27",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "Pro Bowl center Drew Dalman has informed the Bears that he's retiring at age 27 after four seasons with the Atlanta Falcons and one with Chicago, sources told ESPN's Adam Schefter.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Jets put franchise tag on Hall amid contract talks",
-      "link": "https://www.espn.com/nfl/story/_/id/48090048/sources-jets-place-franchise-tag-star-rb-breece-hall",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "The Jets placed their franchise tag on running back Breece Hall ahead of Tuesday's deadline.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Vikings open to trading OLB Greenard",
-      "link": "https://www.espn.com/nfl/story/_/id/48090802/vikings-mull-trading-olb-greenard-cap-issues-swirl",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "The Minnesota Vikings are open to trading outside linebacker Jonathan Greenard as the team seeks relief from being more than $43 million over the salary cap.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "McVay: 'Great dialogue' with Stafford over deal",
-      "link": "https://www.espn.com/nfl/story/_/id/48091436/sean-mcvay-says-rams-having-great-dialogue-matthew-stafford-new-deal",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "Sean McVay said the Rams have had \"great dialogue\" with Matthew Stafford entering the final season of the QB's contract.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Falcons get 5th European game, this time Madrid",
-      "link": "https://www.espn.com/nfl/story/_/id/48088916/falcons-play-madrid-part-nfl-international-slate",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "The NFL announced Tuesday that the Falcons would be playing a game in Madrid, one of the NFL's nine international games this coming season.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Sources: Texans trade for Lions RB Montgomery",
-      "link": "https://www.espn.com/nfl/story/_/id/48081713/sources-texans-trade-draft-pick-lions-rb-david-montgomery",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "The Lions are trading running back David Montgomery to the Texans for offensive lineman Juice Scruggs and two draft picks, sources told ESPN's Adam Schefter on Monday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Mack to play in '26, explore all FA options",
-      "link": "https://www.espn.com/nfl/story/_/id/48085402/khalil-mack-play-2026-mulling-retirement-explore-all-free-agency-options",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "Outside linebacker Khalil Mack, who had mulled retirement, will play in 2026 and explore all options in free agency, a source told ESPN, confirming a report by NFL Network.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83d\udc40 Kiper's top standouts from the NFL combine",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48046106/2025-nfl-combine-draft-risers-mel-kiper-prospects-top-workouts",
-      "published": "Tue, 3 Mar 2026 15:26:04 EST",
-      "summary": "Mel Kiper Jr. picked out 13 players who caught his attention during combine workouts, including Chris Brazzell II and Dani Dennis-Sutton.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Tracking NFL free agency: Updates on re-signings, trades, cuts and rumors",
-      "link": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "published": "Tue, 3 Mar 2026 09:39:56 EST",
-      "summary": "NFL free agency opens with the legal negotiating window on March 9. Here are the latest re-signings, franchise tags, trades and intel.",
+      "title": "Tracking NFL franchise tags: Colts apply transition tag on Daniel Jones; Breece Hall, others also tagged",
+      "link": "https://www.espn.com/nfl/story/_/id/47878161/2026-nfl-franchise-tag-transition-tracker-updates-cap-space-free-agency",
+      "published": "Tue, 3 Mar 2026 16:33:02 EST",
+      "summary": "Tuesday marked the final day of the franchise tag period.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -112,13 +133,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/48084357/2026-nfl-combine-superlatives-fernando-mendoza-sonny-styles-taylen-green",
       "published": "Tue, 3 Mar 2026 07:49:57 EST",
       "summary": "Speed and strength headlined the event, but personality powered the biggest impressions.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Tracking NFL franchise tags: Colts apply transition tag on Daniel Jones; Breece Hall, others also tagged",
-      "link": "https://www.espn.com/nfl/story/_/id/47878161/2026-nfl-franchise-tag-transition-tracker-updates-cap-space-free-agency",
-      "published": "Fri, 27 Feb 2026 11:03:09 EST",
-      "summary": "Tuesday marked the final day of the franchise tag period.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
