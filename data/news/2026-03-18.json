@@ -1,7 +1,98 @@
 {
-  "generated_at": "2026-03-18T10:03:56Z",
-  "count": 19,
+  "generated_at": "2026-03-18T11:50:06Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "We reviewed the first week of NFL free agency: Additions, subtractions and questions for all 32 teams",
+      "link": "https://www.espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
+      "published": "Wed, 18 Mar 2026 07:18:21 EST",
+      "summary": "Let's break down the main free agency signings, latest buzz on moves and biggest remaining questions for every team.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "link": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "published": "Wed, 18 Mar 2026 07:18:21 EST",
+      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFLPA elects former OL Tretter as next director",
+      "link": "https://www.espn.com/nfl/story/_/id/48234344/nflpa-elects-former-ol-jc-tretter-next-executive-director",
+      "published": "Wed, 18 Mar 2026 07:20:07 EST",
+      "summary": "The NFLPA has elected former union chief strategy officer and retired Cleveland Browns offensive lineman JC Tretter as its next executive director.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Crosby: I was 'livid' when Ravens nixed trade",
+      "link": "https://www.espn.com/nfl/story/_/id/48234425/raiders-crosby-nixed-trade-where-supposed-be",
+      "published": "Wed, 18 Mar 2026 07:20:06 EST",
+      "summary": "Raiders defensive end Maxx Crosby said he was \"livid\" and \"confused\" by the Ravens' decision to back out of a trade that would have sent him to Baltimore in exchange for two first-round picks due to medical concerns.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Source: Broncos get Waddle in deal with Dolphins",
+      "link": "https://www.espn.com/nfl/story/_/id/48231337/source-dolphins-trade-jaylen-waddle-broncos-picks",
+      "published": "Wed, 18 Mar 2026 07:20:07 EST",
+      "summary": "The Broncos are trading for Dolphins wide receiver Jaylen Waddle in exchange for first-, third- and fourth-round picks in this year's draft, a source told ESPN.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Eagles land speedy former Chiefs WR Brown",
+      "link": "https://www.espn.com/nfl/story/_/id/48231996/source-eagles-wr-hollywood-brown-agree-one-year-deal",
+      "published": "Wed, 18 Mar 2026 07:20:07 EST",
+      "summary": "The Eagles and receiver Hollywood Brown agreed to terms on a one-year deal. A source told ESPN the deal is worth up to $6.5 million.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "CB Taylor-Britt signs with Colts, rejoins Anarumo",
+      "link": "https://www.espn.com/nfl/story/_/id/48233416/cb-cam-taylor-britt-signs-colts-rejoins-dc-lou-anarumo",
+      "published": "Wed, 18 Mar 2026 07:20:07 EST",
+      "summary": "Free agent cornerback Cam Taylor-Britt signed with the Colts, the team announced Tuesday.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Colts ink Notre Dame hooper Towt as TE prospect",
+      "link": "https://www.espn.com/nfl/story/_/id/48233048/colts-ink-notre-dame-basketball-player-carson-towt-te-prospect",
+      "published": "Wed, 18 Mar 2026 07:20:06 EST",
+      "summary": "Carson Towt, a 6-foot-8, 250-pound forward on Notre Dame's men's basketball team this season, has signed with the Indianapolis Colts as a tight end prospect.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Wonnum joins Lions after 2-year Panthers stint",
+      "link": "https://www.espn.com/nfl/story/_/id/48234923/free-agent-dj-wonnum-agrees-deal-lions",
+      "published": "Wed, 18 Mar 2026 07:20:06 EST",
+      "summary": "Free agent defensive end D.J. Wonnum is signing a one-year deal worth up to $6 million with the Detroit Lions, his agents told ESPN's Adam Schefter.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Source: Texans to add Teller to rebuilt O-line",
+      "link": "https://www.espn.com/nfl/story/_/id/48232064/source-texans-add-wyatt-teller-rebuilt-o-line",
+      "published": "Wed, 18 Mar 2026 07:20:07 EST",
+      "summary": "The Texans have agreed to a two-year deal with Wyatt Teller, according to NFL Network, adding the veteran guard to their rebuilt offensive line.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "\ud83c\udf4c Brees, Shough take in Savannah Bananas",
+      "link": "https://www.espn.com/nfl/story/_/id/48218547/drew-brees-tyler-shough-new-orleans-saints-savannah-bananas-superdome",
+      "published": "Wed, 18 Mar 2026 07:20:06 EST",
+      "summary": "Brees and Shough made appearances during the Savannah Bananas exhibition games at the Caesars Superdome, the home of the Saints.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "20 contenders, 20 lingering weaknesses: Barnwell fixes roster holes as free agency slows down",
+      "link": "https://www.espn.com/nfl/story/_/id/48227677/2026-nfl-free-agency-barnwell-20-contenders-weaknesses-signings-trades-draft",
+      "published": "Wed, 18 Mar 2026 07:18:25 EST",
+      "summary": "Will Aaron Rodgers check the QB box for the Steelers? Can the Seahawks find running back help? And is there something the Chiefs can do at cornerback?",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
+      "link": "https://www.espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "published": "Wed, 18 Mar 2026 07:18:25 EST",
+      "summary": "We're handing out report cards on big moves, including trades for Jaylen Waddle and Justin Fields.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
     {
       "title": "Barnwell: The Broncos are all-in, and the Dolphins are all-out ... but does either strategy make sense?",
       "link": "https://www.espn.com/nfl/story/_/id/48231367/2026-nfl-free-agency-jaylen-waddle-broncos-dolphins-barnwell-all-rebuild-receiver",
@@ -14,83 +105,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/48232614/jaylen-waddle-trade-denver-broncos-boost-wide-receiver-offense-bo-nix",
       "published": "Wed, 18 Mar 2026 01:22:25 EST",
       "summary": "Waddle's ability to get open, especially on hook, pivot and crossing routes, plays perfectly to Nix's strengths.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "NFLPA elects former OL Tretter as next director",
-      "link": "https://www.espn.com/nfl/story/_/id/48234344/nflpa-elects-former-ol-jc-tretter-next-executive-director",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "The NFLPA has elected former union chief strategy officer and retired Cleveland Browns offensive lineman JC Tretter as its next executive director.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Crosby: I was 'livid' when Ravens nixed trade",
-      "link": "https://www.espn.com/nfl/story/_/id/48234425/raiders-crosby-nixed-trade-where-supposed-be",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "Raiders defensive end Maxx Crosby said he was \"livid\" and \"confused\" by the Ravens' decision to back out of a trade that would have sent him to Baltimore in exchange for two first-round picks due to medical concerns.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Broncos get Waddle in deal with Dolphins",
-      "link": "https://www.espn.com/nfl/story/_/id/48231337/source-dolphins-trade-jaylen-waddle-broncos-picks",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "The Broncos are trading for Dolphins wide receiver Jaylen Waddle in exchange for first-, third- and fourth-round picks in this year's draft, a source told ESPN.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Eagles land speedy former Chiefs WR Brown",
-      "link": "https://www.espn.com/nfl/story/_/id/48231996/source-eagles-wr-hollywood-brown-agree-one-year-deal",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "The Eagles and receiver Hollywood Brown agreed to terms on a one-year deal. A source told ESPN the deal is worth up to $6.5 million.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "CB Taylor-Britt signs with Colts, rejoins Anarumo",
-      "link": "https://www.espn.com/nfl/story/_/id/48233416/cb-cam-taylor-britt-signs-colts-rejoins-dc-lou-anarumo",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "Free agent cornerback Cam Taylor-Britt signed with the Colts, the team announced Tuesday.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Colts ink Notre Dame hooper Towt as TE prospect",
-      "link": "https://www.espn.com/nfl/story/_/id/48233048/colts-ink-notre-dame-basketball-player-carson-towt-te-prospect",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "Carson Towt, a 6-foot-8, 250-pound forward on Notre Dame's men's basketball team this season, has signed with the Indianapolis Colts as a tight end prospect.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Wonnum joins Lions after 2-year Panthers stint",
-      "link": "https://www.espn.com/nfl/story/_/id/48234923/free-agent-dj-wonnum-agrees-deal-lions",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "Free agent defensive end D.J. Wonnum is signing a one-year deal worth up to $6 million with the Detroit Lions, his agents told ESPN's Adam Schefter.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Source: Texans to add Teller to rebuilt O-line",
-      "link": "https://www.espn.com/nfl/story/_/id/48232064/source-texans-add-wyatt-teller-rebuilt-o-line",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "The Texans have agreed to a two-year deal with Wyatt Teller, according to NFL Network, adding the veteran guard to their rebuilt offensive line.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "\ud83c\udf4c Brees, Shough take in Savannah Bananas",
-      "link": "https://www.espn.com/nfl/story/_/id/48218547/drew-brees-tyler-shough-new-orleans-saints-savannah-bananas-superdome",
-      "published": "Tue, 17 Mar 2026 19:59:31 EST",
-      "summary": "Brees and Shough made appearances during the Savannah Bananas exhibition games at the Caesars Superdome, the home of the Saints.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
-      "link": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "published": "Wed, 18 Mar 2026 01:48:41 EST",
-      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen.",
-      "source": "https://www.espn.com/espn/rss/nfl/news"
-    },
-    {
-      "title": "Best signing? Most improved team? 15 experts debate NFL free agency",
-      "link": "https://www.espn.com/nfl/story/_/id/48185790/nfl-free-agency-2026-experts-big-questions-signings-trades-contracts",
-      "published": "Wed, 18 Mar 2026 01:48:41 EST",
-      "summary": "We asked experts for free agency's best signings, most questionable decisions, and biggest roster upgrades.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
