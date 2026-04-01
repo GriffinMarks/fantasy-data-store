@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T11:03:24Z",
-  "count": 21,
+  "generated_at": "2026-04-01T13:48:43Z",
+  "count": 23,
   "articles": [
     {
       "title": "What we heard at the 2026 annual league meeting: Last-minute buzz from more than 25 NFL teams",
@@ -20,11 +20,11 @@
       "title": "Goodell backs Rooney Rule amid litigation threat",
       "link": "https://www.espn.com/nfl/story/_/id/48362846/goodell-backs-rooney-rule-says-diversity-benefit-nfl",
       "published": "Tue, 31 Mar 2026 21:18:00 EST",
-      "summary": "NFL commissioner Roger Goodell said he believes the Rooney Rule is \"consistent\" with hiring laws after recently being threatened by Florida's attorney general with potential civil litigation if the rule was not eliminated.",
+      "summary": "NFL commissioner Roger Goodell says he believes the Rooney Rule is \"consistent\" with hiring laws after recently being threatened by Florida's attorney general with potential civil litigation if the rule was not eliminated.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "NFL owners OK two significant replay changes",
+      "title": "NFL owners approve 2 significant replay changes",
       "link": "https://www.espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
       "published": "Tue, 31 Mar 2026 21:18:00 EST",
       "summary": "NFL owners approved a contingency plan Tuesday to centralize officiating in the event of a work stoppage as negotiations continue on a CBA with the NFL Referees Association.",
@@ -66,7 +66,7 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Jags OK'd to play '27 home games in Orlando",
+      "title": "Jags OK'd to play 2027 home games in Orlando",
       "link": "https://www.espn.com/nfl/story/_/id/48360475/jaguars-okd-play-27-home-games-orlando-renovations",
       "published": "Tue, 31 Mar 2026 21:18:00 EST",
       "summary": "The Jaguars' proposal to play their home games in the 2027 season in Orlando, Florida, during the final year of the $1.4 billion renovation of EverBank Stadium was unanimously approved by the NFL's owners Tuesday.",
@@ -80,31 +80,38 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Do CFB starts matter when evaluating QBs in the draft? Ty Simpson is the latest test case",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48349533/nfl-draft-quarterback-starts-threshold-lack-success-ty-simpson",
-      "published": "Tue, 31 Mar 2026 17:55:51 EST",
-      "summary": "The Alabama product is regarded as the 2026 NFL draft's QB2 despite having far fewer starts (15) than most first-round signal-callers.",
+      "title": "Inside Eagles' 2025 friction as Jalen Hurts stands at crossroads",
+      "link": "https://www.espn.com/nfl/story/_/id/48224913/the-crossroad-awaits-quarterback-jalen-hurts-philadelphia-eagles-offense-aj-brown-2026",
+      "published": "Wed, 1 Apr 2026 06:12:11 EST",
+      "summary": "ESPN pulls back the curtain on what's ailing a star-studded Eagles offense, one in which their QB must evolve.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Predicting top WR prospects' stats: Who ranks No. 1 in the 2026 draft class?",
-      "link": "https://www.espn.com/nfl/story/_/id/48304971/2026-nfl-draft-wide-receiver-projections-stats-historical-comps-prospects",
-      "published": "Tue, 31 Mar 2026 17:55:49 EST",
-      "summary": "Which receivers in the 2026 draft class will have the most success in the pros?",
+      "title": "Solak's favorite NFL draft prospects to watch at every position: The best tape in the class",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48357403/2026-nfl-draft-all-tape-team-best-prospects-every-position-nussmeier-bernard-barham",
+      "published": "Wed, 1 Apr 2026 07:25:53 EST",
+      "summary": "NFL scouts are watching a lot of tape as we get ready for the 2026 draft. Which underrated players jump off the screen? Ben Solak fills out his All-Film team.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "Best team fits for 20 draft prospects: We found matches for Mansoor Delane, Caleb Downs, Denzel Boston",
+      "title": "Best team fits for 20 draft prospects: We found matches for Delane, Downs, Boston",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson",
-      "published": "Tue, 31 Mar 2026 15:14:01 EST",
-      "summary": "We took 20 NFL draft prospects who could get picked in Rounds 1 and 2 and found ideal scheme matches based on what each player does best.",
+      "published": "Wed, 1 Apr 2026 07:25:53 EST",
+      "summary": "We found ideal scheme matches based on what these 20 players do best.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
       "title": "Miller\u2019s mock draft: Seven full rounds of projections, from first overall to Mr. Irrelevant",
       "link": "https://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
-      "published": "Tue, 31 Mar 2026 15:14:01 EST",
+      "published": "Wed, 1 Apr 2026 07:25:29 EST",
       "summary": "Matt Miller predicted every pick in the 2026 draft, from the Raiders' selection at No. 1 to Mr. Irrelevant.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Do CFB starts matter when evaluating QBs? Ty Simpson is the latest test case",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48349533/nfl-draft-quarterback-starts-threshold-lack-success-ty-simpson",
+      "published": "Wed, 1 Apr 2026 07:25:29 EST",
+      "summary": "Simpson is regarded as this draft's QB2 despite having far fewer starts than most first-round signal-callers.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -115,10 +122,10 @@
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
-      "title": "How a surprise FaceTime led to 'dream' St. Brown homecoming in Germany",
-      "link": "https://www.espn.com/nfl/story/_/id/48360805/lions-amon-ra-st-brown-excited-play-germany-grow-nfl-abroad",
-      "published": "Tue, 31 Mar 2026 20:19:46 EST",
-      "summary": "When Detroit plays its international game in Munich next season, it will mark a dream fulfilled for the Lions WR.",
+      "title": "Saleh: 'You can never add enough' on possibility of Titans to draft pass rusher",
+      "link": "https://www.espn.com/nfl/story/_/id/48359202/tennessee-titans-pass-rusher-no-4-pick-nfl-draft-2026",
+      "published": "Wed, 1 Apr 2026 08:11:49 EST",
+      "summary": "Tennessee's new coach said, \"you could always use more edge\" when asked about drafting a pass rusher at No. 4.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
@@ -133,6 +140,13 @@
       "link": "https://www.espn.com/fantasy/football/story/_/id/48276085/2026-fantasy-football-projections-draft-rankings-trends-carry-target-shares",
       "published": "Tue, 31 Mar 2026 09:29:59 EST",
       "summary": "Mike Clay shares his favorite notes from the research that informed his fantasy projections for 2026.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "UFL Power Rankings: Which Week 1 winner tops the list, plus each team's MVP",
+      "link": "https://www.espn.com/united-football-league/story/_/id/48350506/ufl-week-1-power-rankings",
+      "published": "Wed, 1 Apr 2026 07:21:09 EST",
+      "summary": "The first UFL Power Rankings feature familiar teams at the top and include each team's Week 1 MVP.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     },
     {
