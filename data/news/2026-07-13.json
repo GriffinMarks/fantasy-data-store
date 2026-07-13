@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T21:01:33Z",
-  "count": 16,
+  "generated_at": "2026-07-13T22:59:18Z",
+  "count": 17,
   "articles": [
     {
       "title": "Let's rank the top 10 quarterbacks in the NFL: Jos...",
@@ -110,8 +110,15 @@
     {
       "title": "Copy of 2026 Fantasy Football Draft Guide: Rankings, mock ...",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-      "published": "Sun, 12 Jul 2026 22:57:23 EST",
+      "published": "Mon, 13 Jul 2026 17:17:05 EST",
       "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+      "source": "https://www.espn.com/espn/rss/nfl/news"
+    },
+    {
+      "title": "Mock draft: 12-team league can shift your quarterb...",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49352688/fantasy-football-mock-draft-12-team-ppr",
+      "published": "Mon, 13 Jul 2026 17:17:05 EST",
+      "summary": "A 12-team mock draft shows how two additional teams can impact positional depth at the QB and TE positions.",
       "source": "https://www.espn.com/espn/rss/nfl/news"
     }
   ]
