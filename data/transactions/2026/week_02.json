@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "generated_at": "2026-08-10T19:05:07Z",
+  "generated_at": "2026-08-10T20:49:20Z",
   "league_id": "1262790170931892224",
   "moves": [
     {
@@ -108,9 +108,7 @@
       "adds": {
         "11627": 4
       },
-      "drops": {
-        "4663": 4
-      },
+      "drops": null,
       "consenter_ids": [
         4
       ],
@@ -137,9 +135,7 @@
       "adds": {
         "11627": 2
       },
-      "drops": {
-        "11565": 2
-      },
+      "drops": null,
       "consenter_ids": [
         2
       ],
