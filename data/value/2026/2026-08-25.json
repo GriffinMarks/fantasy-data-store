@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-25T18:45:48.913139Z",
+  "generated_at": "2026-08-25T19:35:45.886152Z",
   "values": [
     {
       "player_id": "13569",
@@ -5331,7 +5331,7 @@
       "pos_rank": 592
     },
     {
-      "player_id": "13327",
+      "player_id": "14085",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5340,7 +5340,7 @@
       "pos_rank": 593
     },
     {
-      "player_id": "13601",
+      "player_id": "13327",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5349,7 +5349,7 @@
       "pos_rank": 594
     },
     {
-      "player_id": "13664",
+      "player_id": "13601",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5358,7 +5358,7 @@
       "pos_rank": 595
     },
     {
-      "player_id": "13970",
+      "player_id": "13664",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5367,7 +5367,7 @@
       "pos_rank": 596
     },
     {
-      "player_id": "13306",
+      "player_id": "13970",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5376,7 +5376,7 @@
       "pos_rank": 597
     },
     {
-      "player_id": "13770",
+      "player_id": "13306",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5385,7 +5385,7 @@
       "pos_rank": 598
     },
     {
-      "player_id": "13702",
+      "player_id": "13770",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5394,7 +5394,7 @@
       "pos_rank": 599
     },
     {
-      "player_id": "13508",
+      "player_id": "13702",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5403,7 +5403,7 @@
       "pos_rank": 600
     },
     {
-      "player_id": "13317",
+      "player_id": "13508",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5412,7 +5412,7 @@
       "pos_rank": 601
     },
     {
-      "player_id": "13756",
+      "player_id": "13317",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5421,7 +5421,7 @@
       "pos_rank": 602
     },
     {
-      "player_id": "13435",
+      "player_id": "13756",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5430,7 +5430,7 @@
       "pos_rank": 603
     },
     {
-      "player_id": "13869",
+      "player_id": "13435",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5439,7 +5439,7 @@
       "pos_rank": 604
     },
     {
-      "player_id": "13580",
+      "player_id": "13869",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5448,7 +5448,7 @@
       "pos_rank": 605
     },
     {
-      "player_id": "13661",
+      "player_id": "13580",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5457,7 +5457,7 @@
       "pos_rank": 606
     },
     {
-      "player_id": "13787",
+      "player_id": "13661",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5466,7 +5466,7 @@
       "pos_rank": 607
     },
     {
-      "player_id": "13685",
+      "player_id": "13787",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5475,7 +5475,7 @@
       "pos_rank": 608
     },
     {
-      "player_id": "13806",
+      "player_id": "13685",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5484,7 +5484,7 @@
       "pos_rank": 609
     },
     {
-      "player_id": "13350",
+      "player_id": "13806",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5493,7 +5493,7 @@
       "pos_rank": 610
     },
     {
-      "player_id": "13818",
+      "player_id": "13350",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5502,7 +5502,7 @@
       "pos_rank": 611
     },
     {
-      "player_id": "13491",
+      "player_id": "13818",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5511,7 +5511,7 @@
       "pos_rank": 612
     },
     {
-      "player_id": "13289",
+      "player_id": "13491",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5520,7 +5520,7 @@
       "pos_rank": 613
     },
     {
-      "player_id": "13476",
+      "player_id": "13289",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5529,7 +5529,7 @@
       "pos_rank": 614
     },
     {
-      "player_id": "13338",
+      "player_id": "13476",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5538,7 +5538,7 @@
       "pos_rank": 615
     },
     {
-      "player_id": "13969",
+      "player_id": "13338",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5547,7 +5547,7 @@
       "pos_rank": 616
     },
     {
-      "player_id": "13322",
+      "player_id": "13969",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5556,7 +5556,7 @@
       "pos_rank": 617
     },
     {
-      "player_id": "13314",
+      "player_id": "13322",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5565,7 +5565,7 @@
       "pos_rank": 618
     },
     {
-      "player_id": "13827",
+      "player_id": "13314",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5574,7 +5574,7 @@
       "pos_rank": 619
     },
     {
-      "player_id": "13652",
+      "player_id": "13827",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5583,7 +5583,7 @@
       "pos_rank": 620
     },
     {
-      "player_id": "13602",
+      "player_id": "13652",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5592,7 +5592,7 @@
       "pos_rank": 621
     },
     {
-      "player_id": "13708",
+      "player_id": "13602",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5601,7 +5601,7 @@
       "pos_rank": 622
     },
     {
-      "player_id": "13768",
+      "player_id": "13708",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5610,7 +5610,7 @@
       "pos_rank": 623
     },
     {
-      "player_id": "13617",
+      "player_id": "13768",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5619,7 +5619,7 @@
       "pos_rank": 624
     },
     {
-      "player_id": "13813",
+      "player_id": "13617",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5628,7 +5628,7 @@
       "pos_rank": 625
     },
     {
-      "player_id": "13750",
+      "player_id": "13813",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5637,7 +5637,7 @@
       "pos_rank": 626
     },
     {
-      "player_id": "13547",
+      "player_id": "13750",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5646,7 +5646,7 @@
       "pos_rank": 627
     },
     {
-      "player_id": "13856",
+      "player_id": "13547",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5655,7 +5655,7 @@
       "pos_rank": 628
     },
     {
-      "player_id": "13511",
+      "player_id": "13856",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5664,7 +5664,7 @@
       "pos_rank": 629
     },
     {
-      "player_id": "13642",
+      "player_id": "13511",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5673,7 +5673,7 @@
       "pos_rank": 630
     },
     {
-      "player_id": "13974",
+      "player_id": "13642",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5682,7 +5682,7 @@
       "pos_rank": 631
     },
     {
-      "player_id": "13621",
+      "player_id": "13974",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5691,7 +5691,7 @@
       "pos_rank": 632
     },
     {
-      "player_id": "13732",
+      "player_id": "13621",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5700,7 +5700,7 @@
       "pos_rank": 633
     },
     {
-      "player_id": "13324",
+      "player_id": "13732",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5709,7 +5709,7 @@
       "pos_rank": 634
     },
     {
-      "player_id": "13341",
+      "player_id": "13324",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5718,7 +5718,7 @@
       "pos_rank": 635
     },
     {
-      "player_id": "13298",
+      "player_id": "13341",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5727,7 +5727,7 @@
       "pos_rank": 636
     },
     {
-      "player_id": "13873",
+      "player_id": "13298",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5736,7 +5736,7 @@
       "pos_rank": 637
     },
     {
-      "player_id": "13861",
+      "player_id": "13873",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5745,7 +5745,7 @@
       "pos_rank": 638
     },
     {
-      "player_id": "13777",
+      "player_id": "13861",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5754,7 +5754,7 @@
       "pos_rank": 639
     },
     {
-      "player_id": "14082",
+      "player_id": "13777",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5763,7 +5763,7 @@
       "pos_rank": 640
     },
     {
-      "player_id": "13783",
+      "player_id": "14082",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5772,7 +5772,7 @@
       "pos_rank": 641
     },
     {
-      "player_id": "13663",
+      "player_id": "13783",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5781,7 +5781,7 @@
       "pos_rank": 642
     },
     {
-      "player_id": "13752",
+      "player_id": "13663",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5790,7 +5790,7 @@
       "pos_rank": 643
     },
     {
-      "player_id": "13887",
+      "player_id": "13752",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5799,7 +5799,7 @@
       "pos_rank": 644
     },
     {
-      "player_id": "13917",
+      "player_id": "13887",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5808,7 +5808,7 @@
       "pos_rank": 645
     },
     {
-      "player_id": "13791",
+      "player_id": "13917",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5817,7 +5817,7 @@
       "pos_rank": 646
     },
     {
-      "player_id": "13981",
+      "player_id": "13791",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5826,7 +5826,7 @@
       "pos_rank": 647
     },
     {
-      "player_id": "13541",
+      "player_id": "13981",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5835,7 +5835,7 @@
       "pos_rank": 648
     },
     {
-      "player_id": "13913",
+      "player_id": "13541",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5844,7 +5844,7 @@
       "pos_rank": 649
     },
     {
-      "player_id": "13819",
+      "player_id": "13913",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5853,7 +5853,7 @@
       "pos_rank": 650
     },
     {
-      "player_id": "13381",
+      "player_id": "13819",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5862,7 +5862,7 @@
       "pos_rank": 651
     },
     {
-      "player_id": "13384",
+      "player_id": "13381",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5871,7 +5871,7 @@
       "pos_rank": 652
     },
     {
-      "player_id": "13879",
+      "player_id": "13384",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5880,7 +5880,7 @@
       "pos_rank": 653
     },
     {
-      "player_id": "13610",
+      "player_id": "13879",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5889,7 +5889,7 @@
       "pos_rank": 654
     },
     {
-      "player_id": "13437",
+      "player_id": "13610",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5898,7 +5898,7 @@
       "pos_rank": 655
     },
     {
-      "player_id": "13333",
+      "player_id": "13437",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5907,7 +5907,7 @@
       "pos_rank": 656
     },
     {
-      "player_id": "13949",
+      "player_id": "13333",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5916,7 +5916,7 @@
       "pos_rank": 657
     },
     {
-      "player_id": "14064",
+      "player_id": "13949",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5925,7 +5925,7 @@
       "pos_rank": 658
     },
     {
-      "player_id": "14066",
+      "player_id": "14064",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5934,7 +5934,7 @@
       "pos_rank": 659
     },
     {
-      "player_id": "13735",
+      "player_id": "14066",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5943,7 +5943,7 @@
       "pos_rank": 660
     },
     {
-      "player_id": "13312",
+      "player_id": "13735",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5952,7 +5952,7 @@
       "pos_rank": 661
     },
     {
-      "player_id": "13481",
+      "player_id": "13312",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5961,7 +5961,7 @@
       "pos_rank": 662
     },
     {
-      "player_id": "13743",
+      "player_id": "13481",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5970,7 +5970,7 @@
       "pos_rank": 663
     },
     {
-      "player_id": "13754",
+      "player_id": "13743",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5979,7 +5979,7 @@
       "pos_rank": 664
     },
     {
-      "player_id": "13897",
+      "player_id": "13754",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5988,7 +5988,7 @@
       "pos_rank": 665
     },
     {
-      "player_id": "13294",
+      "player_id": "13897",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -5997,7 +5997,7 @@
       "pos_rank": 666
     },
     {
-      "player_id": "13788",
+      "player_id": "13294",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6006,7 +6006,7 @@
       "pos_rank": 667
     },
     {
-      "player_id": "13672",
+      "player_id": "13788",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6015,7 +6015,7 @@
       "pos_rank": 668
     },
     {
-      "player_id": "13489",
+      "player_id": "13672",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6024,7 +6024,7 @@
       "pos_rank": 669
     },
     {
-      "player_id": "13412",
+      "player_id": "13489",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6033,7 +6033,7 @@
       "pos_rank": 670
     },
     {
-      "player_id": "13865",
+      "player_id": "13412",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6042,7 +6042,7 @@
       "pos_rank": 671
     },
     {
-      "player_id": "13994",
+      "player_id": "13865",
       "name": null,
       "pos": null,
       "ppg": 0.0,
@@ -6051,7 +6051,7 @@
       "pos_rank": 672
     },
     {
-      "player_id": "14085",
+      "player_id": "13994",
       "name": null,
       "pos": null,
       "ppg": 0.0,
