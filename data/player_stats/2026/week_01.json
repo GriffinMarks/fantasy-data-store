@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "generated_at": "2026-09-10T18:14:08Z",
+  "generated_at": "2026-09-10T21:29:42Z",
   "players": [
     {
       "player_id": "6462",
@@ -12658,16 +12658,6 @@
       "name": "Zach McCloud",
       "team": null,
       "pos": "LB",
-      "opp": null,
-      "targets": 0.0,
-      "rush_att": 0.0,
-      "fantasy_pts": 0.0
-    },
-    {
-      "player_id": "14086",
-      "name": null,
-      "team": null,
-      "pos": null,
       "opp": null,
       "targets": 0.0,
       "rush_att": 0.0,
