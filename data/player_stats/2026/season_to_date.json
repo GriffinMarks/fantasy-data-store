@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-09-10T14:10:56Z",
+  "generated_at": "2026-09-10T18:14:08Z",
   "players": [
     {
       "player_id": "13569",
@@ -57606,6 +57606,15 @@
       "player_id": "3613",
       "name": "Ronald Zamort",
       "pos": "CB",
+      "games": 1,
+      "ppg": 0.0,
+      "tgt_pg": 0.0,
+      "rush_att_pg": 0.0
+    },
+    {
+      "player_id": "7601",
+      "name": "Rondale Moore",
+      "pos": "WR",
       "games": 1,
       "ppg": 0.0,
       "tgt_pg": 0.0,
