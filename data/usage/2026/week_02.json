@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "generated_at": "2026-08-24T03:08:07Z",
+  "generated_at": "2026-09-15T04:20:06Z",
   "players": [
     {
       "player_id": "8478",
@@ -2358,6 +2358,16 @@
       "name": "Isaac Nauta",
       "team": "GB",
       "pos": "TE",
+      "targets": 0.0,
+      "rush_att": 0.0,
+      "target_share": 0.0,
+      "carry_share": 0.0
+    },
+    {
+      "player_id": "7601",
+      "name": "Rondale Moore",
+      "team": "MIN",
+      "pos": "WR",
       "targets": 0.0,
       "rush_att": 0.0,
       "target_share": 0.0,
