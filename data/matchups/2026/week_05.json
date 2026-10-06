@@ -1,0 +1,281 @@
+{
+  "season": 2026,
+  "week": 5,
+  "generated_at": "2026-10-06T09:57:55Z",
+  "league_id": "1262790170931892224",
+  "games": [
+    {
+      "matchup_id": 1,
+      "teams": [
+        {
+          "roster_id": 3,
+          "owner": "Many Men",
+          "starters": [
+            "4943",
+            "8155",
+            "12474",
+            "7569",
+            "12499",
+            "1339",
+            "4454",
+            "11533",
+            "IND"
+          ],
+          "points": 115.54,
+          "projected_points": null
+        },
+        {
+          "roster_id": 13,
+          "owner": "Morgan Morgan & Morgan",
+          "starters": [
+            "11563",
+            "12533",
+            "7607",
+            "7547",
+            "11628",
+            "2505",
+            "4039",
+            "10955",
+            "CLE"
+          ],
+          "points": 137.68,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 2,
+      "teams": [
+        {
+          "roster_id": 6,
+          "owner": "Im not paying",
+          "starters": [
+            "11566",
+            "12527",
+            "7543",
+            "11631",
+            "4950",
+            "7002",
+            "8134",
+            "2747",
+            "SEA"
+          ],
+          "points": 79.94,
+          "projected_points": null
+        },
+        {
+          "roster_id": 9,
+          "owner": "Easy as A-B-CeeDee",
+          "starters": [
+            "9758",
+            "9224",
+            "8408",
+            "9488",
+            "1479",
+            "5844",
+            "2449",
+            "6650",
+            "SF"
+          ],
+          "points": 145.56,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 3,
+      "teams": [
+        {
+          "roster_id": 10,
+          "owner": "119mph ",
+          "starters": [
+            "5849",
+            "9221",
+            "12481",
+            "5859",
+            "8117",
+            "4033",
+            "9997",
+            "17",
+            "PHI"
+          ],
+          "points": 97.6,
+          "projected_points": null
+        },
+        {
+          "roster_id": 12,
+          "owner": "Lights, Camera, Jackson",
+          "starters": [
+            "9228",
+            "7588",
+            "5892",
+            "6794",
+            "5955",
+            "8698",
+            "8136",
+            "11539",
+            "DET"
+          ],
+          "points": 136.34,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 4,
+      "teams": [
+        {
+          "roster_id": 1,
+          "owner": "Jonathan Taylor’s Version",
+          "starters": [
+            "12508",
+            "6813",
+            "5967",
+            "6149",
+            "2133",
+            "5001",
+            "7611",
+            "12711",
+            "NYG"
+          ],
+          "points": 111.58,
+          "projected_points": null
+        },
+        {
+          "roster_id": 2,
+          "owner": "Waiver Wire Warrior ",
+          "starters": [
+            "5870",
+            "7021",
+            "4035",
+            "8137",
+            "12526",
+            "8130",
+            "8148",
+            "12185",
+            "KC"
+          ],
+          "points": 106.68,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 5,
+      "teams": [
+        {
+          "roster_id": 5,
+          "owner": "Robert Boucher Jr.",
+          "starters": [
+            "4984",
+            "9226",
+            "4098",
+            "8146",
+            "9754",
+            "12518",
+            "12514",
+            "4195",
+            "BUF"
+          ],
+          "points": 140.42,
+          "projected_points": null
+        },
+        {
+          "roster_id": 11,
+          "owner": "Jerking goff my dicker",
+          "starters": [
+            "3163",
+            "4034",
+            "12507",
+            "5045",
+            "11624",
+            "5022",
+            "7525",
+            "8259",
+            "BAL"
+          ],
+          "points": 124.32,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 6,
+      "teams": [
+        {
+          "roster_id": 7,
+          "owner": "JefftheBartender",
+          "starters": [
+            "6797",
+            "8138",
+            "12512",
+            "7564",
+            "6801",
+            "10236",
+            "6819",
+            "4227",
+            "ARI"
+          ],
+          "points": 117.24,
+          "projected_points": null
+        },
+        {
+          "roster_id": 14,
+          "owner": "Delio123",
+          "starters": [
+            "4046",
+            "8150",
+            "6806",
+            "9493",
+            "5872",
+            "1466",
+            "7526",
+            "11789",
+            "LAR"
+          ],
+          "points": 169.42,
+          "projected_points": null
+        }
+      ]
+    },
+    {
+      "matchup_id": 7,
+      "teams": [
+        {
+          "roster_id": 4,
+          "owner": "Rome aint built in a day",
+          "starters": [
+            "4892",
+            "3198",
+            "9506",
+            "4037",
+            "11627",
+            "9480",
+            "6783",
+            "6083",
+            "WAS"
+          ],
+          "points": 82.66,
+          "projected_points": null
+        },
+        {
+          "roster_id": 8,
+          "owner": "My Conkey Hurts",
+          "starters": [
+            "11564",
+            "4866",
+            "4988",
+            "9756",
+            "8144",
+            "10859",
+            "5947",
+            "3451",
+            "MIN"
+          ],
+          "points": 118.42,
+          "projected_points": null
+        }
+      ]
+    }
+  ]
+}
